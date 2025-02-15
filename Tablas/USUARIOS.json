@@ -1,0 +1,66 @@
+[
+{
+  "cod": "CHARITO",
+  "pass": "1234",
+  "tipo": "SUPERVISOR",
+  "permisos": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1",
+  "nombre": "ROSARIO IPARRAGUIRRE",
+  "combi": ""
+},
+{
+  "cod": "DANTE",
+  "pass": "4053",
+  "tipo": "SUPERVISOR",
+  "permisos": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1",
+  "nombre": "DANTE TOCTO",
+  "combi": "268"
+},
+{
+  "cod": "FRANK",
+  "pass": "1234",
+  "tipo": "ALMACEN",
+  "permisos": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 ",
+  "nombre": "FRANKLIN ALMACEN",
+  "combi": ""
+},
+{
+  "cod": "LIZETH",
+  "pass": "1234",
+  "tipo": "VENDEDOR",
+  "permisos": "1 1 0 1 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ",
+  "nombre": "LIZETH T.",
+  "combi": "974"
+},
+{
+  "cod": "MARTIN",
+  "pass": "M3svaR4Kl",
+  "tipo": "SUPERUSER",
+  "permisos": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1",
+  "nombre": "MARTIN DUMONT",
+  "combi": "138"
+},
+{
+  "cod": "SOFI",
+  "pass": "09448593",
+  "tipo": "SUPERVISOR",
+  "permisos": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ",
+  "nombre": "SOFIA AYALA",
+  "combi": "196"
+},
+{
+  "cod": "VENTA",
+  "pass": "1234",
+  "tipo": "VENDEDOR",
+  "permisos": "1 1 0 1 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ",
+  "nombre": "VENTAS G.",
+  "combi": "369"
+},
+{
+  "cod": "EDITH",
+  "pass": "1234",
+  "tipo": "VENDEDOR",
+  "permisos": "1 1 1 1 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ",
+  "nombre": "EDITH LUCANO",
+  "combi": "612"
+},
+]
