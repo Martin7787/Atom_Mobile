@@ -1,7 +1,7 @@
 <?php
-$nombre = $_POST['nombres'];
+$nombre = $_POST['nombre'];
 $narch = $_POST['narch'];
 $archivo = fopen($narch,'w');
-fwrite($archivo, $nombres);
+fwrite($archivo, $nombre);
 fclose($archivo);
 ?>
