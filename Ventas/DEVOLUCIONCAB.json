@@ -1,6 +1,61 @@
 [
 {
   "serie": "T001",
+  "numero": "00000144",
+  "nombre": "QUISPE VILLANUEVA OBRIL",
+  "moneda": "PEN",
+  "totguia": "99.74",
+  "tipc": "3.85",
+  "fecha": "18/02/2025",
+  "hora": "01:06 p. m.",
+  "docu": "T001-00013035"
+},
+{
+  "serie": "T001",
+  "numero": "00000143",
+  "nombre": "BERROSPI REYES JUAN ERNESTO",
+  "moneda": "PEN",
+  "totguia": "200",
+  "tipc": "3.85",
+  "fecha": "15/02/2025",
+  "hora": "03:02 p. m.",
+  "docu": "T001-00012517"
+},
+{
+  "serie": "T001",
+  "numero": "00000142",
+  "nombre": "SONIA SANCHEZ CALDERON",
+  "moneda": "PEN",
+  "totguia": "315",
+  "tipc": "3.85",
+  "fecha": "13/02/2025",
+  "hora": "06:00 p. m.",
+  "docu": "T001-00012956"
+},
+{
+  "serie": "T001",
+  "numero": "00000141",
+  "nombre": "BERTHA ROJAS POMA",
+  "moneda": "PEN",
+  "totguia": "212.9",
+  "tipc": "3.85",
+  "fecha": "13/02/2025",
+  "hora": "03:32 p. m.",
+  "docu": "T001-00012944"
+},
+{
+  "serie": "T001",
+  "numero": "00000140",
+  "nombre": "KATTY ANATOLIA HUACAYCHUCO",
+  "moneda": "PEN",
+  "totguia": "72",
+  "tipc": "3.85",
+  "fecha": "11/02/2025",
+  "hora": "05:08 p. m.",
+  "docu": "T001-00012914"
+},
+{
+  "serie": "T001",
   "numero": "00000139",
   "nombre": "VANESSA DIONISIA GARRIAZO AGUILAR",
   "moneda": "PEN",

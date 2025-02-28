@@ -2838,6 +2838,17 @@
   "obs": ""
 },
 {
+  "nombre": "MARGOT ",
+  "ruc": "07483663",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "14/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "ORLANDO CABEZAS ",
   "ruc": "07487703",
   "direccion": "LURIGANCHO CHOSICA",
@@ -2920,6 +2931,17 @@
   "direccion": "DIEGO FERRER 158 SAN MIGUEL",
   "tipo": "0",
   "fecha": "19/10/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "SABINA ROSA TINTA SANCHEZ",
+  "ruc": "07536384",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "26/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -3496,6 +3518,17 @@
   "email": "    ",
   "trato": "    ",
   "obs": "    "
+},
+{
+  "nombre": "IVOSHKA KOVALEFF CASTRO ",
+  "ruc": "08178177",
+  "direccion": "JESUS MARIA ",
+  "tipo": "0",
+  "fecha": "08/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
 },
 {
   "nombre": "MARIA RIVERA GUEVARA",
@@ -4163,6 +4196,17 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "05/08/2021",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "MARIBEL AGUILAR",
+  "ruc": "08898451",
+  "direccion": "VILLA EL SALVADOR",
+  "tipo": "0",
+  "fecha": "15/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -5775,6 +5819,17 @@
   "obs": ""
 },
 {
+  "nombre": "LUIS GALLARDO",
+  "ruc": "09692967",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "14/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "VIDARTE ARRASCUE LIBIA DEL CARMEN",
   "ruc": "09695749",
   "direccion": "LIMA - VILLA EL SALVADOR",
@@ -6352,6 +6407,17 @@
   "direccion": "",
   "tipo": "0",
   "fecha": "03/07/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "SARA",
+  "ruc": "09954265",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "08/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -7942,6 +8008,17 @@
   "obs": ""
 },
 {
+  "nombre": "BERTHA",
+  "ruc": "10052096",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "18/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "PEDRO HUARCAYA",
   "ruc": "10053006",
   "direccion": "LIMA",
@@ -8182,17 +8259,6 @@
   "email": " ",
   "trato": " ",
   "obs": " "
-},
-{
-  "nombre": "ROMERO SILVA LIDIA",
-  "ruc": "10061865603",
-  "direccion": "LIMA",
-  "tipo": "0",
-  "fecha": "04/02/2025",
-  "telefono": "",
-  "email": "",
-  "trato": "",
-  "obs": ""
 },
 {
   "nombre": "HUAMANI LUNAZCOS JOSE ELIAS",
@@ -9986,6 +10052,17 @@
   "email": " ",
   "trato": " ",
   "obs": " "
+},
+{
+  "nombre": "SAAVEDRA CABRERA SILVIA",
+  "ruc": "10095185679",
+  "direccion": "RIMAC",
+  "tipo": "0",
+  "fecha": "13/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
 },
 {
   "nombre": "ASTOQUILLCA RIVERA BACILIA GRIMANISA",
@@ -19646,6 +19723,17 @@
   "obs": ""
 },
 {
+  "nombre": "ALAN CERRUCHE HUERTA",
+  "ruc": "10418055192",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "14/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "PATTY VEGA DE LA CRUZ",
   "ruc": "10418291074",
   "direccion": "AV 9 DE OCTUBRE S/N PIEDRA LIZA RIMAC - LIMA",
@@ -20553,6 +20641,17 @@
   "direccion": "AV. MONTEVIDEO LOT. 27 MZ. 0B TUMBES-ZARUMILLA-AGUAS VERDES",
   "tipo": "0",
   "fecha": "18/01/2018",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "JENNIFER VILA JOAQUIN",
+  "ruc": "10427685662",
+  "direccion": "SJL",
+  "tipo": "0",
+  "fecha": "25/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -24277,6 +24376,17 @@
   "obs": ""
 },
 {
+  "nombre": "ESPINOZA HUAMAN CLIVER",
+  "ruc": "10477605023",
+  "direccion": "SMP",
+  "tipo": "0",
+  "fecha": "24/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "CORONEL RAMOS MARISOL IVONE",
   "ruc": "10477816555",
   "direccion": "MADRE DE DIOS ",
@@ -24744,6 +24854,17 @@
   "direccion": "VITARTE",
   "tipo": "0",
   "fecha": "16/06/2022",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "PAULA ALICIA CRUZ GOMEZ",
+  "ruc": "10505400",
+  "direccion": "INDEPENDENCIA",
+  "tipo": "0",
+  "fecha": "05/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -25498,11 +25619,33 @@
   "obs": ""
 },
 {
+  "nombre": "ZAIRA SHAKIRA MEZARINO VALVERDE",
+  "ruc": "10701716286",
+  "direccion": "NESHUYA KM-60 -PADRE ABAD - UCAYALI",
+  "tipo": "0",
+  "fecha": "10/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "JANNET ARHUATA CASAVILCA",
   "ruc": "10701771",
   "direccion": "SANTA ANITA",
   "tipo": "0",
   "fecha": "07/05/2019",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "DENNIS HENRY BARZOLA MUCHA",
+  "ruc": "10702433342",
+  "direccion": "SJL",
+  "tipo": "0",
+  "fecha": "28/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -26713,17 +26856,6 @@
   "direccion": "CAMPO DEPORTIVO S/N TAMBO - AYACUCHO",
   "tipo": "0",
   "fecha": "04/12/2018",
-  "telefono": "",
-  "email": "",
-  "trato": "",
-  "obs": ""
-},
-{
-  "nombre": "GALINDO INOCENTE YEFERSON MICHAEL",
-  "ruc": "10745519003",
-  "direccion": "GALINDO INOCENTE YEFERSON MICHAEL",
-  "tipo": "0",
-  "fecha": "04/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -30195,6 +30327,17 @@
   "obs": ""
 },
 {
+  "nombre": "GRISELDA NICIDA ALVA VILCA",
+  "ruc": "17857039",
+  "direccion": "GRISELDA NICIDA ALVA VILCA",
+  "tipo": "0",
+  "fecha": "05/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "CARLOS ALFONSO FIGUEROA SANCHEZ",
   "ruc": "17893419",
   "direccion": "MANUEL ROMERO 366 STA. MARIA 5 ETAPA TRUJILLO - TRUJILLO",
@@ -31388,6 +31531,17 @@
   "direccion": " JUNÍN - HUANCAYO  - HUANCAYO",
   "tipo": "0",
   "fecha": "24/07/2021",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "ANA JESUS RIXE",
+  "ruc": "20025404",
+  "direccion": "SAN MARTIN DE PORRES",
+  "tipo": "0",
+  "fecha": "13/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -36498,6 +36652,17 @@
   "obs": ""
 },
 {
+  "nombre": "NATALIA",
+  "ruc": "20556318",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "20/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "BELLISSIMA CARMIT E.I.R.L.",
   "ruc": "20556505943",
   "direccion": "GNOLIAS MZ. T LT. 11 URB. VIRGEN DEL CARMEN - LIMA",
@@ -39204,6 +39369,17 @@
   "obs": ""
 },
 {
+  "nombre": "INVERSIONES COLEMAN SAC",
+  "ruc": "20602650694",
+  "direccion": "CALLAO",
+  "tipo": "0",
+  "fecha": "12/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "UNION AQUINO E.I.R.L.",
   "ruc": "20602663648",
   "direccion": "MZA. E LOTE. 11 GRUPO 13 SECTOR 2 LIMA - VILLA EL SALVADOR",
@@ -39275,6 +39451,17 @@
   "direccion": "AV. SANTA ROSA NRO.330 ASOC. VILLA SANTA ANITA LIMA ",
   "tipo": "0",
   "fecha": "19/06/2023",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "MERCALIZ CORPORATION SAC",
+  "ruc": "20602780890",
+  "direccion": "SAN BORJA",
+  "tipo": "0",
+  "fecha": "12/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -39974,6 +40161,17 @@
   "obs": ""
 },
 {
+  "nombre": "SOLCONER SAC",
+  "ruc": "20604520143",
+  "direccion": "LOS OLIVOS",
+  "tipo": "0",
+  "fecha": "28/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "KAMI CHRISS 17 E.I.R.L",
   "ruc": "20604538174",
   "direccion": "MZA. E2 LOTE. 12 URB. SAN PEDRO 1RA. ETAPA LIMA - LIMA  - CARABAYLLO",
@@ -40100,6 +40298,17 @@
   "direccion": "JR. SANTA ISABEL NRO. 1175 CERCADO DE EL TAMBO JUNÍN - HUANCAYO  - EL TAMBO",
   "tipo": "0",
   "fecha": "09/12/2019",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "CORPORACION MENTA DEL PERU S.A.C.",
+  "ruc": "20605001051",
+  "direccion": "AV. LAS PALMERAS URB. LAS PALMERAS N° 4073 LIMA - LIMA  - LOS OLIVOS",
+  "tipo": "0",
+  "fecha": "11/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -40628,6 +40837,28 @@
   "direccion": "EBAGLIATI NRO. 1009 URB. EL REMANSO ET. UNO - LIMA",
   "tipo": "0",
   "fecha": "06/12/2021",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "PUNTO VITAL",
+  "ruc": "20606322845",
+  "direccion": "ATE",
+  "tipo": "0",
+  "fecha": "13/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "FUSION GOURMET ATE SAC",
+  "ruc": "20606349425",
+  "direccion": "LOS OLIVOS",
+  "tipo": "0",
+  "fecha": "13/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -43208,6 +43439,17 @@
   "obs": ""
 },
 {
+  "nombre": "BIZARRO GASTROBAR-CAFE SOCIEDAD ANÓNIMA CERRADA",
+  "ruc": "20612450626",
+  "direccion": "AV. 06 DE DICIEMBRE URB. 6 DE DICIEMBRE LT. 93 PASCO - PASCO  - YANACANCHA",
+  "tipo": "0",
+  "fecha": "06/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "GRUPO GAMARRITA SAC",
   "ruc": "20612464538",
   "direccion": "LIMA",
@@ -43395,6 +43637,17 @@
   "obs": ""
 },
 {
+  "nombre": "POLLERIA Y RESTAURANT SOLANO EIRL",
+  "ruc": "20613048503",
+  "direccion": "COMAS",
+  "tipo": "0",
+  "fecha": "12/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "DTB DISTRIBUCIONES EIRL",
   "ruc": "20613075551",
   "direccion": "LA MOLINA",
@@ -43494,11 +43747,33 @@
   "obs": ""
 },
 {
+  "nombre": "GARBAU GROUP SAC",
+  "ruc": "20613355562",
+  "direccion": "ATE VITARTE ",
+  "tipo": "0",
+  "fecha": "07/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "TECNOLISTO SOLUCIONES PERU S.A.C",
   "ruc": "20613403001",
   "direccion": "JR. JUSTA GARCIA ROBLEDO NRO. 223 URB. SAN LUIS GONZAGA LIMA - LIMA - BREÑA",
   "tipo": "0",
   "fecha": "06/12/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "ADORADA ESTANCIA S.A.C",
+  "ruc": "20613689452",
+  "direccion": "SAN MIGUEL",
+  "tipo": "0",
+  "fecha": "21/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -45160,6 +45435,17 @@
   "direccion": "JUNIN",
   "tipo": "0",
   "fecha": "21/01/2021",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "HILDA LAPA DIANDERAS ",
+  "ruc": "23568348",
+  "direccion": "PICHANAQUI- CHANCHAMAYO",
+  "tipo": "0",
+  "fecha": "07/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -49027,6 +49313,17 @@
   "obs": ""
 },
 {
+  "nombre": "JAQULIN PALOMINO ",
+  "ruc": "40186938",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "07/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "FRANCISCA FACUNDA ZELA LIPA",
   "ruc": "40191807",
   "direccion": "JULIACA",
@@ -50842,6 +51139,17 @@
   "obs": ""
 },
 {
+  "nombre": "KATTIA BARBOZA",
+  "ruc": "40950460",
+  "direccion": "AYACUCHO",
+  "tipo": "0",
+  "fecha": "26/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "ANA LUZ JANAMPA CHAVEZ",
   "ruc": "40978746",
   "direccion": "CERRO DE PASCO",
@@ -51403,6 +51711,17 @@
   "obs": ""
 },
 {
+  "nombre": "EVELYN BELL",
+  "ruc": "41207656",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "17/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "YANET MORA ",
   "ruc": "41209802",
   "direccion": "LIMA",
@@ -51878,7 +52197,7 @@
 {
   "nombre": "YOZELY KENIA GOMEZ ROMAN",
   "ruc": "41390429",
-  "direccion": "HUACHO",
+  "direccion": "LIMA",
   "tipo": "0",
   "fecha": "09/01/2017",
   "telefono": "",
@@ -52151,6 +52470,17 @@
   "obs": ""
 },
 {
+  "nombre": "CAROLINA MAMANI PARI",
+  "ruc": "41489208",
+  "direccion": "LA VICTORIA",
+  "tipo": "0",
+  "fecha": "11/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "VANESSA NUÑEZ",
   "ruc": "41489555",
   "direccion": "LIMA",
@@ -52167,6 +52497,17 @@
   "direccion": "JOSEGALVEZ VILLAMARIA DEL TRIUNFO",
   "tipo": "0",
   "fecha": "05/12/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "SANDRA ",
+  "ruc": "41493446",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "10/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -52679,6 +53020,17 @@
   "obs": ""
 },
 {
+  "nombre": "EDUARDO SALAZAR",
+  "ruc": "41750115",
+  "direccion": "BREÑA",
+  "tipo": "0",
+  "fecha": "13/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "EDWAR JOHN RAMON TABOADA",
   "ruc": "41754748",
   "direccion": "LIMA",
@@ -52926,6 +53278,17 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "11/07/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "RUT HUANCAYA",
+  "ruc": "41852843",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "13/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -55374,6 +55737,17 @@
   "obs": ""
 },
 {
+  "nombre": "EVER HERRERA DIAZ",
+  "ruc": "42882218",
+  "direccion": "CHIMBOTE - SANTA",
+  "tipo": "0",
+  "fecha": "14/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "EDUARDO CAÑARI TORRES",
   "ruc": "42884690",
   "direccion": "CALLAO",
@@ -55819,6 +56193,17 @@
   "direccion": "LIMA LIMA",
   "tipo": "0",
   "fecha": "30/11/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "JOHANA OJEDA SOTO",
+  "ruc": "43105812",
+  "direccion": "LIMA-LIMA",
+  "tipo": "0",
+  "fecha": "15/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -58096,6 +58481,17 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "17/10/2019",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "ROSSY FERNANDEZ",
+  "ruc": "44120659",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "20/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -61083,6 +61479,17 @@
   "obs": ""
 },
 {
+  "nombre": "WENDY SALINAS",
+  "ruc": "45847638",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "26/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "OSCAR LEVITICO VIZA EULOGIO",
   "ruc": "45871388",
   "direccion": " LIMA - LIMA  - LIMA",
@@ -61099,6 +61506,17 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "09/12/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "BEATRIZ CHACON ",
+  "ruc": "45879026",
+  "direccion": "CHIMBOTE",
+  "tipo": "0",
+  "fecha": "14/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -61341,6 +61759,17 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "27/12/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "ROCIO SILVERA",
+  "ruc": "46025468",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "12/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -61721,6 +62150,17 @@
   "obs": ""
 },
 {
+  "nombre": "OSCAR LINA",
+  "ruc": "46201681",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "10/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "VANESSA TORRES",
   "ruc": "46201921",
   "direccion": "",
@@ -61748,6 +62188,17 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "12/12/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "JESUS LLACTARIMAY",
+  "ruc": "46214654",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "11/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -62056,6 +62507,17 @@
   "direccion": "SURQUILLO",
   "tipo": "0",
   "fecha": "20/07/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "FANNY MEDRANO",
+  "ruc": "46423580",
+  "direccion": "PUERTO MALDONADO - MADRE DE DIOS",
+  "tipo": "0",
+  "fecha": "14/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -62436,6 +62898,17 @@
   "obs": ""
 },
 {
+  "nombre": "SCARLY CLARET ZAVALETA VELASQUEZ",
+  "ruc": "46663150",
+  "direccion": "CHORRILLOS",
+  "tipo": "0",
+  "fecha": "14/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "PATTHY CONDORI CHOQUEPATA",
   "ruc": "46673361",
   "direccion": "AREQUIPA",
@@ -62507,6 +62980,17 @@
   "direccion": " LA LIBERTAD - TRUJILLO  - TRUJILLO",
   "tipo": "0",
   "fecha": "05/10/2020",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "LENIN CUEVA",
+  "ruc": "46722655",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "14/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -63035,6 +63519,17 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "04/06/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "MARCO OSORIO",
+  "ruc": "47078868",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "15/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -63668,6 +64163,17 @@
   "obs": ""
 },
 {
+  "nombre": "JISRAEL RAMOS",
+  "ruc": "47426278",
+  "direccion": "CALLAO",
+  "tipo": "0",
+  "fecha": "17/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "STALIN ",
   "ruc": "47432417",
   "direccion": "LIMA",
@@ -63811,22 +64317,22 @@
   "obs": ""
 },
 {
-  "nombre": "EDGAR ROBER PONCE AGUIRRE",
-  "ruc": "47518450",
-  "direccion": "LIMA",
+  "nombre": "PAOLA MARITZA PARIONA GONZALES",
+  "ruc": "47531814",
+  "direccion": "SJM",
   "tipo": "0",
-  "fecha": "04/02/2025",
+  "fecha": "08/05/2024",
   "telefono": "",
   "email": "",
   "trato": "",
   "obs": ""
 },
 {
-  "nombre": "PAOLA MARITZA PARIONA GONZALES",
-  "ruc": "47531814",
-  "direccion": "SJM",
+  "nombre": "CRISTIAN VILLANUEVA ",
+  "ruc": "47533871",
+  "direccion": "SALAMANCA",
   "tipo": "0",
-  "fecha": "08/05/2024",
+  "fecha": "14/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -65098,6 +65604,17 @@
   "obs": ""
 },
 {
+  "nombre": "MARIA CORI",
+  "ruc": "48384335",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "12/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "YESICA SONCCO MAMANI",
   "ruc": "48413168",
   "direccion": "AREQUIPA",
@@ -65213,6 +65730,17 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "12/04/2021",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "WENDY MAMANI POCCO",
+  "ruc": "48485962",
+  "direccion": "WENDY MAMANI POCCO",
+  "tipo": "0",
+  "fecha": "05/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -65516,22 +66044,22 @@
   "obs": ""
 },
 {
-  "nombre": "RUTH LOSTAUNAU RAMOS",
-  "ruc": "49013155",
+  "nombre": "CLARA MERCEDES MEDINA RIVAS",
+  "ruc": "49018819",
   "direccion": "LIMA",
   "tipo": "0",
-  "fecha": "04/02/2025",
+  "fecha": "06/09/2023",
   "telefono": "",
   "email": "",
   "trato": "",
   "obs": ""
 },
 {
-  "nombre": "CLARA MERCEDES MEDINA RIVAS",
-  "ruc": "49018819",
+  "nombre": "JOHANNA IÑAGUAZO",
+  "ruc": "49042040",
   "direccion": "LIMA",
   "tipo": "0",
-  "fecha": "06/09/2023",
+  "fecha": "24/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -65692,6 +66220,17 @@
   "obs": ""
 },
 {
+  "nombre": "BERTHA ROJAS POMA",
+  "ruc": "62093425",
+  "direccion": "MOLINOS-HUANUCO",
+  "tipo": "0",
+  "fecha": "13/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "ANGELA BEATRIZ CUETO GUTIERREZ",
   "ruc": "62098795",
   "direccion": "MCDO. MI PERU PTO. 47 ICA - TINGUIÑA",
@@ -65774,6 +66313,17 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "22/11/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "CRISTHIAN CASTRO SAMANEZ",
+  "ruc": "70002542",
+  "direccion": "AREQUIPA",
+  "tipo": "0",
+  "fecha": "10/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -66781,6 +67331,17 @@
   "obs": ""
 },
 {
+  "nombre": "CRITHOFER ",
+  "ruc": "70903247",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "08/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "JOANNA ROSSY VERA CHOQUE",
   "ruc": "70910768",
   "direccion": "PUNO ",
@@ -67386,6 +67947,17 @@
   "obs": ""
 },
 {
+  "nombre": "ISAURA JUDITH ROJAS CARRION",
+  "ruc": "71667236",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "25/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "KHATERINE ANGELICA MARIÑOS CASTILLO",
   "ruc": "71671333",
   "direccion": "LIMA",
@@ -67457,6 +68029,17 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "01/06/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "HILTON MIRANDA",
+  "ruc": "71744307",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "11/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -67600,6 +68183,17 @@
   "direccion": "VENTANILLA",
   "tipo": "0",
   "fecha": "30/11/2023",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "MAO YOBANI ESPINOZA BRAVO",
+  "ruc": "71983426",
+  "direccion": "CHIMBOTE",
+  "tipo": "0",
+  "fecha": "12/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -68178,6 +68772,17 @@
   "obs": ""
 },
 {
+  "nombre": "PEDRO COTERA",
+  "ruc": "72853632",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "08/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "JORGE TORREALVA",
   "ruc": "72866465",
   "direccion": "LIMA",
@@ -68332,6 +68937,17 @@
   "obs": ""
 },
 {
+  "nombre": "ANDREA",
+  "ruc": "73231464",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "08/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "LUIS ALBERTO MATIAS CABADA CORMAN",
   "ruc": "73272725",
   "direccion": "LIMA",
@@ -68464,6 +69080,17 @@
   "obs": ""
 },
 {
+  "nombre": "WALTER GALLARDO",
+  "ruc": "73454018",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "06/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "MELINA ISABEL LAPA MEZA",
   "ruc": "73454151",
   "direccion": "OXAPAMPA",
@@ -68579,6 +69206,17 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "08/07/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "NORELLY CHIMOY ",
+  "ruc": "73866224",
+  "direccion": "PUCUSANA - LIMA",
+  "tipo": "0",
+  "fecha": "04/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -69014,6 +69652,17 @@
   "obs": ""
 },
 {
+  "nombre": "YESICA CHUMBE",
+  "ruc": "74472763",
+  "direccion": "APURIMAC",
+  "tipo": "0",
+  "fecha": "13/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "DALTON COTRINA CHIQUIMANGO",
   "ruc": "74479015",
   "direccion": "VILLA SALVADOR",
@@ -69234,11 +69883,33 @@
   "obs": ""
 },
 {
+  "nombre": "BRANDON AREVALO ",
+  "ruc": "74902430",
+  "direccion": "SAN MARTIN DE PORRES ",
+  "tipo": "0",
+  "fecha": "15/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "GERALDIN BAZAN HUARACO",
   "ruc": "74920731",
   "direccion": "MZLT12.ATE VITARTE",
   "tipo": "0",
   "fecha": "12/04/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "ISAAC",
+  "ruc": "74935677",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "27/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -69883,6 +70554,17 @@
   "obs": ""
 },
 {
+  "nombre": "MARILYN HUAMAN ROMERO",
+  "ruc": "75844627",
+  "direccion": "CUSCO",
+  "tipo": "0",
+  "fecha": "07/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "MILAGRO ALRACON GALARZA",
   "ruc": "75888024",
   "direccion": "",
@@ -70152,6 +70834,17 @@
   "direccion": "HUANUCO",
   "tipo": "0",
   "fecha": "18/07/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "DIEGO GARCIA",
+  "ruc": "76286566",
+  "direccion": "SAN MARTIN",
+  "tipo": "0",
+  "fecha": "05/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -70570,6 +71263,17 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "14/08/2021",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "DIANA LOZADA",
+  "ruc": "76809092",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "14/02/2025",
   "telefono": "",
   "email": "",
   "trato": "",
