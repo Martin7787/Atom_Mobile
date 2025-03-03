@@ -1,17 +1,5 @@
 [
 {
-  "dia": "Mié.",
-  "fechacab": "Ene. 29"
-},
-{
-  "dia": "Jue.",
-  "fechacab": "Ene. 30"
-},
-{
-  "dia": "Vie.",
-  "fechacab": "Ene. 31"
-},
-{
   "dia": "Sáb.",
   "fechacab": "Feb. 1"
 },
@@ -104,7 +92,7 @@
   "fechacab": "Feb. 27"
 },
 {
-  "dia": "Hoy",
+  "dia": "Vie.",
   "fechacab": "Feb. 28"
 },
 ]
