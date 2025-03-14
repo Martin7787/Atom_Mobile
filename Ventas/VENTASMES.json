@@ -3485,4 +3485,18 @@
   "hora": "12:36 p. m.",
   "docu": "USER: EDITH"
 },
+{
+  "fecha": "Mar. 14",
+  "serie": "T001",
+  "numero": "00013173",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "108",
+  "acuenta": "108",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "05:55 p. m.",
+  "docu": "MARH-@PNSXQWY"
+},
 ]
