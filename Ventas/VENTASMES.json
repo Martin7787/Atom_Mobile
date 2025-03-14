@@ -3334,34 +3334,6 @@
 {
   "fecha": "Feb. 28",
   "serie": "T001",
-  "numero": "00013173",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "180",
-  "acuenta": "180",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "05:31 p. m.",
-  "docu": "MARH-@PN1QSV7"
-},
-{
-  "fecha": "Feb. 28",
-  "serie": "T001",
-  "numero": "00013172",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "180",
-  "acuenta": "180",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "05:30 p. m.",
-  "docu": "MARH-@PN1QSV7"
-},
-{
-  "fecha": "Feb. 28",
-  "serie": "T001",
   "numero": "00013171",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -3370,7 +3342,7 @@
   "saldo": "0.0000",
   "tipc": "3.85",
   "estado": "CONTADO",
-  "hora": "05:30 p. m.",
+  "hora": "05:34 p. m.",
   "docu": "MARH-@PN1QSV7"
 },
 {
