@@ -3418,6 +3418,20 @@
 {
   "fecha": "Mar. 15",
   "serie": "T001",
+  "numero": "00013203",
+  "nombre": "RONALD FRANCISCO LITANO ELIAS",
+  "moneda": "USD",
+  "totguia": "185.6",
+  "acuenta": "185.6",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "06:58 p. m.",
+  "docu": "MARH-@D13QXWH"
+},
+{
+  "fecha": "Mar. 15",
+  "serie": "T001",
   "numero": "00013202",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
