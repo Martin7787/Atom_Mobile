@@ -3418,6 +3418,20 @@
 {
   "fecha": "Mar. 15",
   "serie": "T001",
+  "numero": "00013196",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "300",
+  "acuenta": "300",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "03:51 p. m.",
+  "docu": "MARH-@O318C4Q"
+},
+{
+  "fecha": "Mar. 15",
+  "serie": "T001",
   "numero": "00013195",
   "nombre": "CRUZ CABANILLAS SHIRLEY MAC LAINE",
   "moneda": "PEN",
