@@ -3418,6 +3418,20 @@
 {
   "fecha": "Mar. 15",
   "serie": "T001",
+  "numero": "00013188",
+  "nombre": "DANTE JOEL TOCTO VILLAR",
+  "moneda": "PEN",
+  "totguia": "310",
+  "acuenta": "310",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "03:26 p. m.",
+  "docu": "MARH-@NF2HQJU"
+},
+{
+  "fecha": "Mar. 15",
+  "serie": "T001",
   "numero": "00013187",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
