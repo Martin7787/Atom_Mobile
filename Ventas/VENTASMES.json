@@ -3418,6 +3418,20 @@
 {
   "fecha": "Mar. 15",
   "serie": "T001",
+  "numero": "00013198",
+  "nombre": "CASTRO VILELA DANIEL YURI",
+  "moneda": "PEN",
+  "totguia": "270",
+  "acuenta": "270",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "04:02 p. m.",
+  "docu": "MARH-@E96VWNL"
+},
+{
+  "fecha": "Mar. 15",
+  "serie": "T001",
   "numero": "00013197",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
