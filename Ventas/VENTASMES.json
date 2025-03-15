@@ -3418,6 +3418,20 @@
 {
   "fecha": "Mar. 15",
   "serie": "T001",
+  "numero": "00013192",
+  "nombre": "NATY MAMANI MAYNAZA",
+  "moneda": "PEN",
+  "totguia": "60",
+  "acuenta": "60",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "03:39 p. m.",
+  "docu": "MARH-@C15TCYP"
+},
+{
+  "fecha": "Mar. 15",
+  "serie": "T001",
   "numero": "00013191",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
