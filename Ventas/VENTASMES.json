@@ -3418,6 +3418,20 @@
 {
   "fecha": "Mar. 15",
   "serie": "T001",
+  "numero": "00013186",
+  "nombre": "CARMEN LUZ LAZARTE VILLANUEVA",
+  "moneda": "PEN",
+  "totguia": "465",
+  "acuenta": "465",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "02:05 p. m.",
+  "docu": "MARH-@2WQPGVD"
+},
+{
+  "fecha": "Mar. 15",
+  "serie": "T001",
   "numero": "00013185",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
