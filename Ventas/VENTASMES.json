@@ -3488,6 +3488,20 @@
 {
   "fecha": "Mar. 14",
   "serie": "T001",
+  "numero": "00013181",
+  "nombre": "RUTH LOSTAUNAU RAMOS",
+  "moneda": "PEN",
+  "totguia": "501.5",
+  "acuenta": "501.5",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "07:49 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fecha": "Mar. 14",
+  "serie": "T001",
   "numero": "00013180",
   "nombre": "MARIZA FLORES LOPEZ",
   "moneda": "PEN",
