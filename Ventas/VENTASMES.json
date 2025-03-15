@@ -3418,6 +3418,20 @@
 {
   "fecha": "Mar. 15",
   "serie": "T001",
+  "numero": "00013185",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "188",
+  "acuenta": "188",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "01:34 p. m.",
+  "docu": "MARH-@FNIB1MH"
+},
+{
+  "fecha": "Mar. 15",
+  "serie": "T001",
   "numero": "00013184",
   "nombre": "PACHECO YUPANQUI EFRAIN",
   "moneda": "PEN",
