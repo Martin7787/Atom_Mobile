@@ -3418,6 +3418,20 @@
 {
   "fecha": "Mar. 15",
   "serie": "T001",
+  "numero": "00013202",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "120",
+  "acuenta": "120",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "06:34 p. m.",
+  "docu": "MARH-@BQOXPC2"
+},
+{
+  "fecha": "Mar. 15",
+  "serie": "T001",
   "numero": "00013201",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
