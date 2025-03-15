@@ -3488,6 +3488,20 @@
 {
   "fecha": "Mar. 14",
   "serie": "T001",
+  "numero": "00013182",
+  "nombre": "DIAZ SANCHEZ MARCO ANTONIO",
+  "moneda": "PEN",
+  "totguia": "751.9",
+  "acuenta": "751.9",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "07:51 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fecha": "Mar. 14",
+  "serie": "T001",
   "numero": "00013181",
   "nombre": "RUTH LOSTAUNAU RAMOS",
   "moneda": "PEN",
