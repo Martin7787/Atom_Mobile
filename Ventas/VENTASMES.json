@@ -3418,6 +3418,20 @@
 {
   "fecha": "Mar. 15",
   "serie": "T001",
+  "numero": "00013189",
+  "nombre": "ZAPATA IMAZ ANIBAL",
+  "moneda": "PEN",
+  "totguia": "720",
+  "acuenta": "720",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "03:31 p. m.",
+  "docu": "MARH-@1VVJFLW"
+},
+{
+  "fecha": "Mar. 15",
+  "serie": "T001",
   "numero": "00013188",
   "nombre": "DANTE JOEL TOCTO VILLAR",
   "moneda": "PEN",
