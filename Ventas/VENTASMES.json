@@ -3418,6 +3418,20 @@
 {
   "fecha": "Mar. 15",
   "serie": "T001",
+  "numero": "00013200",
+  "nombre": "COMERCIAL BABY S.R.L",
+  "moneda": "PEN",
+  "totguia": "615",
+  "acuenta": "615",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "04:12 p. m.",
+  "docu": "MARH-@BUZ646A"
+},
+{
+  "fecha": "Mar. 15",
+  "serie": "T001",
   "numero": "00013199",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
