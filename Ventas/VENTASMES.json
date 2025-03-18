@@ -2704,6 +2704,20 @@
 {
   "fecha": "Mar. 18",
   "serie": "T001",
+  "numero": "00013206",
+  "nombre": "JUDITH ELENA CESPEDES DIAZ",
+  "moneda": "PEN",
+  "totguia": "55",
+  "acuenta": "55",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "02:38 p. m.",
+  "docu": "MARH-@5IYC2Q6"
+},
+{
+  "fecha": "Mar. 18",
+  "serie": "T001",
   "numero": "00013205",
   "nombre": "DANTE JOEL TOCTO VILLAR",
   "moneda": "PEN",
