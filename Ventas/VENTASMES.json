@@ -2701,4 +2701,18 @@
   "hora": "01:29 p. m.",
   "docu": "MARH-@3MCMNQN"
 },
+{
+  "fecha": "Mar. 18",
+  "serie": "T001",
+  "numero": "00013203",
+  "nombre": "LOURDES ANGELA CCAMA CAHUANA",
+  "moneda": "PEN",
+  "totguia": "300",
+  "acuenta": "300",
+  "saldo": "0.0000",
+  "tipc": "3.85",
+  "estado": "CONTADO",
+  "hora": "11:58 a. m.",
+  "docu": "MARH-@MP8TVAL"
+},
 ]
