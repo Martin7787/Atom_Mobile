@@ -1,537 +1,6 @@
 [
 {
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013034",
-  "nombre": "SEGUNDINO RAMON JARAMILLO",
-  "moneda": "PEN",
-  "totguia": "756",
-  "acuenta": "756",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "06:28 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013033",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "186",
-  "acuenta": "186",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "06:08 p. m.",
-  "docu": "USER: LIZETH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013032",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "100",
-  "acuenta": "100",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "06:02 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013031",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "220",
-  "acuenta": "220",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "06:00 p. m.",
-  "docu": "USER: LIZETH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013030",
-  "nombre": "EVELYN BELL",
-  "moneda": "PEN",
-  "totguia": "95",
-  "acuenta": "95",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "05:52 p. m.",
-  "docu": "USER: LIZETH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013029",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "88",
-  "acuenta": "88",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "05:29 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013028",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "310",
-  "acuenta": "310",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "05:25 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013027",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "125.1",
-  "acuenta": "125.1",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "05:24 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013026",
-  "nombre": "LUZ MARIA NAVARRETE",
-  "moneda": "PEN",
-  "totguia": "176",
-  "acuenta": "176",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "04:53 p. m.",
-  "docu": "USER: SOFI"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013025",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "68",
-  "acuenta": "68",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "04:36 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013024",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "215",
-  "acuenta": "215",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "04:31 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013023",
-  "nombre": "FRANCO IBARRA",
-  "moneda": "PEN",
-  "totguia": "72",
-  "acuenta": "72",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "04:11 p. m.",
-  "docu": "USER: LIZETH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013022",
-  "nombre": "ANGELICA CARI CORDOVA",
-  "moneda": "PEN",
-  "totguia": "216",
-  "acuenta": "216",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "03:53 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013021",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "115.5",
-  "acuenta": "115.5",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "03:37 p. m.",
-  "docu": "USER: LIZETH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013020",
-  "nombre": "JISRAEL RAMOS",
-  "moneda": "PEN",
-  "totguia": "120",
-  "acuenta": "120",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "03:22 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013019",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "136.8",
-  "acuenta": "136.8",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "02:37 p. m.",
-  "docu": "USER: LIZETH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013018",
-  "nombre": "DORIS CHAGUA CHUCO",
-  "moneda": "PEN",
-  "totguia": "150",
-  "acuenta": "150",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "02:24 p. m.",
-  "docu": "USER: LIZETH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013017",
-  "nombre": "IMPORT Y EXPORT A.G.C. E.I.R.L.",
-  "moneda": "PEN",
-  "totguia": "435",
-  "acuenta": "435",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "02:18 p. m.",
-  "docu": "USER: LIZETH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013016",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "100",
-  "acuenta": "100",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "01:11 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013015",
-  "nombre": "INVERSIONES VERCINTH SOCIEDAD ANONIMA CERRADA ",
-  "moneda": "PEN",
-  "totguia": "150",
-  "acuenta": "150",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "01:01 p. m.",
-  "docu": "USER: LIZETH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013014",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "120",
-  "acuenta": "120",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "12:20 p. m.",
-  "docu": "USER: LIZETH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013013",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "340.1",
-  "acuenta": "340.1",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "12:18 p. m.",
-  "docu": "USER: LIZETH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013012",
-  "nombre": "CRISTIAN VILLANUEVA ",
-  "moneda": "PEN",
-  "totguia": "70",
-  "acuenta": "70",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "11:36 a. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013011",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "68",
-  "acuenta": "68",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "10:57 a. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 17",
-  "serie": "T001",
-  "numero": "00013010",
-  "nombre": "PABLO FRANCISCO JAIME CAMPOS",
-  "moneda": "PEN",
-  "totguia": "728",
-  "acuenta": "728",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "10:13 a. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 18",
-  "serie": "T001",
-  "numero": "00013047",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "120",
-  "acuenta": "120",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "07:43 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 18",
-  "serie": "T001",
-  "numero": "00013046",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "120",
-  "acuenta": "120",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "07:34 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 18",
-  "serie": "T001",
-  "numero": "00013045",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "100",
-  "acuenta": "100",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "07:27 p. m.",
-  "docu": "USER: SOFI"
-},
-{
-  "fecha": "Feb. 18",
-  "serie": "T001",
-  "numero": "00013044",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "68",
-  "acuenta": "68",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "04:51 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 18",
-  "serie": "T001",
-  "numero": "00013043",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "192",
-  "acuenta": "192",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "03:38 p. m.",
-  "docu": "USER: SOFI"
-},
-{
-  "fecha": "Feb. 18",
-  "serie": "T001",
-  "numero": "00013042",
-  "nombre": "INVERSIONES VERCINTH SOCIEDAD ANONIMA CERRADA ",
-  "moneda": "PEN",
-  "totguia": "108",
-  "acuenta": "108",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "03:38 p. m.",
-  "docu": "USER: SOFI"
-},
-{
-  "fecha": "Feb. 18",
-  "serie": "T001",
-  "numero": "00013041",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "156",
-  "acuenta": "156",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "03:24 p. m.",
-  "docu": "USER: SOFI"
-},
-{
-  "fecha": "Feb. 18",
-  "serie": "T001",
-  "numero": "00013040",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "210",
-  "acuenta": "210",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "03:18 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 18",
-  "serie": "T001",
-  "numero": "00013039",
-  "nombre": "BERTHA",
-  "moneda": "PEN",
-  "totguia": "92",
-  "acuenta": "92",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "03:03 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 18",
-  "serie": "T001",
-  "numero": "00013038",
-  "nombre": "ELVA PIUNDO",
-  "moneda": "PEN",
-  "totguia": "569.3",
-  "acuenta": "569.3",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "02:38 p. m.",
-  "docu": "USER: EDITH"
-},
-{
-  "fecha": "Feb. 18",
-  "serie": "T001",
-  "numero": "00013037",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "145",
-  "acuenta": "145",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "12:02 p. m.",
-  "docu": "USER: SOFI"
-},
-{
-  "fecha": "Feb. 18",
-  "serie": "T001",
-  "numero": "00013036",
-  "nombre": "NELY COLLANA AYALA",
-  "moneda": "PEN",
-  "totguia": "290",
-  "acuenta": "290",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "11:10 a. m.",
-  "docu": "USER: SOFI"
-},
-{
-  "fecha": "Feb. 18",
-  "serie": "T001",
-  "numero": "00013035",
-  "nombre": "QUISPE VILLANUEVA OBRIL",
-  "moneda": "PEN",
-  "totguia": "2758.9",
-  "acuenta": "2758.9",
-  "saldo": "0.0000",
-  "tipc": "3.85",
-  "estado": "CONTADO",
-  "hora": "11:04 a. m.",
-  "docu": "USER: EDITH"
-},
-{
+  "fechacab": "19/02/2025",
   "fecha": "Feb. 19",
   "serie": "T001",
   "numero": "00013057",
@@ -546,6 +15,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "19/02/2025",
   "fecha": "Feb. 19",
   "serie": "T001",
   "numero": "00013056",
@@ -560,6 +30,7 @@
   "docu": "USER: SOFI"
 },
 {
+  "fechacab": "19/02/2025",
   "fecha": "Feb. 19",
   "serie": "T001",
   "numero": "00013055",
@@ -574,6 +45,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "19/02/2025",
   "fecha": "Feb. 19",
   "serie": "T001",
   "numero": "00013054",
@@ -588,6 +60,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "19/02/2025",
   "fecha": "Feb. 19",
   "serie": "T001",
   "numero": "00013053",
@@ -602,6 +75,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "19/02/2025",
   "fecha": "Feb. 19",
   "serie": "T001",
   "numero": "00013052",
@@ -616,6 +90,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "19/02/2025",
   "fecha": "Feb. 19",
   "serie": "T001",
   "numero": "00013051",
@@ -630,6 +105,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "19/02/2025",
   "fecha": "Feb. 19",
   "serie": "T001",
   "numero": "00013050",
@@ -644,6 +120,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "19/02/2025",
   "fecha": "Feb. 19",
   "serie": "T001",
   "numero": "00013049",
@@ -658,6 +135,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "19/02/2025",
   "fecha": "Feb. 19",
   "serie": "T001",
   "numero": "00013048",
@@ -672,6 +150,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "20/02/2025",
   "fecha": "Feb. 20",
   "serie": "T001",
   "numero": "00013069",
@@ -686,6 +165,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "20/02/2025",
   "fecha": "Feb. 20",
   "serie": "T001",
   "numero": "00013068",
@@ -700,6 +180,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "20/02/2025",
   "fecha": "Feb. 20",
   "serie": "T001",
   "numero": "00013067",
@@ -714,6 +195,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "20/02/2025",
   "fecha": "Feb. 20",
   "serie": "T001",
   "numero": "00013066",
@@ -728,6 +210,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "20/02/2025",
   "fecha": "Feb. 20",
   "serie": "T001",
   "numero": "00013065",
@@ -742,6 +225,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "20/02/2025",
   "fecha": "Feb. 20",
   "serie": "T001",
   "numero": "00013064",
@@ -756,6 +240,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "20/02/2025",
   "fecha": "Feb. 20",
   "serie": "T001",
   "numero": "00013063",
@@ -770,6 +255,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "20/02/2025",
   "fecha": "Feb. 20",
   "serie": "T001",
   "numero": "00013062",
@@ -784,6 +270,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "20/02/2025",
   "fecha": "Feb. 20",
   "serie": "T001",
   "numero": "00013061",
@@ -798,6 +285,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "20/02/2025",
   "fecha": "Feb. 20",
   "serie": "T001",
   "numero": "00013060",
@@ -812,6 +300,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "20/02/2025",
   "fecha": "Feb. 20",
   "serie": "T001",
   "numero": "00013059",
@@ -826,6 +315,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "20/02/2025",
   "fecha": "Feb. 20",
   "serie": "T001",
   "numero": "00013058",
@@ -840,6 +330,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013087",
@@ -854,6 +345,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013086",
@@ -868,6 +360,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013085",
@@ -882,6 +375,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013084",
@@ -896,6 +390,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013083",
@@ -910,6 +405,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013082",
@@ -924,6 +420,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013081",
@@ -938,6 +435,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013080",
@@ -952,6 +450,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013079",
@@ -966,6 +465,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013078",
@@ -980,6 +480,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013077",
@@ -994,6 +495,7 @@
   "docu": "USER: SOFI"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013076",
@@ -1008,6 +510,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013075",
@@ -1022,6 +525,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013074",
@@ -1036,6 +540,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013073",
@@ -1050,6 +555,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013072",
@@ -1064,6 +570,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013071",
@@ -1078,6 +585,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "21/02/2025",
   "fecha": "Feb. 21",
   "serie": "T001",
   "numero": "00013070",
@@ -1092,6 +600,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "22/02/2025",
   "fecha": "Feb. 22",
   "serie": "T001",
   "numero": "00013099",
@@ -1106,6 +615,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "22/02/2025",
   "fecha": "Feb. 22",
   "serie": "T001",
   "numero": "00013098",
@@ -1120,6 +630,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "22/02/2025",
   "fecha": "Feb. 22",
   "serie": "T001",
   "numero": "00013097",
@@ -1134,6 +645,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "22/02/2025",
   "fecha": "Feb. 22",
   "serie": "T001",
   "numero": "00013096",
@@ -1148,6 +660,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "22/02/2025",
   "fecha": "Feb. 22",
   "serie": "T001",
   "numero": "00013095",
@@ -1162,6 +675,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "22/02/2025",
   "fecha": "Feb. 22",
   "serie": "T001",
   "numero": "00013094",
@@ -1176,6 +690,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "22/02/2025",
   "fecha": "Feb. 22",
   "serie": "T001",
   "numero": "00013093",
@@ -1190,6 +705,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "22/02/2025",
   "fecha": "Feb. 22",
   "serie": "T001",
   "numero": "00013092",
@@ -1204,6 +720,7 @@
   "docu": "USER: SOFI"
 },
 {
+  "fechacab": "22/02/2025",
   "fecha": "Feb. 22",
   "serie": "T001",
   "numero": "00013091",
@@ -1218,6 +735,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "22/02/2025",
   "fecha": "Feb. 22",
   "serie": "T001",
   "numero": "00013090",
@@ -1232,6 +750,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "22/02/2025",
   "fecha": "Feb. 22",
   "serie": "T001",
   "numero": "00013089",
@@ -1246,6 +765,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "22/02/2025",
   "fecha": "Feb. 22",
   "serie": "T001",
   "numero": "00013088",
@@ -1260,6 +780,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "24/02/2025",
   "fecha": "Feb. 24",
   "serie": "T001",
   "numero": "00013109",
@@ -1274,6 +795,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "24/02/2025",
   "fecha": "Feb. 24",
   "serie": "T001",
   "numero": "00013108",
@@ -1288,6 +810,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "24/02/2025",
   "fecha": "Feb. 24",
   "serie": "T001",
   "numero": "00013107",
@@ -1302,6 +825,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "24/02/2025",
   "fecha": "Feb. 24",
   "serie": "T001",
   "numero": "00013106",
@@ -1316,6 +840,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "24/02/2025",
   "fecha": "Feb. 24",
   "serie": "T001",
   "numero": "00013105",
@@ -1330,6 +855,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "24/02/2025",
   "fecha": "Feb. 24",
   "serie": "T001",
   "numero": "00013104",
@@ -1344,6 +870,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "24/02/2025",
   "fecha": "Feb. 24",
   "serie": "T001",
   "numero": "00013103",
@@ -1358,6 +885,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "24/02/2025",
   "fecha": "Feb. 24",
   "serie": "T001",
   "numero": "00013102",
@@ -1372,6 +900,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "24/02/2025",
   "fecha": "Feb. 24",
   "serie": "T001",
   "numero": "00013101",
@@ -1386,6 +915,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "24/02/2025",
   "fecha": "Feb. 24",
   "serie": "T001",
   "numero": "00013100",
@@ -1400,6 +930,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013129",
@@ -1414,6 +945,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013128",
@@ -1428,6 +960,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013127",
@@ -1442,6 +975,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013126",
@@ -1456,6 +990,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013125",
@@ -1470,6 +1005,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013124",
@@ -1484,6 +1020,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013123",
@@ -1498,6 +1035,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013122",
@@ -1512,6 +1050,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013121",
@@ -1526,6 +1065,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013120",
@@ -1540,6 +1080,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013119",
@@ -1554,6 +1095,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013118",
@@ -1568,6 +1110,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013117",
@@ -1582,6 +1125,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013116",
@@ -1596,6 +1140,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013115",
@@ -1610,6 +1155,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013114",
@@ -1624,6 +1170,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013113",
@@ -1638,6 +1185,7 @@
   "docu": "USER: SOFI"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013112",
@@ -1652,6 +1200,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013111",
@@ -1666,6 +1215,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "25/02/2025",
   "fecha": "Feb. 25",
   "serie": "T001",
   "numero": "00013110",
@@ -1680,6 +1230,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013147",
@@ -1694,6 +1245,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013146",
@@ -1708,6 +1260,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013145",
@@ -1722,6 +1275,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013144",
@@ -1736,6 +1290,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013143",
@@ -1750,6 +1305,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013142",
@@ -1764,6 +1320,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013141",
@@ -1778,6 +1335,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013140",
@@ -1792,6 +1350,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013139",
@@ -1806,6 +1365,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013138",
@@ -1820,6 +1380,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013137",
@@ -1834,6 +1395,7 @@
   "docu": "USER: SOFI"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013136",
@@ -1848,6 +1410,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013135",
@@ -1862,6 +1425,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013134",
@@ -1876,6 +1440,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013133",
@@ -1890,6 +1455,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013132",
@@ -1904,6 +1470,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013131",
@@ -1918,6 +1485,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "26/02/2025",
   "fecha": "Feb. 26",
   "serie": "T001",
   "numero": "00013130",
@@ -1932,6 +1500,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013161",
@@ -1946,6 +1515,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013160",
@@ -1960,6 +1530,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013159",
@@ -1974,6 +1545,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013158",
@@ -1988,6 +1560,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013157",
@@ -2002,6 +1575,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013156",
@@ -2016,6 +1590,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013155",
@@ -2030,6 +1605,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013154",
@@ -2044,6 +1620,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013153",
@@ -2058,6 +1635,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013152",
@@ -2072,6 +1650,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013151",
@@ -2086,6 +1665,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013150",
@@ -2100,6 +1680,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013149",
@@ -2114,6 +1695,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "27/02/2025",
   "fecha": "Feb. 27",
   "serie": "T001",
   "numero": "00013148",
@@ -2128,6 +1710,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "28/02/2025",
   "fecha": "Feb. 28",
   "serie": "T001",
   "numero": "00013172",
@@ -2142,6 +1725,7 @@
   "docu": "MARH-@K757WY3"
 },
 {
+  "fechacab": "28/02/2025",
   "fecha": "Feb. 28",
   "serie": "T001",
   "numero": "00013171",
@@ -2156,6 +1740,7 @@
   "docu": "MARH-@PN1QSV7"
 },
 {
+  "fechacab": "28/02/2025",
   "fecha": "Feb. 28",
   "serie": "T001",
   "numero": "00013170",
@@ -2170,6 +1755,7 @@
   "docu": "MARH-@PN1QSV6"
 },
 {
+  "fechacab": "28/02/2025",
   "fecha": "Feb. 28",
   "serie": "T001",
   "numero": "00013169",
@@ -2184,6 +1770,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "28/02/2025",
   "fecha": "Feb. 28",
   "serie": "T001",
   "numero": "00013168",
@@ -2198,6 +1785,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "28/02/2025",
   "fecha": "Feb. 28",
   "serie": "T001",
   "numero": "00013167",
@@ -2212,6 +1800,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "28/02/2025",
   "fecha": "Feb. 28",
   "serie": "T001",
   "numero": "00013166",
@@ -2226,6 +1815,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "28/02/2025",
   "fecha": "Feb. 28",
   "serie": "T001",
   "numero": "00013165",
@@ -2240,6 +1830,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "28/02/2025",
   "fecha": "Feb. 28",
   "serie": "T001",
   "numero": "00013164",
@@ -2254,6 +1845,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "28/02/2025",
   "fecha": "Feb. 28",
   "serie": "T001",
   "numero": "00013163",
@@ -2268,6 +1860,7 @@
   "docu": "USER: LIZETH"
 },
 {
+  "fechacab": "28/02/2025",
   "fecha": "Feb. 28",
   "serie": "T001",
   "numero": "00013162",
@@ -2282,6 +1875,7 @@
   "docu": "USER: EDITH"
 },
 {
+  "fechacab": "14/03/2025",
   "fecha": "Mar. 14",
   "serie": "T001",
   "numero": "00013183",
@@ -2296,6 +1890,7 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "14/03/2025",
   "fecha": "Mar. 14",
   "serie": "T001",
   "numero": "00013182",
@@ -2310,6 +1905,7 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "14/03/2025",
   "fecha": "Mar. 14",
   "serie": "T001",
   "numero": "00013181",
@@ -2324,6 +1920,7 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "14/03/2025",
   "fecha": "Mar. 14",
   "serie": "T001",
   "numero": "00013180",
@@ -2338,6 +1935,7 @@
   "docu": "MARH-@WSN0YWK"
 },
 {
+  "fechacab": "14/03/2025",
   "fecha": "Mar. 14",
   "serie": "T001",
   "numero": "00013179",
@@ -2352,6 +1950,7 @@
   "docu": "MARH-@WL5UW88"
 },
 {
+  "fechacab": "14/03/2025",
   "fecha": "Mar. 14",
   "serie": "T001",
   "numero": "00013178",
@@ -2366,6 +1965,7 @@
   "docu": "MARH-@ECO04IP"
 },
 {
+  "fechacab": "14/03/2025",
   "fecha": "Mar. 14",
   "serie": "T001",
   "numero": "00013177",
@@ -2380,6 +1980,7 @@
   "docu": "MARH-@GRS4RL7"
 },
 {
+  "fechacab": "14/03/2025",
   "fecha": "Mar. 14",
   "serie": "T001",
   "numero": "00013176",
@@ -2394,6 +1995,7 @@
   "docu": "MARH-@30SGZXG"
 },
 {
+  "fechacab": "14/03/2025",
   "fecha": "Mar. 14",
   "serie": "T001",
   "numero": "00013175",
@@ -2408,6 +2010,7 @@
   "docu": "MARH-@VULF90R"
 },
 {
+  "fechacab": "14/03/2025",
   "fecha": "Mar. 14",
   "serie": "T001",
   "numero": "00013174",
@@ -2422,6 +2025,7 @@
   "docu": "MARH-@BT5S9GH"
 },
 {
+  "fechacab": "14/03/2025",
   "fecha": "Mar. 14",
   "serie": "T001",
   "numero": "00013173",
@@ -2436,6 +2040,7 @@
   "docu": "MARH-@PNSXQWY"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013202",
@@ -2450,6 +2055,7 @@
   "docu": "MARH-@Q54Y67Z"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013201",
@@ -2464,6 +2070,7 @@
   "docu": "MARH-@QGWFDXW"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013200",
@@ -2478,6 +2085,7 @@
   "docu": "MARH-@BUZ646A"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013199",
@@ -2492,6 +2100,7 @@
   "docu": "MARH-@6ZFE4I0"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013198",
@@ -2506,6 +2115,7 @@
   "docu": "MARH-@E96VWNL"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013197",
@@ -2520,6 +2130,7 @@
   "docu": "MARH-@IVQ84LJ"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013196",
@@ -2534,6 +2145,7 @@
   "docu": "MARH-@O318C4Q"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013195",
@@ -2548,6 +2160,7 @@
   "docu": "MARH-@JUVHL8D"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013194",
@@ -2562,6 +2175,7 @@
   "docu": "MARH-@0NWDFSV"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013193",
@@ -2576,6 +2190,7 @@
   "docu": "MARH-@HGNQYXN"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013192",
@@ -2590,6 +2205,7 @@
   "docu": "MARH-@C15TCYP"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013191",
@@ -2604,6 +2220,7 @@
   "docu": "MARH-@4PSVC5S"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013190",
@@ -2618,6 +2235,7 @@
   "docu": "MARH-@AT2383H"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013189",
@@ -2632,6 +2250,7 @@
   "docu": "MARH-@1VVJFLW"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013188",
@@ -2646,6 +2265,7 @@
   "docu": "MARH-@NF2HQJU"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013187",
@@ -2660,6 +2280,7 @@
   "docu": "MARH-@L7SZVW3"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013186",
@@ -2674,6 +2295,7 @@
   "docu": "MARH-@2WQPGVD"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013185",
@@ -2688,6 +2310,7 @@
   "docu": "MARH-@FNIB1MH"
 },
 {
+  "fechacab": "15/03/2025",
   "fecha": "Mar. 15",
   "serie": "T001",
   "numero": "00013184",
@@ -2702,6 +2325,7 @@
   "docu": "MARH-@3MCMNQN"
 },
 {
+  "fechacab": "18/03/2025",
   "fecha": "Mar. 18",
   "serie": "T001",
   "numero": "00013206",
@@ -2716,6 +2340,7 @@
   "docu": "MARH-@5IYC2Q6"
 },
 {
+  "fechacab": "18/03/2025",
   "fecha": "Mar. 18",
   "serie": "T001",
   "numero": "00013205",
@@ -2730,6 +2355,7 @@
   "docu": "MARH-@JEWBXLP"
 },
 {
+  "fechacab": "18/03/2025",
   "fecha": "Mar. 18",
   "serie": "T001",
   "numero": "00013204",
@@ -2744,6 +2370,7 @@
   "docu": "MARH-@FA0TZUW"
 },
 {
+  "fechacab": "18/03/2025",
   "fecha": "Mar. 18",
   "serie": "T001",
   "numero": "00013203",
