@@ -1,46 +1,52 @@
 [
 {
-  "dia": "Mié.",
-  "fechacab": "Feb. 19"
-},
-{
   "dia": "Jue.",
+  "fecha": "20/02/2025",
   "fechacab": "Feb. 20"
 },
 {
   "dia": "Vie.",
+  "fecha": "21/02/2025",
   "fechacab": "Feb. 21"
 },
 {
   "dia": "Sáb.",
+  "fecha": "22/02/2025",
   "fechacab": "Feb. 22"
 },
 {
   "dia": "Lun.",
+  "fecha": "24/02/2025",
   "fechacab": "Feb. 24"
 },
 {
   "dia": "Mar.",
+  "fecha": "25/02/2025",
   "fechacab": "Feb. 25"
 },
 {
   "dia": "Mié.",
+  "fecha": "26/02/2025",
   "fechacab": "Feb. 26"
 },
 {
   "dia": "Jue.",
+  "fecha": "27/02/2025",
   "fechacab": "Feb. 27"
 },
 {
   "dia": "Vie.",
+  "fecha": "28/02/2025",
   "fechacab": "Feb. 28"
 },
 {
   "dia": "Sáb.",
+  "fecha": "15/03/2025",
   "fechacab": "Mar. 15"
 },
 {
   "dia": "Mar.",
+  "fecha": "18/03/2025",
   "fechacab": "Mar. 18"
 },
 ]
