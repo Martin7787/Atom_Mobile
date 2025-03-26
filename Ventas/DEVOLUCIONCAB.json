@@ -1,6 +1,72 @@
 [
 {
   "serie": "T001",
+  "numero": "00000150",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "226",
+  "tipc": "3.7",
+  "fecha": "12/03/2025",
+  "hora": "01:45 p. m.",
+  "docu": "T001-00013313"
+},
+{
+  "serie": "T001",
+  "numero": "00000149",
+  "nombre": "JEAN PIERRE CUELLAR SALAZAR",
+  "moneda": "PEN",
+  "totguia": "88",
+  "tipc": "3.7",
+  "fecha": "11/03/2025",
+  "hora": "04:54 p. m.",
+  "docu": "T001-00013299"
+},
+{
+  "serie": "T001",
+  "numero": "00000148",
+  "nombre": "JEAN PIERRE CUELLAR SALAZAR",
+  "moneda": "PEN",
+  "totguia": "0.0000",
+  "tipc": "3.7",
+  "fecha": "11/03/2025",
+  "hora": "04:08 p. m.",
+  "docu": "T001-00013299"
+},
+{
+  "serie": "T001",
+  "numero": "00000147",
+  "nombre": "LUIS PASCO ASCORBE",
+  "moneda": "PEN",
+  "totguia": "140",
+  "tipc": "3.7",
+  "fecha": "11/03/2025",
+  "hora": "02:05 p. m.",
+  "docu": "T001-00013298"
+},
+{
+  "serie": "T001",
+  "numero": "00000146",
+  "nombre": "NATIVOS 360",
+  "moneda": "PEN",
+  "totguia": "44.1",
+  "tipc": "3.7",
+  "fecha": "05/03/2025",
+  "hora": "06:15 p. m.",
+  "docu": "T001-00013234"
+},
+{
+  "serie": "T001",
+  "numero": "00000145",
+  "nombre": "VILCA OSTOS HERNAN HUMBERTO",
+  "moneda": "PEN",
+  "totguia": "208",
+  "tipc": "3.7",
+  "fecha": "01/03/2025",
+  "hora": "06:24 p. m.",
+  "docu": "T001-00013186"
+},
+{
+  "serie": "T001",
   "numero": "00000144",
   "nombre": "QUISPE VILLANUEVA OBRIL",
   "moneda": "PEN",
