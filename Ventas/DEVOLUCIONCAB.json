@@ -1,6 +1,17 @@
 [
 {
   "serie": "T001",
+  "numero": "00000151",
+  "nombre": "EFRAIN AMANZO HUAMAN",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.7",
+  "fecha": "26/03/2025",
+  "hora": "04:55 p. m.",
+  "docu": "T001-00013524"
+},
+{
+  "serie": "T001",
   "numero": "00000150",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
