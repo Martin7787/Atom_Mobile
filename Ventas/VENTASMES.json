@@ -6404,4 +6404,19 @@
   "hora": "02:04 p. m.",
   "docu": "USER: LIZETH"
 },
+{
+  "fechacab": "27/03/2025",
+  "fecha": "Mar. 27",
+  "serie": "T001",
+  "numero": "00013537",
+  "nombre": "SEGUNDO AYAY",
+  "moneda": "PEN",
+  "totguia": "380",
+  "acuenta": "380",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "01:16 p. m.",
+  "docu": "MARH-@44H7U26"
+},
 ]
