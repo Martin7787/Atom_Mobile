@@ -1,7 +1,7 @@
 [
 {
-  "numero": "T001-00013101",
-  "fecha": "24/02/2025",
+  "numero": "T001-00013491",
+  "fecha": "22/03/2025",
   "ruc": "44553347",
   "nombre": "MERY LAVERIAN",
   "direccion": "LIMA",
@@ -9,10 +9,10 @@
   "totguia": "310",
   "acuenta": "310",
   "saldo": "0.0000",
-  "tipc": "3.85",
+  "tipc": "3.7",
   "estado": "0",
   "traslado": "0.0000",
-  "obs": "",
+  "obs": "14/15--16/17",
   "codart": "PLT9D-SUNDA",
   "descripcion": "PLATO 9\" DECORADO H Y T \"SUNDA\" (CAJA X  6 DOC)",
   "cajas": "2",
