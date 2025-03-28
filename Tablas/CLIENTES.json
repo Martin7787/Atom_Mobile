@@ -3289,6 +3289,17 @@
   "obs": ""
 },
 {
+  "nombre": "JOSE MIGUEL LIZA PUICAN",
+  "ruc": "07932168",
+  "direccion": "CARABAYLLO",
+  "tipo": "0",
+  "fecha": "27/03/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "PATRICIA RODRIGUEZ",
   "ruc": "07971849",
   "direccion": "LIMA",
@@ -6704,17 +6715,6 @@
   "direccion": "AV. PIURA NRO. 1042 (FRENTE AL HOSTAL KALULO) TUMBES",
   "tipo": "0",
   "fecha": "08/08/2013",
-  "telefono": "",
-  "email": "",
-  "trato": "",
-  "obs": ""
-},
-{
-  "nombre": "HUERTAS OLIVARES PEDRO",
-  "ruc": "10002523715",
-  "direccion": "JUNIN",
-  "tipo": "0",
-  "fecha": "27/03/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -40141,7 +40141,7 @@
 {
   "nombre": "INDUSTRIALIZADORA Y DISTRIBUIDORA DEL NORTE S.A.C.",
   "ruc": "20603849761",
-  "direccion": "CAL.VALENTIN PANIAGUA NRO. 387 SEC. NUEVO HORIZONTE (ESQUINA CON AVENIDA MESONES MURO) CAJAMARCA - JAEN - JAEN",
+  "direccion": "CAL. VALENTIN PANIAGUA SEC. NUEVO HORIZONTE N° 387 CAJAMARCA - JAÉN - JAÉN",
   "tipo": "0",
   "fecha": "13/12/2024",
   "telefono": "",
@@ -42141,6 +42141,17 @@
   "obs": ""
 },
 {
+  "nombre": "CORPORACION CADENA RESTAURANTE DORIS",
+  "ruc": "20608914146",
+  "direccion": "SANTA ANITA",
+  "tipo": "0",
+  "fecha": "28/03/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
   "nombre": "TJ PERU SAC",
   "ruc": "20608924371",
   "direccion": "SANTA ANITA ",
@@ -42905,6 +42916,17 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "10/04/2023",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "GRUPO MANEL SACS",
+  "ruc": "20610448811",
+  "direccion": "CENTRO DE LIMA",
+  "tipo": "0",
+  "fecha": "27/03/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -70493,6 +70515,17 @@
   "direccion": "MAZAMARI SATIPO-JUNIN",
   "tipo": "0",
   "fecha": "04/02/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": ""
+},
+{
+  "nombre": "ALEX RAMOS LANDAURO",
+  "ruc": "74721259",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "28/03/2025",
   "telefono": "",
   "email": "",
   "trato": "",
