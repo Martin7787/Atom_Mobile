@@ -6284,4 +6284,19 @@
   "hora": "10:36 a. m.",
   "docu": "USER: LIZETH"
 },
+{
+  "fechacab": "29/03/2025",
+  "fecha": "Mar. 29",
+  "serie": "T001",
+  "numero": "00013567",
+  "nombre": "GOLD D LEY E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "300",
+  "acuenta": "300",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "12:51 p. m.",
+  "docu": "USER: MARTIN"
+},
 ]
