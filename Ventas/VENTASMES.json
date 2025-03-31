@@ -6119,4 +6119,19 @@
   "hora": "12:51 p. m.",
   "docu": "USER: MARTIN"
 },
+{
+  "fechacab": "31/03/2025",
+  "fecha": "Mar. 31",
+  "serie": "T001",
+  "numero": "00013587",
+  "nombre": "RONALD FRANCISCO LITANO ELIAS",
+  "moneda": "PEN",
+  "totguia": "130",
+  "acuenta": "130",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "12:16 p. m.",
+  "docu": "USER: MARTIN"
+},
 ]
