@@ -6415,4 +6415,20 @@
   "docu": "USER: MARTIN",
   "bloquear": ""
 },
+{
+  "fechacab": "01/04/2025",
+  "fecha": "Abr. 1",
+  "serie": "T001",
+  "numero": "00013595",
+  "nombre": "MENDOZA CORREA AGUSTIN NATIVIDAD",
+  "moneda": "PEN",
+  "totguia": "130",
+  "acuenta": "130",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "02:29 p. m.",
+  "docu": "MARH-@6NO8GME",
+  "bloquear": "@6NO8GME"
+},
 ]
