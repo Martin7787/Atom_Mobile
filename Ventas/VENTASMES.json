@@ -6420,15 +6420,15 @@
   "fecha": "Abr. 1",
   "serie": "T001",
   "numero": "00013595",
-  "nombre": "MENDOZA CORREA AGUSTIN NATIVIDAD",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "130",
-  "acuenta": "130",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
-  "tipc": "3.7",
+  "tipc": "4",
   "estado": "CONTADO",
   "hora": "02:29 p. m.",
-  "docu": "MARH-@6NO8GME",
-  "bloquear": "@6NO8GME"
+  "docu": "MARH-@CSV4CJI",
+  "bloquear": "@CSV4CJI"
 },
 ]
