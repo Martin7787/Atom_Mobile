@@ -6420,16 +6420,16 @@
   "fecha": "Abr. 1",
   "serie": "T001",
   "numero": "00013596",
-  "nombre": "CLIENTES VARIOS",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "65",
-  "acuenta": "65",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
-  "tipc": "3.7",
+  "tipc": "1",
   "estado": "CONTADO",
   "hora": "04:28 p. m.",
-  "docu": "MARH-@1QOJMC7",
-  "bloquear": "@1QOJMC7"
+  "docu": "MARH-@XLS1UIS",
+  "bloquear": "@XLS1UIS"
 },
 {
   "fechacab": "01/04/2025",
