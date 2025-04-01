@@ -6415,4 +6415,20 @@
   "docu": "USER: MARTIN",
   "bloquear": ""
 },
+{
+  "fechacab": "01/04/2025",
+  "fecha": "Abr. 1",
+  "serie": "T001",
+  "numero": "00013595",
+  "nombre": "MONZON QUISPE HONORIO",
+  "moneda": "PEN",
+  "totguia": "232.5",
+  "acuenta": "232.5",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "12:54 p. m.",
+  "docu": "MARH-@NRDSZXS",
+  "bloquear": "@NRDSZXS"
+},
 ]
