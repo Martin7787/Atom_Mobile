@@ -6415,20 +6415,4 @@
   "docu": "USER: MARTIN",
   "bloquear": ""
 },
-{
-  "fechacab": "01/04/2025",
-  "fecha": "Abr. 1",
-  "serie": "T001",
-  "numero": "00013595",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "236",
-  "acuenta": "236",
-  "saldo": "0.0000",
-  "tipc": "3.7",
-  "estado": "CONTADO",
-  "hora": "02:14 p. m.",
-  "docu": "MARH-@D7T7RE7",
-  "bloquear": "@D7T7RE7"
-},
 ]
