@@ -6607,4 +6607,20 @@
   "docu": "MARH-@CSV4CJI",
   "bloquear": "@CSV4CJI"
 },
+{
+  "fechacab": "02/04/2025",
+  "fecha": "Abr. 2",
+  "serie": "T001",
+  "numero": "00013607",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "78.8",
+  "acuenta": "78.8",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "12:34 p. m.",
+  "docu": "MARH-@52KWY5G",
+  "bloquear": "@52KWY5G"
+},
 ]
