@@ -23005,10 +23005,10 @@
   "fecha": "23/11/2021",
   "stock": "STOCK = 1 CAJ  0 DOC  0 UNI",
   "cant": "72",
-  "preciosol": "159.998",
-  "precio": "41.558",
+  "preciosol": "153.772",
+  "precio": "41.56",
   "preciount": "0.0000",
-  "costosol": "130.55",
+  "costosol": "129.5",
   "costodol": "35",
   "undmy": "6",
   "undmn": "12",
@@ -23017,7 +23017,7 @@
   "linea": "LOZAS",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False"
+  "vneg": "True"
 },
 {
   "codart": "PLT7.5RD-MORELLA",
