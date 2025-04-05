@@ -53004,7 +53004,7 @@
   "via": ""
 },
 {
-  "codart": "0021AL",
+  "codart": "0020AL",
   "descripcion": "VASOS DE VIDRIO  (CAJA X 1 DOC)",
   "fecha": "05/04/2025",
   "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
@@ -53022,6 +53022,6 @@
   "cdesc": "0",
   "pdesc": "0",
   "vneg": "False",
-  "via": "@ZONVKRN"
+  "via": "@6K6J1KS"
 },
 ]
