@@ -173,8 +173,8 @@
   "fecha": "13/05/2021",
   "stock": "STOCK = 82 CAJ  0 DOC  6 UNI",
   "cant": "3942",
-  "preciosol": "90.001",
-  "precio": "23.377",
+  "preciosol": "95",
+  "precio": "25.676",
   "preciount": "0.0000",
   "costosol": "64.79",
   "costodol": "17.51",
@@ -185,8 +185,8 @@
   "linea": "YCHI",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "True",
-  "via": ""
+  "vneg": "False",
+  "via": "@T0RQ6HA"
 },
 {
   "codart": "0045AL",
