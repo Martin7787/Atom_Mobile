@@ -5503,4 +5503,20 @@
   "docu": "MARH-@ANW3EI8",
   "bloquear": "@ANW3EI8"
 },
+{
+  "fechacab": "07/04/2025",
+  "fecha": "Abr. 7",
+  "serie": "T001",
+  "numero": "00013613",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "65",
+  "acuenta": "65",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "01:01 p. m.",
+  "docu": "MARH-@KG3795C",
+  "bloquear": "@KG3795C"
+},
 ]
