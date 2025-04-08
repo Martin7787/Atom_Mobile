@@ -5311,4 +5311,20 @@
   "docu": "MARH-@KG3795C",
   "bloquear": "@KG3795C"
 },
+{
+  "fechacab": "08/04/2025",
+  "fecha": "Abr. 8",
+  "serie": "T001",
+  "numero": "00013614",
+  "nombre": "NORMA BEATRIZ FRANCIA VARGAS",
+  "moneda": "PEN",
+  "totguia": "460",
+  "acuenta": "460",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "01:32 p. m.",
+  "docu": "MARH-@ZB2DV2C",
+  "bloquear": "@ZB2DV2C"
+},
 ]
