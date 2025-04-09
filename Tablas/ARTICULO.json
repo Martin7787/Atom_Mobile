@@ -220,6 +220,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "0025AL",
+  "descripcion": "VASOS DE VIDRIO  (CAJA X 1 DOC)",
+  "fecha": "09/04/2025",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "90",
+  "precio": "24.324",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "1",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "VARIOS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "@4UPHJ2X",
+  "bloquear": "false"
+},
+{
   "codart": "0044AL",
   "descripcion": "VASO LEXINGTON BEBIDAS (CAJA X 4 DOC)",
   "fecha": "13/05/2021",
