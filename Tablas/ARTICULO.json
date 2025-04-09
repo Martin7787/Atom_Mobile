@@ -159,8 +159,8 @@
   "fecha": "09/04/2025",
   "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
   "cant": "0",
-  "preciosol": "60",
-  "precio": "16.216",
+  "preciosol": "60.014",
+  "precio": "16.22",
   "preciount": "0.0000",
   "costosol": "0.0000",
   "costodol": "0.0000",
@@ -171,8 +171,8 @@
   "linea": "VARIOS",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
-  "via": "@OKP5BBA",
+  "vneg": "True",
+  "via": "",
   "bloquear": "false"
 },
 {
