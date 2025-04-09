@@ -5359,4 +5359,20 @@
   "docu": "MARH-@7MKOY0J",
   "bloquear": "@7MKOY0J"
 },
+{
+  "fechacab": "09/04/2025",
+  "fecha": "Abr. 9",
+  "serie": "T001",
+  "numero": "00013617",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "180",
+  "acuenta": "180",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "01:04 p. m.",
+  "docu": "MARH-@KUKCNH6",
+  "bloquear": "@KUKCNH6"
+},
 ]
