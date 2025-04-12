@@ -4991,4 +4991,20 @@
   "docu": "MARH-@UFQWQA8",
   "bloquear": "@UFQWQA8"
 },
+{
+  "fechacab": "11/04/2025",
+  "fecha": "Abr. 11",
+  "serie": "T001",
+  "numero": "00013622",
+  "nombre": "GUSTAVO ALFONSO CARRASCO",
+  "moneda": "PEN",
+  "totguia": "995",
+  "acuenta": "995",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "07:33 p. m.",
+  "docu": "MARH-@ELQB0SQ",
+  "bloquear": "@ELQB0SQ"
+},
 ]
