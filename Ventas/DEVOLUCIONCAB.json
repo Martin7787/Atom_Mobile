@@ -685,30 +685,6 @@
 },
 {
   "serie": "T001",
-  "numero": "00000094",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "0.0000",
-  "tipc": "1",
-  "fecha": "05/09/2024",
-  "hora": "06:00 p. m.",
-  "docu": "",
-  "via": "USER: DANTE"
-},
-{
-  "serie": "T001",
-  "numero": "00000093",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "0.0000",
-  "tipc": "1",
-  "fecha": "05/09/2024",
-  "hora": "05:36 p. m.",
-  "docu": "",
-  "via": "USER: SOFI"
-},
-{
-  "serie": "T001",
   "numero": "00000092",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -910,18 +886,6 @@
   "hora": "08:30 p. m.",
   "docu": "T001-00007503",
   "via": "USER: DANTE"
-},
-{
-  "serie": "T001",
-  "numero": "00000075",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "0.0000",
-  "tipc": "1",
-  "fecha": "05/06/2024",
-  "hora": "05:20 p. m.",
-  "docu": "",
-  "via": "USER: EDITH"
 },
 {
   "serie": "T001",
