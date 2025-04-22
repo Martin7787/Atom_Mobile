@@ -49,18 +49,6 @@
 },
 {
   "serie": "T001",
-  "numero": "00000148",
-  "nombre": "JEAN PIERRE CUELLAR SALAZAR",
-  "moneda": "PEN",
-  "totguia": "0.0000",
-  "tipc": "3.7",
-  "fecha": "11/03/2025",
-  "hora": "04:08 p. m.",
-  "docu": "T001-00013299",
-  "via": "USER: SOFI"
-},
-{
-  "serie": "T001",
   "numero": "00000147",
   "nombre": "LUIS PASCO ASCORBE",
   "moneda": "PEN",
