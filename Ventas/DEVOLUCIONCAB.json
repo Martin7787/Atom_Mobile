@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000156",
+  "nombre": "PEPITA PEÑAHERRERA SALDAÑA",
+  "moneda": "PEN",
+  "totguia": "427.5",
+  "tipc": "3.7",
+  "fecha": "25/04/2025",
+  "hora": "07:22 p. m.",
+  "docu": "T001-00013618",
+  "via": "MARH-@TG39JGZ",
+  "bloquear": "MARH-@TG39JGZ"
+},
+{
+  "serie": "T001",
   "numero": "00000155",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
