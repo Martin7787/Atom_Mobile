@@ -1,19 +1,6 @@
 [
 {
   "serie": "T001",
-  "numero": "00000158",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "65",
-  "tipc": "3.7",
-  "fecha": "03/05/2025",
-  "hora": "04:16 p. m.",
-  "docu": "T001-00013611",
-  "via": "USER: MARTIN",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
   "numero": "00000157",
   "nombre": "GUSTAVO ALFONSO CARRASCO",
   "moneda": "PEN",
