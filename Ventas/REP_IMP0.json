@@ -1,8 +1,8 @@
 [
 {
   "resp_error": "Error",
-  "resp_gua": "OK",
-  "resp_imp": "Error",
+  "resp_gua": "Error",
+  "resp_imp": "OK",
   "resp_guia": ""
 },
 ]
