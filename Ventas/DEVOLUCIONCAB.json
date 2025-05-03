@@ -1,19 +1,6 @@
 [
 {
   "serie": "T001",
-  "numero": "00000158",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "65",
-  "tipc": "3.7",
-  "fecha": "03/05/2025",
-  "hora": "05:28 p. m.",
-  "docu": "T001-00013611",
-  "via": "USER: MARTIN",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
   "numero": "00000157",
   "nombre": "GUSTAVO ALFONSO CARRASCO",
   "moneda": "PEN",
@@ -387,6 +374,19 @@
   "hora": "01:56 p. m.",
   "docu": "T001-00011725",
   "via": "USER: LIZETH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
+  "numero": "00000127",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "20",
+  "tipc": "3.85",
+  "fecha": "16/12/2024",
+  "hora": "07:34 p. m.",
+  "docu": "T001-00011597",
+  "via": "USER: SOFI",
   "bloquear": ""
 },
 ]
