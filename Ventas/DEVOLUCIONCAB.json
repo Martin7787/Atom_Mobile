@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000159",
+  "nombre": "DANTE JOEL TOCTO VILLAR",
+  "moneda": "PEN",
+  "totguia": "55",
+  "tipc": "3.7",
+  "fecha": "03/05/2025",
+  "hora": "07:39 p. m.",
+  "docu": "T001-00013612",
+  "via": "MARH-@JLXEMCP",
+  "bloquear": "MARH-@JLXEMCP"
+},
+{
+  "serie": "T001",
   "numero": "00000158",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "02:38 p. m.",
   "docu": "T001-00011758",
   "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000128",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "34.8",
-  "tipc": "3.85",
-  "fecha": "19/12/2024",
-  "hora": "01:56 p. m.",
-  "docu": "T001-00011725",
-  "via": "USER: LIZETH",
   "bloquear": ""
 },
 ]
