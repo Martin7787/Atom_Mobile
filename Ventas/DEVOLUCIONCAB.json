@@ -1,6 +1,32 @@
 [
 {
   "serie": "T001",
+  "numero": "00000162",
+  "nombre": "PEPITA PEÑAHERRERA SALDAÑA",
+  "moneda": "PEN",
+  "totguia": "288",
+  "tipc": "3.7",
+  "fecha": "03/05/2025",
+  "hora": "07:46 p. m.",
+  "docu": "T001-00013618",
+  "via": "MARH-@5OJ934Z",
+  "bloquear": "MARH-@5OJ934Z"
+},
+{
+  "serie": "T001",
+  "numero": "00000161",
+  "nombre": "RUTH LOSTAUNAU RAMOS",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.7",
+  "fecha": "03/05/2025",
+  "hora": "07:45 p. m.",
+  "docu": "T001-00013623",
+  "via": "MARH-@RUCPNK8",
+  "bloquear": "MARH-@RUCPNK8"
+},
+{
+  "serie": "T001",
   "numero": "00000160",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -360,32 +386,6 @@
   "fecha": "27/12/2024",
   "hora": "01:04 p. m.",
   "docu": "T001-00011919",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000131",
-  "nombre": "VILCA OSTOS HERNAN HUMBERTO",
-  "moneda": "PEN",
-  "totguia": "172",
-  "tipc": "3.85",
-  "fecha": "26/12/2024",
-  "hora": "05:45 p. m.",
-  "docu": "T001-00011953",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000130",
-  "nombre": "MARIXA GALLEGOS",
-  "moneda": "PEN",
-  "totguia": "140",
-  "tipc": "3.85",
-  "fecha": "23/12/2024",
-  "hora": "05:38 p. m.",
-  "docu": "T001-00011890",
   "via": "USER: SOFI",
   "bloquear": ""
 },
