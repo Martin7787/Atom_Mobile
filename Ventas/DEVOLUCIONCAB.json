@@ -4,13 +4,13 @@
   "numero": "00000167",
   "nombre": "JUDITH ELENA CESPEDES DIAZ",
   "moneda": "PEN",
-  "totguia": "52.5",
+  "totguia": "105",
   "tipc": "3.7",
   "fecha": "05/05/2025",
   "hora": "02:51 p. m.",
   "docu": "T001-00013606",
-  "via": "MARH-@A613NGW",
-  "bloquear": "MARH-@A613NGW"
+  "via": "MARH-@0VOIW86",
+  "bloquear": "MARH-@0VOIW86"
 },
 {
   "serie": "T001",
@@ -30,13 +30,13 @@
   "numero": "00000165",
   "nombre": "DANTE JOEL TOCTO VILLAR",
   "moneda": "PEN",
-  "totguia": "60",
+  "totguia": "120",
   "tipc": "3.7",
   "fecha": "05/05/2025",
   "hora": "01:13 p. m.",
   "docu": "T001-00013608",
-  "via": "MARH-@X4T40YD",
-  "bloquear": "MARH-@X4T40YD"
+  "via": "MARH-@4MYLUI2",
+  "bloquear": "MARH-@4MYLUI2"
 },
 {
   "serie": "T001",
@@ -389,4 +389,3 @@
   "via": "USER: EDITH",
   "bloquear": ""
 },
-]
