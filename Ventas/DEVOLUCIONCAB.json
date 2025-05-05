@@ -1,19 +1,6 @@
 [
 {
   "serie": "T001",
-  "numero": "00000169",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "65",
-  "tipc": "3.7",
-  "fecha": "05/05/2025",
-  "hora": "03:12 p. m.",
-  "docu": "T001-00013610",
-  "via": "MARH-@EU9KZN5",
-  "bloquear": "MARH-@EU9KZN5"
-},
-{
-  "serie": "T001",
   "numero": "00000168",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -386,6 +373,19 @@
   "fecha": "01/02/2025",
   "hora": "05:51 p. m.",
   "docu": "T001-00012765",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
+  "numero": "00000138",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "100",
+  "tipc": "3.85",
+  "fecha": "24/01/2025",
+  "hora": "11:50 a. m.",
+  "docu": "T001-00012588",
   "via": "USER: SOFI",
   "bloquear": ""
 },
