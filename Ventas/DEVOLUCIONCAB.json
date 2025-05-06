@@ -1,19 +1,6 @@
 [
 {
   "serie": "T001",
-  "numero": "00000168",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "55",
-  "tipc": "3.7",
-  "fecha": "05/05/2025",
-  "hora": "03:12 p. m.",
-  "docu": "T001-00013620",
-  "via": "MARH-@Z0CJKJG",
-  "bloquear": "MARH-@Z0CJKJG"
-},
-{
-  "serie": "T001",
   "numero": "00000167",
   "nombre": "JUDITH ELENA CESPEDES DIAZ",
   "moneda": "PEN",
@@ -387,6 +374,19 @@
   "hora": "11:50 a. m.",
   "docu": "T001-00012588",
   "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
+  "numero": "00000137",
+  "nombre": "AVILEZ GUTIERREZ ULISES",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.85",
+  "fecha": "14/01/2025",
+  "hora": "04:01 p. m.",
+  "docu": "T001-00012437",
+  "via": "USER: EDITH",
   "bloquear": ""
 },
 ]
