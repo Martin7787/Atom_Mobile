@@ -1,19 +1,6 @@
 [
 {
   "serie": "T001",
-  "numero": "00000166",
-  "nombre": "GUSTAVO ALFONSO CARRASCO",
-  "moneda": "PEN",
-  "totguia": "585",
-  "tipc": "3.7",
-  "fecha": "06/05/2025",
-  "hora": "02:19 p. m.",
-  "docu": "T001-00013622",
-  "via": "MARH-@0ME33PQ",
-  "bloquear": "MARH-@0ME33PQ"
-},
-{
-  "serie": "T001",
   "numero": "00000165",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -387,6 +374,19 @@
   "hora": "10:55 a. m.",
   "docu": "T001-00010842",
   "via": "USER: LIZETH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
+  "numero": "00000135",
+  "nombre": "FLOR BALTAZAR MEDRANO",
+  "moneda": "PEN",
+  "totguia": "140",
+  "tipc": "3.85",
+  "fecha": "04/01/2025",
+  "hora": "03:25 p. m.",
+  "docu": "T001-00012236",
+  "via": "USER: SOFI",
   "bloquear": ""
 },
 ]
