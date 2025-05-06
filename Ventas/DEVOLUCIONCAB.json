@@ -1,19 +1,6 @@
 [
 {
   "serie": "T001",
-  "numero": "00000166",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "55",
-  "tipc": "3.7",
-  "fecha": "05/05/2025",
-  "hora": "08:23 p. m.",
-  "docu": "T001-00013620",
-  "via": "MARH-@OD9W98K",
-  "bloquear": "MARH-@OD9W98K"
-},
-{
-  "serie": "T001",
   "numero": "00000165",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -387,6 +374,19 @@
   "hora": "10:55 a. m.",
   "docu": "T001-00010842",
   "via": "USER: LIZETH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
+  "numero": "00000135",
+  "nombre": "FLOR BALTAZAR MEDRANO",
+  "moneda": "PEN",
+  "totguia": "140",
+  "tipc": "3.85",
+  "fecha": "04/01/2025",
+  "hora": "03:25 p. m.",
+  "docu": "T001-00012236",
+  "via": "USER: SOFI",
   "bloquear": ""
 },
 ]
