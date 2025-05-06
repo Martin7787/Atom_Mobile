@@ -255,4 +255,20 @@
   "docu": "MARH-@5J3RAE7",
   "bloquear": "@5J3RAE7"
 },
+{
+  "fechacab": "06/05/2025",
+  "fecha": "May. 6",
+  "serie": "T001",
+  "numero": "00013629",
+  "nombre": "BLANCA CHOQUEHUANCA TINTAYA",
+  "moneda": "PEN",
+  "totguia": "270",
+  "acuenta": "270",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "06:03 p. m.",
+  "docu": "MARH-@RQ77EHN",
+  "bloquear": "@RQ77EHN"
+},
 ]
