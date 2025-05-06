@@ -1,19 +1,6 @@
 [
 {
   "serie": "T001",
-  "numero": "00000167",
-  "nombre": "JUDITH ELENA CESPEDES DIAZ",
-  "moneda": "PEN",
-  "totguia": "105",
-  "tipc": "3.7",
-  "fecha": "05/05/2025",
-  "hora": "02:51 p. m.",
-  "docu": "T001-00013606",
-  "via": "MARH-@0VOIW86",
-  "bloquear": "MARH-@0VOIW86"
-},
-{
-  "serie": "T001",
   "numero": "00000166",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -387,6 +374,19 @@
   "hora": "04:01 p. m.",
   "docu": "T001-00012437",
   "via": "USER: EDITH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
+  "numero": "00000136",
+  "nombre": "NEGOCIACIONES DANY E INVERSIONES E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.85",
+  "fecha": "09/01/2025",
+  "hora": "10:55 a. m.",
+  "docu": "T001-00010842",
+  "via": "USER: LIZETH",
   "bloquear": ""
 },
 ]
