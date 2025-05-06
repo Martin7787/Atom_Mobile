@@ -1,6 +1,32 @@
 [
 {
   "serie": "T001",
+  "numero": "00000164",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "65",
+  "tipc": "3.7",
+  "fecha": "06/05/2025",
+  "hora": "04:55 p. m.",
+  "docu": "T001-00013609",
+  "via": "MARH-@K31X7VJ",
+  "bloquear": "MARH-@K31X7VJ"
+},
+{
+  "serie": "T001",
+  "numero": "00000163",
+  "nombre": "GUSTAVO ALFONSO CARRASCO",
+  "moneda": "PEN",
+  "totguia": "750.6",
+  "tipc": "3.7",
+  "fecha": "06/05/2025",
+  "hora": "04:55 p. m.",
+  "docu": "T001-00013622",
+  "via": "MARH-@NVX0JN2",
+  "bloquear": "MARH-@NVX0JN2"
+},
+{
+  "serie": "T001",
   "numero": "00000162",
   "nombre": "PEPITA PEÑAHERRERA SALDAÑA",
   "moneda": "PEN",
@@ -361,32 +387,6 @@
   "hora": "01:40 p. m.",
   "docu": "T001-00012179",
   "via": "USER: EDITH",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000133",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.85",
-  "fecha": "30/12/2024",
-  "hora": "03:15 p. m.",
-  "docu": "T001-00012118",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000132",
-  "nombre": "IMPORTACIONES Y DISTRIBUCIONES AZES E.I.R.L.",
-  "moneda": "PEN",
-  "totguia": "126",
-  "tipc": "3.85",
-  "fecha": "27/12/2024",
-  "hora": "01:04 p. m.",
-  "docu": "T001-00011919",
-  "via": "USER: SOFI",
   "bloquear": ""
 },
 ]
