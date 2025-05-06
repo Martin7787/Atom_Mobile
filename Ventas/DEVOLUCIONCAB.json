@@ -1,19 +1,6 @@
 [
 {
   "serie": "T001",
-  "numero": "00000163",
-  "nombre": "DANTE JOEL TOCTO VILLAR",
-  "moneda": "PEN",
-  "totguia": "130",
-  "tipc": "3.7",
-  "fecha": "03/05/2025",
-  "hora": "08:49 p. m.",
-  "docu": "T001-00013624",
-  "via": "USER: MARTIN",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
   "numero": "00000162",
   "nombre": "PEPITA PEÑAHERRERA SALDAÑA",
   "moneda": "PEN",
@@ -386,6 +373,19 @@
   "fecha": "30/12/2024",
   "hora": "03:15 p. m.",
   "docu": "T001-00012118",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
+  "numero": "00000132",
+  "nombre": "IMPORTACIONES Y DISTRIBUCIONES AZES E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "126",
+  "tipc": "3.85",
+  "fecha": "27/12/2024",
+  "hora": "01:04 p. m.",
+  "docu": "T001-00011919",
   "via": "USER: SOFI",
   "bloquear": ""
 },
