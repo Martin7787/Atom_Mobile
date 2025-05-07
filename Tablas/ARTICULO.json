@@ -35843,10 +35843,10 @@
   "fecha": "16/09/2023",
   "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
   "cant": "0",
-  "preciosol": "101.7",
+  "preciosol": "97.68",
   "precio": "26.4",
   "preciount": "0.0000",
-  "costosol": "75",
+  "costosol": "72.71",
   "costodol": "19.65",
   "undmy": "30",
   "undmn": "1",
@@ -35855,8 +35855,8 @@
   "linea": "LOZAS",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
-  "via": "",
+  "vneg": "True",
+  "via": "@TMD98LG",
   "bloquear": "false"
 },
 {
