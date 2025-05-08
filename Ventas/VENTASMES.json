@@ -335,4 +335,20 @@
   "docu": "MARH-@W8J0JLG",
   "bloquear": "@W8J0JLG"
 },
+{
+  "fechacab": "08/05/2025",
+  "fecha": "May. 8",
+  "serie": "T001",
+  "numero": "00013635",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "450",
+  "acuenta": "450",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "01:13 p. m.",
+  "docu": "MARH-@K9XPW00",
+  "bloquear": "@K9XPW00"
+},
 ]
