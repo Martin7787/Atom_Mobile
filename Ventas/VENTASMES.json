@@ -340,16 +340,16 @@
   "fecha": "May. 7",
   "serie": "T001",
   "numero": "00013637",
-  "nombre": "CELESTINO RODRIGUEZ MORI",
+  "nombre": "PALACIOS FARIAS, JORGE",
   "moneda": "PEN",
-  "totguia": "150",
-  "acuenta": "150",
+  "totguia": "290",
+  "acuenta": "290",
   "saldo": "0.0000",
   "tipc": "3.75",
-  "estado": "GIRO",
+  "estado": "CRÉDITO",
   "hora": "05:54 p. m.",
-  "docu": "MARH-@OUQKLAU",
-  "bloquear": "@OUQKLAU"
+  "docu": "MARH-@EI2S6YT",
+  "bloquear": "@EI2S6YT"
 },
 {
   "fechacab": "07/05/2025",
