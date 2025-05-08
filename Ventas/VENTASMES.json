@@ -340,16 +340,16 @@
   "fecha": "May. 7",
   "serie": "T001",
   "numero": "00013637",
-  "nombre": "SEVERINO APOLINARIO JACINTO QUEREVALO",
+  "nombre": "CELESTINO RODRIGUEZ MORI",
   "moneda": "PEN",
-  "totguia": "345",
-  "acuenta": "345",
+  "totguia": "150",
+  "acuenta": "150",
   "saldo": "0.0000",
-  "tipc": "3.7",
-  "estado": "CONTADO",
+  "tipc": "3.75",
+  "estado": "GIRO",
   "hora": "05:54 p. m.",
-  "docu": "MARH-@8ANXBNT",
-  "bloquear": "@8ANXBNT"
+  "docu": "MARH-@OUQKLAU",
+  "bloquear": "@OUQKLAU"
 },
 {
   "fechacab": "07/05/2025",
