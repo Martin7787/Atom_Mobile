@@ -340,15 +340,15 @@
   "fecha": "May. 8",
   "serie": "T001",
   "numero": "00013635",
-  "nombre": "CLIENTES VARIOS",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "450",
-  "acuenta": "450",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "01:13 p. m.",
-  "docu": "MARH-@K9XPW00",
-  "bloquear": "@K9XPW00"
+  "docu": "MARH-@6UUKPH8",
+  "bloquear": "@6UUKPH8"
 },
 ]
