@@ -1,25 +1,5 @@
 [
 {
-  "dia": "Mar.",
-  "fecha": "08/04/2025",
-  "fechacab": "Abr. 8"
-},
-{
-  "dia": "Mié.",
-  "fecha": "09/04/2025",
-  "fechacab": "Abr. 9"
-},
-{
-  "dia": "Jue.",
-  "fecha": "10/04/2025",
-  "fechacab": "Abr. 10"
-},
-{
-  "dia": "Vie.",
-  "fecha": "11/04/2025",
-  "fechacab": "Abr. 11"
-},
-{
   "dia": "Mié.",
   "fecha": "16/04/2025",
   "fechacab": "Abr. 16"
@@ -40,7 +20,7 @@
   "fechacab": "May. 7"
 },
 {
-  "dia": "Hoy",
+  "dia": "Jue.",
   "fecha": "08/05/2025",
   "fechacab": "May. 8"
 },
