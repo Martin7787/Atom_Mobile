@@ -59722,16 +59722,29 @@
   "bloquear": "false"
 },
 {
+  "nombre": "NÉSTOR WILMER AYRA",
+  "ruc": "40534122",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "14/05/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "@2WNQ92Q",
+  "bloquear": "false"
+},
+{
   "nombre": "DANTE JOEL TOCTO VILLAR",
   "ruc": "40534136",
-  "direccion": "LIMA-COMAS",
+  "direccion": "LIMA-SAN JUAN DE LURIGANCHO",
   "tipo": "0",
   "fecha": "08/01/2022",
   "telefono": "",
   "email": "",
   "trato": "",
   "obs": "",
-  "via": "@K2ZA54A",
+  "via": "@1D4NW5C",
   "bloquear": "false"
 },
 {
