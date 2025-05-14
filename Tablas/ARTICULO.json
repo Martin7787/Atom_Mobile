@@ -132,6 +132,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "0019AQ",
+  "descripcion": "VASOS DE AGUA  (CAJA X 1 DOC)",
+  "fecha": "14/05/2025",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "50",
+  "precio": "13.514",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "1",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "VARIOS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "-",
+  "bloquear": "false"
+},
+{
   "codart": "0020AL",
   "descripcion": "VASOS DE AGUA  (CAJA X 1 DOC)",
   "fecha": "09/04/2025",
