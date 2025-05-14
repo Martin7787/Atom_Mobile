@@ -506,6 +506,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "0122AQ",
+  "descripcion": "VASOS DE VIDRIO  (CAJA X 1 DOC)",
+  "fecha": "14/05/2025",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "60",
+  "precio": "16.216",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "1",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "VARIOS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "-",
+  "bloquear": "false"
+},
+{
   "codart": "0124AL",
   "descripcion": "VASO LISO HERRADURA 11.3OZ CRISTAR (CAJA X  4 DOC)",
   "fecha": "15/12/2021",
