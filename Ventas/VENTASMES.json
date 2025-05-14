@@ -287,4 +287,36 @@
   "docu": "MARH-@IJI3COJ",
   "bloquear": "@IJI3COJ"
 },
+{
+  "fechacab": "14/05/2025",
+  "fecha": "May. 14",
+  "serie": "T001",
+  "numero": "00013642",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "130",
+  "acuenta": "130",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "06:43 p. m.",
+  "docu": "MARM-@LJ6U17X",
+  "bloquear": "@LJ6U17X"
+},
+{
+  "fechacab": "14/05/2025",
+  "fecha": "May. 14",
+  "serie": "T001",
+  "numero": "00013641",
+  "nombre": "JUDITH ELENA CESPEDES DIAZ",
+  "moneda": "PEN",
+  "totguia": "1045",
+  "acuenta": "1045",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "06:43 p. m.",
+  "docu": "MARM-@TF4F3GR",
+  "bloquear": "@TF4F3GR"
+},
 ]
