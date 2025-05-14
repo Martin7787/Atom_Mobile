@@ -247,8 +247,8 @@
   "fecha": "13/05/2021",
   "stock": "STOCK = 70 CAJ  0 DOC  0 UNI",
   "cant": "3360",
-  "preciosol": "96",
-  "precio": "25.946",
+  "preciosol": "95",
+  "precio": "25.676",
   "preciount": "0.0000",
   "costosol": "64.79",
   "costodol": "17.51",
@@ -259,8 +259,8 @@
   "linea": "YCHI",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
-  "via": "@D1WFS2B",
+  "vneg": "True",
+  "via": "-",
   "bloquear": "false"
 },
 {
