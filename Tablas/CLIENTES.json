@@ -44098,7 +44098,7 @@
 {
   "nombre": "FATVING S.A.C.",
   "ruc": "20547490666",
-  "direccion": "CAL.FRANCISCO LAZO NRO. 1777 DPTO. 501 LIMA - LIMA - LINCE",
+  "direccion": "SURCO",
   "tipo": "0",
   "fecha": "13/11/2018",
   "telefono": "",
@@ -75145,6 +75145,19 @@
   "direccion": "ASOC BASILIO AUQUI MZB LOTE 14 - AYACUCHO - HUAMANGA",
   "tipo": "0",
   "fecha": "23/06/2021",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "JORGE LUIS",
+  "ruc": "45462163",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "21/05/2025",
   "telefono": "",
   "email": "",
   "trato": "",
