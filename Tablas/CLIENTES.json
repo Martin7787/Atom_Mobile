@@ -28782,6 +28782,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MARIA DE LOS ANGELES ",
+  "ruc": "10463282078",
+  "direccion": "CERCADO DE LIMA",
+  "tipo": "0",
+  "fecha": "21/05/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "PEREZ HUAROTO YENDY RITA",
   "ruc": "10463523571",
   "direccion": "CAL. AMAZONAS NRO. 218 ICA-ICA - ICA -",
@@ -85038,6 +85051,19 @@
   "direccion": "CHINCHA",
   "tipo": "0",
   "fecha": "08/05/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "CARLA PALACIOS",
+  "ruc": "72481037",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "21/05/2025",
   "telefono": "",
   "email": "",
   "trato": "",
