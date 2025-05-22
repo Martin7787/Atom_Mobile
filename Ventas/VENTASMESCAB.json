@@ -1,6 +1,61 @@
 [
 {
   "dia": "Mar.",
+  "fecha": "22/04/2025",
+  "fechacab": "Abr. 22"
+},
+{
+  "dia": "Mié.",
+  "fecha": "23/04/2025",
+  "fechacab": "Abr. 23"
+},
+{
+  "dia": "Jue.",
+  "fecha": "24/04/2025",
+  "fechacab": "Abr. 24"
+},
+{
+  "dia": "Vie.",
+  "fecha": "25/04/2025",
+  "fechacab": "Abr. 25"
+},
+{
+  "dia": "Sáb.",
+  "fecha": "26/04/2025",
+  "fechacab": "Abr. 26"
+},
+{
+  "dia": "Lun.",
+  "fecha": "28/04/2025",
+  "fechacab": "Abr. 28"
+},
+{
+  "dia": "Mar.",
+  "fecha": "29/04/2025",
+  "fechacab": "Abr. 29"
+},
+{
+  "dia": "Mié.",
+  "fecha": "30/04/2025",
+  "fechacab": "Abr. 30"
+},
+{
+  "dia": "Vie.",
+  "fecha": "02/05/2025",
+  "fechacab": "May. 2"
+},
+{
+  "dia": "Sáb.",
+  "fecha": "03/05/2025",
+  "fechacab": "May. 3"
+},
+{
+  "dia": "Lun.",
+  "fecha": "05/05/2025",
+  "fechacab": "May. 5"
+},
+{
+  "dia": "Mar.",
   "fecha": "06/05/2025",
   "fechacab": "May. 6"
 },
@@ -15,6 +70,21 @@
   "fechacab": "May. 8"
 },
 {
+  "dia": "Vie.",
+  "fecha": "09/05/2025",
+  "fechacab": "May. 9"
+},
+{
+  "dia": "Sáb.",
+  "fecha": "10/05/2025",
+  "fechacab": "May. 10"
+},
+{
+  "dia": "Lun.",
+  "fecha": "12/05/2025",
+  "fechacab": "May. 12"
+},
+{
   "dia": "Mar.",
   "fecha": "13/05/2025",
   "fechacab": "May. 13"
@@ -23,5 +93,35 @@
   "dia": "Mié.",
   "fecha": "14/05/2025",
   "fechacab": "May. 14"
+},
+{
+  "dia": "Jue.",
+  "fecha": "15/05/2025",
+  "fechacab": "May. 15"
+},
+{
+  "dia": "Vie.",
+  "fecha": "16/05/2025",
+  "fechacab": "May. 16"
+},
+{
+  "dia": "Sáb.",
+  "fecha": "17/05/2025",
+  "fechacab": "May. 17"
+},
+{
+  "dia": "Lun.",
+  "fecha": "19/05/2025",
+  "fechacab": "May. 19"
+},
+{
+  "dia": "Mar.",
+  "fecha": "20/05/2025",
+  "fechacab": "May. 20"
+},
+{
+  "dia": "Mié.",
+  "fecha": "21/05/2025",
+  "fechacab": "May. 21"
 },
 ]
