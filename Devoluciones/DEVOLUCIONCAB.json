@@ -1,19 +1,6 @@
 [
 {
   "serie": "T001",
-  "numero": "00000179",
-  "nombre": "INVERSIONES BRIDEY RIVAS S.R.L.",
-  "moneda": "PEN",
-  "totguia": "270.7",
-  "tipc": "3.7",
-  "fecha": "21/05/2025",
-  "hora": "07:27 p. m.",
-  "docu": "T001-00015007",
-  "via": "USER: MARTIN",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
   "numero": "00000178",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -386,6 +373,19 @@
   "fecha": "12/03/2025",
   "hora": "01:45 p. m.",
   "docu": "T001-00013313",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
+  "numero": "00000149",
+  "nombre": "JEAN PIERRE CUELLAR SALAZAR",
+  "moneda": "PEN",
+  "totguia": "88",
+  "tipc": "3.7",
+  "fecha": "11/03/2025",
+  "hora": "04:54 p. m.",
+  "docu": "T001-00013299",
   "via": "USER: SOFI",
   "bloquear": ""
 },
