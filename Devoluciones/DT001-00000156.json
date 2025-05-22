@@ -1,18 +1,28 @@
 [
 {
   "numero": "T001-00000156",
+<<<<<<< HEAD
   "fecha": "25/04/2025",
   "ruc": "00965192",
   "nombre": "PEPITA PEÑAHERRERA SALDAÑA",
   "direccion": "SAN HILARION SAN MARTIN",
   "moneda": "0",
   "totguia": "427.5",
+=======
+  "fecha": "05/04/2025",
+  "ruc": "10432938498",
+  "nombre": "DIAZ VARA JESUS",
+  "direccion": "CHANCAY",
+  "moneda": "0",
+  "totguia": "200",
+>>>>>>> b69cd85bf8ed3df098f38c4e7c9a7bd8e247da63
   "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.7",
   "estado": "0",
   "traslado": "0.0000",
   "obs": "",
+<<<<<<< HEAD
   "codart": "0020AL",
   "descripcion": "VASOS DE AGUA  (CAJA X 1 DOC)",
   "cajas": "2",
@@ -22,10 +32,22 @@
   "total": "180.00",
   "cant": "24",
   "undmy": "1",
+=======
+  "codart": "0375AL",
+  "descripcion": "VASO AV LISO LISBOA 16OZ (CAJA X 2 DOC)",
+  "cajas": "4",
+  "doce": "0",
+  "unidad": "0",
+  "vunit": "50.00",
+  "total": "200.00",
+  "cant": "96",
+  "undmy": "2",
+>>>>>>> b69cd85bf8ed3df098f38c4e7c9a7bd8e247da63
   "undmn": "12",
   "leymy": "DOC",
   "leymn": "UND",
   "aux": "0",
+<<<<<<< HEAD
   "cunit": "7.5",
   "cantimp": "2 CAJ",
   "vacio1": "",
@@ -50,6 +72,10 @@
   "aux": "36",
   "cunit": "1.875",
   "cantimp": "2 CAJ + 36 UND",
+=======
+  "cunit": "2.08333333333333",
+  "cantimp": "4 CAJ",
+>>>>>>> b69cd85bf8ed3df098f38c4e7c9a7bd8e247da63
   "vacio1": "",
   "vacio2": "",
   "auto": "",

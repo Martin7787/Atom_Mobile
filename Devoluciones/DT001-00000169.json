@@ -1,28 +1,18 @@
 [
 {
   "numero": "T001-00000160",
-<<<<<<< HEAD
   "fecha": "03/05/2025",
   "ruc": "00000000",
   "nombre": "CLIENTES VARIOS",
   "direccion": "LIMA",
   "moneda": "0",
   "totguia": "65",
-=======
-  "fecha": "23/04/2025",
-  "ruc": "43361793",
-  "nombre": "MARINA MONTALVAN TACURE",
-  "direccion": "CARABAYLLO - COMAS - LIMA",
-  "moneda": "0",
-  "totguia": "90.01",
->>>>>>> b69cd85bf8ed3df098f38c4e7c9a7bd8e247da63
   "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.7",
   "estado": "0",
   "traslado": "0.0000",
   "obs": "",
-<<<<<<< HEAD
   "codart": "VELERO",
   "descripcion": "VASOS DE VIDRIO VELERO (CAJA X  12 SET)",
   "cajas": "1",
@@ -37,22 +27,6 @@
   "leymn": "UND",
   "aux": "0",
   "cunit": "5.41666666666667",
-=======
-  "codart": "0668AL",
-  "descripcion": "VASO VERONA (CAJA X 4 DOC)",
-  "cajas": "1",
-  "doce": "0",
-  "unidad": "0",
-  "vunit": "90.01",
-  "total": "90.01",
-  "cant": "48",
-  "undmy": "4",
-  "undmn": "12",
-  "leymy": "DOC",
-  "leymn": "UND",
-  "aux": "0",
-  "cunit": "1.87520833333333",
->>>>>>> b69cd85bf8ed3df098f38c4e7c9a7bd8e247da63
   "cantimp": "1 CAJ",
   "vacio1": "",
   "vacio2": "",

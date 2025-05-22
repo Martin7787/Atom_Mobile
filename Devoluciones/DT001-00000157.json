@@ -1,18 +1,28 @@
 [
 {
   "numero": "T001-00000157",
+<<<<<<< HEAD
   "fecha": "03/05/2025",
   "ruc": "49013157",
   "nombre": "GUSTAVO ALFONSO CARRASCO",
   "direccion": "LA LIBERTAD",
   "moneda": "0",
   "totguia": "316",
+=======
+  "fecha": "07/04/2025",
+  "ruc": "75199042",
+  "nombre": "YANEYLA GUADALUPE CONDORI HUANCA",
+  "direccion": "BARRIO DE DIOS HUANCAROP-CUZCO SANTIAGO",
+  "moneda": "0",
+  "totguia": "290",
+>>>>>>> b69cd85bf8ed3df098f38c4e7c9a7bd8e247da63
   "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.7",
   "estado": "0",
   "traslado": "0.0000",
   "obs": "",
+<<<<<<< HEAD
   "codart": "PLT9DH-SUNDA",
   "descripcion": "PLATO 9\" HONDO LISO SUNDA (CAJA X  72 UND)",
   "cajas": "2",
@@ -28,6 +38,23 @@
   "aux": "0",
   "cunit": "2.19444444444444",
   "cantimp": "2 CAJ",
+=======
+  "codart": "SM25-30A",
+  "descripcion": "JARRO MAMA (CAJA X  4 DOC)",
+  "cajas": "1",
+  "doce": "0",
+  "unidad": "0",
+  "vunit": "290.00",
+  "total": "290.00",
+  "cant": "48",
+  "undmy": "4",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "aux": "0",
+  "cunit": "6.04166666666667",
+  "cantimp": "1 CAJ",
+>>>>>>> b69cd85bf8ed3df098f38c4e7c9a7bd8e247da63
   "vacio1": "",
   "vacio2": "",
   "auto": "",
