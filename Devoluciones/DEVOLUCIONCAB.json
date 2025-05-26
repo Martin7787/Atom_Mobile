@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000180",
+  "nombre": "JUNIOR ABAD ",
+  "moneda": "PEN",
+  "totguia": "75",
+  "tipc": "3.7",
+  "fecha": "24/05/2025",
+  "hora": "04:54 p. m.",
+  "docu": "T001-00015070",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000179",
   "nombre": "CAHUANA SOTO DANIEL SANTOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "26/03/2025",
   "hora": "04:55 p. m.",
   "docu": "T001-00013524",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000150",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "226",
-  "tipc": "3.7",
-  "fecha": "12/03/2025",
-  "hora": "01:45 p. m.",
-  "docu": "T001-00013313",
   "via": "USER: SOFI",
   "bloquear": ""
 },
