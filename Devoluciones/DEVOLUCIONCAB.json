@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000184",
+  "nombre": "LUIS HECTOR PICHIHUA SOLANO",
+  "moneda": "PEN",
+  "totguia": "95",
+  "tipc": "3.7",
+  "fecha": "02/06/2025",
+  "hora": "04:46 p. m.",
+  "docu": "T001-00015227",
+  "via": "USER: MARTIN",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000183",
   "nombre": "FABIO ANDIA GUIZADO",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "04/04/2025",
   "hora": "06:11 p. m.",
   "docu": "T001-00013621",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000154",
-  "nombre": "DEYSI ÑAUPA",
-  "moneda": "PEN",
-  "totguia": "115",
-  "tipc": "3.7",
-  "fecha": "01/04/2025",
-  "hora": "06:44 p. m.",
-  "docu": "T001-00013638",
   "via": "USER: SOFI",
   "bloquear": ""
 },
