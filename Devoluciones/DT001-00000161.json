@@ -1,38 +1,18 @@
 [
 {
   "numero": "T001-00000161",
-<<<<<<< HEAD
-  "fecha": "03/05/2025",
-  "ruc": "49013155",
-  "nombre": "RUTH LOSTAUNAU RAMOS",
-  "direccion": "CALLAO CALLAO CARMEN DE LA LEGUA REYNOSO",
-  "moneda": "0",
-  "totguia": "365",
-=======
   "fecha": "23/04/2025",
   "ruc": "07495893",
   "nombre": "ERLINDA LOA MONTOYA",
   "direccion": "LIMA",
   "moneda": "0",
   "totguia": "145",
->>>>>>> b69cd85bf8ed3df098f38c4e7c9a7bd8e247da63
   "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.7",
   "estado": "0",
   "traslado": "0.0000",
   "obs": "",
-<<<<<<< HEAD
-  "codart": "JRECTO",
-  "descripcion": "JARROS RECTO DECORADO GALLERY  11OZ (CAJA X  4 DOC)",
-  "cajas": "3",
-  "doce": "0",
-  "unidad": "0",
-  "vunit": "100.00",
-  "total": "300.00",
-  "cant": "144",
-  "undmy": "4",
-=======
   "codart": "PLT10.5CW-GALLERY",
   "descripcion": "PLATO 10.5\" CUADRADO BLANCO GALLERY (CAJA X  3 DOC)",
   "cajas": "1",
@@ -42,38 +22,11 @@
   "total": "145.00",
   "cant": "36",
   "undmy": "3",
->>>>>>> b69cd85bf8ed3df098f38c4e7c9a7bd8e247da63
   "undmn": "12",
   "leymy": "DOC",
   "leymn": "UND",
   "aux": "0",
-<<<<<<< HEAD
-  "cunit": "2.08333333333333",
-  "cantimp": "3 CAJ",
-  "vacio1": "",
-  "vacio2": "",
-  "auto": "",
-  "preal": "0.0000",
-  "punidad": "0.0000"
-},
-{
-  "codart": "VELERO",
-  "descripcion": "VASOS DE VIDRIO VELERO (CAJA X  12 SET)",
-  "cajas": "1",
-  "doce": "0",
-  "unidad": "0",
-  "vunit": "65.00",
-  "total": "65.00",
-  "cant": "12",
-  "undmy": "12",
-  "undmn": "1",
-  "leymy": "SET",
-  "leymn": "UND",
-  "aux": "0",
-  "cunit": "5.41666666666667",
-=======
   "cunit": "4.02777777777778",
->>>>>>> b69cd85bf8ed3df098f38c4e7c9a7bd8e247da63
   "cantimp": "1 CAJ",
   "vacio1": "",
   "vacio2": "",
