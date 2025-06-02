@@ -82303,6 +82303,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "123456",
+  "ruc": "49013156",
+  "direccion": "\r\n",
+  "tipo": "0",
+  "fecha": "02/06/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "CLARA MERCEDES MEDINA RIVAS",
   "ruc": "49018819",
   "direccion": "LIMA",
