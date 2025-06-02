@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000183",
+  "nombre": "FABIO ANDIA GUIZADO",
+  "moneda": "PEN",
+  "totguia": "74",
+  "tipc": "3.7",
+  "fecha": "02/06/2025",
+  "hora": "01:35 p. m.",
+  "docu": "T001-00014071",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000182",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "01/04/2025",
   "hora": "06:44 p. m.",
   "docu": "T001-00013638",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000153",
-  "nombre": "LUZ PACHECO",
-  "moneda": "PEN",
-  "totguia": "155",
-  "tipc": "3.7",
-  "fecha": "29/03/2025",
-  "hora": "07:33 p. m.",
-  "docu": "T001-00013505",
   "via": "USER: SOFI",
   "bloquear": ""
 },
