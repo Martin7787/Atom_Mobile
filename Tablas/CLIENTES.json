@@ -39,7 +39,7 @@
   "bloquear": "false"
 },
 {
-  "nombre": "GABY",
+  "nombre": "YON ALBER CISNEROS",
   "ruc": "00000000023",
   "direccion": "LIMA",
   "tipo": "1",
@@ -16458,7 +16458,7 @@
   "bloquear": "false"
 },
 {
-  "nombre": "BENDEZU ROCA VICTORIA FELICIA",
+  "nombre": "GABINA",
   "ruc": "10198453469",
   "direccion": "JR. MANTARO NRO. 706  JUNÍN - HUANCAYO  - HUANCAYO",
   "tipo": "0",
@@ -67847,6 +67847,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "EDITH FERNANDEZ",
+  "ruc": "42504553",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "31/05/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "DAVID ASTETE NOLASCO",
   "ruc": "42505038",
   "direccion": "LIMA",
@@ -87586,6 +87599,19 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "17/12/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "PAOLA SANCHEZ MOYA ",
+  "ruc": "75209813",
+  "direccion": "HUANCAYO",
+  "tipo": "0",
+  "fecha": "02/06/2025",
   "telefono": "",
   "email": "",
   "trato": "",

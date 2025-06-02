@@ -1,6 +1,32 @@
 [
 {
   "serie": "T001",
+  "numero": "00000182",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "367.7",
+  "tipc": "3.7",
+  "fecha": "29/05/2025",
+  "hora": "03:54 p. m.",
+  "docu": "T001-00015167",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
+  "numero": "00000181",
+  "nombre": "DORA QUISPE",
+  "moneda": "PEN",
+  "totguia": "85",
+  "tipc": "3.7",
+  "fecha": "28/05/2025",
+  "hora": "11:21 a. m.",
+  "docu": "T001-00015077",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000180",
   "nombre": "JUNIOR ABAD ",
   "moneda": "PEN",
@@ -93,7 +119,7 @@
 {
   "serie": "T001",
   "numero": "00000173",
-  "nombre": "BENDEZU ROCA VICTORIA FELICIA",
+  "nombre": "GABINA",
   "moneda": "PEN",
   "totguia": "125",
   "tipc": "3.7",
@@ -360,32 +386,6 @@
   "fecha": "29/03/2025",
   "hora": "07:33 p. m.",
   "docu": "T001-00013505",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000152",
-  "nombre": "DARWIN BANDA",
-  "moneda": "PEN",
-  "totguia": "115",
-  "tipc": "3.7",
-  "fecha": "27/03/2025",
-  "hora": "04:21 p. m.",
-  "docu": "T001-00013545",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000151",
-  "nombre": "EFRAIN AMANZO HUAMAN",
-  "moneda": "PEN",
-  "totguia": "150",
-  "tipc": "3.7",
-  "fecha": "26/03/2025",
-  "hora": "04:55 p. m.",
-  "docu": "T001-00013524",
   "via": "USER: SOFI",
   "bloquear": ""
 },
