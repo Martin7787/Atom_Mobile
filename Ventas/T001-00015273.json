@@ -13,7 +13,7 @@
   "estado": "0",
   "traslado": "0.0000",
   "obs": "",
-  "codart": "7223EC",
+  "codart": "7223PAEC",
   "descripcion": "JARRO CHOPP (CAJA X  2 DOC)",
   "cajas": "3",
   "doce": "0",
@@ -30,7 +30,7 @@
   "cantimp": "3 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "-",
+  "auto": "SOFI",
   "preal": "270",
   "punidad": "0.0000"
 },
