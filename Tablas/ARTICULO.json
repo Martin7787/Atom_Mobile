@@ -7898,6 +7898,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "603-PAPA",
+  "descripcion": "CHOPP VIDRIO 410ML PAPA (CAJA X  24 SET)",
+  "fecha": "05/06/2025",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "152",
+  "precio": "41.08",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "24",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "VIDRIO",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "6043",
   "descripcion": "FLORERO DE VIDRIO  (CAJA X  12 UND)",
   "fecha": "28/12/2024",
