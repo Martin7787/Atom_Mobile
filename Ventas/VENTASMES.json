@@ -12127,4 +12127,20 @@
   "docu": "USER: LIZETH",
   "bloquear": ""
 },
+{
+  "fechacab": "05/06/2025",
+  "fecha": "Jun. 5",
+  "serie": "T001",
+  "numero": "00015305",
+  "nombre": "QUISPE CARBAJAL VILMA",
+  "moneda": "PEN",
+  "totguia": "1732.2",
+  "acuenta": "1732.2",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:40 a. m.",
+  "docu": "USER: LIZETH",
+  "bloquear": ""
+},
 ]
