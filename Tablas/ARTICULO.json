@@ -27566,6 +27566,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "JGO16-386",
+  "descripcion": "VAJILLA X 16 PCS BEIGE MATE (CAJA X  2 SET)",
+  "fecha": "06/06/2025",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "160",
+  "precio": "43.24",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "2",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "VAJILLA",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "JGO16-41-1",
   "descripcion": "VAJILLA X 16 PCS PLOMA (CAJA X  2 SET)",
   "fecha": "28/11/2024",
