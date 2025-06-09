@@ -2405,6 +2405,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "SIXTO VARGAS",
+  "ruc": "06701591",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "09/06/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "ANA CESPEDES",
   "ruc": "06711544",
   "direccion": "LIMA",
