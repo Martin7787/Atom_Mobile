@@ -81692,6 +81692,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "LUCERO",
+  "ruc": "48197147",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "09/06/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "GIAN CARLO GUEVARA DELGADO",
   "ruc": "48198402",
   "direccion": "URIPA CHINCHERO APURIMAC",
