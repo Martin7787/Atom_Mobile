@@ -30074,6 +30074,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "K-JP15OZ-BX",
+  "descripcion": "JARRO PAPA 15OZ BOX (CAJA X  48 UND)",
+  "fecha": "10/06/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "155",
+  "precio": "41.89",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "48",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "KOSENX12",
   "descripcion": "JARRA DE VIDRIO KOSEN 1.5LT (CAJA X  12 UND)",
   "fecha": "28/01/2022",
