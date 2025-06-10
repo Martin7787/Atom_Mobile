@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000185",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "96",
+  "tipc": "3.7",
+  "fecha": "10/06/2025",
+  "hora": "12:24 p. m.",
+  "docu": "T001-00015411",
+  "via": "USER: DANTE",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000184",
   "nombre": "SAYAN IMPORTACIONES SOCIEDAD ANONIMA CERRADA",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "05/04/2025",
   "hora": "06:45 p. m.",
   "docu": "T001-00013713",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000155",
-  "nombre": "KENYI JULIAN QUILLASH GUERRERO",
-  "moneda": "PEN",
-  "totguia": "305",
-  "tipc": "3.7",
-  "fecha": "04/04/2025",
-  "hora": "06:11 p. m.",
-  "docu": "T001-00013621",
   "via": "USER: SOFI",
   "bloquear": ""
 },
