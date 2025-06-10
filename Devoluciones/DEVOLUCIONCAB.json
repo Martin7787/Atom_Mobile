@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000186",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "143",
+  "tipc": "3.7",
+  "fecha": "10/06/2025",
+  "hora": "01:47 p. m.",
+  "docu": "T001-00015417",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000185",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "07/04/2025",
   "hora": "12:35 p. m.",
   "docu": "T001-00013735",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000156",
-  "nombre": "DIAZ VARA JESUS",
-  "moneda": "PEN",
-  "totguia": "200",
-  "tipc": "3.7",
-  "fecha": "05/04/2025",
-  "hora": "06:45 p. m.",
-  "docu": "T001-00013713",
   "via": "USER: SOFI",
   "bloquear": ""
 },
