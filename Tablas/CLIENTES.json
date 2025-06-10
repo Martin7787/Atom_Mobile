@@ -1131,6 +1131,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "ROXANA",
+  "ruc": "03379931",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "10/06/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "NANCY PAZ IPANAQUE",
   "ruc": "03384585",
   "direccion": "PIURA",
