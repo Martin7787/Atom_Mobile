@@ -9343,4 +9343,36 @@
   "docu": "USER: EDITH",
   "bloquear": ""
 },
+{
+  "fechacab": "10/06/2025",
+  "fecha": "Jun. 10",
+  "serie": "T001",
+  "numero": "00015405",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "144",
+  "acuenta": "144",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:43 a. m.",
+  "docu": "USER: LIZETH",
+  "bloquear": ""
+},
+{
+  "fechacab": "10/06/2025",
+  "fecha": "Jun. 10",
+  "serie": "T001",
+  "numero": "00015404",
+  "nombre": "FLOR VEGA ",
+  "moneda": "PEN",
+  "totguia": "391",
+  "acuenta": "391",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:31 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": ""
+},
 ]
