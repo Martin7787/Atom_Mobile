@@ -1,18 +1,5 @@
 [
 {
-  "nombre": "MARCELO AVENDAÑO",
-  "ruc": "",
-  "direccion": "LIMA",
-  "tipo": "0",
-  "fecha": "11/06/2025",
-  "telefono": "",
-  "email": "",
-  "trato": "",
-  "obs": "",
-  "via": "",
-  "bloquear": "false"
-},
-{
   "nombre": "CLIENTES VARIOS",
   "ruc": "00000000",
   "direccion": "LIMA",
@@ -122,6 +109,19 @@
   "direccion": "LIMA",
   "tipo": "1",
   "fecha": "06/04/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "MARCELO AVENDAÑO",
+  "ruc": "00000000200",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "11/06/2025",
   "telefono": "",
   "email": "",
   "trato": "",
