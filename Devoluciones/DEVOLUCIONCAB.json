@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000190",
+  "nombre": "MARI CARRASCO",
+  "moneda": "PEN",
+  "totguia": "495",
+  "tipc": "3.7",
+  "fecha": "11/06/2025",
+  "hora": "01:06 p. m.",
+  "docu": "T001-00015461",
+  "via": "USER: DANTE",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000189",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "23/04/2025",
   "hora": "05:39 p. m.",
   "docu": "T001-00014099",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000160",
-  "nombre": "MARINA MONTALVAN TACURE",
-  "moneda": "PEN",
-  "totguia": "90.01",
-  "tipc": "3.7",
-  "fecha": "23/04/2025",
-  "hora": "01:38 p. m.",
-  "docu": "T001-00014083",
   "via": "USER: SOFI",
   "bloquear": ""
 },
