@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000189",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.7",
+  "fecha": "11/06/2025",
+  "hora": "10:36 a. m.",
+  "docu": "T001-00015332",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000188",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "23/04/2025",
   "hora": "01:38 p. m.",
   "docu": "T001-00014083",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000159",
-  "nombre": "HERNAN HUAMAN ",
-  "moneda": "PEN",
-  "totguia": "148",
-  "tipc": "3.7",
-  "fecha": "23/04/2025",
-  "hora": "10:52 a. m.",
-  "docu": "T001-00014074",
   "via": "USER: SOFI",
   "bloquear": ""
 },
