@@ -11087,4 +11087,20 @@
   "docu": "USER: EDITH",
   "bloquear": ""
 },
+{
+  "fechacab": "13/06/2025",
+  "fecha": "Jun. 13",
+  "serie": "T001",
+  "numero": "00015546",
+  "nombre": "MAZA CHIRA EDUARDO",
+  "moneda": "PEN",
+  "totguia": "470",
+  "acuenta": "470",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:54 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": ""
+},
 ]
