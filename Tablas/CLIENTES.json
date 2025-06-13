@@ -1664,6 +1664,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "JUAN CARLOS ",
+  "ruc": "04305507",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "13/06/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "LUIS AYALA CHAHUA",
   "ruc": "04308046",
   "direccion": "OXAPAMPA",
