@@ -39819,6 +39819,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MUNICIPALIDAD DISTRITAL DE HUAROCHIRI",
+  "ruc": "20218634240",
+  "direccion": "HUAROCHIRI",
+  "tipo": "0",
+  "fecha": "13/06/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "TECNOMIN DATA",
   "ruc": "20221259581",
   "direccion": "AV. GENERAL CORDOVA- LIMA",
