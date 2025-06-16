@@ -10767,4 +10767,20 @@
   "docu": "USER: EDITH",
   "bloquear": ""
 },
+{
+  "fechacab": "16/06/2025",
+  "fecha": "Jun. 16",
+  "serie": "T001",
+  "numero": "00015585",
+  "nombre": "SAYAN IMPORTACIONES SOCIEDAD ANONIMA CERRADA",
+  "moneda": "PEN",
+  "totguia": "3297.6",
+  "acuenta": "3297.6",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:29 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": ""
+},
 ]
