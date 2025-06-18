@@ -30,7 +30,7 @@
   "cantimp": "4 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "197.2",
   "punidad": "0.0000"
 },
@@ -52,7 +52,7 @@
   "cantimp": "4 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "203.3",
   "punidad": "0.0000"
 },
@@ -74,7 +74,7 @@
   "cantimp": "1 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "96",
   "punidad": "0.0000"
 },
@@ -96,7 +96,7 @@
   "cantimp": "2 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "96",
   "punidad": "0.0000"
 },
@@ -140,7 +140,7 @@
   "cantimp": "5 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "96",
   "punidad": "0.0000"
 },
@@ -184,13 +184,13 @@
   "cantimp": "10 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "155",
   "punidad": "0.0000"
 },
 {
-  "codart": "PLT9D",
-  "descripcion": "PLATO 9\" HYT C/DISEÑO ONDEADO \"GALLERY\" (CAJA X  6 DOC)",
+  "codart": "PLT9D-LISOGALL",
+  "descripcion": "PLATO 9\" DECORADO LISO \"GALLERY\" HYT  (CAJA X  6 DOC)",
   "cajas": "20",
   "doce": "0",
   "unidad": "0",
@@ -206,8 +206,8 @@
   "cantimp": "20 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
-  "preal": "160",
+  "auto": "DANTE",
+  "preal": "165",
   "punidad": "0.0000"
 },
 {
@@ -228,7 +228,7 @@
   "cantimp": "10 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "96",
   "punidad": "0.0000"
 },
@@ -250,7 +250,7 @@
   "cantimp": "2 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "362.8",
   "punidad": "0.0000"
 },
@@ -272,7 +272,7 @@
   "cantimp": "4 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "255",
   "punidad": "0.0000"
 },
