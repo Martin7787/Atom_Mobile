@@ -10911,4 +10911,20 @@
   "docu": "USER: LIZETH",
   "bloquear": ""
 },
+{
+  "fechacab": "19/06/2025",
+  "fecha": "Jun. 19",
+  "serie": "T001",
+  "numero": "00015641",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "112",
+  "acuenta": "112",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:26 a. m.",
+  "docu": "USER: LIZETH",
+  "bloquear": ""
+},
 ]
