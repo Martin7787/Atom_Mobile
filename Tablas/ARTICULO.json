@@ -28600,6 +28600,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "JH247109",
+  "descripcion": "BOLO C/DISEÑO  (CAJA X  42 UND)",
+  "fecha": "20/06/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "145",
+  "precio": "39.19",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "42",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "JH-882381",
   "descripcion": "ENSALADERA 10\" COLOR (CAJA X  1 DOC)",
   "fecha": "31/08/2023",
