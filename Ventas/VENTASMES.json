@@ -10463,4 +10463,20 @@
   "docu": "USER: EDITH",
   "bloquear": ""
 },
+{
+  "fechacab": "21/06/2025",
+  "fecha": "Jun. 21",
+  "serie": "T001",
+  "numero": "00015667",
+  "nombre": "MIGUEL GUTIERRES",
+  "moneda": "PEN",
+  "totguia": "222",
+  "acuenta": "222",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:40 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": ""
+},
 ]
