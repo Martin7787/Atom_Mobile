@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000193",
+  "nombre": "INVERSIONES PAHUARCHUCO SAC",
+  "moneda": "PEN",
+  "totguia": "96",
+  "tipc": "3.7",
+  "fecha": "23/06/2025",
+  "hora": "01:08 p. m.",
+  "docu": "T001-00015565",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000192",
   "nombre": "FLOR JARA",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "25/04/2025",
   "hora": "06:56 p. m.",
   "docu": "T001-00014171",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000163",
-  "nombre": "RONER AQUILES ULLOA BAYLON",
-  "moneda": "PEN",
-  "totguia": "124",
-  "tipc": "3.7",
-  "fecha": "24/04/2025",
-  "hora": "06:08 p. m.",
-  "docu": "T001-00014042",
   "via": "USER: SOFI",
   "bloquear": ""
 },
