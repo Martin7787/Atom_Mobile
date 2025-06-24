@@ -9759,4 +9759,20 @@
   "docu": "USER: EDITH",
   "bloquear": ""
 },
+{
+  "fechacab": "24/06/2025",
+  "fecha": "Jun. 24",
+  "serie": "T001",
+  "numero": "00015699",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "150",
+  "acuenta": "150",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:11 a. m.",
+  "docu": "USER: SOFI",
+  "bloquear": ""
+},
 ]
