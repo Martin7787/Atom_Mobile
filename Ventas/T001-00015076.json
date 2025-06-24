@@ -13,8 +13,8 @@
   "estado": "0",
   "traslado": "0.0000",
   "obs": "",
-  "codart": "JGO16-YC849-28",
-  "descripcion": "VAJILLA X 16 PCS (CAJA X  2 SET)",
+  "codart": "JGO16-YC849-29",
+  "descripcion": "VAJILLAS X 16 PCS (CAJA X  2 SET)",
   "cajas": "0",
   "doce": "1",
   "unidad": "0",
@@ -30,8 +30,8 @@
   "cantimp": "1 UND",
   "vacio1": "",
   "vacio2": "",
-  "auto": "-",
-  "preal": "140",
+  "auto": "DANTE",
+  "preal": "150",
   "punidad": "0.0000"
 },
 ]
