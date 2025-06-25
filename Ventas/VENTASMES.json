@@ -9999,4 +9999,20 @@
   "docu": "USER: SOFI",
   "bloquear": ""
 },
+{
+  "fechacab": "25/06/2025",
+  "fecha": "Jun. 25",
+  "serie": "T001",
+  "numero": "00015714",
+  "nombre": "DAVID FELIPE CUETO OJEDA",
+  "moneda": "PEN",
+  "totguia": "1090",
+  "acuenta": "1090",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:40 a. m.",
+  "docu": "USER: LIZETH",
+  "bloquear": ""
+},
 ]
