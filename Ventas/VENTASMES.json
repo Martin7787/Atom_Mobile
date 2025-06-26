@@ -9903,4 +9903,20 @@
   "docu": "USER: LIZETH",
   "bloquear": ""
 },
+{
+  "fechacab": "26/06/2025",
+  "fecha": "Jun. 26",
+  "serie": "T001",
+  "numero": "00015731",
+  "nombre": "VIRGINIA LIVIA UBETA",
+  "moneda": "PEN",
+  "totguia": "1190.2",
+  "acuenta": "1190.2",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:50 a. m.",
+  "docu": "USER: LIZETH",
+  "bloquear": ""
+},
 ]
