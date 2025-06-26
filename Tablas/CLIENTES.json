@@ -75608,6 +75608,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "OMAR",
+  "ruc": "45001023",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "26/06/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "ANAI CASTRO",
   "ruc": "45008170",
   "direccion": "SJL-LAS FLORES",
