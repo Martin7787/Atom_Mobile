@@ -3315,6 +3315,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "NORMA",
+  "ruc": "07377478",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "30/06/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "HERMINIA EVANGELINA COAGUILA BERRIOS",
   "ruc": "07378218",
   "direccion": "MZ. A LT. 5 LIMA - SAN JUAN DE LURIGANCHO",
