@@ -9443,6 +9443,22 @@
   "fechacab": "30/06/2025",
   "fecha": "Jun. 30",
   "serie": "T001",
+  "numero": "00015792",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "60",
+  "acuenta": "60",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "02:59 p. m.",
+  "docu": "USER: LIZETH",
+  "bloquear": ""
+},
+{
+  "fechacab": "30/06/2025",
+  "fecha": "Jun. 30",
+  "serie": "T001",
   "numero": "00015791",
   "nombre": "IMPORTACIONES Y EXPORTACIONES LEONARDO CUSCO E.I.R.L.",
   "moneda": "PEN",
@@ -9468,7 +9484,7 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "01:57 p. m.",
-  "docu": "USER: LIZETH",
+  "docu": "USER: EDITH",
   "bloquear": ""
 },
 {
