@@ -9439,4 +9439,20 @@
   "docu": "USER: LIZETH",
   "bloquear": ""
 },
+{
+  "fechacab": "30/06/2025",
+  "fecha": "Jun. 30",
+  "serie": "T001",
+  "numero": "00015781",
+  "nombre": "FABIO ANDIA GUIZADO",
+  "moneda": "PEN",
+  "totguia": "484",
+  "acuenta": "484",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:39 a. m.",
+  "docu": "USER: LIZETH",
+  "bloquear": ""
+},
 ]
