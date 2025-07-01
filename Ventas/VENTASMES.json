@@ -9583,4 +9583,20 @@
   "docu": "USER: LIZETH",
   "bloquear": ""
 },
+{
+  "fechacab": "01/07/2025",
+  "fecha": "Jul. 1",
+  "serie": "T001",
+  "numero": "00015803",
+  "nombre": "ANTONIO RAMIREZ",
+  "moneda": "PEN",
+  "totguia": "577.4",
+  "acuenta": "577.4",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "12:17 p. m.",
+  "docu": "USER: EDITH",
+  "bloquear": ""
+},
 ]
