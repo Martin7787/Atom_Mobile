@@ -1,19 +1,6 @@
 [
 {
   "serie": "T001",
-  "numero": "00000195",
-  "nombre": "MUNDO MIX S.A.C.",
-  "moneda": "PEN",
-  "totguia": "75",
-  "tipc": "3.7",
-  "fecha": "01/07/2025",
-  "hora": "02:42 p. m.",
-  "docu": "T001-00015808",
-  "via": "USER: MARTIN",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
   "numero": "00000194",
   "nombre": "CELINDA FLORES",
   "moneda": "PEN",
@@ -386,6 +373,19 @@
   "fecha": "28/04/2025",
   "hora": "03:27 p. m.",
   "docu": "T001-00014235",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
+  "numero": "00000165",
+  "nombre": "SEGUNDO SAMUEL DIEXTRA VEGA",
+  "moneda": "PEN",
+  "totguia": "129",
+  "tipc": "3.7",
+  "fecha": "28/04/2025",
+  "hora": "12:06 p. m.",
+  "docu": "T001-00013778",
   "via": "USER: SOFI",
   "bloquear": ""
 },
