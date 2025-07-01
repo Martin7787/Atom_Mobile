@@ -39034,9 +39034,9 @@
   "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
   "cant": "0",
   "preciosol": "241.1",
-  "precio": "65.1622",
+  "precio": "65.162",
   "preciount": "0.0000",
-  "costosol": "197.74",
+  "costosol": "192.03",
   "costodol": "51.9",
   "undmy": "30",
   "undmn": "1",
@@ -39045,8 +39045,8 @@
   "linea": "MUESTRAS",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
-  "via": "",
+  "vneg": "True",
+  "via": "-",
   "bloquear": "false"
 },
 {
