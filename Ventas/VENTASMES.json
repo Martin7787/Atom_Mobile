@@ -13,7 +13,8 @@
   "estado": "CONTADO",
   "hora": "07:56 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "03/06/2025",
@@ -29,7 +30,8 @@
   "estado": "CONTADO",
   "hora": "07:23 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -45,7 +47,8 @@
   "estado": "CONTADO",
   "hora": "06:52 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -61,7 +64,8 @@
   "estado": "CONTADO",
   "hora": "06:29 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -77,7 +81,8 @@
   "estado": "CONTADO",
   "hora": "06:25 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -93,7 +98,8 @@
   "estado": "CONTADO",
   "hora": "06:15 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -109,7 +115,8 @@
   "estado": "CONTADO",
   "hora": "06:03 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "03/06/2025",
@@ -125,7 +132,8 @@
   "estado": "CONTADO",
   "hora": "05:31 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -141,7 +149,8 @@
   "estado": "CONTADO",
   "hora": "05:05 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -157,7 +166,8 @@
   "estado": "CONTADO",
   "hora": "05:02 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "03/06/2025",
@@ -173,7 +183,8 @@
   "estado": "CONTADO",
   "hora": "04:53 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -189,7 +200,8 @@
   "estado": "CONTADO",
   "hora": "04:47 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -205,7 +217,8 @@
   "estado": "CONTADO",
   "hora": "04:19 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -221,7 +234,8 @@
   "estado": "CONTADO",
   "hora": "04:10 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "03/06/2025",
@@ -237,7 +251,8 @@
   "estado": "CONTADO",
   "hora": "04:02 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "03/06/2025",
@@ -253,7 +268,8 @@
   "estado": "CONTADO",
   "hora": "04:01 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -269,7 +285,8 @@
   "estado": "CONTADO",
   "hora": "03:49 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "03/06/2025",
@@ -285,7 +302,8 @@
   "estado": "CONTADO",
   "hora": "03:31 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "03/06/2025",
@@ -301,7 +319,8 @@
   "estado": "CONTADO",
   "hora": "03:24 p. m.",
   "docu": "USER: DANTE",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "DANTE"
 },
 {
   "fechacab": "03/06/2025",
@@ -317,7 +336,8 @@
   "estado": "CONTADO",
   "hora": "02:56 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "03/06/2025",
@@ -333,7 +353,8 @@
   "estado": "CONTADO",
   "hora": "02:52 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -349,7 +370,8 @@
   "estado": "CONTADO",
   "hora": "02:44 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -365,7 +387,8 @@
   "estado": "CONTADO",
   "hora": "02:43 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -381,7 +404,8 @@
   "estado": "CONTADO",
   "hora": "02:20 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -397,7 +421,8 @@
   "estado": "CONTADO",
   "hora": "02:17 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -413,7 +438,8 @@
   "estado": "CONTADO",
   "hora": "02:01 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -429,7 +455,8 @@
   "estado": "CONTADO",
   "hora": "01:53 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -445,7 +472,8 @@
   "estado": "CONTADO",
   "hora": "01:45 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -461,7 +489,8 @@
   "estado": "CONTADO",
   "hora": "01:36 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "03/06/2025",
@@ -477,7 +506,8 @@
   "estado": "CONTADO",
   "hora": "01:35 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -493,7 +523,8 @@
   "estado": "CONTADO",
   "hora": "12:58 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -509,7 +540,8 @@
   "estado": "CONTADO",
   "hora": "12:48 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -525,7 +557,8 @@
   "estado": "CONTADO",
   "hora": "12:27 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "03/06/2025",
@@ -541,7 +574,8 @@
   "estado": "CONTADO",
   "hora": "12:15 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -557,7 +591,8 @@
   "estado": "CONTADO",
   "hora": "12:06 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "03/06/2025",
@@ -573,7 +608,8 @@
   "estado": "CONTADO",
   "hora": "11:36 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -589,7 +625,8 @@
   "estado": "CONTADO",
   "hora": "11:22 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "03/06/2025",
@@ -605,7 +642,8 @@
   "estado": "CONTADO",
   "hora": "11:22 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -621,7 +659,8 @@
   "estado": "CONTADO",
   "hora": "11:14 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "03/06/2025",
@@ -637,7 +676,8 @@
   "estado": "CONTADO",
   "hora": "11:14 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -653,7 +693,8 @@
   "estado": "CONTADO",
   "hora": "07:22 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -669,7 +710,8 @@
   "estado": "CONTADO",
   "hora": "07:13 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -685,7 +727,8 @@
   "estado": "CONTADO",
   "hora": "06:55 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -701,7 +744,8 @@
   "estado": "CONTADO",
   "hora": "06:07 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -717,7 +761,8 @@
   "estado": "CONTADO",
   "hora": "04:56 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -733,7 +778,8 @@
   "estado": "CONTADO",
   "hora": "03:54 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "04/06/2025",
@@ -749,7 +795,8 @@
   "estado": "CONTADO",
   "hora": "03:52 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -765,7 +812,8 @@
   "estado": "CONTADO",
   "hora": "03:43 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "04/06/2025",
@@ -781,7 +829,8 @@
   "estado": "CONTADO",
   "hora": "03:43 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -797,7 +846,8 @@
   "estado": "CONTADO",
   "hora": "03:36 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -813,7 +863,8 @@
   "estado": "CONTADO",
   "hora": "03:26 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "04/06/2025",
@@ -829,7 +880,8 @@
   "estado": "CONTADO",
   "hora": "02:56 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -845,7 +897,8 @@
   "estado": "CONTADO",
   "hora": "02:37 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "04/06/2025",
@@ -861,7 +914,8 @@
   "estado": "CONTADO",
   "hora": "01:58 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -877,7 +931,8 @@
   "estado": "CONTADO",
   "hora": "01:49 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "04/06/2025",
@@ -893,7 +948,8 @@
   "estado": "CONTADO",
   "hora": "01:46 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "04/06/2025",
@@ -909,7 +965,8 @@
   "estado": "CONTADO",
   "hora": "01:42 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -925,7 +982,8 @@
   "estado": "CONTADO",
   "hora": "01:34 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "04/06/2025",
@@ -941,7 +999,8 @@
   "estado": "CONTADO",
   "hora": "01:31 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -957,7 +1016,8 @@
   "estado": "CONTADO",
   "hora": "11:37 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -973,7 +1033,8 @@
   "estado": "CONTADO",
   "hora": "11:27 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "04/06/2025",
@@ -989,7 +1050,8 @@
   "estado": "CONTADO",
   "hora": "11:24 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "04/06/2025",
@@ -1005,7 +1067,8 @@
   "estado": "CONTADO",
   "hora": "11:14 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/06/2025",
@@ -1021,7 +1084,8 @@
   "estado": "CONTADO",
   "hora": "11:08 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1037,7 +1101,8 @@
   "estado": "CONTADO",
   "hora": "07:37 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1053,7 +1118,8 @@
   "estado": "CONTADO",
   "hora": "07:04 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "05/06/2025",
@@ -1069,7 +1135,8 @@
   "estado": "CONTADO",
   "hora": "06:13 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1085,7 +1152,8 @@
   "estado": "CONTADO",
   "hora": "06:09 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1101,7 +1169,8 @@
   "estado": "CONTADO",
   "hora": "04:46 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1117,7 +1186,8 @@
   "estado": "CONTADO",
   "hora": "04:44 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1133,7 +1203,8 @@
   "estado": "CONTADO",
   "hora": "03:17 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1149,7 +1220,8 @@
   "estado": "CONTADO",
   "hora": "02:56 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1165,7 +1237,8 @@
   "estado": "CONTADO",
   "hora": "02:48 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1181,7 +1254,8 @@
   "estado": "CONTADO",
   "hora": "02:34 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1197,7 +1271,8 @@
   "estado": "CONTADO",
   "hora": "02:08 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1213,7 +1288,8 @@
   "estado": "CONTADO",
   "hora": "02:03 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1229,7 +1305,8 @@
   "estado": "CONTADO",
   "hora": "01:57 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "05/06/2025",
@@ -1245,7 +1322,8 @@
   "estado": "CONTADO",
   "hora": "01:51 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1261,7 +1339,8 @@
   "estado": "CONTADO",
   "hora": "01:12 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1277,7 +1356,8 @@
   "estado": "CONTADO",
   "hora": "12:42 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1293,7 +1373,8 @@
   "estado": "CONTADO",
   "hora": "12:40 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1309,7 +1390,8 @@
   "estado": "CONTADO",
   "hora": "12:36 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1325,7 +1407,8 @@
   "estado": "CONTADO",
   "hora": "12:17 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1341,7 +1424,8 @@
   "estado": "CONTADO",
   "hora": "12:04 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1357,7 +1441,8 @@
   "estado": "CONTADO",
   "hora": "10:54 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1373,7 +1458,8 @@
   "estado": "CONTADO",
   "hora": "10:53 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1389,7 +1475,8 @@
   "estado": "CONTADO",
   "hora": "10:48 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "05/06/2025",
@@ -1405,7 +1492,8 @@
   "estado": "CONTADO",
   "hora": "10:40 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1421,7 +1509,8 @@
   "estado": "CONTADO",
   "hora": "06:30 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1437,7 +1526,8 @@
   "estado": "CONTADO",
   "hora": "06:05 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1453,7 +1543,8 @@
   "estado": "CONTADO",
   "hora": "05:59 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1469,7 +1560,8 @@
   "estado": "CONTADO",
   "hora": "05:54 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1485,7 +1577,8 @@
   "estado": "CONTADO",
   "hora": "05:42 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1501,7 +1594,8 @@
   "estado": "CONTADO",
   "hora": "05:28 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1517,7 +1611,8 @@
   "estado": "CONTADO",
   "hora": "05:16 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1533,7 +1628,8 @@
   "estado": "CONTADO",
   "hora": "04:35 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1549,7 +1645,8 @@
   "estado": "CONTADO",
   "hora": "04:27 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1565,7 +1662,8 @@
   "estado": "CONTADO",
   "hora": "04:17 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1581,7 +1679,8 @@
   "estado": "CONTADO",
   "hora": "04:09 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1597,7 +1696,8 @@
   "estado": "CONTADO",
   "hora": "03:52 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1613,7 +1713,8 @@
   "estado": "CONTADO",
   "hora": "03:21 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1629,7 +1730,8 @@
   "estado": "CONTADO",
   "hora": "03:17 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "06/06/2025",
@@ -1645,7 +1747,8 @@
   "estado": "CONTADO",
   "hora": "02:18 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1661,7 +1764,8 @@
   "estado": "CONTADO",
   "hora": "02:12 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "06/06/2025",
@@ -1677,7 +1781,8 @@
   "estado": "CONTADO",
   "hora": "01:48 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "06/06/2025",
@@ -1693,7 +1798,8 @@
   "estado": "CONTADO",
   "hora": "12:46 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1709,7 +1815,8 @@
   "estado": "CONTADO",
   "hora": "12:42 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1725,7 +1832,8 @@
   "estado": "CONTADO",
   "hora": "12:36 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1741,7 +1849,8 @@
   "estado": "CONTADO",
   "hora": "12:35 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1757,7 +1866,8 @@
   "estado": "CONTADO",
   "hora": "12:24 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1773,7 +1883,8 @@
   "estado": "CONTADO",
   "hora": "12:16 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1789,7 +1900,8 @@
   "estado": "CONTADO",
   "hora": "12:12 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1805,7 +1917,8 @@
   "estado": "CONTADO",
   "hora": "11:45 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1821,7 +1934,8 @@
   "estado": "CONTADO",
   "hora": "11:11 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "06/06/2025",
@@ -1837,7 +1951,8 @@
   "estado": "CONTADO",
   "hora": "10:24 a. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "06/06/2025",
@@ -1853,7 +1968,8 @@
   "estado": "CONTADO",
   "hora": "09:59 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -1869,7 +1985,8 @@
   "estado": "CONTADO",
   "hora": "07:41 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -1885,7 +2002,8 @@
   "estado": "CONTADO",
   "hora": "06:39 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -1901,7 +2019,8 @@
   "estado": "CONTADO",
   "hora": "06:25 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -1917,7 +2036,8 @@
   "estado": "CONTADO",
   "hora": "06:22 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -1933,7 +2053,8 @@
   "estado": "CONTADO",
   "hora": "06:15 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "09/06/2025",
@@ -1949,7 +2070,8 @@
   "estado": "CONTADO",
   "hora": "06:14 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -1965,7 +2087,8 @@
   "estado": "CONTADO",
   "hora": "06:04 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -1981,7 +2104,8 @@
   "estado": "CONTADO",
   "hora": "05:54 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -1997,7 +2121,8 @@
   "estado": "CONTADO",
   "hora": "05:49 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2013,7 +2138,8 @@
   "estado": "CONTADO",
   "hora": "05:45 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2029,7 +2155,8 @@
   "estado": "CONTADO",
   "hora": "05:36 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2045,7 +2172,8 @@
   "estado": "CONTADO",
   "hora": "05:22 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2061,7 +2189,8 @@
   "estado": "CONTADO",
   "hora": "05:07 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2077,7 +2206,8 @@
   "estado": "CONTADO",
   "hora": "05:05 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2093,7 +2223,8 @@
   "estado": "CONTADO",
   "hora": "04:50 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2109,7 +2240,8 @@
   "estado": "CONTADO",
   "hora": "04:17 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2125,7 +2257,8 @@
   "estado": "CONTADO",
   "hora": "04:12 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2141,7 +2274,8 @@
   "estado": "CONTADO",
   "hora": "04:09 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2157,7 +2291,8 @@
   "estado": "CONTADO",
   "hora": "03:27 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2173,7 +2308,8 @@
   "estado": "CONTADO",
   "hora": "03:03 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2189,7 +2325,8 @@
   "estado": "CONTADO",
   "hora": "02:53 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2205,7 +2342,8 @@
   "estado": "CONTADO",
   "hora": "02:51 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2221,7 +2359,8 @@
   "estado": "CONTADO",
   "hora": "02:35 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2237,7 +2376,8 @@
   "estado": "CONTADO",
   "hora": "02:28 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2253,7 +2393,8 @@
   "estado": "CONTADO",
   "hora": "02:27 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2269,7 +2410,8 @@
   "estado": "CONTADO",
   "hora": "02:15 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2285,7 +2427,8 @@
   "estado": "CONTADO",
   "hora": "02:02 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2301,7 +2444,8 @@
   "estado": "CONTADO",
   "hora": "01:34 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2317,7 +2461,8 @@
   "estado": "CONTADO",
   "hora": "01:11 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2333,7 +2478,8 @@
   "estado": "CONTADO",
   "hora": "01:11 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2349,7 +2495,8 @@
   "estado": "CONTADO",
   "hora": "01:09 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2365,7 +2512,8 @@
   "estado": "CONTADO",
   "hora": "01:01 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2381,7 +2529,8 @@
   "estado": "CONTADO",
   "hora": "12:33 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2397,7 +2546,8 @@
   "estado": "CONTADO",
   "hora": "12:23 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2413,7 +2563,8 @@
   "estado": "CONTADO",
   "hora": "12:00 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2429,7 +2580,8 @@
   "estado": "CONTADO",
   "hora": "11:55 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2445,7 +2597,8 @@
   "estado": "CONTADO",
   "hora": "11:53 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2461,7 +2614,8 @@
   "estado": "CONTADO",
   "hora": "11:47 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2477,7 +2631,8 @@
   "estado": "CONTADO",
   "hora": "11:43 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2493,7 +2648,8 @@
   "estado": "CONTADO",
   "hora": "11:38 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2509,7 +2665,8 @@
   "estado": "CONTADO",
   "hora": "11:38 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2525,7 +2682,8 @@
   "estado": "CONTADO",
   "hora": "11:25 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2541,7 +2699,8 @@
   "estado": "CONTADO",
   "hora": "11:07 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2557,7 +2716,8 @@
   "estado": "CONTADO",
   "hora": "11:06 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2573,7 +2733,8 @@
   "estado": "CONTADO",
   "hora": "10:29 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2589,7 +2750,8 @@
   "estado": "CONTADO",
   "hora": "10:19 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "09/06/2025",
@@ -2605,7 +2767,8 @@
   "estado": "CONTADO",
   "hora": "10:18 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2621,7 +2784,8 @@
   "estado": "CONTADO",
   "hora": "07:49 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2637,7 +2801,8 @@
   "estado": "CONTADO",
   "hora": "06:54 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2653,7 +2818,8 @@
   "estado": "CONTADO",
   "hora": "06:50 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2669,7 +2835,8 @@
   "estado": "CONTADO",
   "hora": "06:26 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2685,7 +2852,8 @@
   "estado": "CONTADO",
   "hora": "06:21 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2701,7 +2869,8 @@
   "estado": "CONTADO",
   "hora": "06:20 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2717,7 +2886,8 @@
   "estado": "CONTADO",
   "hora": "06:04 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2733,7 +2903,8 @@
   "estado": "CONTADO",
   "hora": "05:58 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2749,7 +2920,8 @@
   "estado": "CONTADO",
   "hora": "05:52 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2765,7 +2937,8 @@
   "estado": "CONTADO",
   "hora": "05:48 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2781,7 +2954,8 @@
   "estado": "CONTADO",
   "hora": "05:36 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2797,7 +2971,8 @@
   "estado": "CONTADO",
   "hora": "05:33 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2813,7 +2988,8 @@
   "estado": "CONTADO",
   "hora": "05:28 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2829,7 +3005,8 @@
   "estado": "CONTADO",
   "hora": "05:17 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2845,7 +3022,8 @@
   "estado": "CONTADO",
   "hora": "05:09 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "10/06/2025",
@@ -2861,7 +3039,8 @@
   "estado": "CONTADO",
   "hora": "04:47 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2877,7 +3056,8 @@
   "estado": "CONTADO",
   "hora": "04:42 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2893,7 +3073,8 @@
   "estado": "CONTADO",
   "hora": "04:36 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2909,7 +3090,8 @@
   "estado": "CONTADO",
   "hora": "04:35 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2925,7 +3107,8 @@
   "estado": "CONTADO",
   "hora": "04:34 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2941,7 +3124,8 @@
   "estado": "CONTADO",
   "hora": "04:26 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2957,7 +3141,8 @@
   "estado": "CONTADO",
   "hora": "04:03 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2973,7 +3158,8 @@
   "estado": "CONTADO",
   "hora": "03:30 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -2989,7 +3175,8 @@
   "estado": "CONTADO",
   "hora": "03:27 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3005,7 +3192,8 @@
   "estado": "CONTADO",
   "hora": "03:25 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3021,7 +3209,8 @@
   "estado": "CONTADO",
   "hora": "03:24 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3037,7 +3226,8 @@
   "estado": "CONTADO",
   "hora": "03:15 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3053,7 +3243,8 @@
   "estado": "CONTADO",
   "hora": "03:11 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3069,7 +3260,8 @@
   "estado": "CONTADO",
   "hora": "03:07 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3085,7 +3277,8 @@
   "estado": "CONTADO",
   "hora": "03:00 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3101,7 +3294,8 @@
   "estado": "CONTADO",
   "hora": "02:56 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3117,7 +3311,8 @@
   "estado": "CONTADO",
   "hora": "02:54 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3133,7 +3328,8 @@
   "estado": "CONTADO",
   "hora": "02:51 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3149,7 +3345,8 @@
   "estado": "CONTADO",
   "hora": "02:50 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3165,7 +3362,8 @@
   "estado": "CONTADO",
   "hora": "02:48 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3181,7 +3379,8 @@
   "estado": "CONTADO",
   "hora": "02:35 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3197,7 +3396,8 @@
   "estado": "CONTADO",
   "hora": "02:11 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3213,7 +3413,8 @@
   "estado": "CONTADO",
   "hora": "01:54 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3229,7 +3430,8 @@
   "estado": "CONTADO",
   "hora": "01:44 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3245,7 +3447,8 @@
   "estado": "CONTADO",
   "hora": "01:43 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3261,7 +3464,8 @@
   "estado": "CONTADO",
   "hora": "01:41 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "10/06/2025",
@@ -3277,7 +3481,8 @@
   "estado": "CONTADO",
   "hora": "01:38 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3293,7 +3498,8 @@
   "estado": "CONTADO",
   "hora": "01:38 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3309,7 +3515,8 @@
   "estado": "CONTADO",
   "hora": "01:30 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3325,7 +3532,8 @@
   "estado": "CONTADO",
   "hora": "01:29 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3341,7 +3549,8 @@
   "estado": "CONTADO",
   "hora": "01:27 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3357,7 +3566,8 @@
   "estado": "CONTADO",
   "hora": "12:59 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3373,7 +3583,8 @@
   "estado": "CONTADO",
   "hora": "12:57 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3389,7 +3600,8 @@
   "estado": "CONTADO",
   "hora": "12:43 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3405,7 +3617,8 @@
   "estado": "CONTADO",
   "hora": "12:26 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3421,7 +3634,8 @@
   "estado": "CONTADO",
   "hora": "12:22 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3437,7 +3651,8 @@
   "estado": "CONTADO",
   "hora": "12:13 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3453,7 +3668,8 @@
   "estado": "CONTADO",
   "hora": "12:01 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3469,7 +3685,8 @@
   "estado": "CONTADO",
   "hora": "11:43 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3485,7 +3702,8 @@
   "estado": "CONTADO",
   "hora": "11:41 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3501,7 +3719,8 @@
   "estado": "CONTADO",
   "hora": "11:40 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3517,7 +3736,8 @@
   "estado": "CONTADO",
   "hora": "11:38 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3533,7 +3753,8 @@
   "estado": "CONTADO",
   "hora": "11:28 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3549,7 +3770,8 @@
   "estado": "CONTADO",
   "hora": "11:12 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3565,7 +3787,8 @@
   "estado": "CONTADO",
   "hora": "10:43 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "10/06/2025",
@@ -3581,7 +3804,8 @@
   "estado": "CONTADO",
   "hora": "10:31 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3597,7 +3821,8 @@
   "estado": "CONTADO",
   "hora": "08:11 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3613,7 +3838,8 @@
   "estado": "CONTADO",
   "hora": "07:40 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3629,7 +3855,8 @@
   "estado": "CONTADO",
   "hora": "07:27 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3645,7 +3872,8 @@
   "estado": "CONTADO",
   "hora": "07:23 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3661,7 +3889,8 @@
   "estado": "CONTADO",
   "hora": "07:14 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3677,7 +3906,8 @@
   "estado": "CONTADO",
   "hora": "06:58 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3693,7 +3923,8 @@
   "estado": "CONTADO",
   "hora": "06:55 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3709,7 +3940,8 @@
   "estado": "CONTADO",
   "hora": "06:53 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3725,7 +3957,8 @@
   "estado": "CONTADO",
   "hora": "06:46 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3741,7 +3974,8 @@
   "estado": "CONTADO",
   "hora": "06:41 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3757,7 +3991,8 @@
   "estado": "CONTADO",
   "hora": "06:36 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3773,7 +4008,8 @@
   "estado": "CONTADO",
   "hora": "06:21 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3789,7 +4025,8 @@
   "estado": "CONTADO",
   "hora": "06:19 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3805,7 +4042,8 @@
   "estado": "CONTADO",
   "hora": "06:18 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3821,7 +4059,8 @@
   "estado": "CONTADO",
   "hora": "06:10 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3837,7 +4076,8 @@
   "estado": "CONTADO",
   "hora": "06:08 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3853,7 +4093,8 @@
   "estado": "CONTADO",
   "hora": "05:52 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3869,7 +4110,8 @@
   "estado": "CONTADO",
   "hora": "05:21 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3885,7 +4127,8 @@
   "estado": "CONTADO",
   "hora": "04:57 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3901,7 +4144,8 @@
   "estado": "CONTADO",
   "hora": "04:52 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3917,7 +4161,8 @@
   "estado": "CONTADO",
   "hora": "04:47 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3933,7 +4178,8 @@
   "estado": "CONTADO",
   "hora": "04:45 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3949,7 +4195,8 @@
   "estado": "CONTADO",
   "hora": "04:39 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3965,7 +4212,8 @@
   "estado": "CONTADO",
   "hora": "04:11 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3981,7 +4229,8 @@
   "estado": "CONTADO",
   "hora": "04:04 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -3997,7 +4246,8 @@
   "estado": "CONTADO",
   "hora": "03:22 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4013,7 +4263,8 @@
   "estado": "CONTADO",
   "hora": "03:06 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4029,7 +4280,8 @@
   "estado": "CONTADO",
   "hora": "02:06 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4045,7 +4297,8 @@
   "estado": "CONTADO",
   "hora": "01:50 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4061,7 +4314,8 @@
   "estado": "CONTADO",
   "hora": "01:11 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4077,7 +4331,8 @@
   "estado": "CONTADO",
   "hora": "01:10 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4093,7 +4348,8 @@
   "estado": "CONTADO",
   "hora": "12:59 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4109,7 +4365,8 @@
   "estado": "CONTADO",
   "hora": "12:39 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4125,7 +4382,8 @@
   "estado": "CONTADO",
   "hora": "12:29 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "11/06/2025",
@@ -4141,7 +4399,8 @@
   "estado": "CONTADO",
   "hora": "12:12 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4157,7 +4416,8 @@
   "estado": "CONTADO",
   "hora": "11:40 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4173,7 +4433,8 @@
   "estado": "CONTADO",
   "hora": "11:37 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4189,7 +4450,8 @@
   "estado": "CONTADO",
   "hora": "11:35 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4205,7 +4467,8 @@
   "estado": "CONTADO",
   "hora": "11:17 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4221,7 +4484,8 @@
   "estado": "CONTADO",
   "hora": "11:04 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4237,7 +4501,8 @@
   "estado": "CONTADO",
   "hora": "10:44 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/06/2025",
@@ -4253,7 +4518,8 @@
   "estado": "CONTADO",
   "hora": "10:30 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4269,7 +4535,8 @@
   "estado": "CONTADO",
   "hora": "07:28 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4285,7 +4552,8 @@
   "estado": "CONTADO",
   "hora": "06:55 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4301,7 +4569,8 @@
   "estado": "CONTADO",
   "hora": "06:43 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "12/06/2025",
@@ -4317,7 +4586,8 @@
   "estado": "CONTADO",
   "hora": "06:26 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4333,7 +4603,8 @@
   "estado": "CONTADO",
   "hora": "06:15 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4349,7 +4620,8 @@
   "estado": "CONTADO",
   "hora": "06:02 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4365,7 +4637,8 @@
   "estado": "CONTADO",
   "hora": "05:58 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "12/06/2025",
@@ -4381,7 +4654,8 @@
   "estado": "CONTADO",
   "hora": "05:55 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4397,7 +4671,8 @@
   "estado": "CONTADO",
   "hora": "05:51 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4413,7 +4688,8 @@
   "estado": "CONTADO",
   "hora": "05:16 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4429,7 +4705,8 @@
   "estado": "CONTADO",
   "hora": "05:16 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4445,7 +4722,8 @@
   "estado": "CONTADO",
   "hora": "05:10 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4461,7 +4739,8 @@
   "estado": "CONTADO",
   "hora": "04:40 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4477,7 +4756,8 @@
   "estado": "CONTADO",
   "hora": "03:58 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4493,7 +4773,8 @@
   "estado": "CONTADO",
   "hora": "03:56 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4509,7 +4790,8 @@
   "estado": "CONTADO",
   "hora": "03:56 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4525,7 +4807,8 @@
   "estado": "CONTADO",
   "hora": "03:39 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4541,7 +4824,8 @@
   "estado": "CONTADO",
   "hora": "03:28 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4557,7 +4841,8 @@
   "estado": "CONTADO",
   "hora": "02:27 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4573,7 +4858,8 @@
   "estado": "CONTADO",
   "hora": "02:24 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4589,7 +4875,8 @@
   "estado": "CONTADO",
   "hora": "02:23 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4605,7 +4892,8 @@
   "estado": "CONTADO",
   "hora": "02:07 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4621,7 +4909,8 @@
   "estado": "CONTADO",
   "hora": "01:59 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4637,7 +4926,8 @@
   "estado": "CONTADO",
   "hora": "01:38 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4653,7 +4943,8 @@
   "estado": "CONTADO",
   "hora": "01:15 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4669,7 +4960,8 @@
   "estado": "CONTADO",
   "hora": "12:57 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4685,7 +4977,8 @@
   "estado": "CONTADO",
   "hora": "12:56 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4701,7 +4994,8 @@
   "estado": "CONTADO",
   "hora": "12:54 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4717,7 +5011,8 @@
   "estado": "CONTADO",
   "hora": "12:47 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4733,7 +5028,8 @@
   "estado": "CONTADO",
   "hora": "12:42 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4749,7 +5045,8 @@
   "estado": "CONTADO",
   "hora": "12:21 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4765,7 +5062,8 @@
   "estado": "CONTADO",
   "hora": "12:13 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4781,7 +5079,8 @@
   "estado": "CONTADO",
   "hora": "11:51 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4797,7 +5096,8 @@
   "estado": "CONTADO",
   "hora": "11:34 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4813,7 +5113,8 @@
   "estado": "CONTADO",
   "hora": "11:31 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4829,7 +5130,8 @@
   "estado": "CONTADO",
   "hora": "11:22 a. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "12/06/2025",
@@ -4845,7 +5147,8 @@
   "estado": "CONTADO",
   "hora": "11:20 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4861,7 +5164,8 @@
   "estado": "CONTADO",
   "hora": "10:47 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/06/2025",
@@ -4877,7 +5181,8 @@
   "estado": "CONTADO",
   "hora": "10:25 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "13/06/2025",
@@ -4893,7 +5198,8 @@
   "estado": "CONTADO",
   "hora": "07:05 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "13/06/2025",
@@ -4909,7 +5215,8 @@
   "estado": "CONTADO",
   "hora": "05:57 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "13/06/2025",
@@ -4925,7 +5232,8 @@
   "estado": "CONTADO",
   "hora": "05:38 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "13/06/2025",
@@ -4941,7 +5249,8 @@
   "estado": "CONTADO",
   "hora": "05:07 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "13/06/2025",
@@ -4957,7 +5266,8 @@
   "estado": "CONTADO",
   "hora": "04:35 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "13/06/2025",
@@ -4973,7 +5283,8 @@
   "estado": "CONTADO",
   "hora": "03:57 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "13/06/2025",
@@ -4989,7 +5300,8 @@
   "estado": "CONTADO",
   "hora": "03:51 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "13/06/2025",
@@ -5005,7 +5317,8 @@
   "estado": "CONTADO",
   "hora": "03:18 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "13/06/2025",
@@ -5021,7 +5334,8 @@
   "estado": "CONTADO",
   "hora": "02:33 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "13/06/2025",
@@ -5037,7 +5351,8 @@
   "estado": "CONTADO",
   "hora": "01:53 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "13/06/2025",
@@ -5053,7 +5368,8 @@
   "estado": "CONTADO",
   "hora": "01:48 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "13/06/2025",
@@ -5069,7 +5385,8 @@
   "estado": "CONTADO",
   "hora": "01:22 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "13/06/2025",
@@ -5085,7 +5402,8 @@
   "estado": "CONTADO",
   "hora": "01:18 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "13/06/2025",
@@ -5101,7 +5419,8 @@
   "estado": "CONTADO",
   "hora": "12:35 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "13/06/2025",
@@ -5117,7 +5436,8 @@
   "estado": "CONTADO",
   "hora": "12:33 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "13/06/2025",
@@ -5133,7 +5453,8 @@
   "estado": "CONTADO",
   "hora": "11:18 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "13/06/2025",
@@ -5149,7 +5470,8 @@
   "estado": "CONTADO",
   "hora": "11:13 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "13/06/2025",
@@ -5165,7 +5487,8 @@
   "estado": "CONTADO",
   "hora": "10:54 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5181,7 +5504,8 @@
   "estado": "CONTADO",
   "hora": "05:15 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5197,7 +5521,8 @@
   "estado": "CONTADO",
   "hora": "05:02 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5213,7 +5538,8 @@
   "estado": "CONTADO",
   "hora": "04:05 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5229,7 +5555,8 @@
   "estado": "CONTADO",
   "hora": "03:58 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5245,7 +5572,8 @@
   "estado": "CONTADO",
   "hora": "03:50 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5261,7 +5589,8 @@
   "estado": "CONTADO",
   "hora": "03:43 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5277,7 +5606,8 @@
   "estado": "CONTADO",
   "hora": "03:00 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5293,7 +5623,8 @@
   "estado": "CONTADO",
   "hora": "02:25 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5309,7 +5640,8 @@
   "estado": "CONTADO",
   "hora": "02:08 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5325,7 +5657,8 @@
   "estado": "CONTADO",
   "hora": "01:51 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5341,7 +5674,8 @@
   "estado": "CONTADO",
   "hora": "01:01 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5357,7 +5691,8 @@
   "estado": "CONTADO",
   "hora": "12:54 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5373,7 +5708,8 @@
   "estado": "CONTADO",
   "hora": "12:48 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5389,7 +5725,8 @@
   "estado": "CONTADO",
   "hora": "12:22 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5405,7 +5742,8 @@
   "estado": "CONTADO",
   "hora": "12:11 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "14/06/2025",
@@ -5421,7 +5759,8 @@
   "estado": "CONTADO",
   "hora": "11:50 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5437,7 +5776,8 @@
   "estado": "CONTADO",
   "hora": "10:43 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5453,7 +5793,8 @@
   "estado": "CONTADO",
   "hora": "10:42 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5469,7 +5810,8 @@
   "estado": "CONTADO",
   "hora": "10:39 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5485,7 +5827,8 @@
   "estado": "CONTADO",
   "hora": "10:33 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "14/06/2025",
@@ -5501,7 +5844,8 @@
   "estado": "CONTADO",
   "hora": "10:12 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5517,7 +5861,8 @@
   "estado": "CONTADO",
   "hora": "06:45 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5533,7 +5878,8 @@
   "estado": "CONTADO",
   "hora": "05:53 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5549,7 +5895,8 @@
   "estado": "CONTADO",
   "hora": "05:36 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5565,7 +5912,8 @@
   "estado": "CONTADO",
   "hora": "04:40 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5581,7 +5929,8 @@
   "estado": "CONTADO",
   "hora": "04:21 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5597,7 +5946,8 @@
   "estado": "CONTADO",
   "hora": "03:28 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5613,7 +5963,8 @@
   "estado": "CONTADO",
   "hora": "02:03 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5629,7 +5980,8 @@
   "estado": "CONTADO",
   "hora": "01:49 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5645,7 +5997,8 @@
   "estado": "CONTADO",
   "hora": "12:23 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5661,7 +6014,8 @@
   "estado": "CONTADO",
   "hora": "11:17 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5677,7 +6031,8 @@
   "estado": "CONTADO",
   "hora": "11:12 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5693,7 +6048,8 @@
   "estado": "CONTADO",
   "hora": "10:58 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5709,7 +6065,8 @@
   "estado": "CONTADO",
   "hora": "10:43 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "16/06/2025",
@@ -5725,7 +6082,8 @@
   "estado": "CONTADO",
   "hora": "10:29 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5741,7 +6099,8 @@
   "estado": "CONTADO",
   "hora": "07:11 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5757,7 +6116,8 @@
   "estado": "CONTADO",
   "hora": "06:41 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5773,7 +6133,8 @@
   "estado": "CONTADO",
   "hora": "06:10 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5789,7 +6150,8 @@
   "estado": "CONTADO",
   "hora": "06:09 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5805,7 +6167,8 @@
   "estado": "CONTADO",
   "hora": "06:01 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5821,7 +6184,8 @@
   "estado": "CONTADO",
   "hora": "05:49 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5837,7 +6201,8 @@
   "estado": "CONTADO",
   "hora": "05:31 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5853,7 +6218,8 @@
   "estado": "CONTADO",
   "hora": "04:48 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5869,7 +6235,8 @@
   "estado": "CONTADO",
   "hora": "04:29 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5885,7 +6252,8 @@
   "estado": "CONTADO",
   "hora": "04:20 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5901,7 +6269,8 @@
   "estado": "CONTADO",
   "hora": "04:13 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5917,7 +6286,8 @@
   "estado": "CONTADO",
   "hora": "04:07 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5933,7 +6303,8 @@
   "estado": "CONTADO",
   "hora": "03:48 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5949,7 +6320,8 @@
   "estado": "CONTADO",
   "hora": "03:39 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5965,7 +6337,8 @@
   "estado": "CONTADO",
   "hora": "02:48 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5981,7 +6354,8 @@
   "estado": "CONTADO",
   "hora": "02:17 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -5997,7 +6371,8 @@
   "estado": "CONTADO",
   "hora": "12:53 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -6013,7 +6388,8 @@
   "estado": "CONTADO",
   "hora": "12:04 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -6029,7 +6405,8 @@
   "estado": "CONTADO",
   "hora": "11:38 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "17/06/2025",
@@ -6045,7 +6422,8 @@
   "estado": "CONTADO",
   "hora": "11:29 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "17/06/2025",
@@ -6061,7 +6439,8 @@
   "estado": "CONTADO",
   "hora": "11:00 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6077,7 +6456,8 @@
   "estado": "CONTADO",
   "hora": "07:44 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6093,7 +6473,8 @@
   "estado": "CONTADO",
   "hora": "07:43 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6109,7 +6490,8 @@
   "estado": "CONTADO",
   "hora": "07:20 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6125,7 +6507,8 @@
   "estado": "CONTADO",
   "hora": "05:23 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6141,7 +6524,8 @@
   "estado": "CONTADO",
   "hora": "05:09 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6157,7 +6541,8 @@
   "estado": "CONTADO",
   "hora": "05:04 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6173,7 +6558,8 @@
   "estado": "CONTADO",
   "hora": "04:49 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6189,7 +6575,8 @@
   "estado": "CONTADO",
   "hora": "04:35 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6205,7 +6592,8 @@
   "estado": "CONTADO",
   "hora": "04:17 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6221,7 +6609,8 @@
   "estado": "CONTADO",
   "hora": "04:12 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6237,7 +6626,8 @@
   "estado": "CONTADO",
   "hora": "04:00 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6253,7 +6643,8 @@
   "estado": "CONTADO",
   "hora": "03:33 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6269,7 +6660,8 @@
   "estado": "CONTADO",
   "hora": "03:25 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6285,7 +6677,8 @@
   "estado": "CONTADO",
   "hora": "02:43 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6301,7 +6694,8 @@
   "estado": "CONTADO",
   "hora": "02:28 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6317,7 +6711,8 @@
   "estado": "CONTADO",
   "hora": "02:21 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6333,7 +6728,8 @@
   "estado": "CONTADO",
   "hora": "11:52 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6349,7 +6745,8 @@
   "estado": "CONTADO",
   "hora": "11:50 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6365,7 +6762,8 @@
   "estado": "CONTADO",
   "hora": "10:48 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6381,7 +6779,8 @@
   "estado": "CONTADO",
   "hora": "10:35 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "18/06/2025",
@@ -6397,7 +6796,8 @@
   "estado": "CONTADO",
   "hora": "10:26 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "19/06/2025",
@@ -6413,7 +6813,8 @@
   "estado": "CONTADO",
   "hora": "07:49 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "19/06/2025",
@@ -6429,7 +6830,8 @@
   "estado": "CONTADO",
   "hora": "06:30 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "19/06/2025",
@@ -6445,7 +6847,8 @@
   "estado": "CONTADO",
   "hora": "05:08 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "19/06/2025",
@@ -6461,7 +6864,8 @@
   "estado": "CONTADO",
   "hora": "01:29 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "19/06/2025",
@@ -6477,7 +6881,8 @@
   "estado": "CONTADO",
   "hora": "01:25 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "19/06/2025",
@@ -6493,7 +6898,8 @@
   "estado": "CONTADO",
   "hora": "12:59 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "19/06/2025",
@@ -6509,7 +6915,8 @@
   "estado": "CONTADO",
   "hora": "12:31 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "19/06/2025",
@@ -6525,7 +6932,8 @@
   "estado": "CONTADO",
   "hora": "12:22 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "19/06/2025",
@@ -6541,7 +6949,8 @@
   "estado": "CONTADO",
   "hora": "10:29 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "19/06/2025",
@@ -6557,7 +6966,8 @@
   "estado": "CONTADO",
   "hora": "10:26 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6573,7 +6983,8 @@
   "estado": "CONTADO",
   "hora": "06:53 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6589,7 +7000,8 @@
   "estado": "CONTADO",
   "hora": "06:16 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6605,7 +7017,8 @@
   "estado": "CONTADO",
   "hora": "05:59 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "20/06/2025",
@@ -6621,7 +7034,8 @@
   "estado": "CONTADO",
   "hora": "04:46 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6637,7 +7051,8 @@
   "estado": "CONTADO",
   "hora": "04:34 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6653,7 +7068,8 @@
   "estado": "CONTADO",
   "hora": "04:27 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6669,7 +7085,8 @@
   "estado": "CONTADO",
   "hora": "04:10 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6685,7 +7102,8 @@
   "estado": "CONTADO",
   "hora": "04:07 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6701,7 +7119,8 @@
   "estado": "CONTADO",
   "hora": "02:28 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6717,7 +7136,8 @@
   "estado": "CONTADO",
   "hora": "12:46 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6733,7 +7153,8 @@
   "estado": "CONTADO",
   "hora": "12:38 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6749,7 +7170,8 @@
   "estado": "CONTADO",
   "hora": "12:30 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6765,7 +7187,8 @@
   "estado": "CONTADO",
   "hora": "11:16 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6781,7 +7204,8 @@
   "estado": "CONTADO",
   "hora": "11:15 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6797,7 +7221,8 @@
   "estado": "CONTADO",
   "hora": "10:49 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "20/06/2025",
@@ -6813,7 +7238,8 @@
   "estado": "CONTADO",
   "hora": "10:34 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "21/06/2025",
@@ -6829,7 +7255,8 @@
   "estado": "CONTADO",
   "hora": "06:45 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "21/06/2025",
@@ -6845,7 +7272,8 @@
   "estado": "CONTADO",
   "hora": "06:38 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "21/06/2025",
@@ -6861,7 +7289,8 @@
   "estado": "CONTADO",
   "hora": "05:28 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "21/06/2025",
@@ -6877,7 +7306,8 @@
   "estado": "CONTADO",
   "hora": "05:11 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "21/06/2025",
@@ -6893,7 +7323,8 @@
   "estado": "CONTADO",
   "hora": "04:59 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "21/06/2025",
@@ -6909,7 +7340,8 @@
   "estado": "CONTADO",
   "hora": "03:56 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "21/06/2025",
@@ -6925,7 +7357,8 @@
   "estado": "CONTADO",
   "hora": "02:11 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "21/06/2025",
@@ -6941,7 +7374,8 @@
   "estado": "CONTADO",
   "hora": "01:58 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "21/06/2025",
@@ -6957,7 +7391,8 @@
   "estado": "CONTADO",
   "hora": "01:46 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "21/06/2025",
@@ -6973,7 +7408,8 @@
   "estado": "CONTADO",
   "hora": "01:44 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "21/06/2025",
@@ -6989,7 +7425,8 @@
   "estado": "CONTADO",
   "hora": "01:14 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "21/06/2025",
@@ -7005,7 +7442,8 @@
   "estado": "CONTADO",
   "hora": "01:05 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "21/06/2025",
@@ -7021,7 +7459,8 @@
   "estado": "CONTADO",
   "hora": "12:06 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "21/06/2025",
@@ -7037,7 +7476,8 @@
   "estado": "CONTADO",
   "hora": "11:56 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "21/06/2025",
@@ -7053,7 +7493,8 @@
   "estado": "CONTADO",
   "hora": "11:54 a. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "21/06/2025",
@@ -7069,7 +7510,8 @@
   "estado": "CONTADO",
   "hora": "11:51 a. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "21/06/2025",
@@ -7085,7 +7527,8 @@
   "estado": "CONTADO",
   "hora": "11:43 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "21/06/2025",
@@ -7101,7 +7544,8 @@
   "estado": "CONTADO",
   "hora": "11:40 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "23/06/2025",
@@ -7117,7 +7561,8 @@
   "estado": "CONTADO",
   "hora": "06:43 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "23/06/2025",
@@ -7133,7 +7578,8 @@
   "estado": "CONTADO",
   "hora": "06:12 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "23/06/2025",
@@ -7149,7 +7595,8 @@
   "estado": "CONTADO",
   "hora": "06:10 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "23/06/2025",
@@ -7165,7 +7612,8 @@
   "estado": "CONTADO",
   "hora": "06:08 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "23/06/2025",
@@ -7181,7 +7629,8 @@
   "estado": "CONTADO",
   "hora": "05:24 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "23/06/2025",
@@ -7197,7 +7646,8 @@
   "estado": "CONTADO",
   "hora": "04:39 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "23/06/2025",
@@ -7213,7 +7663,8 @@
   "estado": "CONTADO",
   "hora": "02:58 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "23/06/2025",
@@ -7229,7 +7680,8 @@
   "estado": "CONTADO",
   "hora": "02:40 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "23/06/2025",
@@ -7245,7 +7697,8 @@
   "estado": "CONTADO",
   "hora": "01:50 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "23/06/2025",
@@ -7261,7 +7714,8 @@
   "estado": "CONTADO",
   "hora": "01:39 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "23/06/2025",
@@ -7277,7 +7731,8 @@
   "estado": "CONTADO",
   "hora": "12:09 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "23/06/2025",
@@ -7293,7 +7748,8 @@
   "estado": "CONTADO",
   "hora": "12:05 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "23/06/2025",
@@ -7309,7 +7765,8 @@
   "estado": "CONTADO",
   "hora": "11:33 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "23/06/2025",
@@ -7325,7 +7782,8 @@
   "estado": "CONTADO",
   "hora": "10:54 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7341,7 +7799,8 @@
   "estado": "CONTADO",
   "hora": "07:11 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7357,7 +7816,8 @@
   "estado": "CONTADO",
   "hora": "06:40 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7373,7 +7833,8 @@
   "estado": "CONTADO",
   "hora": "06:21 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7389,7 +7850,8 @@
   "estado": "CONTADO",
   "hora": "05:49 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7405,7 +7867,8 @@
   "estado": "CONTADO",
   "hora": "05:24 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7421,7 +7884,8 @@
   "estado": "CONTADO",
   "hora": "03:52 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7437,7 +7901,8 @@
   "estado": "CONTADO",
   "hora": "03:51 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7453,7 +7918,8 @@
   "estado": "CONTADO",
   "hora": "03:46 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7469,7 +7935,8 @@
   "estado": "CONTADO",
   "hora": "03:03 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "24/06/2025",
@@ -7485,7 +7952,8 @@
   "estado": "CONTADO",
   "hora": "02:40 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7501,7 +7969,8 @@
   "estado": "CONTADO",
   "hora": "12:28 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7517,7 +7986,8 @@
   "estado": "CONTADO",
   "hora": "12:24 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7533,7 +8003,8 @@
   "estado": "CONTADO",
   "hora": "12:06 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7549,7 +8020,8 @@
   "estado": "CONTADO",
   "hora": "11:28 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "24/06/2025",
@@ -7565,7 +8037,8 @@
   "estado": "CONTADO",
   "hora": "11:11 a. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "25/06/2025",
@@ -7581,7 +8054,8 @@
   "estado": "CONTADO",
   "hora": "06:45 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "25/06/2025",
@@ -7597,7 +8071,8 @@
   "estado": "CONTADO",
   "hora": "05:13 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "25/06/2025",
@@ -7613,7 +8088,8 @@
   "estado": "CONTADO",
   "hora": "05:09 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "25/06/2025",
@@ -7629,7 +8105,8 @@
   "estado": "CONTADO",
   "hora": "04:19 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "25/06/2025",
@@ -7645,7 +8122,8 @@
   "estado": "CONTADO",
   "hora": "04:18 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "25/06/2025",
@@ -7661,7 +8139,8 @@
   "estado": "CONTADO",
   "hora": "04:14 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "25/06/2025",
@@ -7677,7 +8156,8 @@
   "estado": "CONTADO",
   "hora": "03:55 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "25/06/2025",
@@ -7693,7 +8173,8 @@
   "estado": "CONTADO",
   "hora": "03:23 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "25/06/2025",
@@ -7709,7 +8190,8 @@
   "estado": "CONTADO",
   "hora": "03:02 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "25/06/2025",
@@ -7725,7 +8207,8 @@
   "estado": "CONTADO",
   "hora": "03:01 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "25/06/2025",
@@ -7741,7 +8224,8 @@
   "estado": "CONTADO",
   "hora": "02:52 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "25/06/2025",
@@ -7757,7 +8241,8 @@
   "estado": "CONTADO",
   "hora": "02:43 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "25/06/2025",
@@ -7773,7 +8258,8 @@
   "estado": "CONTADO",
   "hora": "02:35 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "25/06/2025",
@@ -7789,7 +8275,8 @@
   "estado": "CONTADO",
   "hora": "01:46 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "25/06/2025",
@@ -7805,7 +8292,8 @@
   "estado": "CONTADO",
   "hora": "12:57 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "25/06/2025",
@@ -7821,7 +8309,8 @@
   "estado": "CONTADO",
   "hora": "11:09 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "25/06/2025",
@@ -7837,7 +8326,8 @@
   "estado": "CONTADO",
   "hora": "10:40 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "26/06/2025",
@@ -7853,7 +8343,8 @@
   "estado": "CONTADO",
   "hora": "07:01 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -7869,7 +8360,8 @@
   "estado": "CONTADO",
   "hora": "06:50 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -7885,7 +8377,8 @@
   "estado": "CONTADO",
   "hora": "06:41 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -7901,7 +8394,8 @@
   "estado": "CONTADO",
   "hora": "04:10 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -7917,7 +8411,8 @@
   "estado": "CONTADO",
   "hora": "03:51 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "26/06/2025",
@@ -7933,7 +8428,8 @@
   "estado": "CONTADO",
   "hora": "03:47 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -7949,7 +8445,8 @@
   "estado": "CONTADO",
   "hora": "03:14 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -7965,7 +8462,8 @@
   "estado": "CONTADO",
   "hora": "03:11 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -7981,7 +8479,8 @@
   "estado": "CONTADO",
   "hora": "02:33 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "26/06/2025",
@@ -7997,7 +8496,8 @@
   "estado": "CONTADO",
   "hora": "02:28 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -8013,7 +8513,8 @@
   "estado": "CONTADO",
   "hora": "01:51 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -8029,7 +8530,8 @@
   "estado": "CONTADO",
   "hora": "01:41 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -8045,7 +8547,8 @@
   "estado": "CONTADO",
   "hora": "01:33 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -8061,7 +8564,8 @@
   "estado": "CONTADO",
   "hora": "01:30 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -8077,7 +8581,8 @@
   "estado": "CONTADO",
   "hora": "01:26 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -8093,7 +8598,8 @@
   "estado": "CONTADO",
   "hora": "12:40 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "26/06/2025",
@@ -8109,7 +8615,8 @@
   "estado": "CONTADO",
   "hora": "12:05 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -8125,7 +8632,8 @@
   "estado": "CONTADO",
   "hora": "11:56 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "26/06/2025",
@@ -8141,7 +8649,8 @@
   "estado": "CONTADO",
   "hora": "11:45 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "26/06/2025",
@@ -8157,7 +8666,8 @@
   "estado": "CONTADO",
   "hora": "10:50 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "27/06/2025",
@@ -8173,7 +8683,8 @@
   "estado": "CONTADO",
   "hora": "05:35 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "27/06/2025",
@@ -8189,7 +8700,8 @@
   "estado": "CONTADO",
   "hora": "03:20 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "27/06/2025",
@@ -8205,7 +8717,8 @@
   "estado": "CONTADO",
   "hora": "03:01 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "27/06/2025",
@@ -8221,7 +8734,8 @@
   "estado": "CONTADO",
   "hora": "02:40 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "27/06/2025",
@@ -8237,7 +8751,8 @@
   "estado": "CONTADO",
   "hora": "02:33 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "27/06/2025",
@@ -8253,7 +8768,8 @@
   "estado": "CONTADO",
   "hora": "12:28 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "27/06/2025",
@@ -8269,7 +8785,8 @@
   "estado": "CONTADO",
   "hora": "11:28 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "27/06/2025",
@@ -8285,7 +8802,8 @@
   "estado": "CONTADO",
   "hora": "10:20 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8301,7 +8819,8 @@
   "estado": "CONTADO",
   "hora": "07:27 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8317,7 +8836,8 @@
   "estado": "CONTADO",
   "hora": "06:57 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8333,7 +8853,8 @@
   "estado": "CONTADO",
   "hora": "06:35 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8349,7 +8870,8 @@
   "estado": "CONTADO",
   "hora": "06:21 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8365,7 +8887,8 @@
   "estado": "CONTADO",
   "hora": "06:15 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8381,7 +8904,8 @@
   "estado": "CONTADO",
   "hora": "05:46 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8397,7 +8921,8 @@
   "estado": "CONTADO",
   "hora": "05:08 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8413,7 +8938,8 @@
   "estado": "CONTADO",
   "hora": "04:51 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8429,7 +8955,8 @@
   "estado": "CONTADO",
   "hora": "04:17 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8445,7 +8972,8 @@
   "estado": "CONTADO",
   "hora": "04:07 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8461,7 +8989,8 @@
   "estado": "CONTADO",
   "hora": "03:53 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8477,7 +9006,8 @@
   "estado": "CONTADO",
   "hora": "03:37 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8493,7 +9023,8 @@
   "estado": "CONTADO",
   "hora": "03:33 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "28/06/2025",
@@ -8509,7 +9040,8 @@
   "estado": "CONTADO",
   "hora": "02:52 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8525,7 +9057,8 @@
   "estado": "CONTADO",
   "hora": "02:46 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8541,7 +9074,8 @@
   "estado": "CONTADO",
   "hora": "02:42 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8557,7 +9091,8 @@
   "estado": "CONTADO",
   "hora": "02:41 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8573,7 +9108,8 @@
   "estado": "CONTADO",
   "hora": "02:39 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "28/06/2025",
@@ -8589,7 +9125,8 @@
   "estado": "CONTADO",
   "hora": "02:27 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8605,7 +9142,8 @@
   "estado": "CONTADO",
   "hora": "11:54 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8621,7 +9159,8 @@
   "estado": "CONTADO",
   "hora": "11:44 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "28/06/2025",
@@ -8637,7 +9176,8 @@
   "estado": "CONTADO",
   "hora": "11:38 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8653,7 +9193,8 @@
   "estado": "CONTADO",
   "hora": "06:30 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8669,7 +9210,8 @@
   "estado": "CONTADO",
   "hora": "06:24 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8685,7 +9227,8 @@
   "estado": "CONTADO",
   "hora": "06:08 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8701,7 +9244,8 @@
   "estado": "CONTADO",
   "hora": "05:47 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8717,7 +9261,8 @@
   "estado": "CONTADO",
   "hora": "05:13 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8733,7 +9278,8 @@
   "estado": "CONTADO",
   "hora": "04:56 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8749,7 +9295,8 @@
   "estado": "CONTADO",
   "hora": "04:46 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8765,7 +9312,8 @@
   "estado": "CONTADO",
   "hora": "04:10 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8781,7 +9329,8 @@
   "estado": "CONTADO",
   "hora": "03:19 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8797,7 +9346,8 @@
   "estado": "CONTADO",
   "hora": "03:01 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "30/06/2025",
@@ -8813,7 +9363,8 @@
   "estado": "CONTADO",
   "hora": "02:59 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8829,7 +9380,8 @@
   "estado": "CONTADO",
   "hora": "01:57 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8845,7 +9397,8 @@
   "estado": "CONTADO",
   "hora": "01:57 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8861,7 +9414,8 @@
   "estado": "CONTADO",
   "hora": "01:57 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8877,7 +9431,8 @@
   "estado": "CONTADO",
   "hora": "01:48 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8893,7 +9448,8 @@
   "estado": "CONTADO",
   "hora": "01:42 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8909,7 +9465,8 @@
   "estado": "CONTADO",
   "hora": "01:23 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8925,7 +9482,8 @@
   "estado": "CONTADO",
   "hora": "01:21 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8941,7 +9499,8 @@
   "estado": "CONTADO",
   "hora": "12:41 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8957,7 +9516,8 @@
   "estado": "CONTADO",
   "hora": "11:59 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8973,7 +9533,8 @@
   "estado": "CONTADO",
   "hora": "11:42 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "30/06/2025",
@@ -8989,7 +9550,8 @@
   "estado": "CONTADO",
   "hora": "11:39 a. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "01/07/2025",
@@ -9005,7 +9567,8 @@
   "estado": "CONTADO",
   "hora": "07:10 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "01/07/2025",
@@ -9021,7 +9584,8 @@
   "estado": "CONTADO",
   "hora": "06:30 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "01/07/2025",
@@ -9037,7 +9601,8 @@
   "estado": "CONTADO",
   "hora": "06:26 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "01/07/2025",
@@ -9053,7 +9618,8 @@
   "estado": "CONTADO",
   "hora": "06:18 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "01/07/2025",
@@ -9069,7 +9635,8 @@
   "estado": "CONTADO",
   "hora": "05:46 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "01/07/2025",
@@ -9085,7 +9652,8 @@
   "estado": "CONTADO",
   "hora": "04:07 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "01/07/2025",
@@ -9101,7 +9669,8 @@
   "estado": "CONTADO",
   "hora": "03:40 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "01/07/2025",
@@ -9117,7 +9686,8 @@
   "estado": "CONTADO",
   "hora": "02:29 p. m.",
   "docu": "USER: SOFI",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "SOFI"
 },
 {
   "fechacab": "01/07/2025",
@@ -9133,7 +9703,8 @@
   "estado": "CONTADO",
   "hora": "02:23 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "01/07/2025",
@@ -9149,7 +9720,8 @@
   "estado": "CONTADO",
   "hora": "01:23 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "01/07/2025",
@@ -9165,7 +9737,8 @@
   "estado": "CONTADO",
   "hora": "12:56 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "01/07/2025",
@@ -9181,7 +9754,8 @@
   "estado": "CONTADO",
   "hora": "12:44 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "01/07/2025",
@@ -9197,7 +9771,8 @@
   "estado": "CONTADO",
   "hora": "12:18 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "01/07/2025",
@@ -9213,7 +9788,8 @@
   "estado": "CONTADO",
   "hora": "12:17 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9229,7 +9805,8 @@
   "estado": "CONTADO",
   "hora": "07:08 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9245,7 +9822,8 @@
   "estado": "CONTADO",
   "hora": "06:53 p. m.",
   "docu": "TBLT-@W8FH21Q",
-  "bloquear": "@W8FH21Q"
+  "bloquear": "@W8FH21Q",
+  "user": "LIZETH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9261,7 +9839,8 @@
   "estado": "CONTADO",
   "hora": "05:54 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9277,7 +9856,8 @@
   "estado": "CONTADO",
   "hora": "05:53 p. m.",
   "docu": "TBLT-@ZDDGWL4",
-  "bloquear": "@ZDDGWL4"
+  "bloquear": "@ZDDGWL4",
+  "user": "LIZETH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9293,7 +9873,8 @@
   "estado": "CONTADO",
   "hora": "05:38 p. m.",
   "docu": "TBLT-@RJOUSB4",
-  "bloquear": "@RJOUSB4"
+  "bloquear": "@RJOUSB4",
+  "user": "LIZETH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9309,7 +9890,8 @@
   "estado": "CONTADO",
   "hora": "05:33 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9325,7 +9907,8 @@
   "estado": "CONTADO",
   "hora": "04:47 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9341,7 +9924,8 @@
   "estado": "CONTADO",
   "hora": "02:53 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9357,7 +9941,8 @@
   "estado": "CONTADO",
   "hora": "02:23 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9373,7 +9958,8 @@
   "estado": "CONTADO",
   "hora": "01:54 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9389,7 +9975,8 @@
   "estado": "CONTADO",
   "hora": "01:50 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9405,7 +9992,8 @@
   "estado": "CONTADO",
   "hora": "01:24 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9421,7 +10009,8 @@
   "estado": "CONTADO",
   "hora": "01:12 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9437,7 +10026,8 @@
   "estado": "CONTADO",
   "hora": "01:02 p. m.",
   "docu": "TBLT-@ZUYNEXI",
-  "bloquear": "@ZUYNEXI"
+  "bloquear": "@ZUYNEXI",
+  "user": "LIZETH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9453,7 +10043,8 @@
   "estado": "CONTADO",
   "hora": "12:33 p. m.",
   "docu": "USER: LIZETH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "LIZETH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9469,7 +10060,8 @@
   "estado": "CONTADO",
   "hora": "11:48 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "02/07/2025",
@@ -9485,7 +10077,8 @@
   "estado": "CONTADO",
   "hora": "10:28 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "03/07/2025",
@@ -9501,7 +10094,8 @@
   "estado": "CONTADO",
   "hora": "12:22 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "03/07/2025",
@@ -9517,7 +10111,8 @@
   "estado": "CONTADO",
   "hora": "12:08 p. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "03/07/2025",
@@ -9533,6 +10128,7 @@
   "estado": "CONTADO",
   "hora": "11:12 a. m.",
   "docu": "USER: EDITH",
-  "bloquear": ""
+  "bloquear": "",
+  "user": "EDITH"
 },
 ]
