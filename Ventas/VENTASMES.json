@@ -9791,4 +9791,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "04/07/2025",
+  "fecha": "Jul. 4",
+  "serie": "T001",
+  "numero": "00015857",
+  "nombre": "PROMOTORA DE ESPECTACULOS A & G SAC",
+  "moneda": "PEN",
+  "totguia": "2352",
+  "acuenta": "2352",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "09:07 a. m.",
+  "docu": "TBLT-@PZBKCDU",
+  "bloquear": "@PZBKCDU",
+  "user": "LIZETH"
+},
 ]
