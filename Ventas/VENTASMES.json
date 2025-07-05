@@ -9757,4 +9757,21 @@
   "bloquear": "@PZBKCDU",
   "user": "LIZETH"
 },
+{
+  "fechacab": "05/07/2025",
+  "fecha": "Jul. 5",
+  "serie": "T001",
+  "numero": "00015879",
+  "nombre": "RECREATIVOS FARGO SAC",
+  "moneda": "PEN",
+  "totguia": "60",
+  "acuenta": "60",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "09:51 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
