@@ -27588,6 +27588,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "JGO16-1984",
+  "descripcion": "VAJILLA X 16 PCS  (CAJA X  2 SET)",
+  "fecha": "05/07/2025",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "160",
+  "precio": "43.24",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "2",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "JGO16-209",
   "descripcion": "VAJILLA X 16 PCS Z435-209 (CAJA X  2 SET)",
   "fecha": "08/10/2024",
