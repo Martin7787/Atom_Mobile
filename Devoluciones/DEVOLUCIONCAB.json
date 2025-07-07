@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000197",
+  "nombre": "INVERSIONES MARIELLA S.A.C",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.7",
+  "fecha": "07/07/2025",
+  "hora": "02:51 p. m.",
+  "docu": "T001-00015907",
+  "via": "USER: LIZETH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000196",
   "nombre": "RUBEN QUISPE SICHA",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "07:01 p. m.",
   "docu": "T001-00014295",
   "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000167",
-  "nombre": "COMERCIAL TINEO JR E.I.R.L.",
-  "moneda": "PEN",
-  "totguia": "370",
-  "tipc": "3.7",
-  "fecha": "28/04/2025",
-  "hora": "03:46 p. m.",
-  "docu": "T001-00014079",
-  "via": "USER: LIZETH",
   "bloquear": ""
 },
 ]
