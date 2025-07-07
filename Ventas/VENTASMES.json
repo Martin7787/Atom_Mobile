@@ -9247,4 +9247,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "07/07/2025",
+  "fecha": "Jul. 7",
+  "serie": "T001",
+  "numero": "00015901",
+  "nombre": "NICOLASA USQUIANO PEÑA",
+  "moneda": "PEN",
+  "totguia": "8441",
+  "acuenta": "8441",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:48 a. m.",
+  "docu": "TBLT-@Q4QS6JI",
+  "bloquear": "@Q4QS6JI",
+  "user": "LIZETH"
+},
 ]
