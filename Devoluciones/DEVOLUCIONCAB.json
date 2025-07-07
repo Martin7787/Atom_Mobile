@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000196",
+  "nombre": "RUBEN QUISPE SICHA",
+  "moneda": "PEN",
+  "totguia": "140",
+  "tipc": "3.7",
+  "fecha": "07/07/2025",
+  "hora": "12:22 p. m.",
+  "docu": "T001-00015863",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000195",
   "nombre": "FANNY TAMARA NIÑO",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "03:46 p. m.",
   "docu": "T001-00014079",
   "via": "USER: LIZETH",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000166",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "125",
-  "tipc": "3.7",
-  "fecha": "28/04/2025",
-  "hora": "03:27 p. m.",
-  "docu": "T001-00014235",
-  "via": "USER: SOFI",
   "bloquear": ""
 },
 ]
