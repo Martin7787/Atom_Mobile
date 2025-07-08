@@ -56056,6 +56056,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "VL-MARBLE12-JUMBO",
+  "descripcion": "JUEGO DE OLLAS (CAJA X  2 SET)",
+  "fecha": "08/07/2025",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "530",
+  "precio": "143.24",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "2",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "OLLAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "VL-MARBLE12S-SUPER",
   "descripcion": "JUEGO DE OLLAS (CAJA X  2 SET)",
   "fecha": "13/11/2024",
