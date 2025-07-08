@@ -9689,4 +9689,21 @@
   "bloquear": "@Q4QS6JI",
   "user": "LIZETH"
 },
+{
+  "fechacab": "08/07/2025",
+  "fecha": "Jul. 8",
+  "serie": "T001",
+  "numero": "00015927",
+  "nombre": "IMPORTACIONES CHILDREN TOYS E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "100",
+  "acuenta": "100",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:40 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
