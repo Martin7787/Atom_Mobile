@@ -125,8 +125,13 @@
   "fechacab": "Jul. 7"
 },
 {
-  "dia": "Hoy",
+  "dia": "Mar.",
   "fecha": "08/07/2025",
   "fechacab": "Jul. 8"
+},
+{
+  "dia": "Hoy",
+  "fecha": "09/07/2025",
+  "fechacab": "Jul. 9"
 },
 ]
