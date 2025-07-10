@@ -9638,4 +9638,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "10/07/2025",
+  "fecha": "Jul. 10",
+  "serie": "T001",
+  "numero": "00015971",
+  "nombre": "ANDREA MOGOLLON TORRES",
+  "moneda": "PEN",
+  "totguia": "100",
+  "acuenta": "100",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:20 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
