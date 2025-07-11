@@ -7909,17 +7909,17 @@
   "fecha": "Jul. 8",
   "serie": "T001",
   "numero": "00015940",
-  "nombre": "CLIENTES VARIOS",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "60",
-  "acuenta": "60",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "06:10 p. m.",
   "docu": "TBLT-@NO09N1G",
   "bloquear": "@NO09N1G",
-  "user": "LIZETH"
+  "user": "MARTIN"
 },
 {
   "fechacab": "08/07/2025",
