@@ -43252,6 +43252,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "PWH1051",
+  "descripcion": "PLATO 10.5\" NEGRO MATE (CAJA X  32 UND)",
+  "fecha": "11/07/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "185.6",
+  "precio": "50.16",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "32",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "PZ1006-40*30",
   "descripcion": "AZAFATE DE ACERO INOX 40X30X4CM (CAJA X  150 UND)",
   "fecha": "30/10/2024",
