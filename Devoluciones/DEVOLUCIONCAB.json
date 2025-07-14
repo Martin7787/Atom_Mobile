@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000199",
+  "nombre": "PONCE CRISTOBAL VICTOR ANDRES",
+  "moneda": "PEN",
+  "totguia": "50",
+  "tipc": "3.7",
+  "fecha": "14/07/2025",
+  "hora": "03:30 p. m.",
+  "docu": "T001-00016036",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000198",
   "nombre": "PECHO REYNA RUFINA SATURNINA",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "07:46 p. m.",
   "docu": "T001-00014468",
   "via": "USER: EDITH",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000169",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "116",
-  "tipc": "3.7",
-  "fecha": "03/05/2025",
-  "hora": "05:47 p. m.",
-  "docu": "T001-00014461",
-  "via": "USER: SOFI",
   "bloquear": ""
 },
 ]
