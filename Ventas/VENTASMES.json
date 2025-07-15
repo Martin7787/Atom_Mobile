@@ -7938,4 +7938,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "15/07/2025",
+  "fecha": "Jul. 15",
+  "serie": "T001",
+  "numero": "00016052",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "458",
+  "acuenta": "458",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "09:49 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
