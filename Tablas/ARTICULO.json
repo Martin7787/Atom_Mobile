@@ -29106,6 +29106,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "JJ24432",
+  "descripcion": "JARRA BLANCA DE LOZA (CAJA X  3 DOC)",
+  "fecha": "16/07/2025",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "310",
+  "precio": "83.78",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "3",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "JJ24434",
   "descripcion": "AZUCARERA BLANCA (CAJA X  30 UND)",
   "fecha": "16/07/2025",
