@@ -59114,6 +59114,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "XQ24413",
+  "descripcion": "TERMO DE COMIDA ACERO (CAJA X  3 DOC)",
+  "fecha": "16/07/2025",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "620",
+  "precio": "167.57",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "3",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "XQ24414",
   "descripcion": "TOMATODO DE ACERO COLORES (CAJA X  25 UND)",
   "fecha": "16/07/2025",
