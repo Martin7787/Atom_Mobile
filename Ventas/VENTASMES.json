@@ -8176,4 +8176,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "16/07/2025",
+  "fecha": "Jul. 16",
+  "serie": "T001",
+  "numero": "00016066",
+  "nombre": "DENNIS HENRY BARZOLA MUCHA",
+  "moneda": "PEN",
+  "totguia": "68",
+  "acuenta": "68",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:17 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
