@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000201",
+  "nombre": "GRUPO GER MELCHOR S.A.C.",
+  "moneda": "PEN",
+  "totguia": "75",
+  "tipc": "3.7",
+  "fecha": "17/07/2025",
+  "hora": "04:55 p. m.",
+  "docu": "T001-00016092",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000200",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "05/05/2025",
   "hora": "11:27 a. m.",
   "docu": "T001-00014498",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000171",
-  "nombre": "JHONATAN MICHAEL MENDOZA PORRAS",
-  "moneda": "PEN",
-  "totguia": "430",
-  "tipc": "3.7",
-  "fecha": "03/05/2025",
-  "hora": "08:23 p. m.",
-  "docu": "T001-00014483",
   "via": "USER: SOFI",
   "bloquear": ""
 },
