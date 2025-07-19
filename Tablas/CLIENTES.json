@@ -1911,6 +1911,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "ZULNE RAMOS OROZCO",
+  "ruc": "03496705",
+  "direccion": "VITARTE",
+  "tipo": "0",
+  "fecha": "19/07/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "INES ADRIANZEN",
   "ruc": "03583592",
   "direccion": "SULLANA",
@@ -79807,6 +79820,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "CARMEN HUALPA",
+  "ruc": "45675280",
+  "direccion": "SAN JUAN DE MIRAFLORES",
+  "tipo": "0",
+  "fecha": "19/07/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "DIANA CISNEROS VILLANUEVA",
   "ruc": "45675491",
   "direccion": "AV. LUIS CARRANZA # 243 AYACUCHO - SAN JUAN BAUTISTA",
@@ -87482,6 +87508,19 @@
   "direccion": "SAN ISIDRO",
   "tipo": "0",
   "fecha": "14/06/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "ALEXIS ",
+  "ruc": "70431953",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "19/07/2025",
   "telefono": "",
   "email": "",
   "trato": "",
