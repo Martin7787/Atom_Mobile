@@ -42614,6 +42614,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "PLT9RW-MORELLA",
+  "descripcion": "PLATO 9\" REDONDO BLANCO H Y T MORELLA (CAJA X  72 DOC)",
+  "fecha": "18/07/2025",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "165",
+  "precio": "44.59",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "72",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "PLT9RW-SUNDA",
   "descripcion": "PLATO 9\" REDONDO BLANCO H Y T  (CAJA X  4 DOC)",
   "fecha": "11/03/2025",
