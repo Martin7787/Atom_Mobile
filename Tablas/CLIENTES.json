@@ -780,6 +780,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "DANTE TOCTO",
+  "ruc": "00000000155",
+  "direccion": "LIMA\r\n",
+  "tipo": "2",
+  "fecha": "18/07/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MARCELO AVENDAÑO",
   "ruc": "00000000200",
   "direccion": "LIMA",
