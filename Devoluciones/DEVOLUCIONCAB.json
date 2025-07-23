@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000203",
+  "nombre": "POTTERY ISA EIRL",
+  "moneda": "PEN",
+  "totguia": "264",
+  "tipc": "3.7",
+  "fecha": "23/07/2025",
+  "hora": "01:05 p. m.",
+  "docu": "T001-00015258",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000202",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "08/05/2025",
   "hora": "12:42 p. m.",
   "docu": "T001-00014690",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000173",
-  "nombre": "GABINA",
-  "moneda": "PEN",
-  "totguia": "125",
-  "tipc": "3.7",
-  "fecha": "05/05/2025",
-  "hora": "11:49 a. m.",
-  "docu": "T001-00013424",
   "via": "USER: SOFI",
   "bloquear": ""
 },
