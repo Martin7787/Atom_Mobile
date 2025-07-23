@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000202",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "0.0000",
+  "tipc": "1",
+  "fecha": "23/07/2025",
+  "hora": "01:04 p. m.",
+  "docu": "",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000201",
   "nombre": "GRUPO GER MELCHOR S.A.C.",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "05/05/2025",
   "hora": "11:49 a. m.",
   "docu": "T001-00013424",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000172",
-  "nombre": "GLADYS ALIAGA PAUCAR",
-  "moneda": "PEN",
-  "totguia": "500",
-  "tipc": "3.7",
-  "fecha": "05/05/2025",
-  "hora": "11:27 a. m.",
-  "docu": "T001-00014498",
   "via": "USER: SOFI",
   "bloquear": ""
 },
