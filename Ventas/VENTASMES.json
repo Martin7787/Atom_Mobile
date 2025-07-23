@@ -8499,4 +8499,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "23/07/2025",
+  "fecha": "Jul. 23",
+  "serie": "T001",
+  "numero": "00016185",
+  "nombre": "CORDOVA YBAÑEZ CARLOS HUGO",
+  "moneda": "PEN",
+  "totguia": "373",
+  "acuenta": "373",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "09:59 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
