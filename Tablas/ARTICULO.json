@@ -53548,6 +53548,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "TP220SUNDA",
+  "descripcion": "TAZA C/ PLATO (CAJA X  12 SET)",
+  "fecha": "23/07/2025",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "150",
+  "precio": "40.54",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "12",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "TP230W-GALLERY",
   "descripcion": "TAZA C/PLATO 230CC BLANCO (CAJA X  4 DOC)",
   "fecha": "08/09/2021",
