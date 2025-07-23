@@ -27544,6 +27544,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "JGO16-061",
+  "descripcion": "VAJILLA X 16 PCS  (CAJA X  2 SET)",
+  "fecha": "23/07/2025",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "150",
+  "precio": "40.54",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "2",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "JGO16-103-1",
   "descripcion": "VAJILLA X 16 PCS NEGRO/VERDE RUSTICO (CAJA X  2 SET)",
   "fecha": "28/11/2024",
