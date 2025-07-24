@@ -8584,4 +8584,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "24/07/2025",
+  "fecha": "Jul. 24",
+  "serie": "T001",
+  "numero": "00016204",
+  "nombre": "FRANCO IBARRA",
+  "moneda": "PEN",
+  "totguia": "72",
+  "acuenta": "72",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:18 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
