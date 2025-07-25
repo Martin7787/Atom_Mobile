@@ -32201,6 +32201,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "SEGUNDO",
+  "ruc": "10583588",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "24/07/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "LIZANDRO LEONCIO PIMENTEL BAYONA",
   "ruc": "10585550",
   "direccion": "LIMA",
