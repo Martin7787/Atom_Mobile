@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000204",
+  "nombre": "MULTISERVICIOS JHON ANDERSON E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "896",
+  "tipc": "3.7",
+  "fecha": "01/08/2025",
+  "hora": "12:11 p. m.",
+  "docu": "T001-00016230",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000203",
   "nombre": "POTTERY ISA EIRL",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "09/05/2025",
   "hora": "03:47 p. m.",
   "docu": "T001-00014768",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000174",
-  "nombre": "SOLIS MUÑANTE KARINA JACKELINE",
-  "moneda": "PEN",
-  "totguia": "129",
-  "tipc": "3.7",
-  "fecha": "08/05/2025",
-  "hora": "12:42 p. m.",
-  "docu": "T001-00014690",
   "via": "USER: SOFI",
   "bloquear": ""
 },
