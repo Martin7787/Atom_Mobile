@@ -14234,6 +14234,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "BLYH-18CM",
+  "descripcion": "FLORERO DE VIDRIO 18CM (CAJA X  36 UND)",
+  "fecha": "01/08/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "180",
+  "precio": "48.65",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "36",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "RONGQIAN",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "BMJ-125NST",
   "descripcion": "JARRA LABRADA DE VIDRIO C/TAPA (CAJA X  12 UND)",
   "fecha": "12/04/2024",
