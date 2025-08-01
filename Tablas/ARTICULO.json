@@ -15818,6 +15818,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "BOL7W-B_40",
+  "descripcion": "BOLO 7\" BLANCO C/BORDE GALLERY (CAJA X  40 UND)",
+  "fecha": "01/08/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "130",
+  "precio": "35.14",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "40",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "BOL7W-CIESKO",
   "descripcion": "BOLO 7\" BLANCO  (CAJA X  40 UND)",
   "fecha": "11/04/2023",
