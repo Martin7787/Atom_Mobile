@@ -40150,6 +40150,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "P93",
+  "descripcion": "PLATO 10.5\" RUSTICO (CAJA X  24 UND)",
+  "fecha": "02/08/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "96",
+  "precio": "25.95",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "24",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "P95",
   "descripcion": "PLATO 10.5\" (CAJA X  30 UND)",
   "fecha": "23/07/2025",
