@@ -7802,4 +7802,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "04/08/2025",
+  "fecha": "Ago. 4",
+  "serie": "T001",
+  "numero": "00016338",
+  "nombre": "COMERCIAL TINEO JR E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "1891",
+  "acuenta": "1891",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:51 a. m.",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
 ]
