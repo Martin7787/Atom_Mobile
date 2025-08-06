@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000207",
+  "nombre": "MEDINA SOSA JESUS MANUEL",
+  "moneda": "PEN",
+  "totguia": "570",
+  "tipc": "3.7",
+  "fecha": "06/08/2025",
+  "hora": "01:18 p. m.",
+  "docu": "T001-00016391",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000206",
   "nombre": "MICHAEL LOAYZA AQUINO",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "03:00 p. m.",
   "docu": "T001-00014942",
   "via": "USER: LIZETH",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000177",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "135",
-  "tipc": "3.7",
-  "fecha": "14/05/2025",
-  "hora": "12:10 p. m.",
-  "docu": "T001-00014608",
-  "via": "USER: SOFI",
   "bloquear": ""
 },
 ]
