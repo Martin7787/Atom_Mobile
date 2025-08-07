@@ -8159,4 +8159,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "07/08/2025",
+  "fecha": "Ago. 7",
+  "serie": "T001",
+  "numero": "00016407",
+  "nombre": "ELIZABETH MARTINA CHAVEZ ENCISO",
+  "moneda": "PEN",
+  "totguia": "50",
+  "acuenta": "50",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:22 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
