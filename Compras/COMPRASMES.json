@@ -1,5 +1,170 @@
 [
 {
+  "fechacab": "08/08/2025",
+  "serie": "COT",
+  "numero": "VL909090",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "550",
+  "tipc": "3.7",
+  "hora": "07:54 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "07/08/2025",
+  "serie": "COT",
+  "numero": "RT004693",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.7",
+  "hora": "10:53 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "07/08/2025",
+  "serie": "COT",
+  "numero": "RJ03967",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "95",
+  "tipc": "3.7",
+  "hora": "10:56 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "07/08/2025",
+  "serie": "COT",
+  "numero": "MOQ001793",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "680",
+  "tipc": "3.7",
+  "hora": "10:54 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "07/08/2025",
+  "serie": "COT",
+  "numero": "MOQ001792",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "288",
+  "tipc": "3.7",
+  "hora": "10:53 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "07/08/2025",
+  "serie": "COT",
+  "numero": "CP28689",
+  "nombre": "CASA PORCELANA",
+  "moneda": "PEN",
+  "totguia": "155",
+  "tipc": "3.7",
+  "hora": "10:57 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "07/08/2025",
+  "serie": "COT",
+  "numero": "CG002216",
+  "nombre": "CENTER GLASS E.I.R.L",
+  "moneda": "PEN",
+  "totguia": "218",
+  "tipc": "3.7",
+  "hora": "10:58 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/08/2025",
+  "serie": "COT",
+  "numero": "VL060825",
+  "nombre": "VALESKA",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.7",
+  "hora": "10:55 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/08/2025",
+  "serie": "COT",
+  "numero": "TQ000911",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "320",
+  "tipc": "3.7",
+  "hora": "11:37 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/08/2025",
+  "serie": "COT",
+  "numero": "RT004680",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "270",
+  "tipc": "3.7",
+  "hora": "11:36 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/08/2025",
+  "serie": "COT",
+  "numero": "RJ03958",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "10:56 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/08/2025",
+  "serie": "COT",
+  "numero": "GP000180",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "360",
+  "tipc": "3.7",
+  "hora": "11:38 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/08/2025",
+  "serie": "FAC",
+  "numero": "f013-00137000",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "217.69",
+  "tipc": "3.6",
+  "hora": "04:59 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "06/08/2025",
+  "serie": "FAC",
+  "numero": "F002-00009538",
+  "nombre": "RONGQUIAN",
+  "moneda": "PEN",
+  "totguia": "7845.6",
+  "tipc": "3.6",
+  "hora": "05:40 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "06/08/2025",
+  "serie": "COT",
+  "numero": "007320",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "3080",
+  "tipc": "3.6",
+  "hora": "04:58 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "05/08/2025",
   "serie": "COT",
   "numero": "YH0002001",
@@ -8,6 +173,17 @@
   "totguia": "320",
   "tipc": "3.7",
   "hora": "10:54 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/08/2025",
+  "serie": "COT",
+  "numero": "VL009965",
+  "nombre": "VALESKA",
+  "moneda": "PEN",
+  "totguia": "720",
+  "tipc": "3.7",
+  "hora": "11:40 a. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -156,6 +332,17 @@
 {
   "fechacab": "02/08/2025",
   "serie": "COT",
+  "numero": "CP28699",
+  "nombre": "CASA PORCELANA",
+  "moneda": "PEN",
+  "totguia": "115",
+  "tipc": "3.7",
+  "hora": "10:57 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "02/08/2025",
+  "serie": "COT",
   "numero": "012515",
   "nombre": "IMPORT NAYRA 3",
   "moneda": "PEN",
@@ -217,6 +404,17 @@
   "totguia": "580",
   "tipc": "3.7",
   "hora": "11:14 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "31/07/2025",
+  "serie": "COT",
+  "numero": "TQ000859",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.7",
+  "hora": "11:10 a. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -1317,116 +1515,6 @@
   "totguia": "98",
   "tipc": "3.7",
   "hora": "09:57 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "08/07/2025",
-  "serie": "COT",
-  "numero": "VL008773",
-  "nombre": "VALESKA",
-  "moneda": "PEN",
-  "totguia": "1520",
-  "tipc": "3.7",
-  "hora": "11:13 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "08/07/2025",
-  "serie": "COT",
-  "numero": "TQ000518",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "12:16 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "08/07/2025",
-  "serie": "COT",
-  "numero": "TQ000514",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "420",
-  "tipc": "3.7",
-  "hora": "11:15 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "08/07/2025",
-  "serie": "COT",
-  "numero": "TQ000290",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "12:24 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "08/07/2025",
-  "serie": "COT",
-  "numero": "MOQ001756",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "312",
-  "tipc": "3.7",
-  "hora": "11:05 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "08/07/2025",
-  "serie": "FAC",
-  "numero": "F063-00062663",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "797.24",
-  "tipc": "3.56",
-  "hora": "01:33 p. m.",
-  "docu": "USER: SOFI"
-},
-{
-  "fechacab": "08/07/2025",
-  "serie": "FAC",
-  "numero": "F002-0018658",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "178",
-  "tipc": "3.7",
-  "hora": "11:19 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "08/07/2025",
-  "serie": "COT",
-  "numero": "646070",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "6460.7",
-  "tipc": "3.6",
-  "hora": "08:34 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "08/07/2025",
-  "serie": "COT",
-  "numero": "059614",
-  "nombre": "CREACIONES BETHEL S.A.C.",
-  "moneda": "PEN",
-  "totguia": "1560",
-  "tipc": "3.557",
-  "hora": "01:28 p. m.",
-  "docu": "USER: SOFI"
-},
-{
-  "fechacab": "07/07/2025",
-  "serie": "COT",
-  "numero": "TQ000399",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "260",
-  "tipc": "3.7",
-  "hora": "12:16 p. m.",
   "docu": "USER: MARTIN"
 },
 ]
