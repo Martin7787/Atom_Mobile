@@ -7717,4 +7717,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "11/08/2025",
+  "fecha": "Ago. 11",
+  "serie": "T001",
+  "numero": "00016463",
+  "nombre": "LIZETH MARA BRAVO LLOCCLLA",
+  "moneda": "PEN",
+  "totguia": "165",
+  "acuenta": "165",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:06 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
