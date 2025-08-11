@@ -2,12 +2,45 @@
 {
   "fechacab": "11/08/2025",
   "serie": "COT",
+  "numero": "VL090909",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.7",
+  "hora": "05:25 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "11/08/2025",
+  "serie": "COT",
   "numero": "DIA25003388",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
   "totguia": "1890",
   "tipc": "3.54",
   "hora": "03:53 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "11/08/2025",
+  "serie": "COT",
+  "numero": "636593",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "6539.92",
+  "tipc": "3.56",
+  "hora": "05:17 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "11/08/2025",
+  "serie": "COT",
+  "numero": "421055",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "4210.55",
+  "tipc": "3.54",
+  "hora": "05:16 p. m.",
   "docu": "USER: DANTE"
 },
 {
