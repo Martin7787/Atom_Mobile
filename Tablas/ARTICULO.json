@@ -13398,6 +13398,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "ARRO9DIS-SUNDA",
+  "descripcion": "ARROCERO 9\" C/DISEÑO SUNDA (CAJA X  48 UND)",
+  "fecha": "11/08/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "128",
+  "precio": "34.59",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "48",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "ARRO9W-BGP-9",
   "descripcion": "PLATO 9\" ARROCERO BLANCO (CAJA X  40 UND)",
   "fecha": "12/08/2023",
