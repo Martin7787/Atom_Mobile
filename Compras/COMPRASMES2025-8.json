@@ -1,5 +1,38 @@
 [
 {
+  "fechacab": "11/08/2025",
+  "serie": "COT",
+  "numero": "007323",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "3900",
+  "tipc": "3.7",
+  "hora": "12:00 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "08/08/2025",
+  "serie": "COT",
+  "numero": "RJ03972",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "115",
+  "tipc": "3.7",
+  "hora": "10:42 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "08/08/2025",
+  "serie": "COT",
+  "numero": "MOQ001794",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "140",
+  "tipc": "3.7",
+  "hora": "10:41 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "07/08/2025",
   "serie": "COT",
   "numero": "RT004693",
@@ -145,6 +178,17 @@
 {
   "fechacab": "06/08/2025",
   "serie": "COT",
+  "numero": "CM004294",
+  "nombre": "CONTINENTAL NNATIONALIZER SAC",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.7",
+  "hora": "10:40 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/08/2025",
+  "serie": "COT",
   "numero": "007320",
   "nombre": "JOSE JIBAJA",
   "moneda": "PEN",
@@ -195,6 +239,17 @@
   "totguia": "95",
   "tipc": "3.7",
   "hora": "11:11 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/08/2025",
+  "serie": "COT",
+  "numero": "MOQ001791",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.7",
+  "hora": "10:40 a. m.",
   "docu": "USER: MARTIN"
 },
 {
