@@ -1542,17 +1542,6 @@
 {
   "fechacab": "11/11/2024",
   "serie": "COT",
-  "numero": "123456",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "3244",
-  "tipc": "3.85",
-  "hora": "06:49 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/11/2024",
-  "serie": "COT",
   "numero": "007200",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",

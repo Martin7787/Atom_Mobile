@@ -12000,10 +12000,6 @@
   "numero": "002173"
 },
 {
-  "serie": "COT",
-  "numero": "123456"
-},
-{
   "serie": "FAC",
   "numero": "F061-00103089"
 },
@@ -12066,6 +12062,10 @@
 {
   "serie": "COT",
   "numero": "DIA24003804"
+},
+{
+  "serie": "COT",
+  "numero": "VL333333"
 },
 {
   "serie": "COT",
@@ -17806,9 +17806,5 @@
 {
   "serie": "COT",
   "numero": "007323"
-},
-{
-  "serie": "COT",
-  "numero": "VL909090"
 },
 ]
