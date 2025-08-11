@@ -2,6 +2,28 @@
 {
   "fechacab": "11/08/2025",
   "serie": "COT",
+  "numero": "VV09090909",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.7",
+  "hora": "04:44 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "11/08/2025",
+  "serie": "COT",
+  "numero": "DIA25003388",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1890",
+  "tipc": "3.54",
+  "hora": "03:53 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "11/08/2025",
+  "serie": "COT",
   "numero": "007323",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
