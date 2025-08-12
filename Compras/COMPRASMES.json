@@ -2,6 +2,17 @@
 {
   "fechacab": "12/08/2025",
   "serie": "COT",
+  "numero": "GG009988",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "250",
+  "tipc": "3.7",
+  "hora": "05:53 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "12/08/2025",
+  "serie": "COT",
   "numero": "DD25050001999",
   "nombre": "DOU DOU",
   "moneda": "PEN",
@@ -9,17 +20,6 @@
   "tipc": "3.6",
   "hora": "04:00 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "12/08/2025",
-  "serie": "COT",
-  "numero": "DD112233",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "300",
-  "tipc": "3.7",
-  "hora": "04:23 p. m.",
-  "docu": "USER: MARTIN"
 },
 {
   "fechacab": "12/08/2025",
