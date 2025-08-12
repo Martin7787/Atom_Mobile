@@ -2,13 +2,24 @@
 {
   "fechacab": "12/08/2025",
   "serie": "COT",
-  "numero": "GG009988",
+  "numero": "HH998877",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
   "totguia": "250",
   "tipc": "3.7",
-  "hora": "05:53 p. m.",
+  "hora": "06:27 p. m.",
   "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "12/08/2025",
+  "serie": "COT",
+  "numero": "DIA25003420",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "690",
+  "tipc": "3.54",
+  "hora": "06:14 p. m.",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "12/08/2025",
