@@ -1,5 +1,49 @@
 [
 {
+  "fechacab": "12/08/2025",
+  "serie": "COT",
+  "numero": "GG009988",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.7",
+  "hora": "04:08 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "12/08/2025",
+  "serie": "COT",
+  "numero": "DD25050001999",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "1021.68",
+  "tipc": "3.6",
+  "hora": "04:00 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "12/08/2025",
+  "serie": "COT",
+  "numero": "060435",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "2730",
+  "tipc": "3.6",
+  "hora": "01:34 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "11/08/2025",
+  "serie": "COT",
+  "numero": "RJ03986",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "11:01 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "11/08/2025",
   "serie": "COT",
   "numero": "DIA25003388",
@@ -1240,116 +1284,6 @@
   "totguia": "76",
   "tipc": "3.7",
   "hora": "12:48 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/07/2025",
-  "serie": "COT",
-  "numero": "YH0001872",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "260",
-  "tipc": "3.7",
-  "hora": "10:33 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/07/2025",
-  "serie": "COT",
-  "numero": "RT004401",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "464",
-  "tipc": "3.7",
-  "hora": "12:09 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/07/2025",
-  "serie": "COT",
-  "numero": "RJ03836",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "240",
-  "tipc": "3.7",
-  "hora": "12:42 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/07/2025",
-  "serie": "FAC",
-  "numero": "PV01328",
-  "nombre": "ADONAI P&V MENAJE",
-  "moneda": "USD",
-  "totguia": "35",
-  "tipc": "3.7",
-  "hora": "12:50 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/07/2025",
-  "serie": "COT",
-  "numero": "MOQ001765",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "275",
-  "tipc": "3.7",
-  "hora": "12:39 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/07/2025",
-  "serie": "COT",
-  "numero": "MOQ001764",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "1141",
-  "tipc": "3.7",
-  "hora": "12:37 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/07/2025",
-  "serie": "COT",
-  "numero": "MOQ001763",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "436",
-  "tipc": "3.7",
-  "hora": "12:37 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/07/2025",
-  "serie": "FAC",
-  "numero": "F001-0023287",
-  "nombre": "CONTINENTAL NNATIONALIZER SAC",
-  "moneda": "USD",
-  "totguia": "84",
-  "tipc": "3.7",
-  "hora": "11:36 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/07/2025",
-  "serie": "COT",
-  "numero": "DD25050001753",
-  "nombre": "DOU DOU",
-  "moneda": "PEN",
-  "totguia": "2148.68",
-  "tipc": "3.56",
-  "hora": "08:09 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "12/07/2025",
-  "serie": "COT",
-  "numero": "CG001738",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "49",
-  "tipc": "3.7",
-  "hora": "12:46 p. m.",
   "docu": "USER: MARTIN"
 },
 ]
