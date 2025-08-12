@@ -55022,6 +55022,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "TQ727-09",
+  "descripcion": "BOWL 6\" RUSTICO 15CM (CAJA X  36 UND)",
+  "fecha": "12/08/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "125",
+  "precio": "33.78",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "36",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "TV-01",
   "descripcion": "TERMOLUNCH 1.25LT (CAJA X 12 UND)",
   "fecha": "03/09/2021",
