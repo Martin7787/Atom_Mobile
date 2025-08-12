@@ -7768,4 +7768,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "12/08/2025",
+  "fecha": "Ago. 12",
+  "serie": "T001",
+  "numero": "00016487",
+  "nombre": "TECNIGAS DISTRIBUCIONES E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "3110.5",
+  "acuenta": "3110.5",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:35 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
