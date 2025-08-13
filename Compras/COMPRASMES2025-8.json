@@ -1,17 +1,6 @@
 [
 {
   "fechacab": "13/08/2025",
-  "serie": "FAC",
-  "numero": "TT112233",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "250",
-  "tipc": "3.7",
-  "hora": "04:39 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "13/08/2025",
   "serie": "COT",
   "numero": "GG009988",
   "nombre": "CLIENTES VARIOS",
