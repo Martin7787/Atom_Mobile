@@ -1,24 +1,13 @@
 [
 {
   "fechacab": "13/08/2025",
-  "serie": "COT",
-  "numero": "HH112233",
+  "serie": "FAC",
+  "numero": "FF445566",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
   "totguia": "300",
   "tipc": "3.7",
-  "hora": "12:55 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "13/08/2025",
-  "serie": "COT",
-  "numero": "GG009988",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "300",
-  "tipc": "3.7",
-  "hora": "12:41 p. m.",
+  "hora": "04:06 p. m.",
   "docu": "USER: MARTIN"
 },
 {
