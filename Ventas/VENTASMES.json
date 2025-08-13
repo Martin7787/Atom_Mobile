@@ -8159,4 +8159,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "13/08/2025",
+  "fecha": "Ago. 13",
+  "serie": "T001",
+  "numero": "00016510",
+  "nombre": "SANCHEZ HUAMAN YAMPHOL BENJAMIN",
+  "moneda": "PEN",
+  "totguia": "293",
+  "acuenta": "293",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:39 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
