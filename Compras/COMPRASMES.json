@@ -1,6 +1,17 @@
 [
 {
   "fechacab": "13/08/2025",
+  "serie": "FAC",
+  "numero": "RR445566",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "280",
+  "tipc": "3.7",
+  "hora": "01:02 p. m.",
+  "docu": "MARH-@Z7UQA11"
+},
+{
+  "fechacab": "13/08/2025",
   "serie": "COT",
   "numero": "HH112233",
   "nombre": "CLIENTES VARIOS",
