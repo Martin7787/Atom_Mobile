@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000208",
+  "nombre": "DANIEL MIRANDA LASTRA",
+  "moneda": "PEN",
+  "totguia": "56.67",
+  "tipc": "3.7",
+  "fecha": "14/08/2025",
+  "hora": "02:25 p. m.",
+  "docu": "T001-00016364",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000207",
   "nombre": "MEDINA SOSA JESUS MANUEL",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "22/05/2025",
   "hora": "05:10 p. m.",
   "docu": "T001-00015014",
-  "via": "USER: LIZETH",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000178",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "140",
-  "tipc": "3.7",
-  "fecha": "19/05/2025",
-  "hora": "03:00 p. m.",
-  "docu": "T001-00014942",
   "via": "USER: LIZETH",
   "bloquear": ""
 },
