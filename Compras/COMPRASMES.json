@@ -2,6 +2,17 @@
 {
   "fechacab": "14/08/2025",
   "serie": "COT",
+  "numero": "HHH009988",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "250",
+  "tipc": "3.7",
+  "hora": "03:48 p. m.",
+  "docu": "MARH-@IRXNA98"
+},
+{
+  "fechacab": "14/08/2025",
+  "serie": "COT",
   "numero": "BEN000101",
   "nombre": "BEN BEN S.A.C.",
   "moneda": "PEN",
