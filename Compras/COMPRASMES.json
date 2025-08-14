@@ -2,17 +2,6 @@
 {
   "fechacab": "14/08/2025",
   "serie": "COT",
-  "numero": "GG112233",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "385",
-  "tipc": "3.7",
-  "hora": "06:04 p. m.",
-  "docu": "MARH-@Q21I5HN"
-},
-{
-  "fechacab": "14/08/2025",
-  "serie": "COT",
   "numero": "BEN000101",
   "nombre": "BEN BEN S.A.C.",
   "moneda": "PEN",
@@ -82,9 +71,9 @@
   "numero": "DD25050001999",
   "nombre": "DOU DOU",
   "moneda": "PEN",
-  "totguia": "1021.68",
+  "totguia": "835.92",
   "tipc": "3.6",
-  "hora": "04:00 p. m.",
+  "hora": "06:17 p. m.",
   "docu": "USER: DANTE"
 },
 {
