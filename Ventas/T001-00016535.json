@@ -2,9 +2,9 @@
 {
   "numero": "T001-00016535",
   "fecha": "14/08/2025",
-  "ruc": "00000000",
-  "nombre": "CLIENTES VARIOS",
-  "direccion": "LIMA",
+  "ruc": "31661093",
+  "nombre": "SERGIO MARCOS ESPINOZA AMADO",
+  "direccion": "IRRIGACION SANTA ROSA SECCION LA VILLA SAYAN HUAURA",
   "moneda": "0",
   "totguia": "1833.2",
   "acuenta": "1833.2",
@@ -96,7 +96,7 @@
   "cantimp": "1 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "314.5",
   "punidad": "0.0000"
 },
@@ -118,7 +118,7 @@
   "cantimp": "1 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "288",
   "punidad": "0.0000"
 },
