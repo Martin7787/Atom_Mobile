@@ -1,5 +1,71 @@
 [
 {
+  "fechacab": "14/08/2025",
+  "serie": "COT",
+  "numero": "GG889900",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.7",
+  "hora": "02:46 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "14/08/2025",
+  "serie": "COT",
+  "numero": "BEN000101",
+  "nombre": "BEN BEN S.A.C.",
+  "moneda": "PEN",
+  "totguia": "11875.2",
+  "tipc": "3.56",
+  "hora": "01:32 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "14/08/2025",
+  "serie": "COT",
+  "numero": "20257177",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "3750",
+  "tipc": "3.6",
+  "hora": "01:38 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "14/08/2025",
+  "serie": "COT",
+  "numero": "074226",
+  "nombre": "IMPORT NAYRA 3",
+  "moneda": "PEN",
+  "totguia": "2112",
+  "tipc": "3.56",
+  "hora": "01:34 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "13/08/2025",
+  "serie": "COT",
+  "numero": "VL007863",
+  "nombre": "VALESKA",
+  "moneda": "PEN",
+  "totguia": "880",
+  "tipc": "3.7",
+  "hora": "11:40 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "13/08/2025",
+  "serie": "COT",
+  "numero": "RJ03989",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.7",
+  "hora": "11:40 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "12/08/2025",
   "serie": "COT",
   "numero": "DIA25003420",
@@ -29,7 +95,7 @@
   "moneda": "PEN",
   "totguia": "2730",
   "tipc": "3.6",
-  "hora": "01:34 p. m.",
+  "hora": "02:04 p. m.",
   "docu": "USER: DANTE"
 },
 {
