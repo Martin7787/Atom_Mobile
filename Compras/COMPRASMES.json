@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "15/08/2025",
+  "serie": "COT",
+  "numero": "DD009988",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.7",
+  "hora": "06:37 p. m.",
+  "docu": "MARH-@MA9RR8X"
+},
+{
   "fechacab": "14/08/2025",
   "serie": "COT",
   "numero": "YH0002033",
