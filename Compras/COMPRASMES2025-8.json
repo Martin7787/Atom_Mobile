@@ -1,6 +1,17 @@
 [
 {
   "fechacab": "15/08/2025",
+  "serie": "FAC",
+  "numero": "PP556677",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "350",
+  "tipc": "3.7",
+  "hora": "05:21 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "15/08/2025",
   "serie": "COT",
   "numero": "GG112233",
   "nombre": "CLIENTES VARIOS",
