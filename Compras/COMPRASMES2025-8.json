@@ -5,9 +5,9 @@
   "numero": "RR332211",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
-  "totguia": "500",
+  "totguia": "700",
   "tipc": "3.7",
-  "hora": "07:34 p. m.",
+  "hora": "07:38 p. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -75,17 +75,6 @@
   "tipc": "3.7",
   "hora": "11:40 a. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/08/2025",
-  "serie": "COT",
-  "numero": "DIA25003420",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "690",
-  "tipc": "3.54",
-  "hora": "06:14 p. m.",
-  "docu": "USER: DANTE"
 },
 {
   "fechacab": "12/08/2025",
