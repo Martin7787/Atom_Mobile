@@ -77675,6 +77675,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "DALI",
+  "ruc": "44433031",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "16/08/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "SILVIA RIVERA ROMA",
   "ruc": "44436772",
   "direccion": "CAÑETE",
