@@ -2,17 +2,6 @@
 {
   "fechacab": "16/08/2025",
   "serie": "COT",
-  "numero": "TT334455",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "250",
-  "tipc": "3.7",
-  "hora": "05:14 p. m.",
-  "docu": "MARH-@9WT3ELF"
-},
-{
-  "fechacab": "16/08/2025",
-  "serie": "COT",
   "numero": "FF112233",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -20,6 +9,17 @@
   "tipc": "3.7",
   "hora": "03:30 p. m.",
   "docu": "MARH-@TL6LRUL"
+},
+{
+  "fechacab": "16/08/2025",
+  "serie": "COT",
+  "numero": "060555",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "650",
+  "tipc": "3.6",
+  "hora": "06:07 p. m.",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "15/08/2025",
