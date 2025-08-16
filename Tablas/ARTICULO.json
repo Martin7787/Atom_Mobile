@@ -25850,6 +25850,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "HS1200",
+  "descripcion": "TAPER DE VIDRIO REFRACTARIO CUADRADO (CAJA X  12 UND)",
+  "fecha": "16/08/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "108",
+  "precio": "29.19",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "12",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "YCHI",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "HS-2",
   "descripcion": "TAZA DECORADO (CAJA X  4 DOC)",
   "fecha": "26/09/2022",
