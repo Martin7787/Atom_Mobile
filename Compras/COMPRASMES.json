@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "16/08/2025",
+  "serie": "COT",
+  "numero": "GGH112233",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "250",
+  "tipc": "3.7",
+  "hora": "02:39 p. m.",
+  "docu": "MARH-@09E1LMC"
+},
+{
   "fechacab": "14/08/2025",
   "serie": "COT",
   "numero": "YH0002033",
@@ -1074,7 +1085,7 @@
   "moneda": "PEN",
   "totguia": "17702.61",
   "tipc": "3.7",
-  "hora": "11:44 a. m.",
+  "hora": "02:19 p. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -1262,28 +1273,6 @@
   "totguia": "904.5",
   "tipc": "3.6",
   "hora": "08:07 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "16/07/2025",
-  "serie": "FAC",
-  "numero": "F063-00063017",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "675.46",
-  "tipc": "3.56",
-  "hora": "07:33 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "16/07/2025",
-  "serie": "DUA",
-  "numero": "DD25050001784",
-  "nombre": "DOU DOU",
-  "moneda": "PEN",
-  "totguia": "3472",
-  "tipc": "3.7",
-  "hora": "07:48 p. m.",
   "docu": "USER: DANTE"
 },
 ]
