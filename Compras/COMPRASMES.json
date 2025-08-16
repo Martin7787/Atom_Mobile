@@ -1,14 +1,36 @@
 [
 {
-  "fechacab": "16/08/2025",
+  "fechacab": "15/08/2025",
+  "serie": "FAC",
+  "numero": "F062-00030117",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "0.01",
+  "tipc": "3.6",
+  "hora": "02:59 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "15/08/2025",
+  "serie": "FAC",
+  "numero": "F062-00030116",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "912.43",
+  "tipc": "3.56",
+  "hora": "02:52 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "15/08/2025",
   "serie": "COT",
-  "numero": "GGH112233",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "250",
-  "tipc": "3.7",
-  "hora": "02:39 p. m.",
-  "docu": "MARH-@09E1LMC"
+  "numero": "F062-00030115",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "288",
+  "tipc": "3.56",
+  "hora": "02:49 p. m.",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "14/08/2025",
