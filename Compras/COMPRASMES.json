@@ -2,17 +2,6 @@
 {
   "fechacab": "16/08/2025",
   "serie": "COT",
-  "numero": "FF112233",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "250",
-  "tipc": "3.7",
-  "hora": "03:30 p. m.",
-  "docu": "MARH-@TL6LRUL"
-},
-{
-  "fechacab": "16/08/2025",
-  "serie": "COT",
   "numero": "060555",
   "nombre": "CREACIONES BETHEL S.A.C.",
   "moneda": "PEN",
