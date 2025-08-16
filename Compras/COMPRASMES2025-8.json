@@ -2,6 +2,17 @@
 {
   "fechacab": "16/08/2025",
   "serie": "COT",
+  "numero": "TR112233",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "1230",
+  "tipc": "3.7",
+  "hora": "03:33 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "16/08/2025",
+  "serie": "COT",
   "numero": "FF112233",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
