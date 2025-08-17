@@ -2,17 +2,6 @@
 {
   "fechacab": "16/08/2025",
   "serie": "COT",
-  "numero": "GG223344",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "250",
-  "tipc": "3.7",
-  "hora": "07:51 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "16/08/2025",
-  "serie": "COT",
   "numero": "20250816",
   "nombre": "DOU DOU",
   "moneda": "PEN",
