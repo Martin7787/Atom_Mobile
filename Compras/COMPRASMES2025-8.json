@@ -2,6 +2,17 @@
 {
   "fechacab": "16/08/2025",
   "serie": "COT",
+  "numero": "HH223344",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "250",
+  "tipc": "3.7",
+  "hora": "07:30 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "16/08/2025",
+  "serie": "COT",
   "numero": "060555",
   "nombre": "CREACIONES BETHEL S.A.C.",
   "moneda": "PEN",
