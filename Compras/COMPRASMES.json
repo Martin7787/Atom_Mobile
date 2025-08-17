@@ -1,25 +1,14 @@
 [
 {
   "fechacab": "16/08/2025",
-  "serie": "FAC",
-  "numero": "GT0000",
-  "nombre": "IMPORT NAYRA 3",
-  "moneda": "PEN",
-  "totguia": "540",
-  "tipc": "3.7",
-  "hora": "07:38 p. m.",
-  "docu": "MARH-@ZOWLWZH"
-},
-{
-  "fechacab": "16/08/2025",
   "serie": "COT",
   "numero": "20250816",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "",
-  "totguia": "",
-  "tipc": "",
-  "hora": "07:33 p. m.",
-  "docu": "USER: "
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "550",
+  "tipc": "3.56",
+  "hora": "07:43 p. m.",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "16/08/2025",
