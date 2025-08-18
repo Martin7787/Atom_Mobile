@@ -7989,4 +7989,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "18/08/2025",
+  "fecha": "Ago. 18",
+  "serie": "T001",
+  "numero": "00016595",
+  "nombre": "IMPORTACIONES Y DISTRIBUCIONES AZES E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "370",
+  "acuenta": "370",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:22 a. m.",
+  "docu": "USER: SOFI",
+  "bloquear": "",
+  "user": "SOFI"
+},
 ]
