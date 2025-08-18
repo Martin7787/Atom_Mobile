@@ -1,28 +1,6 @@
 [
 {
   "fechacab": "18/08/2025",
-  "serie": "FAC",
-  "numero": "TY666555",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "490",
-  "tipc": "3.7",
-  "hora": "04:31 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/08/2025",
-  "serie": "COT",
-  "numero": "GG112233",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "300",
-  "tipc": "3.7",
-  "hora": "04:30 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/08/2025",
   "serie": "COT",
   "numero": "DIA25003491",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
