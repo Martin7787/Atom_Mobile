@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "18/08/2025",
+  "serie": "COT",
+  "numero": "TT112233",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "200",
+  "tipc": "3.7",
+  "hora": "12:08 p. m.",
+  "docu": "MARH-@3B49TA4"
+},
+{
   "fechacab": "16/08/2025",
   "serie": "COT",
   "numero": "20250816",
