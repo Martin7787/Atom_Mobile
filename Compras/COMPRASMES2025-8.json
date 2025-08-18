@@ -1,28 +1,6 @@
 [
 {
   "fechacab": "18/08/2025",
-  "serie": "FAC",
-  "numero": "PP66543",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "350",
-  "tipc": "3.7",
-  "hora": "12:53 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/08/2025",
-  "serie": "COT",
-  "numero": "GG112233",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "240",
-  "tipc": "3.7",
-  "hora": "12:48 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/08/2025",
   "serie": "COT",
   "numero": "FF010101",
   "nombre": "CLIENTES VARIOS",
