@@ -60258,6 +60258,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "WAN-234",
+  "descripcion": "TAZA COLORES (CAJA X  48 UND)",
+  "fecha": "18/08/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "135",
+  "precio": "36.49",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "48",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "RONGQIAN",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "WAN-240",
   "descripcion": "TAZA 14OZ NEGRA MATE (CAJA X  36 UND)",
   "fecha": "17/09/2024",
