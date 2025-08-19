@@ -2,6 +2,17 @@
 {
   "fechacab": "18/08/2025",
   "serie": "COT",
+  "numero": "GUIA25003525",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "451",
+  "tipc": "3.57",
+  "hora": "07:06 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "18/08/2025",
+  "serie": "COT",
   "numero": "DIA25003491",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
@@ -41,6 +52,17 @@
   "totguia": "5364",
   "tipc": "3.56",
   "hora": "03:30 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "18/08/2025",
+  "serie": "COT",
+  "numero": "1189800",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "11898",
+  "tipc": "3.56",
+  "hora": "08:42 p. m.",
   "docu": "USER: DANTE"
 },
 {
@@ -1197,60 +1219,5 @@
   "tipc": "3.7",
   "hora": "10:20 a. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/07/2025",
-  "serie": "COT",
-  "numero": "TQ000596",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "150",
-  "tipc": "3.7",
-  "hora": "10:18 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/07/2025",
-  "serie": "COT",
-  "numero": "FT001441",
-  "nombre": "FORTUNATO MALLQUI NIETO",
-  "moneda": "PEN",
-  "totguia": "4470",
-  "tipc": "3.7",
-  "hora": "11:08 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/07/2025",
-  "serie": "COT",
-  "numero": "dia25002848",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "1950",
-  "tipc": "3.6",
-  "hora": "04:16 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "19/07/2025",
-  "serie": "COT",
-  "numero": "DD25050001807",
-  "nombre": "DOU DOU",
-  "moneda": "PEN",
-  "totguia": "2952",
-  "tipc": "3.6",
-  "hora": "06:25 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "19/07/2025",
-  "serie": "COT",
-  "numero": "20250718-274",
-  "nombre": "RONGQUIAN",
-  "moneda": "PEN",
-  "totguia": "6492",
-  "tipc": "3.6",
-  "hora": "02:17 p. m.",
-  "docu": "USER: DANTE"
 },
 ]
