@@ -61072,6 +61072,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "XH-FTG06",
+  "descripcion": "HERVIDOR ELECTRICO (CAJA X  12 UND)",
+  "fecha": "18/08/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "170",
+  "precio": "45.95",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "12",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "HERVIDORES",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "XM1120-014A",
   "descripcion": "JARRA DE VIDRIO 1.5 LT. MAMA (CAJA X  12 UND)",
   "fecha": "11/04/2022",
