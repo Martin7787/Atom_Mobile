@@ -1,5 +1,148 @@
 [
 {
+  "fechacab": "20/08/2025",
+  "serie": "COT",
+  "numero": "RJ04010",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.7",
+  "hora": "10:39 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "20/08/2025",
+  "serie": "COT",
+  "numero": "DIA25003570",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "310",
+  "tipc": "3.55",
+  "hora": "06:43 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "20/08/2025",
+  "serie": "COT",
+  "numero": "DD25050002084",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "768",
+  "tipc": "3.56",
+  "hora": "06:41 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/08/2025",
+  "serie": "COT",
+  "numero": "YH0002060",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "1360",
+  "tipc": "3.7",
+  "hora": "11:37 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/08/2025",
+  "serie": "COT",
+  "numero": "RJ04004",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "11:38 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/08/2025",
+  "serie": "COT",
+  "numero": "MOQ00602",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.7",
+  "hora": "11:33 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/08/2025",
+  "serie": "COT",
+  "numero": "MOQ00601",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.7",
+  "hora": "11:34 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/08/2025",
+  "serie": "COT",
+  "numero": "MOQ001799",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "422",
+  "tipc": "3.7",
+  "hora": "11:34 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/08/2025",
+  "serie": "FAC",
+  "numero": "F002-0018952",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "54",
+  "tipc": "3.7",
+  "hora": "07:30 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/08/2025",
+  "serie": "COT",
+  "numero": "C052656",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "USD",
+  "totguia": "270",
+  "tipc": "3.7",
+  "hora": "11:32 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "18/08/2025",
+  "serie": "COT",
+  "numero": "RJ03999",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.7",
+  "hora": "11:37 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "18/08/2025",
+  "serie": "COT",
+  "numero": "MOQ001797",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.7",
+  "hora": "11:35 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "18/08/2025",
+  "serie": "COT",
+  "numero": "MOQ001796",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "426.5",
+  "tipc": "3.7",
+  "hora": "11:36 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "18/08/2025",
   "serie": "COT",
   "numero": "GUIA25003525",
@@ -60,9 +203,9 @@
   "numero": "1189800",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
-  "totguia": "11898",
+  "totguia": "11823.74",
   "tipc": "3.56",
-  "hora": "08:42 p. m.",
+  "hora": "02:02 p. m.",
   "docu": ""
 },
 {

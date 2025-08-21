@@ -771,6 +771,17 @@
 },
 {
   "fechacab": "14/07/2025",
+  "serie": "COT",
+  "numero": "DIA25002951",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "230",
+  "tipc": "3.56",
+  "hora": "05:33 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "14/07/2025",
   "serie": "FAC",
   "numero": "CG001765",
   "nombre": "CENTER GLASS E.I.R.L",
