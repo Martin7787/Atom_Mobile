@@ -1,16 +1,5 @@
 [
 {
-  "fechacab": "22/08/2025",
-  "serie": "FAC",
-  "numero": "FF101010",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "PEN",
-  "totguia": "450",
-  "tipc": "3.7",
-  "hora": "03:18 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
   "fechacab": "21/08/2025",
   "serie": "COT",
   "numero": "RJ04013",
