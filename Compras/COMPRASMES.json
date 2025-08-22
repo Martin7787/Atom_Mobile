@@ -33,6 +33,17 @@
   "docu": "USER: DANTE"
 },
 {
+  "fechacab": "22/08/2025",
+  "serie": "FAC",
+  "numero": "FF009988",
+  "nombre": "IMPORT NAYRA 3",
+  "moneda": "PEN",
+  "totguia": "800",
+  "tipc": "3.7",
+  "hora": "06:54 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "21/08/2025",
   "serie": "COT",
   "numero": "RJ04013",
