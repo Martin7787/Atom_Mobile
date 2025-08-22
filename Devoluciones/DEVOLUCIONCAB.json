@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000210",
+  "nombre": "GUPERTINO ALCIRES MALAVER RODRIGUEZ",
+  "moneda": "PEN",
+  "totguia": "192",
+  "tipc": "3.7",
+  "fecha": "22/08/2025",
+  "hora": "03:56 p. m.",
+  "docu": "T001-00016686",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000209",
   "nombre": "OSCAR CARRERA MELGAREJO",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "28/05/2025",
   "hora": "11:21 a. m.",
   "docu": "T001-00015077",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000180",
-  "nombre": "JUNIOR ABAD ",
-  "moneda": "PEN",
-  "totguia": "75",
-  "tipc": "3.7",
-  "fecha": "24/05/2025",
-  "hora": "04:54 p. m.",
-  "docu": "T001-00015070",
   "via": "USER: SOFI",
   "bloquear": ""
 },
