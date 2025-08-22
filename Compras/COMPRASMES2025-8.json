@@ -1,5 +1,27 @@
 [
 {
+  "fechacab": "22/08/2025",
+  "serie": "FAC",
+  "numero": "FF101010",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "PEN",
+  "totguia": "450",
+  "tipc": "3.7",
+  "hora": "03:18 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "21/08/2025",
+  "serie": "COT",
+  "numero": "RJ04013",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.7",
+  "hora": "11:20 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "20/08/2025",
   "serie": "COT",
   "numero": "RJ04010",
@@ -27,9 +49,9 @@
   "numero": "DD25050002084",
   "nombre": "DOU DOU",
   "moneda": "PEN",
-  "totguia": "768",
+  "totguia": "720",
   "tipc": "3.56",
-  "hora": "06:41 p. m.",
+  "hora": "06:17 p. m.",
   "docu": ""
 },
 {
