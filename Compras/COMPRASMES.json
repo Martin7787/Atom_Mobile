@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "22/08/2025",
+  "serie": "COT",
+  "numero": "TT222333",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "2430",
+  "tipc": "3.7",
+  "hora": "03:23 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "21/08/2025",
   "serie": "COT",
   "numero": "RJ04013",
