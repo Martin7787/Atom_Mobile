@@ -1,5 +1,38 @@
 [
 {
+  "fechacab": "22/08/2025",
+  "serie": "COT",
+  "numero": "YY223344",
+  "nombre": "CASA PORCELANA",
+  "moneda": "PEN",
+  "totguia": "1360",
+  "tipc": "3.7",
+  "hora": "06:52 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "22/08/2025",
+  "serie": "COT",
+  "numero": "NS004-0001243",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "2175",
+  "tipc": "3.55",
+  "hora": "04:25 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "22/08/2025",
+  "serie": "COT",
+  "numero": "NS002-0001136",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "564.3",
+  "tipc": "3.55",
+  "hora": "04:41 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "21/08/2025",
   "serie": "COT",
   "numero": "RJ04013",
