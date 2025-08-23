@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "23/08/2025",
+  "serie": "COT",
+  "numero": "HHTT11221",
+  "nombre": "GOLD KING EIRL",
+  "moneda": "PEN",
+  "totguia": "550",
+  "tipc": "3.7",
+  "hora": "04:08 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "22/08/2025",
   "serie": "COT",
   "numero": "NS004-0001243",
