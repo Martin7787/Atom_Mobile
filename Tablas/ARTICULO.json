@@ -11682,6 +11682,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "908",
+  "descripcion": "VASO VELERO (CAJA X  72 UND)",
+  "fecha": "23/08/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "55",
+  "precio": "14.86",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "72",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "VASOS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "9100",
   "descripcion": "TERMO 3.2 L THERMOCOOL (CAJA X  1 DOC)",
   "fecha": "23/05/2024",
