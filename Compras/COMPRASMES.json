@@ -1,5 +1,27 @@
 [
 {
+  "fechacab": "25/08/2025",
+  "serie": "COT",
+  "numero": "GG112233",
+  "nombre": "ANGELLY",
+  "moneda": "PEN",
+  "totguia": "1050",
+  "tipc": "3.7",
+  "hora": "04:30 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "23/08/2025",
+  "serie": "COT",
+  "numero": "RT000608",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "270",
+  "tipc": "3.7",
+  "hora": "11:52 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "23/08/2025",
   "serie": "COT",
   "numero": "HO25250823-97",
@@ -129,6 +151,17 @@
   "totguia": "1360",
   "tipc": "3.7",
   "hora": "11:37 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "19/08/2025",
+  "serie": "COT",
+  "numero": "RT004832",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "310",
+  "tipc": "3.7",
+  "hora": "11:51 a. m.",
   "docu": "USER: MARTIN"
 },
 {
