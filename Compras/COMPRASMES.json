@@ -1,5 +1,38 @@
 [
 {
+  "fechacab": "23/08/2025",
+  "serie": "COT",
+  "numero": "HO25250823-97",
+  "nombre": "RONGQUIAN",
+  "moneda": "PEN",
+  "totguia": "13224",
+  "tipc": "3.54",
+  "hora": "05:57 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "23/08/2025",
+  "serie": "COT",
+  "numero": "DD25050002119",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "3131.2",
+  "tipc": "3.55",
+  "hora": "06:35 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "23/08/2025",
+  "serie": "COT",
+  "numero": "000607",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "900",
+  "tipc": "3.56",
+  "hora": "06:37 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "22/08/2025",
   "serie": "COT",
   "numero": "NS004-0001243",
@@ -1163,149 +1196,6 @@
   "totguia": "115",
   "tipc": "3.7",
   "hora": "11:13 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "25/07/2025",
-  "serie": "COT",
-  "numero": "YH0001790",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "165",
-  "tipc": "3.7",
-  "hora": "11:12 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "25/07/2025",
-  "serie": "COT",
-  "numero": "P001997",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "168",
-  "tipc": "3.7",
-  "hora": "10:49 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "25/07/2025",
-  "serie": "FAC",
-  "numero": "F032-00054886",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "0.0000",
-  "tipc": "3.7",
-  "hora": "04:35 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "25/07/2025",
-  "serie": "FAC",
-  "numero": "F032-00054885",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "5366.11",
-  "tipc": "3.7",
-  "hora": "12:53 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "25/07/2025",
-  "serie": "FAC",
-  "numero": "F032-00054884",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "363.04",
-  "tipc": "3.7",
-  "hora": "04:39 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "24/07/2025",
-  "serie": "COT",
-  "numero": "TQ00819",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "10:47 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "24/07/2025",
-  "serie": "COT",
-  "numero": "RJ03894",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "95",
-  "tipc": "3.7",
-  "hora": "10:48 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "24/07/2025",
-  "serie": "COT",
-  "numero": "RJ03893",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "165",
-  "tipc": "3.7",
-  "hora": "10:47 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "24/07/2025",
-  "serie": "COT",
-  "numero": "MOQ001783",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "2509",
-  "tipc": "3.7",
-  "hora": "11:09 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "24/07/2025",
-  "serie": "COT",
-  "numero": "MOQ001781",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "108",
-  "tipc": "3.7",
-  "hora": "11:30 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "24/07/2025",
-  "serie": "COT",
-  "numero": "MOQ001780",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "880",
-  "tipc": "3.7",
-  "hora": "11:18 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "24/07/2025",
-  "serie": "COT",
-  "numero": "MOQ001779",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "200",
-  "tipc": "3.7",
-  "hora": "11:31 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "24/07/2025",
-  "serie": "COT",
-  "numero": "BK95390",
-  "nombre": "BRIKENIA",
-  "moneda": "USD",
-  "totguia": "120",
-  "tipc": "3.7",
-  "hora": "10:49 a. m.",
   "docu": "USER: MARTIN"
 },
 ]

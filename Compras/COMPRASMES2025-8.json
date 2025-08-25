@@ -1,5 +1,38 @@
 [
 {
+  "fechacab": "23/08/2025",
+  "serie": "COT",
+  "numero": "HO25250823-97",
+  "nombre": "RONGQUIAN",
+  "moneda": "PEN",
+  "totguia": "13224",
+  "tipc": "3.54",
+  "hora": "05:57 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "23/08/2025",
+  "serie": "COT",
+  "numero": "DD25050002119",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "3131.2",
+  "tipc": "3.55",
+  "hora": "06:35 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "23/08/2025",
+  "serie": "COT",
+  "numero": "000607",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "900",
+  "tipc": "3.56",
+  "hora": "06:37 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "22/08/2025",
   "serie": "COT",
   "numero": "NS004-0001243",
