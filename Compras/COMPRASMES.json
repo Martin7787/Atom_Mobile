@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "26/08/2025",
+  "serie": "COT",
+  "numero": "PPP11222",
+  "nombre": "MEGACENTRO LOREN'S",
+  "moneda": "PEN",
+  "totguia": "550",
+  "tipc": "3.7",
+  "hora": "03:51 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "23/08/2025",
   "serie": "COT",
   "numero": "RT000608",
