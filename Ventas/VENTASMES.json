@@ -8125,4 +8125,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "26/08/2025",
+  "fecha": "Ago. 26",
+  "serie": "T001",
+  "numero": "00016728",
+  "nombre": "FENGO S.A.C.",
+  "moneda": "PEN",
+  "totguia": "39",
+  "acuenta": "39",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:41 a. m.",
+  "docu": "USER: SOFI",
+  "bloquear": "",
+  "user": "SOFI"
+},
 ]
