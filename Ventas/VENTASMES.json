@@ -8108,4 +8108,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "26/08/2025",
+  "fecha": "Ago. 26",
+  "serie": "T001",
+  "numero": "00016728",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "450",
+  "acuenta": "450",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:09 a. m.",
+  "docu": "MARM-@LT968G4",
+  "bloquear": "@LT968G4",
+  "user": "MARTIN"
+},
 ]
