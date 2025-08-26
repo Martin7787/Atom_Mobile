@@ -11,6 +11,17 @@
   "docu": "USER: DANTE"
 },
 {
+  "fechacab": "26/08/2025",
+  "serie": "COT",
+  "numero": "CC030303",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "600",
+  "tipc": "3.7",
+  "hora": "05:41 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "23/08/2025",
   "serie": "COT",
   "numero": "RT000608",
