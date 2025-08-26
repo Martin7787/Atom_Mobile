@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "26/08/2025",
+  "serie": "FAC",
+  "numero": "F002-00001701",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "540",
+  "tipc": "3.56",
+  "hora": "05:21 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "23/08/2025",
   "serie": "COT",
   "numero": "RT000608",
