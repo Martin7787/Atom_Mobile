@@ -46,6 +46,17 @@
 {
   "fechacab": "25/08/2025",
   "serie": "COT",
+  "numero": "TQ000085",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "10:36 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "25/08/2025",
+  "serie": "COT",
   "numero": "RT004902",
   "nombre": "ROBERT TURPO",
   "moneda": "PEN",
