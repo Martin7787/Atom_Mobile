@@ -21780,6 +21780,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "DX051",
+  "descripcion": "AJICERO 3.5\" BLANCO MORELLA (CAJA X  400 UND)",
+  "fecha": "26/08/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "280",
+  "precio": "75.68",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "400",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "DX-55-161",
   "descripcion": "BOWL 7\" MARMOLEADO (CAJA X  34 UND)",
   "fecha": "07/02/2024",
