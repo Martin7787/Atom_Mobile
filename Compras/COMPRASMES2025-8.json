@@ -1,6 +1,17 @@
 [
 {
   "fechacab": "26/08/2025",
+  "serie": "COT",
+  "numero": "NS002-0001105",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "3331",
+  "tipc": "3.56",
+  "hora": "07:26 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "26/08/2025",
   "serie": "FAC",
   "numero": "F002-00001701",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
@@ -8,6 +19,39 @@
   "totguia": "540",
   "tipc": "3.56",
   "hora": "05:21 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "26/08/2025",
+  "serie": "COT",
+  "numero": "DIA25003478",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1050",
+  "tipc": "3.56",
+  "hora": "07:30 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "26/08/2025",
+  "serie": "COT",
+  "numero": "013091",
+  "nombre": "IMPORT NAYRA 3",
+  "moneda": "PEN",
+  "totguia": "1020",
+  "tipc": "3.56",
+  "hora": "07:29 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "25/08/2025",
+  "serie": "COT",
+  "numero": "RT004902",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "304",
+  "tipc": "3.7",
+  "hora": "10:35 a. m.",
   "docu": ""
 },
 {
@@ -96,6 +140,17 @@
   "totguia": "128",
   "tipc": "3.7",
   "hora": "10:48 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "22/08/2025",
+  "serie": "COT",
+  "numero": "DIA25003593",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "960",
+  "tipc": "3.56",
+  "hora": "07:36 p. m.",
   "docu": ""
 },
 {
