@@ -215,7 +215,7 @@
   "linea": "YCHI",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "True",
+  "vneg": "False",
   "via": "-",
   "bloquear": "false"
 },
