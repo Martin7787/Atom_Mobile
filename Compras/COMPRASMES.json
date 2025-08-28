@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "27/08/2025",
+  "serie": "FAC",
+  "numero": "F002-0019021",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "80",
+  "tipc": "3.7",
+  "hora": "11:41 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "26/08/2025",
   "serie": "COT",
   "numero": "RJ04041",
