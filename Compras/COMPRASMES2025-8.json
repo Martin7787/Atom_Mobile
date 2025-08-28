@@ -1,6 +1,17 @@
 [
 {
   "fechacab": "27/08/2025",
+  "serie": "COT",
+  "numero": "RT004934",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.7",
+  "hora": "11:43 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/08/2025",
   "serie": "FAC",
   "numero": "F002-0019021",
   "nombre": "GOLDEN ELECTRONIC S.A.C.",
