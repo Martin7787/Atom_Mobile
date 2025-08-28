@@ -112,6 +112,17 @@
 {
   "fechacab": "23/08/2025",
   "serie": "COT",
+  "numero": "RT004890",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "11:44 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "23/08/2025",
+  "serie": "COT",
   "numero": "RT000608",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
