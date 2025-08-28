@@ -8958,4 +8958,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "28/08/2025",
+  "fecha": "Ago. 28",
+  "serie": "T001",
+  "numero": "00016778",
+  "nombre": "DIANA ELIZABETH CASTILLA OCHOA",
+  "moneda": "PEN",
+  "totguia": "96",
+  "acuenta": "96",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:06 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
