@@ -13,6 +13,17 @@
 {
   "fechacab": "28/08/2025",
   "serie": "COT",
+  "numero": "TQ000194",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "444",
+  "tipc": "3.7",
+  "hora": "11:30 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "28/08/2025",
+  "serie": "COT",
   "numero": "MOQ000613",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
