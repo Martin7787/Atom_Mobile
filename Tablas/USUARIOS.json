@@ -34,7 +34,7 @@
 {
   "cod": "MARTIN",
   "pass": "M3svaR4Kl",
-  "tipo": "VENDEDOR",
+  "tipo": "SUPERUSER",
   "permisos": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1",
   "nombre": "MARTIN DUMONT",
   "combi": "138"
