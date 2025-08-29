@@ -38940,6 +38940,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "MT12-9S/3-2GWP",
+  "descripcion": "SET X 6 VASOS LABRADOS SPECTRUM (CAJA X  12 SET)",
+  "fecha": "29/08/2025",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "79",
+  "precio": "21.35",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "12",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "VASOS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "MT141-9",
   "descripcion": "VASO LINGGA (CAJA X 6 DOC)",
   "fecha": "13/05/2021",
