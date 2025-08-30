@@ -46,6 +46,17 @@
 {
   "fechacab": "28/08/2025",
   "serie": "FAC",
+  "numero": "F063-00064634",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "0.0000",
+  "tipc": "3.544",
+  "hora": "07:22 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "28/08/2025",
+  "serie": "FAC",
   "numero": "F063-00064633",
   "nombre": "UNION YCHICAWA S.A",
   "moneda": "USD",
