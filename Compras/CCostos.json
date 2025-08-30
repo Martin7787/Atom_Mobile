@@ -98769,18 +98769,18 @@
 },
 {
   "codart": "S011",
-  "descripcion": "SET X 3 CANISTER REDO. C/TAPA (CAJA X  1 SET)",
+  "descripcion": "SET X 3 CANISTER REDO. C/TAPA (CAJA X  12 UND)",
   "fecha": "28/08/2025",
   "documento": "FAC-F063-00064632",
   "proveedor": "UNION YCHICAWA S.A",
   "moneda": "USD",
   "tipc": "3.544",
-  "cantidad": " 1 CAJAS  0 SET  0 UNIDAD",
+  "cantidad": " 1 CAJAS  0 UNIDAD  0 UNIDAD",
   "totcompra": "76.95",
-  "costo_sol": "272.71",
-  "costo_dol": "76.95",
+  "costo_sol": "272.76",
+  "costo_dol": "76.96",
   "cajas": "1 CAJ",
-  "undmy": "0 SET",
+  "undmy": "0 UND",
   "undmn": "0 UND"
 },
 {
