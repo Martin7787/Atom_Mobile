@@ -8635,4 +8635,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "02/09/2025",
+  "fecha": "Set. 2",
+  "serie": "T001",
+  "numero": "00016846",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "1849",
+  "acuenta": "1849",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "09:35 a. m.",
+  "docu": "CELT-@40KHNYK",
+  "bloquear": "@40KHNYK",
+  "user": "LIZETH"
+},
 ]
