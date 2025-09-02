@@ -11,6 +11,17 @@
   "docu": "USER: DANTE"
 },
 {
+  "fechacab": "29/08/2025",
+  "serie": "COT",
+  "numero": "002068",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "7195",
+  "tipc": "3.55",
+  "hora": "12:57 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "28/08/2025",
   "serie": "COT",
   "numero": "YH0002095",
@@ -1273,61 +1284,6 @@
   "totguia": "1020",
   "tipc": "3.6",
   "hora": "02:24 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "02/08/2025",
-  "serie": "COT",
-  "numero": "RJ03940",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "165",
-  "tipc": "3.7",
-  "hora": "11:50 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "02/08/2025",
-  "serie": "COT",
-  "numero": "DD25050001931",
-  "nombre": "DOU DOU",
-  "moneda": "PEN",
-  "totguia": "5362.6",
-  "tipc": "3.6",
-  "hora": "05:19 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "02/08/2025",
-  "serie": "COT",
-  "numero": "CP28699",
-  "nombre": "CASA PORCELANA",
-  "moneda": "PEN",
-  "totguia": "115",
-  "tipc": "3.7",
-  "hora": "10:57 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "02/08/2025",
-  "serie": "COT",
-  "numero": "012515",
-  "nombre": "IMPORT NAYRA 3",
-  "moneda": "PEN",
-  "totguia": "6768",
-  "tipc": "3.6",
-  "hora": "04:53 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "02/08/2025",
-  "serie": "COT",
-  "numero": "012508",
-  "nombre": "IMPORT NAYRA 3",
-  "moneda": "PEN",
-  "totguia": "1300",
-  "tipc": "3.6",
-  "hora": "04:26 p. m.",
   "docu": "USER: DANTE"
 },
 ]
