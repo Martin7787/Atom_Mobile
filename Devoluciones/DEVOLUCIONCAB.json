@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000211",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "90",
+  "tipc": "3.7",
+  "fecha": "02/09/2025",
+  "hora": "12:15 p. m.",
+  "docu": "T001-00016804",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000210",
   "nombre": "GUPERTINO ALCIRES MALAVER RODRIGUEZ",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "29/05/2025",
   "hora": "03:54 p. m.",
   "docu": "T001-00015167",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000181",
-  "nombre": "DORA QUISPE",
-  "moneda": "PEN",
-  "totguia": "85",
-  "tipc": "3.7",
-  "fecha": "28/05/2025",
-  "hora": "11:21 a. m.",
-  "docu": "T001-00015077",
   "via": "USER: SOFI",
   "bloquear": ""
 },
