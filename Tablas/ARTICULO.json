@@ -47894,6 +47894,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "RR0780",
+  "descripcion": "JARRO 11OZ SUBLIMAR (CAJA X  48 UND)",
+  "fecha": "03/09/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "105",
+  "precio": "28.38",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "48",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "RR0783",
   "descripcion": "JARRO 450ML COLORES (CAJA X  48 UND)",
   "fecha": "02/08/2025",
