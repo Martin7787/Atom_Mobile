@@ -8839,4 +8839,21 @@
   "bloquear": "@40KHNYK",
   "user": "LIZETH"
 },
+{
+  "fechacab": "03/09/2025",
+  "fecha": "Set. 3",
+  "serie": "T001",
+  "numero": "00016858",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "405",
+  "acuenta": "405",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:27 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
