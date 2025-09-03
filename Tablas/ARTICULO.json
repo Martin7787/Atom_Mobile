@@ -53878,6 +53878,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "TCB-1703",
+  "descripcion": "JARRO 16OZ COLORES MATE (CAJA X  48 UND)",
+  "fecha": "03/09/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "140",
+  "precio": "37.84",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "48",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "RONGQIAN",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "TCB-1706",
   "descripcion": "BOWL 5.5\" DOBLE ASA COLOR MATE (CAJA X  36 UND)",
   "fecha": "23/08/2025",
