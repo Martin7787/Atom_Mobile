@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "04/09/2025",
+  "serie": "COT",
+  "numero": "DIA25003751",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "900",
+  "tipc": "3.54",
+  "hora": "01:22 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "03/09/2025",
   "serie": "COT",
   "numero": "013298",
@@ -1296,71 +1307,5 @@
   "tipc": "3.7",
   "hora": "10:52 a. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "04/08/2025",
-  "serie": "COT",
-  "numero": "RT004638",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "10:54 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "04/08/2025",
-  "serie": "COT",
-  "numero": "MOQ001788",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "255",
-  "tipc": "3.7",
-  "hora": "10:55 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "04/08/2025",
-  "serie": "COT",
-  "numero": "DIA25003299",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "960",
-  "tipc": "3.6",
-  "hora": "05:53 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "04/08/2025",
-  "serie": "COT",
-  "numero": "DIA25003279",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "318",
-  "tipc": "3.6",
-  "hora": "04:42 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "04/08/2025",
-  "serie": "COT",
-  "numero": "DIA25003278",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "603.36",
-  "tipc": "3.6",
-  "hora": "04:45 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "04/08/2025",
-  "serie": "COT",
-  "numero": "012533",
-  "nombre": "IMPORT NAYRA 3",
-  "moneda": "PEN",
-  "totguia": "1020",
-  "tipc": "3.6",
-  "hora": "02:24 p. m.",
-  "docu": "USER: DANTE"
 },
 ]
