@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000212",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "0.0000",
+  "tipc": "1",
+  "fecha": "04/09/2025",
+  "hora": "08:02 p. m.",
+  "docu": "",
+  "via": "USER: EDITH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000211",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "02/06/2025",
   "hora": "01:35 p. m.",
   "docu": "T001-00014071",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000182",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "367.7",
-  "tipc": "3.7",
-  "fecha": "29/05/2025",
-  "hora": "03:54 p. m.",
-  "docu": "T001-00015167",
   "via": "USER: SOFI",
   "bloquear": ""
 },
