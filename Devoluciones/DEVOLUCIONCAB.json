@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000213",
+  "nombre": "ELVIRA LISBE BENAVIDES GARATE",
+  "moneda": "PEN",
+  "totguia": "413",
+  "tipc": "3.7",
+  "fecha": "04/09/2025",
+  "hora": "08:04 p. m.",
+  "docu": "T001-00016896",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000212",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "03/06/2025",
   "hora": "12:24 p. m.",
   "docu": "T001-00014746",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000183",
-  "nombre": "FABIO ANDIA GUIZADO",
-  "moneda": "PEN",
-  "totguia": "74",
-  "tipc": "3.7",
-  "fecha": "02/06/2025",
-  "hora": "01:35 p. m.",
-  "docu": "T001-00014071",
   "via": "USER: SOFI",
   "bloquear": ""
 },
