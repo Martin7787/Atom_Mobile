@@ -8669,4 +8669,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "06/09/2025",
+  "fecha": "Set. 6",
+  "serie": "T001",
+  "numero": "00016917",
+  "nombre": "ELIZABETH SARAI RAMIREZ FLORES",
+  "moneda": "PEN",
+  "totguia": "55",
+  "acuenta": "55",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:29 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
