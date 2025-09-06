@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "05/09/2025",
+  "serie": "COT",
+  "numero": "N001-0009370",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "8500",
+  "tipc": "3.54",
+  "hora": "08:03 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "04/09/2025",
   "serie": "COT",
   "numero": "DIA25003751",
@@ -1230,93 +1241,5 @@
   "tipc": "3.6",
   "hora": "04:58 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "05/08/2025",
-  "serie": "COT",
-  "numero": "YH0002001",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "320",
-  "tipc": "3.7",
-  "hora": "10:54 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/08/2025",
-  "serie": "COT",
-  "numero": "VL009965",
-  "nombre": "VALESKA",
-  "moneda": "PEN",
-  "totguia": "720",
-  "tipc": "3.7",
-  "hora": "11:40 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/08/2025",
-  "serie": "COT",
-  "numero": "RT004658",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "144",
-  "tipc": "3.7",
-  "hora": "10:53 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/08/2025",
-  "serie": "COT",
-  "numero": "RJ03950",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "95",
-  "tipc": "3.7",
-  "hora": "11:11 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/08/2025",
-  "serie": "COT",
-  "numero": "MOQ001791",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "300",
-  "tipc": "3.7",
-  "hora": "10:40 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/08/2025",
-  "serie": "COT",
-  "numero": "MOQ001790",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "128",
-  "tipc": "3.7",
-  "hora": "10:55 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/08/2025",
-  "serie": "COT",
-  "numero": "MOQ001789",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "225",
-  "tipc": "3.7",
-  "hora": "10:56 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/08/2025",
-  "serie": "COT",
-  "numero": "C052616",
-  "nombre": "CREACIONES BETHEL S.A.C.",
-  "moneda": "USD",
-  "totguia": "68",
-  "tipc": "3.7",
-  "hora": "10:52 a. m.",
-  "docu": "USER: MARTIN"
 },
 ]
