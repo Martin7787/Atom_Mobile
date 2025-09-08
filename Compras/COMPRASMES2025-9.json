@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "08/09/2025",
+  "serie": "COT",
+  "numero": "NS002-0001270",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "PEN",
+  "totguia": "2978.5",
+  "tipc": "3.54",
+  "hora": "03:38 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "05/09/2025",
   "serie": "COT",
   "numero": "N001-0009370",
