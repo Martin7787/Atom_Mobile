@@ -782,17 +782,6 @@
 },
 {
   "fechacab": "14/07/2025",
-  "serie": "FAC",
-  "numero": "CG001765",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "76",
-  "tipc": "3.7",
-  "hora": "12:48 p. m.",
-  "docu": ""
-},
-{
-  "fechacab": "14/07/2025",
   "serie": "COT",
   "numero": "CG001765",
   "nombre": "CENTER GLASS E.I.R.L",
@@ -800,6 +789,17 @@
   "totguia": "456",
   "tipc": "3.7",
   "hora": "12:51 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "14/07/2025",
+  "serie": "FAC",
+  "numero": "CG001765",
+  "nombre": "CENTER GLASS E.I.R.L",
+  "moneda": "PEN",
+  "totguia": "76",
+  "tipc": "3.7",
+  "hora": "12:48 p. m.",
   "docu": ""
 },
 {
@@ -1262,6 +1262,17 @@
   "totguia": "260",
   "tipc": "3.7",
   "hora": "12:16 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "07/07/2025",
+  "serie": "COT",
+  "numero": "DIA25002825",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "8100",
+  "tipc": "3.55",
+  "hora": "03:20 p. m.",
   "docu": ""
 },
 {
