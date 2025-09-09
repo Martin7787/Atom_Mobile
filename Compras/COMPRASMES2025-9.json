@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "09/09/2025",
+  "serie": "FAC",
+  "numero": "F063-00065034",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "540.95",
+  "tipc": "3.5",
+  "hora": "04:08 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "08/09/2025",
   "serie": "COT",
   "numero": "NS002-0001270",
@@ -16,9 +27,9 @@
   "numero": "N001-0009370",
   "nombre": "JOSE JIBAJA",
   "moneda": "PEN",
-  "totguia": "5700",
+  "totguia": "7700",
   "tipc": "3.54",
-  "hora": "08:46 p. m.",
+  "hora": "04:00 p. m.",
   "docu": ""
 },
 {
