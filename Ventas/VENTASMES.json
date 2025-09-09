@@ -8380,4 +8380,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "09/09/2025",
+  "fecha": "Set. 9",
+  "serie": "T001",
+  "numero": "00016956",
+  "nombre": "JOEL PUMA CONDORI",
+  "moneda": "PEN",
+  "totguia": "76",
+  "acuenta": "76",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:22 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
