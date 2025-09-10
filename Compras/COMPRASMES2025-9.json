@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "10/09/2025",
+  "serie": "COT",
+  "numero": "NS004-0001413",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "1036.8",
+  "tipc": "3.55",
+  "hora": "12:30 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "09/09/2025",
   "serie": "FAC",
   "numero": "F063-00065035",
@@ -27,9 +38,9 @@
   "numero": "2025-000021",
   "nombre": "ESTABLECIMIENTOS INCA S.AC",
   "moneda": "USD",
-  "totguia": "3408.72",
+  "totguia": "5309.67",
   "tipc": "3.55",
-  "hora": "08:13 p. m.",
+  "hora": "01:06 p. m.",
   "docu": ""
 },
 {
