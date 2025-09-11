@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000215",
+  "nombre": "ZAVALA RETAIL SOCIEDAD ANONIMA CERRADA",
+  "moneda": "PEN",
+  "totguia": "340",
+  "tipc": "3.7",
+  "fecha": "10/09/2025",
+  "hora": "07:40 p. m.",
+  "docu": "T001-00016851",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000214",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "01:47 p. m.",
   "docu": "T001-00015417",
   "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000185",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "96",
-  "tipc": "3.7",
-  "fecha": "10/06/2025",
-  "hora": "12:24 p. m.",
-  "docu": "T001-00015411",
-  "via": "USER: DANTE",
   "bloquear": ""
 },
 ]
