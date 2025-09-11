@@ -84,7 +84,7 @@
   "moneda": "PEN",
   "totguia": "7700",
   "tipc": "3.54",
-  "hora": "04:00 p. m.",
+  "hora": "03:24 p. m.",
   "docu": "USER: DANTE"
 },
 {
@@ -1053,72 +1053,6 @@
   "totguia": "2730",
   "tipc": "3.6",
   "hora": "02:04 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "11/08/2025",
-  "serie": "COT",
-  "numero": "RT004735",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "144",
-  "tipc": "3.7",
-  "hora": "11:17 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/08/2025",
-  "serie": "COT",
-  "numero": "RJ03986",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "11:01 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/08/2025",
-  "serie": "COT",
-  "numero": "DIA25003388",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "1890",
-  "tipc": "3.54",
-  "hora": "03:53 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "11/08/2025",
-  "serie": "COT",
-  "numero": "636593",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "6539.92",
-  "tipc": "3.56",
-  "hora": "05:17 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "11/08/2025",
-  "serie": "COT",
-  "numero": "421055",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "4210.55",
-  "tipc": "3.54",
-  "hora": "05:16 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "11/08/2025",
-  "serie": "COT",
-  "numero": "007323",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "3900",
-  "tipc": "3.7",
-  "hora": "01:07 p. m.",
   "docu": "USER: DANTE"
 },
 ]
