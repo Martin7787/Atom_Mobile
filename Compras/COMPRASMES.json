@@ -11,6 +11,17 @@
   "docu": "USER: SOFI"
 },
 {
+  "fechacab": "10/09/2025",
+  "serie": "COT",
+  "numero": "F063-00065064",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "4550.96",
+  "tipc": "3.5",
+  "hora": "08:32 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "09/09/2025",
   "serie": "FAC",
   "numero": "F063-00065035",
