@@ -36850,6 +36850,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "LY025",
+  "descripcion": "PLATO 10.5\" TENDIDO PLOMO (CAJA X  24 UND)",
+  "fecha": "10/09/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "96",
+  "precio": "25.95",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "24",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "YCHI",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "LYA-08",
   "descripcion": "TAZA (CAJA X  4 DOC)",
   "fecha": "10/07/2023",
