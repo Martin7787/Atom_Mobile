@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000216",
+  "nombre": "SANCHEZ CALDERON SONIA MERCEDES",
+  "moneda": "PEN",
+  "totguia": "45",
+  "tipc": "3.7",
+  "fecha": "11/09/2025",
+  "hora": "04:41 p. m.",
+  "docu": "T001-00017007",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000215",
   "nombre": "ZAVALA RETAIL SOCIEDAD ANONIMA CERRADA",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "10/06/2025",
   "hora": "04:24 p. m.",
   "docu": "T001-00015434",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000186",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "143",
-  "tipc": "3.7",
-  "fecha": "10/06/2025",
-  "hora": "01:47 p. m.",
-  "docu": "T001-00015417",
   "via": "USER: SOFI",
   "bloquear": ""
 },
