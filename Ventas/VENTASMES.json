@@ -8618,4 +8618,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "12/09/2025",
+  "fecha": "Set. 12",
+  "serie": "T001",
+  "numero": "00017017",
+  "nombre": "JUNIOR ",
+  "moneda": "PEN",
+  "totguia": "100",
+  "acuenta": "100",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:08 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
