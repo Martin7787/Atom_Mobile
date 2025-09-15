@@ -61880,6 +61880,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "ESTHER",
+  "ruc": "26954009",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "15/09/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MARTIN MEJIA",
   "ruc": "27052038",
   "direccion": "",
