@@ -123,6 +123,17 @@
 {
   "fechacab": "05/09/2025",
   "serie": "COT",
+  "numero": "RJ04082",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "10:37 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/09/2025",
+  "serie": "COT",
   "numero": "N001-0009370",
   "nombre": "JOSE JIBAJA",
   "moneda": "PEN",
