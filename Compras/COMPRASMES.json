@@ -1,16 +1,5 @@
 [
 {
-  "fechacab": "15/09/2025",
-  "serie": "COT",
-  "numero": "RT004994",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "",
-  "totguia": "",
-  "tipc": "",
-  "hora": "10:23 a. m.",
-  "docu": "USER: "
-},
-{
   "fechacab": "10/09/2025",
   "serie": "COT",
   "numero": "TQ000198",
@@ -160,6 +149,17 @@
   "nombre": "TAQUIMA",
   "moneda": "PEN",
   "totguia": "260",
+  "tipc": "3.7",
+  "hora": "10:23 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "02/09/2025",
+  "serie": "COT",
+  "numero": "RT004994",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "160",
   "tipc": "3.7",
   "hora": "10:23 a. m.",
   "docu": "USER: MARTIN"
