@@ -1,6 +1,61 @@
 [
 {
   "fechacab": "29/08/2025",
+  "serie": "COT",
+  "numero": "YH0002096",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "330",
+  "tipc": "3.7",
+  "hora": "10:47 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "29/08/2025",
+  "serie": "COT",
+  "numero": "RT004967",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.7",
+  "hora": "10:47 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "29/08/2025",
+  "serie": "COT",
+  "numero": "RJ04056",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "95",
+  "tipc": "3.7",
+  "hora": "10:49 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "29/08/2025",
+  "serie": "COT",
+  "numero": "RJ04051",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.7",
+  "hora": "10:48 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "29/08/2025",
+  "serie": "COT",
+  "numero": "RJ04050",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "255",
+  "tipc": "3.7",
+  "hora": "10:54 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "29/08/2025",
   "serie": "FAC",
   "numero": "FF01-2510",
   "nombre": "RONGQUIAN",

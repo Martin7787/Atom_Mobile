@@ -68,6 +68,28 @@
 {
   "fechacab": "09/09/2025",
   "serie": "COT",
+  "numero": "VL003870",
+  "nombre": "VALESKA",
+  "moneda": "PEN",
+  "totguia": "440",
+  "tipc": "3.7",
+  "hora": "10:56 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "09/09/2025",
+  "serie": "COT",
+  "numero": "VL003855",
+  "nombre": "VALESKA",
+  "moneda": "PEN",
+  "totguia": "470",
+  "tipc": "3.7",
+  "hora": "10:57 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "09/09/2025",
+  "serie": "COT",
   "numero": "MOQ00622",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
@@ -121,6 +143,17 @@
   "docu": "USER: DANTE"
 },
 {
+  "fechacab": "06/09/2025",
+  "serie": "COT",
+  "numero": "NP305814",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "100",
+  "tipc": "3.7",
+  "hora": "10:55 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "05/09/2025",
   "serie": "COT",
   "numero": "RJ04082",
@@ -141,6 +174,17 @@
   "tipc": "3.54",
   "hora": "03:24 p. m.",
   "docu": "USER: DANTE"
+},
+{
+  "fechacab": "04/09/2025",
+  "serie": "COT",
+  "numero": "RJ04075",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "95",
+  "tipc": "3.7",
+  "hora": "10:55 a. m.",
+  "docu": "USER: MARTIN"
 },
 {
   "fechacab": "04/09/2025",
@@ -316,6 +360,61 @@
   "totguia": "260",
   "tipc": "3.7",
   "hora": "10:22 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/08/2025",
+  "serie": "COT",
+  "numero": "YH0002096",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "330",
+  "tipc": "3.7",
+  "hora": "10:47 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/08/2025",
+  "serie": "COT",
+  "numero": "RT004967",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.7",
+  "hora": "10:47 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/08/2025",
+  "serie": "COT",
+  "numero": "RJ04056",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "95",
+  "tipc": "3.7",
+  "hora": "10:49 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/08/2025",
+  "serie": "COT",
+  "numero": "RJ04051",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.7",
+  "hora": "10:48 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/08/2025",
+  "serie": "COT",
+  "numero": "RJ04050",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "255",
+  "tipc": "3.7",
+  "hora": "10:54 a. m.",
   "docu": "USER: MARTIN"
 },
 {

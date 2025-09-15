@@ -68,6 +68,28 @@
 {
   "fechacab": "09/09/2025",
   "serie": "COT",
+  "numero": "VL003870",
+  "nombre": "VALESKA",
+  "moneda": "PEN",
+  "totguia": "440",
+  "tipc": "3.7",
+  "hora": "10:56 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "09/09/2025",
+  "serie": "COT",
+  "numero": "VL003855",
+  "nombre": "VALESKA",
+  "moneda": "PEN",
+  "totguia": "470",
+  "tipc": "3.7",
+  "hora": "10:57 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "09/09/2025",
+  "serie": "COT",
   "numero": "MOQ00622",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
@@ -121,6 +143,17 @@
   "docu": ""
 },
 {
+  "fechacab": "06/09/2025",
+  "serie": "COT",
+  "numero": "NP305814",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "100",
+  "tipc": "3.7",
+  "hora": "10:55 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "05/09/2025",
   "serie": "COT",
   "numero": "RJ04082",
@@ -140,6 +173,17 @@
   "totguia": "7700",
   "tipc": "3.54",
   "hora": "03:24 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "04/09/2025",
+  "serie": "COT",
+  "numero": "RJ04075",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "95",
+  "tipc": "3.7",
+  "hora": "10:55 a. m.",
   "docu": ""
 },
 {
