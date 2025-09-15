@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "11/09/2025",
+  "serie": "COT",
+  "numero": "MOQ00623",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "108",
+  "tipc": "3.7",
+  "hora": "10:29 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "10/09/2025",
   "serie": "COT",
   "numero": "TQ000198",
