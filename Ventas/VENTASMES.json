@@ -8193,4 +8193,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "16/09/2025",
+  "fecha": "Set. 16",
+  "serie": "T001",
+  "numero": "00017077",
+  "nombre": "FRANKLIN ALCEDO POLINO",
+  "moneda": "PEN",
+  "totguia": "797",
+  "acuenta": "797",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:04 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
