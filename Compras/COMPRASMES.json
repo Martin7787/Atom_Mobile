@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "17/09/2025",
+  "serie": "COT",
+  "numero": "FT001159",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "5250",
+  "tipc": "3.7",
+  "hora": "10:24 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "12/09/2025",
   "serie": "COT",
   "numero": "RJ04104",
@@ -1119,28 +1130,6 @@
   "totguia": "160",
   "tipc": "3.552",
   "hora": "03:24 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "16/08/2025",
-  "serie": "COT",
-  "numero": "20250816",
-  "nombre": "DOU DOU",
-  "moneda": "PEN",
-  "totguia": "550",
-  "tipc": "3.56",
-  "hora": "07:43 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "16/08/2025",
-  "serie": "COT",
-  "numero": "060555",
-  "nombre": "CREACIONES BETHEL S.A.C.",
-  "moneda": "PEN",
-  "totguia": "650",
-  "tipc": "3.6",
-  "hora": "06:07 p. m.",
   "docu": "USER: DANTE"
 },
 ]
