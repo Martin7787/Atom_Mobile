@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "18/09/2025",
+  "serie": "FAC",
+  "numero": "F002-0019200",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "258",
+  "tipc": "3.7",
+  "hora": "03:14 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "17/09/2025",
   "serie": "COT",
   "numero": "FT001159",
@@ -1043,115 +1054,5 @@
   "tipc": "3.7",
   "hora": "11:32 a. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/08/2025",
-  "serie": "COT",
-  "numero": "RJ03999",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "70",
-  "tipc": "3.7",
-  "hora": "11:37 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/08/2025",
-  "serie": "COT",
-  "numero": "MOQ001797",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.7",
-  "hora": "11:35 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/08/2025",
-  "serie": "COT",
-  "numero": "MOQ001796",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "426.5",
-  "tipc": "3.7",
-  "hora": "11:36 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/08/2025",
-  "serie": "COT",
-  "numero": "GUIA25003525",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "369",
-  "tipc": "3.57",
-  "hora": "03:20 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/08/2025",
-  "serie": "COT",
-  "numero": "DIA25003491",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "285.7",
-  "tipc": "3.56",
-  "hora": "02:57 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/08/2025",
-  "serie": "COT",
-  "numero": "DIA25003488",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "1517.4",
-  "tipc": "3.56",
-  "hora": "03:02 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/08/2025",
-  "serie": "COT",
-  "numero": "20250818-63",
-  "nombre": "RONGQUIAN",
-  "moneda": "PEN",
-  "totguia": "3540",
-  "tipc": "3.56",
-  "hora": "03:33 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/08/2025",
-  "serie": "COT",
-  "numero": "20250818-132",
-  "nombre": "RONGQUIAN",
-  "moneda": "PEN",
-  "totguia": "5364",
-  "tipc": "3.56",
-  "hora": "03:30 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/08/2025",
-  "serie": "COT",
-  "numero": "1189800",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "11823.74",
-  "tipc": "3.56",
-  "hora": "02:02 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/08/2025",
-  "serie": "COT",
-  "numero": "0036326",
-  "nombre": "STAREX INTERNATIONAL S.A.C.",
-  "moneda": "USD",
-  "totguia": "160",
-  "tipc": "3.552",
-  "hora": "03:24 p. m.",
-  "docu": "USER: DANTE"
 },
 ]
