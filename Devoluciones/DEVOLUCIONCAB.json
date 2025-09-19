@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000219",
+  "nombre": "JESUS CASTAÑEDA",
+  "moneda": "PEN",
+  "totguia": "210",
+  "tipc": "3.7",
+  "fecha": "19/09/2025",
+  "hora": "11:05 a. m.",
+  "docu": "T001-00017129",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000218",
   "nombre": "JOSE LUIS MAZA",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "01:06 p. m.",
   "docu": "T001-00015461",
   "via": "USER: DANTE",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000189",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.7",
-  "fecha": "11/06/2025",
-  "hora": "10:36 a. m.",
-  "docu": "T001-00015332",
-  "via": "USER: SOFI",
   "bloquear": ""
 },
 ]
