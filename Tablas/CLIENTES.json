@@ -96434,6 +96434,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "VICTOR",
+  "ruc": "77384465",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "19/09/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "JOSEPH",
   "ruc": "77392711",
   "direccion": "LIMA",
