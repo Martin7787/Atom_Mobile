@@ -70122,6 +70122,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "FALIA MENDOZA",
+  "ruc": "41573730",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "19/09/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "RAMIREZ",
   "ruc": "41573992",
   "direccion": "LIMA",
@@ -78577,6 +78590,19 @@
   "direccion": "CAL. PANAMA 526 TORRES ARAUJO  LA LIBERTAD - TRUJILLO  - TRUJILLO",
   "tipo": "0",
   "fecha": "22/06/2020",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "KATHERIN CHERRES",
+  "ruc": "44354150",
+  "direccion": "CAJATAMBO",
+  "tipo": "0",
+  "fecha": "19/09/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -91312,7 +91338,7 @@
   "bloquear": "false"
 },
 {
-  "nombre": "OSCAR EDUARDO CALUA CULQUE",
+  "nombre": "OSCAR EDUARDO CALUA CULQUI",
   "ruc": "72003961",
   "direccion": "LIMA",
   "tipo": "0",
@@ -97895,6 +97921,19 @@
   "direccion": "HUANUCO",
   "tipo": "0",
   "fecha": "12/11/2021",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "AMELIA BARRERA",
+  "ruc": "80633466",
+  "direccion": "CERCADO DE LIMA",
+  "tipo": "0",
+  "fecha": "19/09/2025",
   "telefono": "",
   "email": "",
   "trato": "",

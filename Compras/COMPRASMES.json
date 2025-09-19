@@ -1,5 +1,38 @@
 [
 {
+  "fechacab": "19/09/2025",
+  "serie": "COT",
+  "numero": "NS000784",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "1716",
+  "tipc": "3.5",
+  "hora": "02:45 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "19/09/2025",
+  "serie": "COT",
+  "numero": "DIA25003947",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "752.7",
+  "tipc": "3.5",
+  "hora": "02:03 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "19/09/2025",
+  "serie": "COT",
+  "numero": "DIA25003946",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "948",
+  "tipc": "3.5",
+  "hora": "01:52 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "18/09/2025",
   "serie": "FAC",
   "numero": "F002-0019200",
@@ -30,6 +63,17 @@
   "totguia": "5972.8",
   "tipc": "3.5",
   "hora": "06:57 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "18/09/2025",
+  "serie": "COT",
+  "numero": "001129",
+  "nombre": "MIRIAN NINAJA",
+  "moneda": "USD",
+  "totguia": "3649.63",
+  "tipc": "3.5",
+  "hora": "01:49 p. m.",
   "docu": "USER: DANTE"
 },
 {
@@ -999,93 +1043,5 @@
   "tipc": "3.56",
   "hora": "06:17 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "19/08/2025",
-  "serie": "COT",
-  "numero": "YH0002060",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "1360",
-  "tipc": "3.7",
-  "hora": "11:37 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/08/2025",
-  "serie": "COT",
-  "numero": "RT004832",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "310",
-  "tipc": "3.7",
-  "hora": "11:51 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/08/2025",
-  "serie": "COT",
-  "numero": "RJ04004",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "11:38 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/08/2025",
-  "serie": "COT",
-  "numero": "MOQ00602",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.7",
-  "hora": "11:33 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/08/2025",
-  "serie": "COT",
-  "numero": "MOQ00601",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.7",
-  "hora": "11:34 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/08/2025",
-  "serie": "COT",
-  "numero": "MOQ001799",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "422",
-  "tipc": "3.7",
-  "hora": "11:34 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/08/2025",
-  "serie": "FAC",
-  "numero": "F002-0018952",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "54",
-  "tipc": "3.7",
-  "hora": "07:30 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/08/2025",
-  "serie": "COT",
-  "numero": "C052656",
-  "nombre": "CREACIONES BETHEL S.A.C.",
-  "moneda": "USD",
-  "totguia": "270",
-  "tipc": "3.7",
-  "hora": "11:32 a. m.",
-  "docu": "USER: MARTIN"
 },
 ]

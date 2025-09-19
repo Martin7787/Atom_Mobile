@@ -1,5 +1,38 @@
 [
 {
+  "fechacab": "19/09/2025",
+  "serie": "COT",
+  "numero": "NS000784",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "1716",
+  "tipc": "3.5",
+  "hora": "02:45 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/09/2025",
+  "serie": "COT",
+  "numero": "DIA25003947",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "752.7",
+  "tipc": "3.5",
+  "hora": "02:03 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/09/2025",
+  "serie": "COT",
+  "numero": "DIA25003946",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "948",
+  "tipc": "3.5",
+  "hora": "01:52 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "18/09/2025",
   "serie": "FAC",
   "numero": "F002-0019200",
@@ -30,6 +63,17 @@
   "totguia": "5972.8",
   "tipc": "3.5",
   "hora": "06:57 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "18/09/2025",
+  "serie": "COT",
+  "numero": "001129",
+  "nombre": "MIRIAN NINAJA",
+  "moneda": "USD",
+  "totguia": "3649.63",
+  "tipc": "3.5",
+  "hora": "01:49 p. m.",
   "docu": ""
 },
 {
