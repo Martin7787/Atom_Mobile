@@ -13,6 +13,17 @@
 {
   "fechacab": "18/09/2025",
   "serie": "COT",
+  "numero": "DIA25003909",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "3025",
+  "tipc": "3.5",
+  "hora": "07:39 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "18/09/2025",
+  "serie": "COT",
   "numero": "597280",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
