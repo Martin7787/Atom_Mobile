@@ -61711,6 +61711,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "JUAN FRANCISCO CASTILLO GARAY",
+  "ruc": "25802123",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "20/09/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "FERNANDO LAZARO AQUIMA MERMA",
   "ruc": "25805685",
   "direccion": "AREQUIPA",
