@@ -7870,4 +7870,21 @@
   "bloquear": "",
   "user": "SOFI"
 },
+{
+  "fechacab": "22/09/2025",
+  "fecha": "Set. 22",
+  "serie": "T001",
+  "numero": "00017160",
+  "nombre": "OSCAR EDUARDO CALUA CULQUI",
+  "moneda": "PEN",
+  "totguia": "125",
+  "acuenta": "125",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:23 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
