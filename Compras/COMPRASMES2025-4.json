@@ -2103,17 +2103,6 @@
 {
   "fechacab": "14/04/2025",
   "serie": "COT",
-  "numero": "AFI000467",
-  "nombre": "ANGIE FASION IMPORT",
-  "moneda": "PEN",
-  "totguia": "432",
-  "tipc": "3.7",
-  "hora": "11:30 a. m.",
-  "docu": ""
-},
-{
-  "fechacab": "14/04/2025",
-  "serie": "COT",
   "numero": "250402678",
   "nombre": "UNION YCHICAWA S.A",
   "moneda": "USD",
@@ -2142,6 +2131,17 @@
   "totguia": "2800",
   "tipc": "3.373",
   "hora": "04:40 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "13/04/2025",
+  "serie": "COT",
+  "numero": "AFI000467",
+  "nombre": "ANGIE FASION IMPORT",
+  "moneda": "PEN",
+  "totguia": "648",
+  "tipc": "3.7",
+  "hora": "05:06 p. m.",
   "docu": ""
 },
 {
