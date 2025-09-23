@@ -107303,12 +107303,12 @@
   "proveedor": "ROSA JARRO",
   "moneda": "PEN",
   "tipc": "3.820",
-  "cantidad": " 1 CAJAS  0 UNIDAD  0 UNIDAD",
-  "totcompra": "480.00",
+  "cantidad": " 1 CAJAS  15 UNIDAD  0 UNIDAD",
+  "totcompra": "720.00",
   "costo_sol": "480.00",
   "costo_dol": "125.65",
   "cajas": "1 CAJ",
-  "undmy": "0 UND",
+  "undmy": "15 UND",
   "undmn": "0 UND"
 },
 {
