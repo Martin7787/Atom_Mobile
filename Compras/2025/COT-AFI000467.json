@@ -5,8 +5,8 @@
   "ruc": "00000000057",
   "nombre": "ANGIE FASION IMPORT",
   "moneda": "0",
-  "totcompra": "864",
-  "acuenta": "864",
+  "totcompra": "1080",
+  "acuenta": "1080",
   "saldo": "0.0000",
   "tipc": "3.7",
   "obs": "",
@@ -32,18 +32,18 @@
 {
   "codart": "2020-1X12",
   "descripcion": "BOLO DE CERAMICA X3 GRANDE (CAJA X  1 DOC)",
-  "cajas": "3",
+  "cajas": "4",
   "doce": "0",
   "unidad": "0",
   "vunit": "216.00",
-  "total": "648",
-  "cant": "36",
+  "total": "864",
+  "cant": "48",
   "undmy": "1",
   "undmn": "12",
   "leymy": "DOC",
   "leymn": "UND",
   "lote": "2020-1X12",
   "grat": "1",
-  "locked": "0"
+  "locked": "No"
 },
 ]
