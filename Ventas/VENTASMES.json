@@ -8176,4 +8176,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "24/09/2025",
+  "fecha": "Set. 24",
+  "serie": "T001",
+  "numero": "00017199",
+  "nombre": "FRANCO ALARCON",
+  "moneda": "PEN",
+  "totguia": "70",
+  "acuenta": "70",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:59 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]

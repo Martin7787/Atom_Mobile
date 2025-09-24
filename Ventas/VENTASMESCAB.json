@@ -120,8 +120,13 @@
   "fechacab": "Set. 22"
 },
 {
-  "dia": "Hoy",
+  "dia": "Mar.",
   "fecha": "23/09/2025",
   "fechacab": "Set. 23"
+},
+{
+  "dia": "Hoy",
+  "fecha": "24/09/2025",
+  "fechacab": "Set. 24"
 },
 ]
