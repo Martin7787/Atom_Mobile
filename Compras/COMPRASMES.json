@@ -1,6 +1,39 @@
 [
 {
   "fechacab": "23/09/2025",
+  "serie": "FAC",
+  "numero": "F063-00065616",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "07:24 p. m.",
+  "docu": "USER: "
+},
+{
+  "fechacab": "23/09/2025",
+  "serie": "FAC",
+  "numero": "F002-0019223",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "80",
+  "tipc": "3.7",
+  "hora": "07:31 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "23/09/2025",
+  "serie": "FAC",
+  "numero": "F001-0023944",
+  "nombre": "CONTINENTAL NNATIONALIZER SAC",
+  "moneda": "USD",
+  "totguia": "96",
+  "tipc": "3.7",
+  "hora": "07:32 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "23/09/2025",
   "serie": "COT",
   "numero": "DIA25004004",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
