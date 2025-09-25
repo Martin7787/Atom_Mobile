@@ -75608,6 +75608,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "KATTY",
+  "ruc": "43363409",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "25/09/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "CARMEN SALAZAR ",
   "ruc": "43366225",
   "direccion": "HUACHO",
