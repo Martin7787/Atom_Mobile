@@ -30,23 +30,6 @@
   "locked": "No"
 },
 {
-  "codart": "LSD2404BC",
-  "descripcion": "JARRO NAVIDEÑO (CAJA X  4 DOC)",
-  "cajas": "1",
-  "doce": "0",
-  "unidad": "0",
-  "vunit": "175.00",
-  "total": "175",
-  "cant": "48",
-  "undmy": "4",
-  "undmn": "12",
-  "leymy": "DOC",
-  "leymn": "UND",
-  "lote": "LSD2404BC",
-  "grat": "1",
-  "locked": "No"
-},
-{
   "codart": "LSD2404A",
   "descripcion": "JARRO NAVIDEÑO (CAJA X  4 DOC)",
   "cajas": "1",
@@ -383,6 +366,23 @@
   "leymy": "DOC",
   "leymn": "UND",
   "lote": "LSD2403",
+  "grat": "1",
+  "locked": "No"
+},
+{
+  "codart": "LSD2404B",
+  "descripcion": "JARRO NAVIDEÑO (CAJA X  4 DOC)",
+  "cajas": "1",
+  "doce": "0",
+  "unidad": "0",
+  "vunit": "175.00",
+  "total": "175",
+  "cant": "48",
+  "undmy": "4",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "lote": "LSD2404B",
   "grat": "1",
   "locked": "No"
 },
