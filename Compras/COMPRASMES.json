@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "25/09/2025",
+  "serie": "COT",
+  "numero": "FT001167",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "4830",
+  "tipc": "3.7",
+  "hora": "10:30 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "24/09/2025",
   "serie": "FAC",
   "numero": "DIA25003837",
@@ -900,38 +911,5 @@
   "tipc": "3.56",
   "hora": "07:29 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "25/08/2025",
-  "serie": "COT",
-  "numero": "YH0002085",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "165",
-  "tipc": "3.7",
-  "hora": "11:29 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "25/08/2025",
-  "serie": "COT",
-  "numero": "TQ000085",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "10:36 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "25/08/2025",
-  "serie": "COT",
-  "numero": "RT004902",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "304",
-  "tipc": "3.7",
-  "hora": "10:35 a. m.",
-  "docu": "USER: MARTIN"
 },
 ]
