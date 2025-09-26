@@ -37089,6 +37089,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "IMPORTACIONES GLEVA",
+  "ruc": "12345678990",
+  "direccion": "\r\n",
+  "tipo": "2",
+  "fecha": "26/09/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "PEDRO",
   "ruc": "12345679",
   "direccion": "LIMA",
