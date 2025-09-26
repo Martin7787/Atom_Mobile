@@ -1,16 +1,5 @@
 [
 {
-  "fechacab": "26/09/2025",
-  "serie": "COT",
-  "numero": "MOQ00624",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "",
-  "totguia": "",
-  "tipc": "",
-  "hora": "10:44 a. m.",
-  "docu": "USER: "
-},
-{
   "fechacab": "25/09/2025",
   "serie": "COT",
   "numero": "RJ04162",
@@ -272,6 +261,17 @@
   "totguia": "140",
   "tipc": "3.7",
   "hora": "10:35 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "11/09/2025",
+  "serie": "COT",
+  "numero": "MOQ00624",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "270",
+  "tipc": "3.7",
+  "hora": "10:44 a. m.",
   "docu": "USER: MARTIN"
 },
 {
