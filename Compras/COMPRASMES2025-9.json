@@ -462,6 +462,17 @@
   "docu": ""
 },
 {
+  "fechacab": "12/09/2025",
+  "serie": "COT",
+  "numero": "P306000",
+  "nombre": "PAUCAR",
+  "moneda": "USD",
+  "totguia": "100",
+  "tipc": "3.7",
+  "hora": "11:05 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "11/09/2025",
   "serie": "COT",
   "numero": "MOQ00624",
