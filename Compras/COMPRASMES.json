@@ -24,6 +24,17 @@
 {
   "fechacab": "25/09/2025",
   "serie": "COT",
+  "numero": "RJ04148",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "140",
+  "tipc": "3.7",
+  "hora": "10:59 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "25/09/2025",
+  "serie": "COT",
   "numero": "FT001167",
   "nombre": "FORTUNATO MALLQUI NIETO",
   "moneda": "PEN",
