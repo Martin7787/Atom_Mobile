@@ -244,6 +244,17 @@
 {
   "fechacab": "19/09/2025",
   "serie": "COT",
+  "numero": "JFA001957",
+  "nombre": "IMPORT. Y EXPORT. GABY E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "210",
+  "tipc": "3.7",
+  "hora": "11:04 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "19/09/2025",
+  "serie": "COT",
   "numero": "DIA25003947",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
