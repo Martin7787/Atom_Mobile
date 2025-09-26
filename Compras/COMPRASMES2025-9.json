@@ -100,6 +100,17 @@
 },
 {
   "fechacab": "23/09/2025",
+  "serie": "COT",
+  "numero": "IG014569",
+  "nombre": "IMPORTACIONES GLEVA",
+  "moneda": "PEN",
+  "totguia": "484",
+  "tipc": "3.7",
+  "hora": "11:03 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "23/09/2025",
   "serie": "FAC",
   "numero": "F063-00065617",
   "nombre": "UNION YCHICAWA S.A",
