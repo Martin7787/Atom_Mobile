@@ -8074,4 +8074,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "27/09/2025",
+  "fecha": "Set. 27",
+  "serie": "T001",
+  "numero": "00017253",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "100",
+  "acuenta": "100",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:38 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
