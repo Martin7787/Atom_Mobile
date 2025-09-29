@@ -1,5 +1,27 @@
 [
 {
+  "fechacab": "27/09/2025",
+  "serie": "COT",
+  "numero": "DD25050002510",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "2059.2",
+  "tipc": "3.5",
+  "hora": "05:23 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/09/2025",
+  "serie": "COT",
+  "numero": "DD25050002340",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "4591",
+  "tipc": "3.51",
+  "hora": "05:47 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "26/09/2025",
   "serie": "COT",
   "numero": "013684",
@@ -431,17 +453,6 @@
 {
   "fechacab": "16/09/2025",
   "serie": "COT",
-  "numero": "dd25050002340",
-  "nombre": "DOU DOU",
-  "moneda": "PEN",
-  "totguia": "4591",
-  "tipc": "3.5",
-  "hora": "01:22 p. m.",
-  "docu": ""
-},
-{
-  "fechacab": "16/09/2025",
-  "serie": "COT",
   "numero": "526728",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
@@ -656,7 +667,7 @@
   "moneda": "PEN",
   "totguia": "7700",
   "tipc": "3.54",
-  "hora": "03:24 p. m.",
+  "hora": "05:49 p. m.",
   "docu": ""
 },
 {
