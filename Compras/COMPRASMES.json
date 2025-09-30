@@ -22,6 +22,39 @@
   "docu": "USER: DANTE"
 },
 {
+  "fechacab": "30/09/2025",
+  "serie": "COT",
+  "numero": "DIA25004069",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "288",
+  "tipc": "3.5",
+  "hora": "06:57 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "30/09/2025",
+  "serie": "OTR",
+  "numero": "AJU30092025",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "0.0000",
+  "tipc": "3.7",
+  "hora": "06:02 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/09/2025",
+  "serie": "OTR",
+  "numero": "AJU29092025",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "0.0000",
+  "tipc": "3.7",
+  "hora": "06:09 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "27/09/2025",
   "serie": "COT",
   "numero": "DD25050002510",
