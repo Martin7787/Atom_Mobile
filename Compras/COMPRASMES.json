@@ -1,6 +1,17 @@
 [
 {
   "fechacab": "30/09/2025",
+  "serie": "COT",
+  "numero": "MOQ00641",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "310",
+  "tipc": "3.7",
+  "hora": "11:13 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "30/09/2025",
   "serie": "FAC",
   "numero": "F013-00139625",
   "nombre": "UNION YCHICAWA S.A",
