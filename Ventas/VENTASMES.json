@@ -8414,4 +8414,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "01/10/2025",
+  "fecha": "Oct. 1",
+  "serie": "T001",
+  "numero": "00017315",
+  "nombre": "CRISTINA SULCA ",
+  "moneda": "PEN",
+  "totguia": "70",
+  "acuenta": "70",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:24 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
