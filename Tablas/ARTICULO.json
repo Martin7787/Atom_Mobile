@@ -7833,7 +7833,7 @@
 },
 {
   "codart": "5477AL",
-  "descripcion": "COPA BOLONIA VINO (CAJA X  24 UND)",
+  "descripcion": "COPA BOLONIA VINO (CAJA X  24 UND) (CAJA X  24 UND)",
   "fecha": "25/07/2025",
   "stock": "STOCK = 4 CAJ  0 UNI  0 UNI",
   "cant": "96",
@@ -7846,7 +7846,7 @@
   "undmn": "1",
   "leymy": "UND",
   "leymn": "UND",
-  "linea": "COPA",
+  "linea": "YCHI",
   "cdesc": "0",
   "pdesc": "0",
   "vneg": "False",
