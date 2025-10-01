@@ -56,6 +56,17 @@
 },
 {
   "fechacab": "29/09/2025",
+  "serie": "COT",
+  "numero": "MOQ00640",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "108",
+  "tipc": "3.7",
+  "hora": "11:13 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/09/2025",
   "serie": "OTR",
   "numero": "AJU29092025",
   "nombre": "CLIENTES VARIOS",
