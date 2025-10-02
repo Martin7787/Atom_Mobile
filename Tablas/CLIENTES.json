@@ -23192,6 +23192,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "JORGE",
+  "ruc": "10360405",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "02/10/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MAURICIO ESPINOZA ENCARNACION",
   "ruc": "10361372",
   "direccion": "CERRO DE PASCO",
