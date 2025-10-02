@@ -55330,6 +55330,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "TCB-1836",
+  "descripcion": "TAZA (CAJA X  48 UND)",
+  "fecha": "02/10/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "144",
+  "precio": "38.92",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "48",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "RONGQIAN",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "TC-J003",
   "descripcion": "JARRA LABRADA DE VIDRIO (CAJA X  6 SET)",
   "fecha": "08/11/2023",
