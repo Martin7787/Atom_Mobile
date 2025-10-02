@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000220",
+  "nombre": "MULTISERVICIOS TIENDAS JOIS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA",
+  "moneda": "PEN",
+  "totguia": "400",
+  "tipc": "3.7",
+  "fecha": "02/10/2025",
+  "hora": "01:06 p. m.",
+  "docu": "T001-00017298",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000219",
   "nombre": "JESUS CASTAÑEDA",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "04:20 p. m.",
   "docu": "T001-00015531",
   "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000190",
-  "nombre": "MARI CARRASCO",
-  "moneda": "PEN",
-  "totguia": "495",
-  "tipc": "3.7",
-  "fecha": "11/06/2025",
-  "hora": "01:06 p. m.",
-  "docu": "T001-00015461",
-  "via": "USER: DANTE",
   "bloquear": ""
 },
 ]
