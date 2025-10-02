@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "02/10/2025",
+  "serie": "COT",
+  "numero": "HO20251001",
+  "nombre": "RONGQUIAN",
+  "moneda": "PEN",
+  "totguia": "11040",
+  "tipc": "3.5",
+  "hora": "03:54 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "01/10/2025",
   "serie": "COT",
   "numero": "FT001168",
@@ -955,38 +966,5 @@
   "tipc": "3.54",
   "hora": "08:07 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "01/09/2025",
-  "serie": "COT",
-  "numero": "RJ04067",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "70",
-  "tipc": "3.7",
-  "hora": "10:30 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "01/09/2025",
-  "serie": "COT",
-  "numero": "RJ04064",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "440",
-  "tipc": "3.7",
-  "hora": "10:30 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "01/09/2025",
-  "serie": "COT",
-  "numero": "CX000915",
-  "nombre": "CORPORACION GCC S.A.C",
-  "moneda": "PEN",
-  "totguia": "260",
-  "tipc": "3.7",
-  "hora": "10:22 a. m.",
-  "docu": "USER: MARTIN"
 },
 ]

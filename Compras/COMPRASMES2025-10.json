@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "02/10/2025",
+  "serie": "COT",
+  "numero": "HO20251001",
+  "nombre": "RONGQUIAN",
+  "moneda": "PEN",
+  "totguia": "11040",
+  "tipc": "3.5",
+  "hora": "03:54 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "01/10/2025",
   "serie": "COT",
   "numero": "FT001168",
