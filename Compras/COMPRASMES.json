@@ -11,6 +11,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "01/10/2025",
+  "serie": "COT",
+  "numero": "DD25050002531",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "3360",
+  "tipc": "3.5",
+  "hora": "08:52 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "30/09/2025",
   "serie": "COT",
   "numero": "RJ04180",
