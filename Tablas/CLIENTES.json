@@ -75387,6 +75387,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "BLANCA CASAVILCA",
+  "ruc": "43177467",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "02/10/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "CLADISLAO CAMPOS MELCHOR",
   "ruc": "43181805",
   "direccion": "ICA-ICA",
