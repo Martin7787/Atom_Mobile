@@ -8346,4 +8346,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "03/10/2025",
+  "fecha": "Oct. 3",
+  "serie": "T001",
+  "numero": "00017349",
+  "nombre": "CONSORCIO CLAUDIOS ",
+  "moneda": "PEN",
+  "totguia": "360",
+  "acuenta": "360",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:05 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
