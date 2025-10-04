@@ -211,6 +211,17 @@
 {
   "fechacab": "25/09/2025",
   "serie": "COT",
+  "numero": "TQ000622",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.7",
+  "hora": "11:23 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "25/09/2025",
+  "serie": "COT",
   "numero": "RJ04162",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
