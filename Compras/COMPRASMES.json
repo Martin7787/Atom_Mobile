@@ -2,6 +2,17 @@
 {
   "fechacab": "02/10/2025",
   "serie": "COT",
+  "numero": "YH0002109",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "1770",
+  "tipc": "3.7",
+  "hora": "11:17 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "02/10/2025",
+  "serie": "COT",
   "numero": "HO20251001",
   "nombre": "RONGQUIAN",
   "moneda": "PEN",
@@ -844,28 +855,6 @@
   "totguia": "2454.8",
   "tipc": "3.54",
   "hora": "04:09 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "03/09/2025",
-  "serie": "COT",
-  "numero": "013298",
-  "nombre": "NAYRA IMPORT EXPORT SCRL",
-  "moneda": "PEN",
-  "totguia": "1660",
-  "tipc": "3.54",
-  "hora": "02:32 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "03/09/2025",
-  "serie": "COT",
-  "numero": "013296",
-  "nombre": "NAYRA IMPORT EXPORT SCRL",
-  "moneda": "PEN",
-  "totguia": "4150",
-  "tipc": "3.54",
-  "hora": "02:31 p. m.",
   "docu": "USER: DANTE"
 },
 ]
