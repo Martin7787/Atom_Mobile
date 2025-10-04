@@ -8346,4 +8346,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "04/10/2025",
+  "fecha": "Oct. 4",
+  "serie": "T001",
+  "numero": "00017365",
+  "nombre": "MARI",
+  "moneda": "PEN",
+  "totguia": "55",
+  "acuenta": "55",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:22 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]

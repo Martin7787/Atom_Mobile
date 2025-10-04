@@ -244,6 +244,17 @@
 {
   "fechacab": "25/09/2025",
   "serie": "COT",
+  "numero": "MOQ00638",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.7",
+  "hora": "11:22 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "25/09/2025",
+  "serie": "COT",
   "numero": "FT001167",
   "nombre": "FORTUNATO MALLQUI NIETO",
   "moneda": "PEN",
