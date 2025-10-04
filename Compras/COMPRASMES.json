@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "04/10/2025",
+  "serie": "COT",
+  "numero": "04092025",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "385",
+  "tipc": "3.485",
+  "hora": "02:10 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "02/10/2025",
   "serie": "COT",
   "numero": "YH0002109",
