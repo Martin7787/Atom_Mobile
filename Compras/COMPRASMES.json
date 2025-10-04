@@ -211,6 +211,17 @@
 {
   "fechacab": "26/09/2025",
   "serie": "COT",
+  "numero": "RJ04170",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "95",
+  "tipc": "3.7",
+  "hora": "11:25 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "26/09/2025",
+  "serie": "COT",
   "numero": "013684",
   "nombre": "IMPORT NAYRA 3",
   "moneda": "PEN",
