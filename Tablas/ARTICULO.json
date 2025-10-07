@@ -16251,8 +16251,8 @@
   "leymy": "UND",
   "leymn": "UND",
   "linea": "LOZAS",
-  "cdesc": "0",
-  "pdesc": "0",
+  "cdesc": "150",
+  "pdesc": "0.8",
   "vneg": "False",
   "via": "",
   "bloquear": "false"
