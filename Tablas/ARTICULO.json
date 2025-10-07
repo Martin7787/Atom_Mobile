@@ -57413,8 +57413,8 @@
   "leymy": "SET",
   "leymn": "UND",
   "linea": "VIDRIO",
-  "cdesc": "0",
-  "pdesc": "0",
+  "cdesc": "90",
+  "pdesc": "1.35",
   "vneg": "True",
   "via": "",
   "bloquear": "false"
