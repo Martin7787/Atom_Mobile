@@ -53717,8 +53717,8 @@
   "leymy": "SET",
   "leymn": "UND",
   "linea": "VIDRIO",
-  "cdesc": "0",
-  "pdesc": "0",
+  "cdesc": "60",
+  "pdesc": "1.35",
   "vneg": "False",
   "via": "",
   "bloquear": "false"
