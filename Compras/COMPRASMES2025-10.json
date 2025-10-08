@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "07/10/2025",
+  "serie": "COT",
+  "numero": "MOQ00644",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "200",
+  "tipc": "3.7",
+  "hora": "11:12 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "04/10/2025",
   "serie": "COT",
   "numero": "HO20251003",

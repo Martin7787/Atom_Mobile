@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "07/10/2025",
+  "serie": "COT",
+  "numero": "MOQ00644",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "200",
+  "tipc": "3.7",
+  "hora": "11:12 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "04/10/2025",
   "serie": "COT",
   "numero": "HO20251003",
@@ -911,16 +922,5 @@
   "tipc": "3.54",
   "hora": "03:40 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "06/09/2025",
-  "serie": "COT",
-  "numero": "NP305814",
-  "nombre": "NADIA PARIONA",
-  "moneda": "USD",
-  "totguia": "100",
-  "tipc": "3.7",
-  "hora": "10:55 a. m.",
-  "docu": "USER: MARTIN"
 },
 ]
