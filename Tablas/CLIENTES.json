@@ -80015,6 +80015,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MARVIN",
+  "ruc": "44760902",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "08/10/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "SMITH DELIS ALIAGA ESPINOZA",
   "ruc": "44761621",
   "direccion": "CERRO DE PASCO",
