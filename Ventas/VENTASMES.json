@@ -8142,4 +8142,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "08/10/2025",
+  "fecha": "Oct. 8",
+  "serie": "T001",
+  "numero": "00017416",
+  "nombre": "AMADECOR IMPORT S.A.C.",
+  "moneda": "PEN",
+  "totguia": "5045",
+  "acuenta": "5045",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:15 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
