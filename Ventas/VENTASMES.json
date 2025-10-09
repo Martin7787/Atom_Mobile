@@ -8125,4 +8125,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "09/10/2025",
+  "fecha": "Oct. 9",
+  "serie": "T001",
+  "numero": "00017434",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "70",
+  "acuenta": "70",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:35 a. m.",
+  "docu": "CELT-@5FTUEAS",
+  "bloquear": "@5FTUEAS",
+  "user": "LIZETH"
+},
 ]
