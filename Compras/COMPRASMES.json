@@ -89,6 +89,17 @@
 },
 {
   "fechacab": "02/10/2025",
+  "serie": "FAC",
+  "numero": "F002-0019268",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "254",
+  "tipc": "3.7",
+  "hora": "11:23 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "02/10/2025",
   "serie": "COT",
   "numero": "C053089",
   "nombre": "CREACIONES BETHEL S.A.C.",
