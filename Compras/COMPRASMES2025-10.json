@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "09/10/2025",
+  "serie": "COT",
+  "numero": "DD25050002589",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "1254",
+  "tipc": "3.45",
+  "hora": "02:45 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "08/10/2025",
   "serie": "FAC",
   "numero": "FF01-4089",
