@@ -55396,6 +55396,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "TCB-1723",
+  "descripcion": "TAZAS NAVIDEÑAS (CAJA X  48 UND)",
+  "fecha": "09/10/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "135",
+  "precio": "36.49",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "48",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "RONGQIAN",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "TCB-1726",
   "descripcion": "JARRO 20 OZ COLORES FD-7705 (CAJA X  48 UND)",
   "fecha": "23/08/2025",
