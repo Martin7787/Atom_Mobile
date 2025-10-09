@@ -2469,17 +2469,17 @@
   "fecha": "Set. 16",
   "serie": "T001",
   "numero": "00017081",
-  "nombre": "COMERCIAL PATY SAC",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "1786",
-  "acuenta": "1786",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "11:40 a. m.",
-  "docu": "USER: EDITH",
+  "docu": "USER: MARTIN",
   "bloquear": "",
-  "user": "EDITH"
+  "user": "MARTIN"
 },
 {
   "fechacab": "16/09/2025",
