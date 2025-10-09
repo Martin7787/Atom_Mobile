@@ -100,6 +100,17 @@
 },
 {
   "fechacab": "29/09/2025",
+  "serie": "FAC",
+  "numero": "f002-0019249",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "129",
+  "tipc": "3.7",
+  "hora": "11:19 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "29/09/2025",
   "serie": "OTR",
   "numero": "AJU29092025",
   "nombre": "CLIENTES VARIOS",
