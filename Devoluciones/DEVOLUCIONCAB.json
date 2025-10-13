@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000221",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "169",
+  "tipc": "3.7",
+  "fecha": "13/10/2025",
+  "hora": "04:06 p. m.",
+  "docu": "T001-00017498",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000220",
   "nombre": "MULTISERVICIOS TIENDAS JOIS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "04:57 p. m.",
   "docu": "T001-00015642",
   "via": "USER: LIZETH",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000191",
-  "nombre": "TIENDAS RG EIRL",
-  "moneda": "PEN",
-  "totguia": "14.28",
-  "tipc": "3.7",
-  "fecha": "12/06/2025",
-  "hora": "04:20 p. m.",
-  "docu": "T001-00015531",
-  "via": "USER: SOFI",
   "bloquear": ""
 },
 ]
