@@ -35,6 +35,17 @@
 {
   "fechacab": "10/10/2025",
   "serie": "COT",
+  "numero": "DIA25004141",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "5568",
+  "tipc": "3.45",
+  "hora": "08:36 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "10/10/2025",
+  "serie": "COT",
   "numero": "AFI000649",
   "nombre": "ANGIE FASION IMPORT",
   "moneda": "PEN",
