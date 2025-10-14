@@ -22,6 +22,17 @@
   "docu": "USER: DANTE"
 },
 {
+  "fechacab": "13/10/2025",
+  "serie": "COT",
+  "numero": "CX001173",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "250",
+  "tipc": "3.7",
+  "hora": "11:07 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "10/10/2025",
   "serie": "COT",
   "numero": "TQ000311",
