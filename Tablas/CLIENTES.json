@@ -77831,6 +77831,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MERCEDES",
+  "ruc": "43884862",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "13/10/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "FRANK MICHAEL INFANZON ROJAS",
   "ruc": "43896773",
   "direccion": "LIMA",
