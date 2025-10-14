@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "14/10/2025",
+  "serie": "FAC",
+  "numero": "F063-00066463",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "472.81",
+  "tipc": "3.42",
+  "hora": "06:47 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "13/10/2025",
   "serie": "COT",
   "numero": "MOQ0000650",
