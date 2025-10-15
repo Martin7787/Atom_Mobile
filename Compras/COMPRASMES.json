@@ -1,6 +1,28 @@
 [
 {
   "fechacab": "14/10/2025",
+  "serie": "COT",
+  "numero": "RT005417",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "280",
+  "tipc": "3.7",
+  "hora": "10:54 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "14/10/2025",
+  "serie": "COT",
+  "numero": "MOQ00652",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "225",
+  "tipc": "3.7",
+  "hora": "10:55 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "14/10/2025",
   "serie": "FAC",
   "numero": "F063-00066463",
   "nombre": "UNION YCHICAWA S.A",
@@ -63,6 +85,17 @@
   "totguia": "90",
   "tipc": "3.7",
   "hora": "11:19 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/10/2025",
+  "serie": "COT",
+  "numero": "RT005380",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.7",
+  "hora": "10:54 a. m.",
   "docu": "USER: MARTIN"
 },
 {

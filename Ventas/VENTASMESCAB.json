@@ -120,8 +120,13 @@
   "fechacab": "Oct. 13"
 },
 {
-  "dia": "Hoy",
+  "dia": "Mar.",
   "fecha": "14/10/2025",
   "fechacab": "Oct. 14"
+},
+{
+  "dia": "Hoy",
+  "fecha": "15/10/2025",
+  "fechacab": "Oct. 15"
 },
 ]
