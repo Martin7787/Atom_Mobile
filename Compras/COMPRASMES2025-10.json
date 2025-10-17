@@ -13,6 +13,17 @@
 {
   "fechacab": "16/10/2025",
   "serie": "COT",
+  "numero": "MOQ00654",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "900",
+  "tipc": "3.7",
+  "hora": "05:24 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "16/10/2025",
+  "serie": "COT",
   "numero": "44130",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
