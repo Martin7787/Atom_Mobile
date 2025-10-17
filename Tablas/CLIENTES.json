@@ -57811,6 +57811,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "CORPORACION DON CALDERON SOCIEDAD ANONIMA CERRADA",
+  "ruc": "20611791799",
+  "direccion": "AV. UNIVERSITARIA NORTE URB. SAN JUAN BAUTISTA N° 9359 INT. LT. DP. MZ. KM. LIMA LIMA COMAS",
+  "tipo": "0",
+  "fecha": "16/10/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "IMPORTACIONES TENTUCHI S.A.C.",
   "ruc": "20611792311",
   "direccion": "AV. ABANCAY URB. BARRIOS ALTOS N° 1080 LIMA - LIMA  - LIMA",
@@ -58687,6 +58700,19 @@
   "direccion": "AV. CONFRATERNIDAD INTERNACIO BAR. SOLEDAD N° 3041 ÁNCASH - HUARAZ - HUARAZ",
   "tipo": "0",
   "fecha": "22/07/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "INVERSIONES JOTA CRUZ E.I.R.L.",
+  "ruc": "20613550357",
+  "direccion": "CAL. 10 A.V. RIO SANTA N° INT. LT. 9 DP. MZ. K KM. LIMA LIMA LOS OLIVOS",
+  "tipo": "0",
+  "fecha": "16/10/2025",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -82758,6 +82784,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "LUIS CUEVA ",
+  "ruc": "45805369",
+  "direccion": "SURCO",
+  "tipo": "0",
+  "fecha": "16/10/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MARISETH MINAYA ALEJOS",
   "ruc": "45807264",
   "direccion": "COMAS",
@@ -87443,6 +87482,19 @@
   "direccion": "CHINCHA ALTA",
   "tipo": "0",
   "fecha": "05/11/2022",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "FRANCIS ",
+  "ruc": "47857426",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "16/10/2025",
   "telefono": "",
   "email": "",
   "trato": "",
