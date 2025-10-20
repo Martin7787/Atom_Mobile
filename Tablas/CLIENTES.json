@@ -58929,6 +58929,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "COMERCIAL SUPER STORE S.A.C.",
+  "ruc": "20613909827",
+  "direccion": "AV. INDOAMERICA A.H. SAN PEDRO N° INT. LT. 13 DP. MZ. F KM. CALLAO PROV. CONST. DEL CALLAO VENTANILLA",
+  "tipo": "0",
+  "fecha": "20/10/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "PARRILLADAS SINFRONTERA SAC",
   "ruc": "20613911198",
   "direccion": "LA ESPERANZA - TRUJILLO",
