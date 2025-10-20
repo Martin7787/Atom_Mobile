@@ -2,6 +2,17 @@
 {
   "fechacab": "18/10/2025",
   "serie": "COT",
+  "numero": "CG003454",
+  "nombre": "CENTER GLASS E.I.R.L",
+  "moneda": "PEN",
+  "totguia": "405",
+  "tipc": "3.7",
+  "hora": "11:21 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "18/10/2025",
+  "serie": "COT",
   "numero": "258320",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
@@ -1131,137 +1142,5 @@
   "tipc": "3.7",
   "hora": "10:45 a. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/09/2025",
-  "serie": "COT",
-  "numero": "RJ04137",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "70",
-  "tipc": "3.7",
-  "hora": "10:59 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/09/2025",
-  "serie": "COT",
-  "numero": "NS000784",
-  "nombre": "DISTRIBUIDORA MORELLA",
-  "moneda": "USD",
-  "totguia": "1716",
-  "tipc": "3.5",
-  "hora": "08:07 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "19/09/2025",
-  "serie": "COT",
-  "numero": "MOQ00628",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.7",
-  "hora": "10:46 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/09/2025",
-  "serie": "COT",
-  "numero": "MOQ000627",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "130",
-  "tipc": "3.7",
-  "hora": "10:47 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/09/2025",
-  "serie": "COT",
-  "numero": "JFA001957",
-  "nombre": "IMPORT. Y EXPORT. GABY E.I.R.L.",
-  "moneda": "PEN",
-  "totguia": "210",
-  "tipc": "3.7",
-  "hora": "11:04 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/09/2025",
-  "serie": "COT",
-  "numero": "DIA25003947",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "752.7",
-  "tipc": "3.5",
-  "hora": "02:03 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "19/09/2025",
-  "serie": "COT",
-  "numero": "DIA25003946",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "948",
-  "tipc": "3.5",
-  "hora": "01:52 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/09/2025",
-  "serie": "COT",
-  "numero": "VL004189",
-  "nombre": "VALESKA",
-  "moneda": "PEN",
-  "totguia": "720",
-  "tipc": "3.7",
-  "hora": "11:05 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/09/2025",
-  "serie": "FAC",
-  "numero": "F002-0019200",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "258",
-  "tipc": "3.7",
-  "hora": "03:14 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/09/2025",
-  "serie": "COT",
-  "numero": "DIA25003909",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "3025",
-  "tipc": "3.5",
-  "hora": "07:39 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/09/2025",
-  "serie": "COT",
-  "numero": "597280",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "5972.8",
-  "tipc": "3.5",
-  "hora": "06:57 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/09/2025",
-  "serie": "COT",
-  "numero": "001129",
-  "nombre": "MIRIAN NINAJA",
-  "moneda": "USD",
-  "totguia": "3649.63",
-  "tipc": "3.5",
-  "hora": "01:49 p. m.",
-  "docu": "USER: DANTE"
 },
 ]
