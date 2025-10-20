@@ -7819,4 +7819,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "20/10/2025",
+  "fecha": "Oct. 20",
+  "serie": "T001",
+  "numero": "00017612",
+  "nombre": "JUDITH ELENA CESPEDES DIAZ",
+  "moneda": "PEN",
+  "totguia": "32.5",
+  "acuenta": "32.5",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:49 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
