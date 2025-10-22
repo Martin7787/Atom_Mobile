@@ -12,6 +12,17 @@
 },
 {
   "fechacab": "21/10/2025",
+  "serie": "COT",
+  "numero": "TQ00399",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "90",
+  "tipc": "3.7",
+  "hora": "11:23 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "21/10/2025",
   "serie": "OTR",
   "numero": "AJU21102025",
   "nombre": "CLIENTES VARIOS",
@@ -107,6 +118,17 @@
   "totguia": "160",
   "tipc": "3.7",
   "hora": "12:26 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "17/10/2025",
+  "serie": "COT",
+  "numero": "MOQ00659",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "292",
+  "tipc": "3.7",
+  "hora": "11:23 a. m.",
   "docu": ""
 },
 {
