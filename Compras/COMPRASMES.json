@@ -68,6 +68,17 @@
 {
   "fechacab": "18/10/2025",
   "serie": "COT",
+  "numero": "RJ04259",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.7",
+  "hora": "11:25 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "18/10/2025",
+  "serie": "COT",
   "numero": "CG003454",
   "nombre": "CENTER GLASS E.I.R.L",
   "moneda": "PEN",
