@@ -1,6 +1,17 @@
 [
 {
   "fechacab": "21/10/2025",
+  "serie": "COT",
+  "numero": "TQ00991",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.7",
+  "hora": "11:22 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "21/10/2025",
   "serie": "OTR",
   "numero": "AJU21102025",
   "nombre": "CLIENTES VARIOS",
