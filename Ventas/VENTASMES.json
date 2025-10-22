@@ -8363,21 +8363,4 @@
   "bloquear": "",
   "user": "EDITH"
 },
-{
-  "fechacab": "22/10/2025",
-  "fecha": "Oct. 22",
-  "serie": "T001",
-  "numero": "00017652",
-  "nombre": "BERNEDO ILLESCAS LUIS ALBERTO",
-  "moneda": "PEN",
-  "totguia": "1157",
-  "acuenta": "1157",
-  "saldo": "0.0000",
-  "tipc": "3.7",
-  "estado": "CONTADO",
-  "hora": "10:02 a. m.",
-  "docu": "USER: EDITH",
-  "bloquear": "",
-  "user": "EDITH"
-},
 ]
