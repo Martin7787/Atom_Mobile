@@ -90,6 +90,17 @@
 {
   "fechacab": "21/10/2025",
   "serie": "COT",
+  "numero": "MOQ00664",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "225",
+  "tipc": "3.7",
+  "hora": "10:30 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "21/10/2025",
+  "serie": "COT",
   "numero": "MOQ00663",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
@@ -1196,105 +1207,6 @@
   "totguia": "1973.2",
   "tipc": "3.5",
   "hora": "06:03 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "23/09/2025",
-  "serie": "COT",
-  "numero": "RJ04151",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "95",
-  "tipc": "3.7",
-  "hora": "11:00 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "23/09/2025",
-  "serie": "COT",
-  "numero": "MOQ00634",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "400",
-  "tipc": "3.7",
-  "hora": "10:45 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "23/09/2025",
-  "serie": "COT",
-  "numero": "MOQ00009",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "900",
-  "tipc": "3.7",
-  "hora": "11:21 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "23/09/2025",
-  "serie": "COT",
-  "numero": "IG014569",
-  "nombre": "IMPORTACIONES GLEVA",
-  "moneda": "PEN",
-  "totguia": "484",
-  "tipc": "3.7",
-  "hora": "11:03 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "23/09/2025",
-  "serie": "FAC",
-  "numero": "F063-00065617",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "0.06",
-  "tipc": "3.5",
-  "hora": "08:41 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "23/09/2025",
-  "serie": "FAC",
-  "numero": "F063-00065616",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "2039.34",
-  "tipc": "3.5",
-  "hora": "08:38 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "23/09/2025",
-  "serie": "FAC",
-  "numero": "F002-0019223",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "80",
-  "tipc": "3.7",
-  "hora": "07:31 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "23/09/2025",
-  "serie": "FAC",
-  "numero": "F001-0023944",
-  "nombre": "CONTINENTAL NNATIONALIZER SAC",
-  "moneda": "USD",
-  "totguia": "96",
-  "tipc": "3.7",
-  "hora": "07:32 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "23/09/2025",
-  "serie": "COT",
-  "numero": "DIA25004004",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "854.5",
-  "tipc": "3.51",
-  "hora": "12:39 p. m.",
   "docu": "USER: DANTE"
 },
 ]
