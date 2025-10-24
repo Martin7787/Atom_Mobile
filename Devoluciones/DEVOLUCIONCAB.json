@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000222",
+  "nombre": "MICHAEL LOAYZA AQUINO",
+  "moneda": "PEN",
+  "totguia": "104",
+  "tipc": "3.7",
+  "fecha": "24/10/2025",
+  "hora": "06:34 p. m.",
+  "docu": "T001-00017710",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000221",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "01:08 p. m.",
   "docu": "T001-00015565",
   "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000192",
-  "nombre": "FLOR JARA",
-  "moneda": "PEN",
-  "totguia": "145",
-  "tipc": "3.7",
-  "fecha": "20/06/2025",
-  "hora": "04:57 p. m.",
-  "docu": "T001-00015642",
-  "via": "USER: LIZETH",
   "bloquear": ""
 },
 ]
