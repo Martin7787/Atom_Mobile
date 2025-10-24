@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "23/10/2025",
+  "serie": "COT",
+  "numero": "NS002-0001573",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "620",
+  "tipc": "3.405",
+  "hora": "07:45 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "22/10/2025",
   "serie": "COT",
   "numero": "RJ04276",
