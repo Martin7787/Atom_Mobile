@@ -13,6 +13,17 @@
 {
   "fechacab": "22/10/2025",
   "serie": "COT",
+  "numero": "RT005530",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "126",
+  "tipc": "3.7",
+  "hora": "10:31 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "22/10/2025",
+  "serie": "COT",
   "numero": "RJ04276",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
