@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "25/10/2025",
+  "serie": "COT",
+  "numero": "FT002480",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "6045",
+  "tipc": "3.7",
+  "hora": "11:27 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "24/10/2025",
   "serie": "COT",
   "numero": "TQ00518",
