@@ -8516,4 +8516,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "25/10/2025",
+  "fecha": "Oct. 25",
+  "serie": "T001",
+  "numero": "00017712",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "1008",
+  "acuenta": "1008",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:08 a. m.",
+  "docu": "USER: SOFI",
+  "bloquear": "",
+  "user": "SOFI"
+},
 ]
