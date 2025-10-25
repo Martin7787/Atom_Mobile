@@ -13398,6 +13398,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "ARRO8DIS-SUNDA",
+  "descripcion": "ARROCERO 8 FULL PRINT  (CAJA X  60 UND)",
+  "fecha": "24/10/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "126",
+  "precio": "34.05",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "60",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "ARRO8-DX-55-68",
   "descripcion": "ARROCERO 8\" MARMOL (CAJA X  34 UND)",
   "fecha": "29/06/2023",
