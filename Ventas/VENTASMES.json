@@ -8329,4 +8329,21 @@
   "bloquear": "",
   "user": "SOFI"
 },
+{
+  "fechacab": "27/10/2025",
+  "fecha": "Oct. 27",
+  "serie": "T001",
+  "numero": "00017743",
+  "nombre": "FRANCO IBARRA",
+  "moneda": "PEN",
+  "totguia": "190",
+  "acuenta": "190",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:14 a. m.",
+  "docu": "CELT-@2RJQ3TG",
+  "bloquear": "@2RJQ3TG",
+  "user": "LIZETH"
+},
 ]
