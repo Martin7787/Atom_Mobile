@@ -8465,4 +8465,21 @@
   "bloquear": "@2RJQ3TG",
   "user": "LIZETH"
 },
+{
+  "fechacab": "28/10/2025",
+  "fecha": "Oct. 28",
+  "serie": "T001",
+  "numero": "00017772",
+  "nombre": "FLORESMILA CHACON QUILICHE",
+  "moneda": "PEN",
+  "totguia": "543",
+  "acuenta": "543",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:14 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
