@@ -12,6 +12,17 @@
 },
 {
   "fechacab": "29/10/2025",
+  "serie": "COT",
+  "numero": "MOQ00667",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "1550",
+  "tipc": "3.7",
+  "hora": "05:52 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "29/10/2025",
   "serie": "FAC",
   "numero": "F002-0019449",
   "nombre": "GOLDEN ELECTRONIC S.A.C.",
