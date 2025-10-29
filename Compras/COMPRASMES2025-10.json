@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "29/10/2025",
+  "serie": "COT",
+  "numero": "TQ000537",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.7",
+  "hora": "11:03 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "28/10/2025",
   "serie": "COT",
   "numero": "RT005606",
