@@ -8754,4 +8754,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "29/10/2025",
+  "fecha": "Oct. 29",
+  "serie": "T001",
+  "numero": "00017789",
+  "nombre": "CONCHA CUYA CHARLES ANTONY",
+  "moneda": "PEN",
+  "totguia": "249",
+  "acuenta": "249",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:55 a. m.",
+  "docu": "CELT-@T27VDSZ",
+  "bloquear": "@T27VDSZ",
+  "user": "LIZETH"
+},
 ]
