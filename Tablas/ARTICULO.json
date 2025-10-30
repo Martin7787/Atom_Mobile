@@ -63734,6 +63734,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "X00061-11",
+  "descripcion": "BOWL MARRON CLARO 4\" (CAJA X  4 DOC)",
+  "fecha": "30/10/2025",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "120",
+  "precio": "32.43",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "4",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "BOLOS DE LOZA",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "X036-G",
   "descripcion": "SET VASITOS C/ FILO DORADO (CAJA X 12 SET)",
   "fecha": "03/09/2021",
