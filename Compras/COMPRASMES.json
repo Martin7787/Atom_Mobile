@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "30/10/2025",
+  "serie": "FAC",
+  "numero": "F003-00147862",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "PEN",
+  "totguia": "100.28",
+  "tipc": "3.7",
+  "hora": "03:55 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "29/10/2025",
   "serie": "COT",
   "numero": "TQ000537",
@@ -1229,61 +1240,6 @@
   "totguia": "0.0000",
   "tipc": "3.7",
   "hora": "06:02 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/09/2025",
-  "serie": "COT",
-  "numero": "MOQ00640",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "108",
-  "tipc": "3.7",
-  "hora": "11:13 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/09/2025",
-  "serie": "COT",
-  "numero": "MOQ00639",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "448",
-  "tipc": "3.7",
-  "hora": "11:20 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/09/2025",
-  "serie": "COT",
-  "numero": "GP000323",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "195",
-  "tipc": "3.7",
-  "hora": "11:14 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/09/2025",
-  "serie": "FAC",
-  "numero": "f002-0019249",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "129",
-  "tipc": "3.7",
-  "hora": "11:19 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/09/2025",
-  "serie": "OTR",
-  "numero": "AJU29092025",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "0.0000",
-  "tipc": "3.7",
-  "hora": "06:09 p. m.",
   "docu": "USER: MARTIN"
 },
 ]
