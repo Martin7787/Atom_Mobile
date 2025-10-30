@@ -8618,4 +8618,21 @@
   "bloquear": "@T27VDSZ",
   "user": "LIZETH"
 },
+{
+  "fechacab": "30/10/2025",
+  "fecha": "Oct. 30",
+  "serie": "T001",
+  "numero": "00017802",
+  "nombre": "IMPORTACIONES Y EXPORTACIONES LEONARDO CUSCO E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "1877",
+  "acuenta": "1877",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "08:25 a. m.",
+  "docu": "CELT-@8U9VXYF",
+  "bloquear": "@8U9VXYF",
+  "user": "LIZETH"
+},
 ]
