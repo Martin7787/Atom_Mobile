@@ -66235,6 +66235,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "KATHERIN TORRES ",
+  "ruc": "40131469",
+  "direccion": "SAN BARTOLO",
+  "tipo": "0",
+  "fecha": "30/10/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MANUEL ERNESTO CHAVEZ FLORES",
   "ruc": "40131847",
   "direccion": " LIMA - LIMA  - LOS OLIVOS",
@@ -94788,6 +94801,19 @@
   "direccion": "PICHANAQUI",
   "tipo": "0",
   "fecha": "19/08/2019",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "JESUS ANTONIO MUCHA CISNEROS",
+  "ruc": "74050230",
+  "direccion": "ICA SANTIAGO",
+  "tipo": "0",
+  "fecha": "30/10/2025",
   "telefono": "",
   "email": "",
   "trato": "",
