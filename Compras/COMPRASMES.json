@@ -66,6 +66,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "30/10/2025",
+  "serie": "COT",
+  "numero": "CX001349",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "130",
+  "tipc": "3.7",
+  "hora": "11:05 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "29/10/2025",
   "serie": "COT",
   "numero": "TQ000537",
@@ -1230,71 +1241,5 @@
   "tipc": "3.5",
   "hora": "08:52 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "30/09/2025",
-  "serie": "COT",
-  "numero": "RJ04180",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "95",
-  "tipc": "3.7",
-  "hora": "11:15 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "30/09/2025",
-  "serie": "COT",
-  "numero": "MOQ00641",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "310",
-  "tipc": "3.7",
-  "hora": "11:13 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "30/09/2025",
-  "serie": "FAC",
-  "numero": "F013-00139625",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "0.01",
-  "tipc": "3.467",
-  "hora": "05:52 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "30/09/2025",
-  "serie": "FAC",
-  "numero": "F013-00139624",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "631.8",
-  "tipc": "3.467",
-  "hora": "05:51 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "30/09/2025",
-  "serie": "COT",
-  "numero": "DIA25004069",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "288",
-  "tipc": "3.5",
-  "hora": "06:57 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "30/09/2025",
-  "serie": "OTR",
-  "numero": "AJU30092025",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "0.0000",
-  "tipc": "3.7",
-  "hora": "06:02 p. m.",
-  "docu": "USER: MARTIN"
 },
 ]
