@@ -8091,4 +8091,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "03/11/2025",
+  "fecha": "Nov. 3",
+  "serie": "T001",
+  "numero": "00017841",
+  "nombre": "BENDEZU ROCA VICTORIA FELICIA",
+  "moneda": "PEN",
+  "totguia": "2007.4",
+  "acuenta": "2007.4",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "12:47 p. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
