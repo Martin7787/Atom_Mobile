@@ -2,6 +2,17 @@
 {
   "fechacab": "31/10/2025",
   "serie": "COT",
+  "numero": "TQ000562",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "504",
+  "tipc": "3.7",
+  "hora": "11:25 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "31/10/2025",
+  "serie": "COT",
   "numero": "TQ000560",
   "nombre": "TAQUIMA",
   "moneda": "PEN",
