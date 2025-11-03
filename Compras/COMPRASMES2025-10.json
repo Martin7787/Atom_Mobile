@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "31/10/2025",
+  "serie": "COT",
+  "numero": "TQ000560",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "90",
+  "tipc": "3.7",
+  "hora": "11:24 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "30/10/2025",
   "serie": "COT",
   "numero": "NVLU-000627",
