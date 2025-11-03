@@ -123,6 +123,17 @@
 {
   "fechacab": "28/10/2025",
   "serie": "COT",
+  "numero": "RT005602",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "480",
+  "tipc": "3.7",
+  "hora": "11:24 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "28/10/2025",
+  "serie": "COT",
   "numero": "RT005599",
   "nombre": "ROBERT TURPO",
   "moneda": "PEN",
