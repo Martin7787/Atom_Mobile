@@ -44,6 +44,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "31/10/2025",
+  "serie": "FAC",
+  "numero": "FN02-00002283",
+  "nombre": "COMERCIAL DANERI",
+  "moneda": "PEN",
+  "totguia": "9300",
+  "tipc": "3.4",
+  "hora": "06:13 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "30/10/2025",
   "serie": "COT",
   "numero": "NVLU-000627",
