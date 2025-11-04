@@ -8108,4 +8108,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "04/11/2025",
+  "fecha": "Nov. 4",
+  "serie": "T001",
+  "numero": "00017864",
+  "nombre": "RENGIFO CARDENAS KAREN",
+  "moneda": "PEN",
+  "totguia": "850",
+  "acuenta": "850",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:49 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
