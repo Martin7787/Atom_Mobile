@@ -11,6 +11,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "03/11/2025",
+  "serie": "COT",
+  "numero": "MOQ00670",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "615",
+  "tipc": "3.7",
+  "hora": "11:13 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "31/10/2025",
   "serie": "COT",
   "numero": "TQ000562",
@@ -1186,27 +1197,5 @@
   "tipc": "3.7",
   "hora": "04:34 p. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "04/10/2025",
-  "serie": "COT",
-  "numero": "HO20251003",
-  "nombre": "RONGQUIAN",
-  "moneda": "PEN",
-  "totguia": "2520",
-  "tipc": "3.5",
-  "hora": "07:14 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "04/10/2025",
-  "serie": "COT",
-  "numero": "04092025",
-  "nombre": "DISTRIBUIDORA MORELLA",
-  "moneda": "USD",
-  "totguia": "385",
-  "tipc": "3.485",
-  "hora": "02:10 p. m.",
-  "docu": "USER: DANTE"
 },
 ]
