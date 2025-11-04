@@ -46,6 +46,17 @@
 {
   "fechacab": "31/10/2025",
   "serie": "COT",
+  "numero": "RT005629",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "156",
+  "tipc": "3.7",
+  "hora": "11:14 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "31/10/2025",
+  "serie": "COT",
   "numero": "NS002-0001650",
   "nombre": "DISTRIBUIDORA MORELLA",
   "moneda": "PEN",
