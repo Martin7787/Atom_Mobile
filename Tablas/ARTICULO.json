@@ -28177,7 +28177,7 @@
   "linea": "LOZAS",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "True",
+  "vneg": "False",
   "via": "",
   "bloquear": "false"
 },
