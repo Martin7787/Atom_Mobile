@@ -78,6 +78,17 @@
 },
 {
   "fechacab": "31/10/2025",
+  "serie": "COT",
+  "numero": "NP307818",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "100",
+  "tipc": "3.7",
+  "hora": "11:53 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "31/10/2025",
   "serie": "FAC",
   "numero": "FN02-00002283",
   "nombre": "COMERCIAL DANERI",
