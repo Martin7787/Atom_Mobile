@@ -61336,6 +61336,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "VL-LILY8",
+  "descripcion": "JUEGO DE OLLAS (CAJA X  2 SET)",
+  "fecha": "06/11/2025",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "500",
+  "precio": "135.14",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "2",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "VL-LOTUS6",
   "descripcion": "OLLAS ROCA (CAJA X  4 SET)",
   "fecha": "27/01/2024",
