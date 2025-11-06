@@ -8652,4 +8652,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "06/11/2025",
+  "fecha": "Nov. 6",
+  "serie": "T001",
+  "numero": "00017904",
+  "nombre": "MONICA LOURDES TINAGEROS RODRIGUEZ",
+  "moneda": "PEN",
+  "totguia": "110",
+  "acuenta": "110",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "12:21 p. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
