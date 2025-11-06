@@ -61006,6 +61006,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "VL-KA9",
+  "descripcion": "ABANICO DE CUCHILLOS (CAJA X  12 SET)",
+  "fecha": "06/11/2025",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "1200",
+  "precio": "324.32",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "12",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "VL-KT310",
   "descripcion": "JUEGO DE OLLAS (CAJA X  12 SET)",
   "fecha": "20/04/2022",
