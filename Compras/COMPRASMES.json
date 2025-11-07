@@ -101,6 +101,17 @@
 {
   "fechacab": "05/11/2025",
   "serie": "COT",
+  "numero": "CG003761",
+  "nombre": "CENTER GLASS E.I.R.L",
+  "moneda": "PEN",
+  "totguia": "67",
+  "tipc": "3.7",
+  "hora": "11:16 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/11/2025",
+  "serie": "COT",
   "numero": "AGC001-046707",
   "nombre": "AGC",
   "moneda": "PEN",
