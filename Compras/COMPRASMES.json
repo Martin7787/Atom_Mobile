@@ -200,6 +200,17 @@
 {
   "fechacab": "31/10/2025",
   "serie": "COT",
+  "numero": "RJ04327",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "95",
+  "tipc": "3.7",
+  "hora": "11:14 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "31/10/2025",
+  "serie": "COT",
   "numero": "NS002-0001650",
   "nombre": "DISTRIBUIDORA MORELLA",
   "moneda": "PEN",
