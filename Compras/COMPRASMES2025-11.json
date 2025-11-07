@@ -167,6 +167,17 @@
 {
   "fechacab": "04/11/2025",
   "serie": "FAC",
+  "numero": "F002-0019486",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "268",
+  "tipc": "3.7",
+  "hora": "12:59 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "04/11/2025",
+  "serie": "FAC",
   "numero": "F001-0024272",
   "nombre": "CONTINENTAL NNATIONALIZER SAC",
   "moneda": "USD",
