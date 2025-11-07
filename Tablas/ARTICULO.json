@@ -26422,6 +26422,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "HG1807",
+  "descripcion": "COPAS CHAMPAG 180ML G-HORSE SETX6 (CAJA X  8 SET)",
+  "fecha": "06/11/2025",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "128",
+  "precio": "34.59",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "8",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "VIDRIO",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "HH-3452",
   "descripcion": "HERVIDOR 2 L CROMADO (CAJA X  16 UND)",
   "fecha": "07/02/2024",
