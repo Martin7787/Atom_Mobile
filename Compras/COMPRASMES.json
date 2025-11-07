@@ -46,6 +46,17 @@
 {
   "fechacab": "05/11/2025",
   "serie": "COT",
+  "numero": "RJ04343",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "95",
+  "tipc": "3.7",
+  "hora": "11:11 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/11/2025",
+  "serie": "COT",
   "numero": "CX001391",
   "nombre": "CORPORACION GCC S.A.C",
   "moneda": "PEN",
