@@ -24,6 +24,17 @@
 {
   "fechacab": "05/11/2025",
   "serie": "COT",
+  "numero": "TQ000585",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.7",
+  "hora": "11:08 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/11/2025",
+  "serie": "COT",
   "numero": "CX001391",
   "nombre": "CORPORACION GCC S.A.C",
   "moneda": "PEN",
