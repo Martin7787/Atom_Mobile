@@ -33,6 +33,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "04/11/2025",
+  "serie": "COT",
+  "numero": "MOQ00674",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "400",
+  "tipc": "3.7",
+  "hora": "11:07 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "03/11/2025",
   "serie": "COT",
   "numero": "SD03112025",
@@ -1208,49 +1219,5 @@
   "tipc": "3.7",
   "hora": "04:31 p. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "07/10/2025",
-  "serie": "COT",
-  "numero": "RT005340",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "430",
-  "tipc": "3.7",
-  "hora": "04:25 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "07/10/2025",
-  "serie": "COT",
-  "numero": "RJ04203",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "95",
-  "tipc": "3.7",
-  "hora": "04:33 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "07/10/2025",
-  "serie": "COT",
-  "numero": "MOQ00644",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "200",
-  "tipc": "3.7",
-  "hora": "11:12 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "07/10/2025",
-  "serie": "FAC",
-  "numero": "F002-00013038",
-  "nombre": "RONGQUIAN",
-  "moneda": "PEN",
-  "totguia": "1254",
-  "tipc": "3.45",
-  "hora": "02:52 p. m.",
-  "docu": "USER: DANTE"
 },
 ]
