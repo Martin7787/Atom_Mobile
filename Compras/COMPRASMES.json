@@ -2,6 +2,17 @@
 {
   "fechacab": "06/11/2025",
   "serie": "COT",
+  "numero": "RJ04349",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.7",
+  "hora": "11:15 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/11/2025",
+  "serie": "COT",
   "numero": "GP000423",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
