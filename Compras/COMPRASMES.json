@@ -46,6 +46,17 @@
 {
   "fechacab": "05/11/2025",
   "serie": "COT",
+  "numero": "YH0002290",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "270",
+  "tipc": "3.7",
+  "hora": "12:33 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/11/2025",
+  "serie": "COT",
   "numero": "TQ000889",
   "nombre": "TAQUIMA",
   "moneda": "PEN",
@@ -1296,93 +1307,5 @@
   "tipc": "3.45",
   "hora": "04:58 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "08/10/2025",
-  "serie": "COT",
-  "numero": "RJ04210",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "95",
-  "tipc": "3.7",
-  "hora": "04:32 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "08/10/2025",
-  "serie": "COT",
-  "numero": "MOQ00646",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.7",
-  "hora": "04:29 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "08/10/2025",
-  "serie": "FAC",
-  "numero": "FF01-4089",
-  "nombre": "RONGQUIAN",
-  "moneda": "PEN",
-  "totguia": "1080",
-  "tipc": "3.45",
-  "hora": "02:27 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "08/10/2025",
-  "serie": "FAC",
-  "numero": "F013-00139672",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "0.01",
-  "tipc": "3.445",
-  "hora": "02:13 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "08/10/2025",
-  "serie": "COT",
-  "numero": "F013-00139671",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "135.62",
-  "tipc": "3.445",
-  "hora": "02:10 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "08/10/2025",
-  "serie": "FAC",
-  "numero": "F002-00013142",
-  "nombre": "RONGQUIAN",
-  "moneda": "PEN",
-  "totguia": "2661",
-  "tipc": "3.45",
-  "hora": "02:21 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "08/10/2025",
-  "serie": "COT",
-  "numero": "CG003282",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "280",
-  "tipc": "3.7",
-  "hora": "04:35 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "08/10/2025",
-  "serie": "COT",
-  "numero": "AGC001-046175",
-  "nombre": "AGC",
-  "moneda": "PEN",
-  "totguia": "315",
-  "tipc": "3.7",
-  "hora": "04:31 p. m.",
-  "docu": "USER: MARTIN"
 },
 ]
