@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000224",
+  "nombre": "COMERCIAL GABRIELA EIRL",
+  "moneda": "PEN",
+  "totguia": "7.75",
+  "tipc": "3.7",
+  "fecha": "10/11/2025",
+  "hora": "03:17 p. m.",
+  "docu": "T001-00017961",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000223",
   "nombre": "KENYI JULIAN QUILLASH GUERRERO",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "07:25 p. m.",
   "docu": "T001-00015816",
   "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000194",
-  "nombre": "CELINDA FLORES",
-  "moneda": "PEN",
-  "totguia": "132",
-  "tipc": "3.7",
-  "fecha": "24/06/2025",
-  "hora": "04:17 p. m.",
-  "docu": "T001-00015708",
-  "via": "USER: LIZETH",
   "bloquear": ""
 },
 ]
