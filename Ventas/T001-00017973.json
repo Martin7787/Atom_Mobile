@@ -2,9 +2,9 @@
 {
   "numero": "T001-00017973",
   "fecha": "10/11/2025",
-  "ruc": "00000000",
-  "nombre": "CLIENTES VARIOS",
-  "direccion": "LIMA",
+  "ruc": "20612692026",
+  "nombre": "SAYAN IMPORTACIONES SOCIEDAD ANONIMA CERRADA",
+  "direccion": "JR. SIMON BOLIVAR NRO. 133 CENTRO DE TUMBES (FRENTE AL PARQUE) TUMBES - TUMBES - TUMBES",
   "moneda": "0",
   "totguia": "1682",
   "acuenta": "1682",
@@ -184,7 +184,7 @@
   "cantimp": "1 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "85",
   "punidad": "0.0000"
 },
@@ -228,7 +228,7 @@
   "cantimp": "1 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "165",
   "punidad": "0.0000"
 },
