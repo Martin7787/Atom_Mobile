@@ -88,6 +88,28 @@
   "docu": ""
 },
 {
+  "fechacab": "07/11/2025",
+  "serie": "COT",
+  "numero": "CX001425",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "90",
+  "tipc": "3.7",
+  "hora": "11:20 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "07/11/2025",
+  "serie": "COT",
+  "numero": "CX001419",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "200",
+  "tipc": "3.7",
+  "hora": "11:21 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "06/11/2025",
   "serie": "COT",
   "numero": "VL006044",
