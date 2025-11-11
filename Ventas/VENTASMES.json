@@ -8941,4 +8941,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "11/11/2025",
+  "fecha": "Nov. 11",
+  "serie": "T001",
+  "numero": "00018011",
+  "nombre": "MAGDA",
+  "moneda": "PEN",
+  "totguia": "65",
+  "acuenta": "65",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:19 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
