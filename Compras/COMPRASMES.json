@@ -2,6 +2,17 @@
 {
   "fechacab": "10/11/2025",
   "serie": "COT",
+  "numero": "GP00439",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "330",
+  "tipc": "3.7",
+  "hora": "11:17 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/11/2025",
+  "serie": "COT",
   "numero": "321440",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
