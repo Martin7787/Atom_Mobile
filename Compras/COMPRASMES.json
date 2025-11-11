@@ -132,6 +132,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "07/11/2025",
+  "serie": "COT",
+  "numero": "AGC001-046751",
+  "nombre": "AGC",
+  "moneda": "PEN",
+  "totguia": "90",
+  "tipc": "3.7",
+  "hora": "11:25 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "06/11/2025",
   "serie": "COT",
   "numero": "VL006044",
