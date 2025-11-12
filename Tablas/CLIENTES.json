@@ -89687,6 +89687,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "CLIENTES VARIOS",
+  "ruc": "48462574",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "11/11/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "DULCE CISNEROS AGUILAR",
   "ruc": "48463462",
   "direccion": "LIMA",
