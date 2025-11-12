@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "12/11/2025",
+  "serie": "FAC",
+  "numero": "E001-76",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "3650",
+  "tipc": "3.4",
+  "hora": "12:15 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "11/11/2025",
   "serie": "COT",
   "numero": "RJ04386",
