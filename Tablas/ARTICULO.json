@@ -6578,6 +6578,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "3961C",
+  "descripcion": "JARRO NAVIDEÑO",
+  "fecha": "13/11/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "300",
+  "precio": "81.08",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "4",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "3962C",
   "descripcion": "JARRO NAVIDEÑO (CAJA X  4 DOC)",
   "fecha": "13/11/2025",
