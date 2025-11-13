@@ -18612,6 +18612,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "CL-142",
+  "descripcion": "JARRO NAVIDEÑO A GRANEL (CAJA X  4 DOC)",
+  "fecha": "13/11/2025",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "185",
+  "precio": "50",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "4",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "COCOX4",
   "descripcion": "VASOS DE VIDRIO COCO (CAJA X  4 DOC)",
   "fecha": "27/10/2022",
