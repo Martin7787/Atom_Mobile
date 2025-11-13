@@ -3080,6 +3080,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "1731",
+  "descripcion": "JARRO NAVIDEÑO (CAJA X  6 DOC)",
+  "fecha": "13/11/2025",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "228",
+  "precio": "61.62",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "6",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "17PCSVOLCANICA ",
   "descripcion": "JUEGO DE OLLAS ROCA VOLCANICA (CAJA X  2 SET)",
   "fecha": "28/01/2022",
