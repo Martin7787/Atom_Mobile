@@ -33286,6 +33286,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "JS-2506",
+  "descripcion": "JARRO NAVIDEÑO (CAJA X  4 DOC)",
+  "fecha": "13/11/2025",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "288",
+  "precio": "77.84",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "4",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "JSD-23003",
   "descripcion": "JARRA C/VASOS NAVIDEÑO  (CAJA X  8 SET)",
   "fecha": "02/10/2023",
