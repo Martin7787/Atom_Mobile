@@ -1,6 +1,17 @@
 [
 {
   "fechacab": "12/11/2025",
+  "serie": "COT",
+  "numero": "YH0002309",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.7",
+  "hora": "10:40 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "12/11/2025",
   "serie": "FAC",
   "numero": "E001-76",
   "nombre": "CLIENTES VARIOS",
@@ -1450,60 +1461,5 @@
   "tipc": "3.42",
   "hora": "06:47 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "13/10/2025",
-  "serie": "COT",
-  "numero": "MOQ00649",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "250",
-  "tipc": "3.7",
-  "hora": "12:22 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "13/10/2025",
-  "serie": "COT",
-  "numero": "MOQ0000650",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "240",
-  "tipc": "3.7",
-  "hora": "11:07 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "13/10/2025",
-  "serie": "FAC",
-  "numero": "F002-0019345",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "74",
-  "tipc": "3.7",
-  "hora": "07:25 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "13/10/2025",
-  "serie": "COT",
-  "numero": "DIA25004142",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "12107",
-  "tipc": "3.45",
-  "hora": "08:46 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "13/10/2025",
-  "serie": "COT",
-  "numero": "CX001173",
-  "nombre": "CORPORACION GCC S.A.C",
-  "moneda": "PEN",
-  "totguia": "250",
-  "tipc": "3.7",
-  "hora": "11:07 a. m.",
-  "docu": "USER: MARTIN"
 },
 ]
