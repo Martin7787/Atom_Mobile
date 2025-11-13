@@ -35948,6 +35948,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "LSD-2506A",
+  "descripcion": "JARRO NAVIDEÑO (CAJA X  4 DOC)",
+  "fecha": "13/11/2025",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "264",
+  "precio": "71.35",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "4",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "LS-MAMA",
   "descripcion": "JARRO MAMA (CAJA X  4 DOC)",
   "fecha": "01/04/2024",
