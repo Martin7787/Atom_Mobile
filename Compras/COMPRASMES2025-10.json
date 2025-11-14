@@ -145,6 +145,17 @@
 {
   "fechacab": "30/10/2025",
   "serie": "COT",
+  "numero": "DIA25004428",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "4150",
+  "tipc": "3.38",
+  "hora": "07:50 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "30/10/2025",
+  "serie": "COT",
   "numero": "CX001349",
   "nombre": "CORPORACION GCC S.A.C",
   "moneda": "PEN",
