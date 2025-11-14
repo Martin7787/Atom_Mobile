@@ -9502,4 +9502,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "14/11/2025",
+  "fecha": "Nov. 14",
+  "serie": "T001",
+  "numero": "00018084",
+  "nombre": "HONGYE BELLAVISTA S.A.C.",
+  "moneda": "PEN",
+  "totguia": "1214",
+  "acuenta": "1214",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:38 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
