@@ -2,6 +2,17 @@
 {
   "fechacab": "13/11/2025",
   "serie": "COT",
+  "numero": "MOQ00684",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "11:59 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "13/11/2025",
+  "serie": "COT",
   "numero": "04414",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
