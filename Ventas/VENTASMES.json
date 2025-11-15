@@ -9655,4 +9655,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "15/11/2025",
+  "fecha": "Nov. 15",
+  "serie": "T001",
+  "numero": "00018107",
+  "nombre": "MELISA MENDOZA RONDINEL",
+  "moneda": "PEN",
+  "totguia": "1124",
+  "acuenta": "1124",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "09:06 a. m.",
+  "docu": "CELT-@53QAPO6",
+  "bloquear": "@53QAPO6",
+  "user": "LIZETH"
+},
 ]
