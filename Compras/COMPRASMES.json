@@ -56,6 +56,17 @@
 },
 {
   "fechacab": "13/11/2025",
+  "serie": "FAC",
+  "numero": "F063-00067913",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "6254.26",
+  "tipc": "3.7",
+  "hora": "01:30 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "13/11/2025",
   "serie": "COT",
   "numero": "04414",
   "nombre": "ROSA JARRO",
@@ -1560,38 +1571,5 @@
   "tipc": "3.45",
   "hora": "03:55 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "15/10/2025",
-  "serie": "COT",
-  "numero": "RT005438",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "360",
-  "tipc": "3.7",
-  "hora": "05:26 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/10/2025",
-  "serie": "COT",
-  "numero": "MOQ00653",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "250",
-  "tipc": "3.7",
-  "hora": "03:31 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/10/2025",
-  "serie": "COT",
-  "numero": "CX001204",
-  "nombre": "CORPORACION GCC S.A.C",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.7",
-  "hora": "03:30 p. m.",
-  "docu": "USER: MARTIN"
 },
 ]
