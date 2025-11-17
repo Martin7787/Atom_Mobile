@@ -9349,4 +9349,21 @@
   "bloquear": "@53QAPO6",
   "user": "LIZETH"
 },
+{
+  "fechacab": "17/11/2025",
+  "fecha": "Nov. 17",
+  "serie": "T001",
+  "numero": "00018142",
+  "nombre": "GIANCARLO MAMANI GONZALES",
+  "moneda": "PEN",
+  "totguia": "90",
+  "acuenta": "90",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "09:58 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
