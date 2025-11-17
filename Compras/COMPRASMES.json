@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "17/11/2025",
+  "serie": "COT",
+  "numero": "1339684",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "13396.84",
+  "tipc": "3.38",
+  "hora": "07:26 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "14/11/2025",
   "serie": "COT",
   "numero": "000460",
@@ -1405,182 +1416,6 @@
   "totguia": "3150",
   "tipc": "3.4",
   "hora": "06:19 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "17/10/2025",
-  "serie": "COT",
-  "numero": "RJ04253",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "70",
-  "tipc": "3.7",
-  "hora": "12:24 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/10/2025",
-  "serie": "COT",
-  "numero": "RJ04250",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "95",
-  "tipc": "3.7",
-  "hora": "12:24 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/10/2025",
-  "serie": "COT",
-  "numero": "RJ04248",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "12:26 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/10/2025",
-  "serie": "COT",
-  "numero": "MOQ00659",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "292",
-  "tipc": "3.7",
-  "hora": "11:23 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/10/2025",
-  "serie": "COT",
-  "numero": "MOQ00657",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "128",
-  "tipc": "3.7",
-  "hora": "12:23 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/10/2025",
-  "serie": "COT",
-  "numero": "DIA25004206",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "220",
-  "tipc": "3.4",
-  "hora": "06:39 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "17/10/2025",
-  "serie": "COT",
-  "numero": "CX001220",
-  "nombre": "CORPORACION GCC S.A.C",
-  "moneda": "PEN",
-  "totguia": "90",
-  "tipc": "3.7",
-  "hora": "12:23 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/10/2025",
-  "serie": "COT",
-  "numero": "466800",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "4668",
-  "tipc": "3.4",
-  "hora": "07:17 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "16/10/2025",
-  "serie": "COT",
-  "numero": "TQ000316",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "90",
-  "tipc": "3.7",
-  "hora": "11:20 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "16/10/2025",
-  "serie": "COT",
-  "numero": "MOQ00655",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "198",
-  "tipc": "3.7",
-  "hora": "05:25 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "16/10/2025",
-  "serie": "COT",
-  "numero": "MOQ00654",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "900",
-  "tipc": "3.7",
-  "hora": "05:24 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "16/10/2025",
-  "serie": "COT",
-  "numero": "CX001213",
-  "nombre": "CORPORACION GCC S.A.C",
-  "moneda": "PEN",
-  "totguia": "684",
-  "tipc": "3.7",
-  "hora": "05:27 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "16/10/2025",
-  "serie": "COT",
-  "numero": "CG003415",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "168",
-  "tipc": "3.7",
-  "hora": "05:28 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "16/10/2025",
-  "serie": "COT",
-  "numero": "C053233",
-  "nombre": "CREACIONES BETHEL S.A.C.",
-  "moneda": "USD",
-  "totguia": "60",
-  "tipc": "3.7",
-  "hora": "05:26 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "16/10/2025",
-  "serie": "COT",
-  "numero": "44130",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "441.3",
-  "tipc": "3.45",
-  "hora": "08:57 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "16/10/2025",
-  "serie": "COT",
-  "numero": "392550",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "3925.5",
-  "tipc": "3.45",
-  "hora": "03:55 p. m.",
   "docu": "USER: DANTE"
 },
 ]
