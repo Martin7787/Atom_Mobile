@@ -1407,48 +1407,4 @@
   "hora": "01:30 p. m.",
   "docu": "USER: MARTIN"
 },
-{
-  "fechacab": "18/10/2025",
-  "serie": "COT",
-  "numero": "RJ04259",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "70",
-  "tipc": "3.7",
-  "hora": "11:25 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/10/2025",
-  "serie": "COT",
-  "numero": "CG003454",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "405",
-  "tipc": "3.7",
-  "hora": "11:21 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/10/2025",
-  "serie": "COT",
-  "numero": "258320",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "2583.2",
-  "tipc": "3.4",
-  "hora": "05:28 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/10/2025",
-  "serie": "COT",
-  "numero": "001175",
-  "nombre": "FORTUNATO MALLQUI NIETO",
-  "moneda": "PEN",
-  "totguia": "3150",
-  "tipc": "3.4",
-  "hora": "06:19 p. m.",
-  "docu": "USER: DANTE"
-},
 ]
