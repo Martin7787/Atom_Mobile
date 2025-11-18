@@ -23628,6 +23628,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "FF-59",
+  "descripcion": "AZUCARERA DE LOZA (CAJA X  3 DOC)",
+  "fecha": "18/11/2025",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "420",
+  "precio": "113.51",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "3",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "FH1028",
   "descripcion": "JARRA (CAJA X  12 UND)",
   "fecha": "16/05/2024",
