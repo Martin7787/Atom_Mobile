@@ -46,6 +46,17 @@
 {
   "fechacab": "15/11/2025",
   "serie": "COT",
+  "numero": "RJ04448",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "11:00 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "15/11/2025",
+  "serie": "COT",
   "numero": "CP29891",
   "nombre": "CASA PORCELANA",
   "moneda": "PEN",
