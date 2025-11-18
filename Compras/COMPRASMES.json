@@ -24,6 +24,17 @@
 {
   "fechacab": "15/11/2025",
   "serie": "COT",
+  "numero": "TQ000421",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.7",
+  "hora": "10:58 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "15/11/2025",
+  "serie": "COT",
   "numero": "CP29891",
   "nombre": "CASA PORCELANA",
   "moneda": "PEN",
