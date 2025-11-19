@@ -56,6 +56,17 @@
 },
 {
   "fechacab": "18/11/2025",
+  "serie": "FAC",
+  "numero": "F063-00068120",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "0.01",
+  "tipc": "3.37",
+  "hora": "02:15 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "18/11/2025",
   "serie": "COT",
   "numero": "DIA25004686",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
