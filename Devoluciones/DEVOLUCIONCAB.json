@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000226",
+  "nombre": "RESTAURANTE PERU MANKA E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "12.5",
+  "tipc": "3.7",
+  "fecha": "19/11/2025",
+  "hora": "04:24 p. m.",
+  "docu": "T001-00018229",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000225",
   "nombre": "BENDEZU ROCA VICTORIA FELICIA",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "02:51 p. m.",
   "docu": "T001-00015907",
   "via": "USER: LIZETH",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000196",
-  "nombre": "RUBEN QUISPE SICHA",
-  "moneda": "PEN",
-  "totguia": "140",
-  "tipc": "3.7",
-  "fecha": "07/07/2025",
-  "hora": "12:22 p. m.",
-  "docu": "T001-00015863",
-  "via": "USER: SOFI",
   "bloquear": ""
 },
 ]
