@@ -65516,6 +65516,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "XM-JJ-50",
+  "descripcion": "BANDEJA NAVIDEÑA (CAJA X  12 UND)",
+  "fecha": "20/11/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "216",
+  "precio": "58.38",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "12",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "XMTG-5511",
   "descripcion": "BOMBONERA DE VIDRIO (CAJA X  44 UND)",
   "fecha": "21/09/2021",
