@@ -1550,37 +1550,4 @@
   "hora": "05:27 p. m.",
   "docu": "USER: DANTE"
 },
-{
-  "fechacab": "20/10/2025",
-  "serie": "COT",
-  "numero": "RJ04267",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "220",
-  "tipc": "3.7",
-  "hora": "11:25 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "20/10/2025",
-  "serie": "COT",
-  "numero": "MOQ00661",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "172",
-  "tipc": "3.7",
-  "hora": "11:24 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "20/10/2025",
-  "serie": "OTR",
-  "numero": "AJU20102025",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "0.0000",
-  "tipc": "3.7",
-  "hora": "01:30 p. m.",
-  "docu": "USER: MARTIN"
-},
 ]
