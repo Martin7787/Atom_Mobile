@@ -193,7 +193,7 @@
   "linea": "YCHI",
   "cdesc": "480",
   "pdesc": "1.35",
-  "vneg": "True",
+  "vneg": "False",
   "via": "-",
   "bloquear": "false"
 },
