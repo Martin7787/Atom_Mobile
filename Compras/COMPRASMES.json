@@ -68,6 +68,17 @@
 {
   "fechacab": "18/11/2025",
   "serie": "COT",
+  "numero": "MOQ000687",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "264",
+  "tipc": "3.7",
+  "hora": "10:38 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "18/11/2025",
+  "serie": "COT",
   "numero": "GP000487",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
