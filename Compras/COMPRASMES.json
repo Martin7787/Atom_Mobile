@@ -68,6 +68,17 @@
 {
   "fechacab": "19/11/2025",
   "serie": "COT",
+  "numero": "YH0002327",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.7",
+  "hora": "10:56 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "19/11/2025",
+  "serie": "COT",
   "numero": "RJ04487",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
