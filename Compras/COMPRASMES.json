@@ -46,6 +46,17 @@
 {
   "fechacab": "20/11/2025",
   "serie": "COT",
+  "numero": "CP29417",
+  "nombre": "CASA PORCELANA",
+  "moneda": "PEN",
+  "totguia": "88",
+  "tipc": "3.7",
+  "hora": "10:57 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "20/11/2025",
+  "serie": "COT",
   "numero": "17/11/2025",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
