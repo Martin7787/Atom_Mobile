@@ -10369,4 +10369,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "21/11/2025",
+  "fecha": "Nov. 21",
+  "serie": "T001",
+  "numero": "00018262",
+  "nombre": "KULLKY SOLUCIONES INTEGRALES E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "420",
+  "acuenta": "420",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:03 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
