@@ -10403,4 +10403,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "22/11/2025",
+  "fecha": "Nov. 22",
+  "serie": "T001",
+  "numero": "00018280",
+  "nombre": "MARIELA",
+  "moneda": "PEN",
+  "totguia": "108",
+  "acuenta": "108",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:08 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
