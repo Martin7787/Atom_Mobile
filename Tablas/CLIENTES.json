@@ -9256,6 +9256,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MARCELA",
+  "ruc": "09900518",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "22/11/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MANUEL PAUL SOTO MEJIA",
   "ruc": "09902555",
   "direccion": "SAN MARTIN DE PORRES-LIMA-LIMA",
