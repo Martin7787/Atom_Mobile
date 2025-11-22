@@ -387,6 +387,17 @@
 {
   "fechacab": "15/11/2025",
   "serie": "COT",
+  "numero": "RT005770",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "10:41 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "15/11/2025",
+  "serie": "COT",
   "numero": "RJ04448",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
