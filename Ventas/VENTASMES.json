@@ -10233,4 +10233,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "25/11/2025",
+  "fecha": "Nov. 25",
+  "serie": "T001",
+  "numero": "00018345",
+  "nombre": "JOSE RODRÍGUEZ",
+  "moneda": "PEN",
+  "totguia": "338",
+  "acuenta": "338",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:29 a. m.",
+  "docu": "EDTH-@06O21IE",
+  "bloquear": "@06O21IE",
+  "user": ""
+},
 ]
