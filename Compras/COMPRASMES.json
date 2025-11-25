@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "24/11/2025",
+  "serie": "COT",
+  "numero": "RJ04601",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "780",
+  "tipc": "3.7",
+  "hora": "11:32 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "22/11/2025",
   "serie": "COT",
   "numero": "20251121-137",
