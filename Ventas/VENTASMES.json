@@ -8504,17 +8504,17 @@
   "fecha": "Nov. 20",
   "serie": "T001",
   "numero": "00018260",
-  "nombre": "IMPORTACIONES MEVALDI",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "1768",
-  "acuenta": "1768",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "07:18 p. m.",
-  "docu": "USER: EDITH",
+  "docu": "USER: MARTIN",
   "bloquear": "",
-  "user": "EDITH"
+  "user": "MARTIN"
 },
 {
   "fechacab": "20/11/2025",
