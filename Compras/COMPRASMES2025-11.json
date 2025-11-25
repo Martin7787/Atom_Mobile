@@ -134,6 +134,17 @@
 {
   "fechacab": "20/11/2025",
   "serie": "COT",
+  "numero": "RJ04512",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "250",
+  "tipc": "3.7",
+  "hora": "11:37 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "20/11/2025",
+  "serie": "COT",
   "numero": "MOQ00693",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
