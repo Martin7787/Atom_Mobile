@@ -13,6 +13,17 @@
 {
   "fechacab": "25/11/2025",
   "serie": "COT",
+  "numero": "GE09361",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "316",
+  "tipc": "3.7",
+  "hora": "10:49 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "25/11/2025",
+  "serie": "COT",
   "numero": "G/014958",
   "nombre": "IMPORT NAYRA 3",
   "moneda": "PEN",
