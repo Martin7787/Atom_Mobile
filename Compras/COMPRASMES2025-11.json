@@ -2,6 +2,17 @@
 {
   "fechacab": "25/11/2025",
   "serie": "COT",
+  "numero": "YCHI251105384",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "924.21",
+  "tipc": "3.4",
+  "hora": "10:42 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "25/11/2025",
+  "serie": "COT",
   "numero": "G/014958",
   "nombre": "IMPORT NAYRA 3",
   "moneda": "PEN",
