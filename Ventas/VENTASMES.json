@@ -10144,9 +10144,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "12:35 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "24/11/2025",
@@ -10246,9 +10246,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "07:53 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "25/11/2025",
@@ -10467,9 +10467,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "04:34 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "25/11/2025",
@@ -10928,6 +10928,6 @@
   "hora": "10:29 a. m.",
   "docu": "EDTH-@06O21IE",
   "bloquear": "@06O21IE",
-  "user": ""
+  "user": "EDITH"
 },
 ]
