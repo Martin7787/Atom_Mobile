@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "25/11/2025",
+  "serie": "COT",
+  "numero": "G/014958",
+  "nombre": "IMPORT NAYRA 3",
+  "moneda": "PEN",
+  "totguia": "2720",
+  "tipc": "3.4",
+  "hora": "08:50 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "24/11/2025",
   "serie": "COT",
   "numero": "RJ04601",
