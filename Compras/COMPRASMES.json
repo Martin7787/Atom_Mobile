@@ -46,6 +46,17 @@
 {
   "fechacab": "22/11/2025",
   "serie": "COT",
+  "numero": "YCHI251104666",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "1269.59",
+  "tipc": "3.4",
+  "hora": "10:35 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "22/11/2025",
+  "serie": "COT",
   "numero": "RJ04585",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
