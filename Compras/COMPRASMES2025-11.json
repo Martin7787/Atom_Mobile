@@ -24,6 +24,17 @@
 {
   "fechacab": "25/11/2025",
   "serie": "COT",
+  "numero": "RJ04615",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.7",
+  "hora": "10:48 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "25/11/2025",
+  "serie": "COT",
   "numero": "MOQ00406",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
@@ -52,6 +63,17 @@
   "totguia": "308",
   "tipc": "3.7",
   "hora": "10:47 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "25/11/2025",
+  "serie": "COT",
+  "numero": "MOQ00403",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "10:48 a. m.",
   "docu": ""
 },
 {
