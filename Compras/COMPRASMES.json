@@ -46,6 +46,17 @@
 {
   "fechacab": "25/11/2025",
   "serie": "COT",
+  "numero": "MOQ00404",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "308",
+  "tipc": "3.7",
+  "hora": "10:47 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "25/11/2025",
+  "serie": "COT",
   "numero": "GE09361",
   "nombre": "GOLDEN ELECTRONIC S.A.C.",
   "moneda": "USD",
