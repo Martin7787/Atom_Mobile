@@ -1770,37 +1770,4 @@
   "hora": "03:15 p. m.",
   "docu": "USER: MARTIN"
 },
-{
-  "fechacab": "27/10/2025",
-  "serie": "COT",
-  "numero": "TQ000842",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "90",
-  "tipc": "3.7",
-  "hora": "10:37 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/10/2025",
-  "serie": "FAC",
-  "numero": "F032-00056175",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "6265",
-  "tipc": "3.382",
-  "hora": "06:40 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "27/10/2025",
-  "serie": "COT",
-  "numero": "306374",
-  "nombre": "NADIA PARIONA",
-  "moneda": "PEN",
-  "totguia": "3024",
-  "tipc": "3.4",
-  "hora": "03:46 p. m.",
-  "docu": "USER: DANTE"
-},
 ]
