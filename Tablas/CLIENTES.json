@@ -6253,6 +6253,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "CARLOS AUGUSTO",
+  "ruc": "08788850",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "28/11/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "LOURDES ACOSTA ARROYO",
   "ruc": "08856783",
   "direccion": "SURCO",
