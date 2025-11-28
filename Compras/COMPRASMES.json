@@ -760,6 +760,17 @@
 },
 {
   "fechacab": "14/11/2025",
+  "serie": "FAC",
+  "numero": "F001-0024355",
+  "nombre": "CONTINENTAL NNATIONALIZER SAC",
+  "moneda": "USD",
+  "totguia": "72",
+  "tipc": "3.4",
+  "hora": "07:35 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "14/11/2025",
   "serie": "COT",
   "numero": "000460",
   "nombre": "GLORIA PALOMINO",
@@ -1768,116 +1779,6 @@
   "totguia": "126",
   "tipc": "3.7",
   "hora": "02:33 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "28/10/2025",
-  "serie": "COT",
-  "numero": "RT005606",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "552",
-  "tipc": "3.7",
-  "hora": "11:02 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "28/10/2025",
-  "serie": "COT",
-  "numero": "RT005602",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "480",
-  "tipc": "3.7",
-  "hora": "11:24 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "28/10/2025",
-  "serie": "COT",
-  "numero": "RT005599",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "304",
-  "tipc": "3.7",
-  "hora": "11:02 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "28/10/2025",
-  "serie": "COT",
-  "numero": "RJ04311",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "70",
-  "tipc": "3.7",
-  "hora": "11:25 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "28/10/2025",
-  "serie": "COT",
-  "numero": "RJ04307",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "11:26 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "28/10/2025",
-  "serie": "COT",
-  "numero": "NS002-0001611",
-  "nombre": "DISTRIBUIDORA MORELLA",
-  "moneda": "USD",
-  "totguia": "726",
-  "tipc": "3.7",
-  "hora": "06:03 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "28/10/2025",
-  "serie": "COT",
-  "numero": "MOQ00666",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "410",
-  "tipc": "3.7",
-  "hora": "11:01 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "28/10/2025",
-  "serie": "FAC",
-  "numero": "F003-00147601",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "194.39",
-  "tipc": "3.385",
-  "hora": "01:39 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "28/10/2025",
-  "serie": "COT",
-  "numero": "C053350",
-  "nombre": "CREACIONES BETHEL S.A.C.",
-  "moneda": "PEN",
-  "totguia": "480",
-  "tipc": "3.7",
-  "hora": "11:04 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "28/10/2025",
-  "serie": "COT",
-  "numero": "08973",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "340",
-  "tipc": "3.7",
-  "hora": "03:15 p. m.",
   "docu": "USER: MARTIN"
 },
 ]
