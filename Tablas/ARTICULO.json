@@ -21604,6 +21604,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "DJ18-COLOR",
+  "descripcion": "JARRO 18 OZ COLORES GALLERY (CAJA X  48 UND)",
+  "fecha": "29/11/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "110",
+  "precio": "29.73",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "48",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "JARRO",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "DJ18-DORADO",
   "descripcion": "JARRO 18 OZ DISEÑO DORADO (CAJA X  3 DOC)",
   "fecha": "17/02/2022",
