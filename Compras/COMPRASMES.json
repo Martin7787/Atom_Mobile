@@ -11,6 +11,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "28/11/2025",
+  "serie": "FAC",
+  "numero": "F002-0019634",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "86",
+  "tipc": "3.7",
+  "hora": "12:24 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "25/11/2025",
   "serie": "COT",
   "numero": "YCHI251105384",
@@ -1768,39 +1779,6 @@
   "totguia": "130",
   "tipc": "3.7",
   "hora": "11:05 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/10/2025",
-  "serie": "COT",
-  "numero": "TQ000537",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "180",
-  "tipc": "3.7",
-  "hora": "11:03 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/10/2025",
-  "serie": "COT",
-  "numero": "MOQ00667",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "1550",
-  "tipc": "3.7",
-  "hora": "05:52 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/10/2025",
-  "serie": "FAC",
-  "numero": "F002-0019449",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "126",
-  "tipc": "3.7",
-  "hora": "02:33 p. m.",
   "docu": "USER: MARTIN"
 },
 ]
