@@ -2,6 +2,17 @@
 {
   "fechacab": "29/11/2025",
   "serie": "COT",
+  "numero": "G/2030",
+  "nombre": "CASA RAM SOCIEDAD ANONIMA CERRADA - CASA",
+  "moneda": "PEN",
+  "totguia": "2050",
+  "tipc": "3.4",
+  "hora": "05:08 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "29/11/2025",
+  "serie": "COT",
   "numero": "DIA25004881",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
@@ -42,6 +53,17 @@
   "tipc": "3.394",
   "hora": "03:09 p. m.",
   "docu": "USER: DANTE"
+},
+{
+  "fechacab": "29/11/2025",
+  "serie": "COT",
+  "numero": "2030",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "04:33 p. m.",
+  "docu": "USER: "
 },
 {
   "fechacab": "28/11/2025",
