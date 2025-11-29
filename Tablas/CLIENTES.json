@@ -55679,6 +55679,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "CORPORACION A & V SERVICIOS INTEGRALES S.A.C.",
+  "ruc": "20606697938",
+  "direccion": "AV. PASEO DE LA REPUBLICA URB. MIRAFLORES N° 5781 INT. E LT. DP. MZ. KM. LIMA LIMA MIRAFLORES",
+  "tipo": "0",
+  "fecha": "29/11/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "INVERSIONES BARREROS  EIRL",
   "ruc": "20606750502",
   "direccion": "MZ S10 LT 1 - SJLURIGANCHO",
