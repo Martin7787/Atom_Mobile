@@ -24,6 +24,17 @@
 {
   "fechacab": "29/11/2025",
   "serie": "COT",
+  "numero": "DIA25004841",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1902",
+  "tipc": "3.385",
+  "hora": "03:29 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "29/11/2025",
+  "serie": "COT",
   "numero": "DIA25004726",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
