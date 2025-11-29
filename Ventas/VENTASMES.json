@@ -11287,4 +11287,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "29/11/2025",
+  "fecha": "Nov. 29",
+  "serie": "T001",
+  "numero": "00018466",
+  "nombre": "VICTOR MANUEL",
+  "moneda": "PEN",
+  "totguia": "550",
+  "acuenta": "550",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:44 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
