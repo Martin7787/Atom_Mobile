@@ -12,7 +12,7 @@
   "obs": "",
   "tipo": "NAC",
   "factura": "",
-  "user": "MARTIN",
+  "user": "DANTE",
   "codart": "7928",
   "descripcion": "COPA WNDSOR COCKTAIL 335ML PERA NADIR (CAJA X  6 UND)",
   "cajas": "20",
@@ -30,7 +30,7 @@
   "locked": "No"
 },
 {
-  "codart": "DW00001",
+  "codart": "DW00001-66",
   "descripcion": "BOWL ROSADO 14X7 CM (CAJA X  24 UND)",
   "cajas": "3",
   "doce": "0",
@@ -115,14 +115,14 @@
   "locked": "No"
 },
 {
-  "codart": "HB002",
+  "codart": "HB002-93",
   "descripcion": "BOWL 8\" CREMA (CAJA X  36 UND)",
-  "cajas": "5",
+  "cajas": "15",
   "doce": "0",
   "unidad": "0",
   "vunit": "25.92",
-  "total": "129.6",
-  "cant": "180",
+  "total": "388.8",
+  "cant": "540",
   "undmy": "36",
   "undmn": "1",
   "leymy": "UND",
@@ -132,7 +132,7 @@
   "locked": "No"
 },
 {
-  "codart": "DW00001W",
+  "codart": "DW00001-68",
   "descripcion": "BOWL BLANCO 14X7 CM (CAJA X  24 UND)",
   "cajas": "3",
   "doce": "0",
@@ -166,7 +166,7 @@
   "locked": "No"
 },
 {
-  "codart": "X00061-45",
+  "codart": "X00061-50",
   "descripcion": "BOWL OCRE 4\" (CAJA X  72 UND)",
   "cajas": "1",
   "doce": "0",
@@ -213,40 +213,6 @@
   "leymy": "UND",
   "leymn": "UND",
   "lote": "DW00001-45",
-  "grat": "1",
-  "locked": "No"
-},
-{
-  "codart": "HB002-45",
-  "descripcion": "BOWL MARRON 8\" (CAJA X  36 UND)",
-  "cajas": "5",
-  "doce": "0",
-  "unidad": "0",
-  "vunit": "25.92",
-  "total": "129.6",
-  "cant": "180",
-  "undmy": "36",
-  "undmn": "1",
-  "leymy": "UND",
-  "leymn": "UND",
-  "lote": "HB002-45",
-  "grat": "1",
-  "locked": "No"
-},
-{
-  "codart": "HB002-91",
-  "descripcion": "BOWL GRIS CLARO 8\" (CAJA X  36 UND)",
-  "cajas": "5",
-  "doce": "0",
-  "unidad": "0",
-  "vunit": "25.92",
-  "total": "129.6",
-  "cant": "180",
-  "undmy": "36",
-  "undmn": "1",
-  "leymy": "UND",
-  "leymn": "UND",
-  "lote": "HB002-91",
   "grat": "1",
   "locked": "No"
 },
