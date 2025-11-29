@@ -5412,6 +5412,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "3059",
+  "descripcion": "COPA DE VINO 355ML SETX6 (CAJA X  8 SET)",
+  "fecha": "29/11/2025",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "120",
+  "precio": "32.43",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "8",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "VIDRIO",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "308",
   "descripcion": "JARRA C/VASOS + AZUCARERO (CAJA X  6 SET)",
   "fecha": "28/04/2023",
