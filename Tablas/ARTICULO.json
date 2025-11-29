@@ -26774,28 +26774,6 @@
   "bloquear": "false"
 },
 {
-  "codart": "HB002-91",
-  "descripcion": "BOWL GRIS CLARO 8\" (CAJA X  36 UND)",
-  "fecha": "26/11/2025",
-  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
-  "cant": "0",
-  "preciosol": "111",
-  "precio": "30",
-  "preciount": "0.0000",
-  "costosol": "88.13",
-  "costodol": "25.92",
-  "undmy": "36",
-  "undmn": "1",
-  "leymy": "UND",
-  "leymn": "UND",
-  "linea": "YCHI",
-  "cdesc": "0",
-  "pdesc": "0",
-  "vneg": "False",
-  "via": "",
-  "bloquear": "false"
-},
-{
   "codart": "HB003",
   "descripcion": "AJICERO 4\" COLORES  (CAJA X  120 UND)",
   "fecha": "23/09/2025",
