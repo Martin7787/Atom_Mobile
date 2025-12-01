@@ -156,6 +156,17 @@
 {
   "fechacab": "27/11/2025",
   "serie": "COT",
+  "numero": "C053749",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "USD",
+  "totguia": "230",
+  "tipc": "3.7",
+  "hora": "11:51 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "27/11/2025",
+  "serie": "COT",
   "numero": "451920",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
