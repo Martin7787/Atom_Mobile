@@ -2,9 +2,9 @@
 {
   "numero": "T001-00018520",
   "fecha": "01/12/2025",
-  "ruc": "20614573024",
-  "nombre": "HONGYE BELLAVISTA S.A.C.",
-  "direccion": "AV. LIMA N° 836 INT. LT. DP. MZ. KM. SAN MARTÍN BELLAVISTA BELLAVISTA",
+  "ruc": "20614549522",
+  "nombre": "HONG FA PUCALLPA S.A.C.",
+  "direccion": "CAR. FEDERICO BASADRE N° INT. LT. DP. MZ. KM. 4800 UCAYALI CORONEL PORTILLO YARINACOCHA",
   "moneda": "0",
   "totguia": "2809.5",
   "acuenta": "2809.5",
@@ -250,7 +250,7 @@
   "cantimp": "5 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "60",
   "punidad": "0.0000"
 },
