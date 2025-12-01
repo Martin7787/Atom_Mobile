@@ -68,6 +68,17 @@
 {
   "fechacab": "28/11/2025",
   "serie": "COT",
+  "numero": "RT005963",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "11:49 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "28/11/2025",
+  "serie": "COT",
   "numero": "RJ04682",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
