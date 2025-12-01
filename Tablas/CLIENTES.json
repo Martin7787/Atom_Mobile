@@ -2821,6 +2821,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "JUAN CARLOS PEÑA GARCIA",
+  "ruc": "06010565",
+  "direccion": "LA MOLINA",
+  "tipo": "0",
+  "fecha": "01/12/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "ANA MARIA BERMUDEZ CELIS",
   "ruc": "06031653",
   "direccion": "LIMA",
