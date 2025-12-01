@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000227",
+  "nombre": "KLISMAN NUÑEZ",
+  "moneda": "PEN",
+  "totguia": "145",
+  "tipc": "3.7",
+  "fecha": "01/12/2025",
+  "hora": "12:19 p. m.",
+  "docu": "T001-00018504",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000226",
   "nombre": "RESTAURANTE PERU MANKA E.I.R.L.",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "11:48 a. m.",
   "docu": "T001-00015414",
   "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000197",
-  "nombre": "INVERSIONES MARIELLA S.A.C",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.7",
-  "fecha": "07/07/2025",
-  "hora": "02:51 p. m.",
-  "docu": "T001-00015907",
-  "via": "USER: LIZETH",
   "bloquear": ""
 },
 ]
