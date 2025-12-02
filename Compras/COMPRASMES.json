@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "01/12/2025",
+  "serie": "COT",
+  "numero": "GE09440",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "146",
+  "tipc": "3.7",
+  "hora": "09:54 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "29/11/2025",
   "serie": "COT",
   "numero": "G/2030",
