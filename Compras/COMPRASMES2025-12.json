@@ -24,6 +24,17 @@
 {
   "fechacab": "02/12/2025",
   "serie": "COT",
+  "numero": "RT000008",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "480",
+  "tipc": "3.7",
+  "hora": "10:50 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "02/12/2025",
+  "serie": "COT",
   "numero": "GP000582",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
