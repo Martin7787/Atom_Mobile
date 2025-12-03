@@ -12732,4 +12732,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "03/12/2025",
+  "fecha": "Dic. 3",
+  "serie": "T001",
+  "numero": "00018590",
+  "nombre": "DINAH MILAGROS COLETTI DAVILA",
+  "moneda": "PEN",
+  "totguia": "216",
+  "acuenta": "216",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:05 a. m.",
+  "docu": "USER: SOFI",
+  "bloquear": "",
+  "user": "SOFI"
+},
 ]
