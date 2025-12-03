@@ -81861,6 +81861,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MARIA GOMEZ",
+  "ruc": "44514265",
+  "direccion": "ANCASH",
+  "tipo": "0",
+  "fecha": "03/12/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "ROSA PFUÑO CHALLCO",
   "ruc": "44515801",
   "direccion": "SAN JUAN DE LURIGANCHO",
