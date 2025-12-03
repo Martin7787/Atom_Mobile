@@ -56849,6 +56849,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "CORPORACION PREVENSIG S.A.C.",
+  "ruc": "20608542966",
+  "direccion": "CAL. LEONARDO EULER URB. SAN BORJA SUR N° 276 INT. LT. DP. MZ. KM. LIMA LIMA SAN BORJA",
+  "tipo": "0",
+  "fecha": "03/12/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "S.G.GARDELY",
   "ruc": "20608548280",
   "direccion": "SANCHEZ CARRION 130 - JAEN",
