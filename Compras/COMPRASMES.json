@@ -2,6 +2,17 @@
 {
   "fechacab": "03/12/2025",
   "serie": "COT",
+  "numero": "TQ000227",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "252",
+  "tipc": "3.7",
+  "hora": "11:37 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "03/12/2025",
+  "serie": "COT",
   "numero": "NVLU-0001043",
   "nombre": "FINEZZA DAZA COMPANY S.A.C.",
   "moneda": "USD",
