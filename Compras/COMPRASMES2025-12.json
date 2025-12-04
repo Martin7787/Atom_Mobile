@@ -13,6 +13,17 @@
 {
   "fechacab": "03/12/2025",
   "serie": "COT",
+  "numero": "2025-001157",
+  "nombre": "ESTABLECIMIENTOS INCA S.AC",
+  "moneda": "USD",
+  "totguia": "1176.46",
+  "tipc": "3.38",
+  "hora": "08:14 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "03/12/2025",
+  "serie": "COT",
   "numero": "03122025",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
