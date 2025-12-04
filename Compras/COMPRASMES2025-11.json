@@ -452,6 +452,17 @@
 },
 {
   "fechacab": "22/11/2025",
+  "serie": "FAC",
+  "numero": "F063-00068438",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "0.0000",
+  "tipc": "3.7",
+  "hora": "07:40 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "22/11/2025",
   "serie": "COT",
   "numero": "20251121-137",
   "nombre": "RONGQUIAN",
