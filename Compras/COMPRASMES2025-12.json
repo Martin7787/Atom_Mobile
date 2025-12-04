@@ -35,6 +35,17 @@
 {
   "fechacab": "03/12/2025",
   "serie": "COT",
+  "numero": "RJ04795",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.7",
+  "hora": "11:39 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "03/12/2025",
+  "serie": "COT",
   "numero": "NVLU-0001043",
   "nombre": "FINEZZA DAZA COMPANY S.A.C.",
   "moneda": "USD",
