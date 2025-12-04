@@ -12,7 +12,7 @@
   "tipc": "3.7",
   "estado": "0",
   "traslado": "0.0000",
-  "obs": "xc008...verde",
+  "obs": "",
   "codart": "0022AL",
   "descripcion": "VASO AV. LISO LEX.WHISKY CRISTAR (CAJA X  4 DOC)",
   "cajas": "1",
@@ -233,8 +233,8 @@
   "punidad": "0.0000"
 },
 {
-  "codart": "XC008",
-  "descripcion": "PLATO 10\" TENDIDO COLOR GLASEADO (CAJA X  18 UND)",
+  "codart": "XC011",
+  "descripcion": "PLATO 10.5\" TENDIDO TURQUEZA (CAJA X  18 UND)",
   "cajas": "1",
   "doce": "0",
   "unidad": "0",
@@ -250,7 +250,7 @@
   "cantimp": "1 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "-",
+  "auto": "SOFI",
   "preal": "72",
   "punidad": "0.0000"
 },
