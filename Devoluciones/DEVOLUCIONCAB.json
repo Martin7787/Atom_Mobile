@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000228",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "95",
+  "tipc": "3.7",
+  "fecha": "03/12/2025",
+  "hora": "07:55 p. m.",
+  "docu": "T001-00018638",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000227",
   "nombre": "KLISMAN NUÑEZ",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "14/07/2025",
   "hora": "03:30 p. m.",
   "docu": "T001-00016036",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000198",
-  "nombre": "PECHO REYNA RUFINA SATURNINA",
-  "moneda": "PEN",
-  "totguia": "264",
-  "tipc": "3.7",
-  "fecha": "08/07/2025",
-  "hora": "11:48 a. m.",
-  "docu": "T001-00015414",
   "via": "USER: SOFI",
   "bloquear": ""
 },
