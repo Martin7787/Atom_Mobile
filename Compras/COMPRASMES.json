@@ -2,6 +2,17 @@
 {
   "fechacab": "03/12/2025",
   "serie": "COT",
+  "numero": "NVLU-0001043",
+  "nombre": "FINEZZA DAZA COMPANY S.A.C.",
+  "moneda": "USD",
+  "totguia": "465",
+  "tipc": "3.38",
+  "hora": "08:41 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "03/12/2025",
+  "serie": "COT",
   "numero": "2025-001157",
   "nombre": "ESTABLECIMIENTOS INCA S.AC",
   "moneda": "USD",
