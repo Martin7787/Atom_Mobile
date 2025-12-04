@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "04/12/2025",
+  "serie": "COT",
+  "numero": "0018943",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "210",
+  "tipc": "3.7",
+  "hora": "11:40 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "03/12/2025",
   "serie": "COT",
   "numero": "TQ000227",
