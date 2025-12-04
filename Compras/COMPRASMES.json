@@ -79,6 +79,17 @@
 {
   "fechacab": "02/12/2025",
   "serie": "COT",
+  "numero": "MOQ00417",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "460",
+  "tipc": "3.7",
+  "hora": "11:36 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "02/12/2025",
+  "serie": "COT",
   "numero": "GP000582",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
@@ -1922,39 +1933,6 @@
   "totguia": "96",
   "tipc": "3.7",
   "hora": "12:57 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "03/11/2025",
-  "serie": "COT",
-  "numero": "SD03112025",
-  "nombre": "SUNDA IMPERIO DISTRIBUCIONES",
-  "moneda": "PEN",
-  "totguia": "1521.2",
-  "tipc": "3.7",
-  "hora": "04:36 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "03/11/2025",
-  "serie": "COT",
-  "numero": "RJ04335",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "95",
-  "tipc": "3.7",
-  "hora": "11:13 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "03/11/2025",
-  "serie": "COT",
-  "numero": "MOQ00670",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "615",
-  "tipc": "3.7",
-  "hora": "11:13 a. m.",
   "docu": "USER: MARTIN"
 },
 ]
