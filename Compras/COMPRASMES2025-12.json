@@ -24,6 +24,17 @@
 {
   "fechacab": "03/12/2025",
   "serie": "COT",
+  "numero": "RT000027",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "684",
+  "tipc": "3.7",
+  "hora": "11:38 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "03/12/2025",
+  "serie": "COT",
   "numero": "NVLU-0001043",
   "nombre": "FINEZZA DAZA COMPANY S.A.C.",
   "moneda": "USD",
