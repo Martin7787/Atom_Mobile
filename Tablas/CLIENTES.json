@@ -1,5 +1,18 @@
 [
 {
+  "nombre": "0",
+  "ruc": "0",
+  "direccion": "0.00",
+  "tipo": "0",
+  "fecha": "04/12/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "CLIENTES VARIOS",
   "ruc": "00000000",
   "direccion": "LIMA",
