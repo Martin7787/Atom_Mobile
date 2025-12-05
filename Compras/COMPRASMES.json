@@ -90,6 +90,17 @@
 {
   "fechacab": "04/12/2025",
   "serie": "COT",
+  "numero": "G/2100",
+  "nombre": "CASA RAM SOCIEDAD ANONIMA CERRADA - CASA",
+  "moneda": "PEN",
+  "totguia": "2050",
+  "tipc": "3.4",
+  "hora": "02:23 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "04/12/2025",
+  "serie": "COT",
   "numero": "CX001904",
   "nombre": "CORPORACION GCC S.A.C",
   "moneda": "PEN",
