@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000229",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "200",
+  "tipc": "3.7",
+  "fecha": "05/12/2025",
+  "hora": "01:55 p. m.",
+  "docu": "T001-00018623",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000228",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "04:05 p. m.",
   "docu": "T001-00016091",
   "via": "USER: EDITH",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000199",
-  "nombre": "PONCE CRISTOBAL VICTOR ANDRES",
-  "moneda": "PEN",
-  "totguia": "50",
-  "tipc": "3.7",
-  "fecha": "14/07/2025",
-  "hora": "03:30 p. m.",
-  "docu": "T001-00016036",
-  "via": "USER: SOFI",
   "bloquear": ""
 },
 ]
