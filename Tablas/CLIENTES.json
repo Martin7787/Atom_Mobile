@@ -95082,6 +95082,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "ALEXIS",
+  "ruc": "71865864",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "05/12/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "FLOR",
   "ruc": "71865865",
   "direccion": "LIMA",
