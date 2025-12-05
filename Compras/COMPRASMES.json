@@ -2,6 +2,17 @@
 {
   "fechacab": "04/12/2025",
   "serie": "COT",
+  "numero": "MOQ00422",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "240",
+  "tipc": "3.7",
+  "hora": "10:50 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "04/12/2025",
+  "serie": "COT",
   "numero": "CX001904",
   "nombre": "CORPORACION GCC S.A.C",
   "moneda": "PEN",
