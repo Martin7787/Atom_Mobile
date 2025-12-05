@@ -57,6 +57,17 @@
 {
   "fechacab": "03/12/2025",
   "serie": "COT",
+  "numero": "YH0002392",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "90",
+  "tipc": "3.7",
+  "hora": "10:54 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "03/12/2025",
+  "serie": "COT",
   "numero": "TQ000227",
   "nombre": "TAQUIMA",
   "moneda": "PEN",
