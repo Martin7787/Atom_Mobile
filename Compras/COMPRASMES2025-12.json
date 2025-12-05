@@ -23,6 +23,17 @@
 },
 {
   "fechacab": "05/12/2025",
+  "serie": "FAC",
+  "numero": "F063-00069238",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "1195.8",
+  "tipc": "3.4",
+  "hora": "06:49 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "05/12/2025",
   "serie": "COT",
   "numero": "D25050003119",
   "nombre": "DOU DOU",
