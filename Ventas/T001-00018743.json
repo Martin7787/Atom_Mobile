@@ -2,9 +2,9 @@
 {
   "numero": "T001-00018743",
   "fecha": "06/12/2025",
-  "ruc": "00000000",
-  "nombre": "CLIENTES VARIOS",
-  "direccion": "LIMA",
+  "ruc": "10048269457",
+  "nombre": "ESPIRILLA APAZA CASIANA",
+  "direccion": "AV. BOLIVIA S/N IÑAPARI TAHUAMANU - MADRE DE DIOS",
   "moneda": "0",
   "totguia": "547",
   "acuenta": "547",
@@ -74,7 +74,7 @@
   "cantimp": "1 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "300",
   "punidad": "0.0000"
 },
