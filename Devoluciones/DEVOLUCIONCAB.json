@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000230",
+  "nombre": "KLISMAN NUÑEZ",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.7",
+  "fecha": "06/12/2025",
+  "hora": "12:16 p. m.",
+  "docu": "T001-00018727",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000229",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "04:55 p. m.",
   "docu": "T001-00016092",
   "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000200",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "fecha": "17/07/2025",
-  "hora": "04:05 p. m.",
-  "docu": "T001-00016091",
-  "via": "USER: EDITH",
   "bloquear": ""
 },
 ]
