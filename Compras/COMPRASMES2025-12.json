@@ -453,6 +453,17 @@
 {
   "fechacab": "02/12/2025",
   "serie": "COT",
+  "numero": "NP309314",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "100",
+  "tipc": "3.7",
+  "hora": "10:51 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "02/12/2025",
+  "serie": "COT",
   "numero": "MOQ00418",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
