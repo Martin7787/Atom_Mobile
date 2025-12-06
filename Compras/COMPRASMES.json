@@ -2,6 +2,17 @@
 {
   "fechacab": "06/12/2025",
   "serie": "COT",
+  "numero": "2525-001309",
+  "nombre": "ESTABLECIMIENTOS INCA S.AC",
+  "moneda": "USD",
+  "totguia": "1176.46",
+  "tipc": "3.4",
+  "hora": "05:04 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "06/12/2025",
+  "serie": "COT",
   "numero": "0426/27/28",
   "nombre": "LA TAZITA IMPORT S.A.C.",
   "moneda": "PEN",
