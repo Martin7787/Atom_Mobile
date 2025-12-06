@@ -24,6 +24,17 @@
 {
   "fechacab": "05/12/2025",
   "serie": "COT",
+  "numero": "MOQ00424",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "320",
+  "tipc": "3.7",
+  "hora": "10:46 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/12/2025",
+  "serie": "COT",
   "numero": "GUIA25004756",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
@@ -2154,159 +2165,5 @@
   "tipc": "3.38",
   "hora": "04:45 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "YH0002290",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "270",
-  "tipc": "3.7",
-  "hora": "12:33 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "YH0002278",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "90",
-  "tipc": "3.7",
-  "hora": "12:34 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "YH0002276",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "270",
-  "tipc": "3.7",
-  "hora": "12:35 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "TQ000889",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "90",
-  "tipc": "3.7",
-  "hora": "11:09 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "TQ000585",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "260",
-  "tipc": "3.7",
-  "hora": "11:08 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "RT005658",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "1100",
-  "tipc": "3.7",
-  "hora": "11:00 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "RJ04345",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "90",
-  "tipc": "3.7",
-  "hora": "11:12 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "RJ04344",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "95",
-  "tipc": "3.7",
-  "hora": "11:13 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "RJ04343",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "95",
-  "tipc": "3.7",
-  "hora": "11:11 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "MOQ00675",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "380",
-  "tipc": "3.7",
-  "hora": "10:58 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "MOQ00620",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "540",
-  "tipc": "3.7",
-  "hora": "11:28 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "CX001391",
-  "nombre": "CORPORACION GCC S.A.C",
-  "moneda": "PEN",
-  "totguia": "360",
-  "tipc": "3.7",
-  "hora": "11:09 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "CG003761",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "67",
-  "tipc": "3.7",
-  "hora": "11:16 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/11/2025",
-  "serie": "COT",
-  "numero": "AGC001-046707",
-  "nombre": "AGC",
-  "moneda": "PEN",
-  "totguia": "558",
-  "tipc": "3.7",
-  "hora": "11:10 a. m.",
-  "docu": "USER: MARTIN"
 },
 ]
