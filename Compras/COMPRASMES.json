@@ -13,6 +13,17 @@
 {
   "fechacab": "05/12/2025",
   "serie": "COT",
+  "numero": "NS002-0001947",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "960",
+  "tipc": "3.4",
+  "hora": "07:01 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/12/2025",
+  "serie": "COT",
   "numero": "GUIA25004756",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
