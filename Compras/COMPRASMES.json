@@ -23,6 +23,17 @@
 },
 {
   "fechacab": "06/12/2025",
+  "serie": "FAC",
+  "numero": "F063-00069098",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "1156.07",
+  "tipc": "3.358",
+  "hora": "05:23 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "06/12/2025",
   "serie": "COT",
   "numero": "2525-001309",
   "nombre": "ESTABLECIMIENTOS INCA S.AC",
