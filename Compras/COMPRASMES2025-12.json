@@ -112,6 +112,17 @@
 {
   "fechacab": "04/12/2025",
   "serie": "COT",
+  "numero": "RT000047",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "100",
+  "tipc": "3.7",
+  "hora": "10:49 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "04/12/2025",
+  "serie": "COT",
   "numero": "RJ04827",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
