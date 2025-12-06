@@ -12,6 +12,17 @@
 },
 {
   "fechacab": "06/12/2025",
+  "serie": "FAC",
+  "numero": "F063-00069141",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "502.22",
+  "tipc": "3",
+  "hora": "05:12 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "06/12/2025",
   "serie": "COT",
   "numero": "2525-001309",
   "nombre": "ESTABLECIMIENTOS INCA S.AC",
