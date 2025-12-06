@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "06/12/2025",
+  "serie": "COT",
+  "numero": "0426/27/28",
+  "nombre": "LA TAZITA IMPORT S.A.C.",
+  "moneda": "PEN",
+  "totguia": "2560",
+  "tipc": "3.4",
+  "hora": "04:26 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "05/12/2025",
   "serie": "COT",
   "numero": "YH0002400",
