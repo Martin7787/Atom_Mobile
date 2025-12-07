@@ -57,6 +57,17 @@
 {
   "fechacab": "06/12/2025",
   "serie": "COT",
+  "numero": "1770580",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "17705.8",
+  "tipc": "3.38",
+  "hora": "08:22 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "06/12/2025",
+  "serie": "COT",
   "numero": "0426/27/28",
   "nombre": "LA TAZITA IMPORT S.A.C.",
   "moneda": "PEN",
