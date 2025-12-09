@@ -134,6 +134,17 @@
 {
   "fechacab": "05/12/2025",
   "serie": "COT",
+  "numero": "RJ04843",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "165",
+  "tipc": "3.7",
+  "hora": "11:25 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "05/12/2025",
+  "serie": "COT",
   "numero": "NS002-0001983",
   "nombre": "DISTRIBUIDORA MORELLA",
   "moneda": "USD",
