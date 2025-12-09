@@ -57538,6 +57538,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MTA AGENCIA MARITIMA PERU S.A.C.",
+  "ruc": "20609346401",
+  "direccion": "CAL. LAS BEGONIAS N° 441 INT. P9 LT. DP. MZ. KM. LIMA LIMA SAN ISIDRO",
+  "tipo": "0",
+  "fecha": "09/12/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MIL SONRISAS EIRL",
   "ruc": "20609370549",
   "direccion": "JR ELIAS AGUIRRE 481 - CHIMBOTE",
