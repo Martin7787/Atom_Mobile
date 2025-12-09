@@ -57,6 +57,17 @@
 {
   "fechacab": "06/12/2025",
   "serie": "COT",
+  "numero": "CX001932",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "465",
+  "tipc": "3.7",
+  "hora": "11:22 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "06/12/2025",
+  "serie": "COT",
   "numero": "2525-001309",
   "nombre": "ESTABLECIMIENTOS INCA S.AC",
   "moneda": "USD",
