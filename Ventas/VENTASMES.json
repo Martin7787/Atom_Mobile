@@ -13514,4 +13514,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "09/12/2025",
+  "fecha": "Dic. 9",
+  "serie": "T001",
+  "numero": "00018768",
+  "nombre": "EDWAR CCAYHUARI CHIPA",
+  "moneda": "PEN",
+  "totguia": "96",
+  "acuenta": "96",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:14 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
