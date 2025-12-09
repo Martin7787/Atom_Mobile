@@ -134,6 +134,17 @@
 {
   "fechacab": "05/12/2025",
   "serie": "COT",
+  "numero": "RJ04841",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "165",
+  "tipc": "3.7",
+  "hora": "11:26 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/12/2025",
+  "serie": "COT",
   "numero": "RJ04836",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
@@ -261,6 +272,17 @@
   "totguia": "100",
   "tipc": "3.7",
   "hora": "10:49 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "04/12/2025",
+  "serie": "COT",
+  "numero": "RJ04830",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "60",
+  "tipc": "3.7",
+  "hora": "11:27 a. m.",
   "docu": "USER: MARTIN"
 },
 {
