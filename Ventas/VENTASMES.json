@@ -6362,17 +6362,17 @@
   "fecha": "Nov. 25",
   "serie": "T001",
   "numero": "00018385",
-  "nombre": "TINOCO TRUJILLO FRANK EDWARD",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "1612",
-  "acuenta": "1612",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "07:53 p. m.",
-  "docu": "USER: EDITH",
+  "docu": "USER: MARTIN",
   "bloquear": "",
-  "user": "EDITH"
+  "user": "MARTIN"
 },
 {
   "fechacab": "25/11/2025",
