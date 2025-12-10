@@ -35,6 +35,28 @@
   "punidad": "0.0000"
 },
 {
+  "codart": "PT8C-AB-NAV",
+  "descripcion": "PLATO 8\" CUADRADO NAVIDEÑO (CAJA X  6 DOC)",
+  "cajas": "1",
+  "doce": "0",
+  "unidad": "0",
+  "vunit": "210.00",
+  "total": "210.00",
+  "cant": "72",
+  "undmy": "6",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "aux": "0",
+  "cunit": "2.91666666666667",
+  "cantimp": "1 CAJ",
+  "vacio1": "",
+  "vacio2": "",
+  "auto": "CHARITO",
+  "preal": "210",
+  "punidad": "0.0000"
+},
+{
   "codart": "PT8R-AB-NAV",
   "descripcion": "PLATO 8\" REDONDO NAVIDEÑO (CAJA X  6 DOC)",
   "cajas": "2",
