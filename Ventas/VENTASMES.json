@@ -14092,4 +14092,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "10/12/2025",
+  "fecha": "Dic. 10",
+  "serie": "T001",
+  "numero": "00018802",
+  "nombre": "FELICIA CHAVEZ OSORIO",
+  "moneda": "PEN",
+  "totguia": "140",
+  "acuenta": "140",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:03 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
