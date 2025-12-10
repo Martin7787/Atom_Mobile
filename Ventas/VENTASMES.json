@@ -9116,17 +9116,17 @@
   "fecha": "Dic. 1",
   "serie": "T001",
   "numero": "00018536",
-  "nombre": "PAOLA INES QUIÑONES HUAMAN ",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "666",
-  "acuenta": "666",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "05:30 p. m.",
-  "docu": "USER: EDITH",
+  "docu": "USER: MARTIN",
   "bloquear": "",
-  "user": "EDITH"
+  "user": "MARTIN"
 },
 {
   "fechacab": "01/12/2025",
