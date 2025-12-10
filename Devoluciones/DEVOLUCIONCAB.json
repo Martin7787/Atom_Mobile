@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000231",
+  "nombre": "JORGE LUIS ATOCCSA CHOMBO",
+  "moneda": "PEN",
+  "totguia": "96",
+  "tipc": "3.7",
+  "fecha": "10/12/2025",
+  "hora": "06:10 p. m.",
+  "docu": "T001-00018830",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000230",
   "nombre": "KLISMAN NUÑEZ",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "23/07/2025",
   "hora": "01:04 p. m.",
   "docu": "",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000201",
-  "nombre": "GRUPO GER MELCHOR S.A.C.",
-  "moneda": "PEN",
-  "totguia": "75",
-  "tipc": "3.7",
-  "fecha": "17/07/2025",
-  "hora": "04:55 p. m.",
-  "docu": "T001-00016092",
   "via": "USER: SOFI",
   "bloquear": ""
 },
