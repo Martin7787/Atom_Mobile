@@ -2,6 +2,17 @@
 {
   "fechacab": "10/12/2025",
   "serie": "COT",
+  "numero": "GP000630",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "110",
+  "tipc": "3.7",
+  "hora": "10:55 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/12/2025",
+  "serie": "COT",
   "numero": "FT002769",
   "nombre": "FORTUNATO MALLQUI NIETO",
   "moneda": "PEN",
@@ -2110,71 +2121,5 @@
   "tipc": "3.7",
   "hora": "11:02 a. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/11/2025",
-  "serie": "COT",
-  "numero": "YH0002302",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "450",
-  "tipc": "3.7",
-  "hora": "11:17 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/11/2025",
-  "serie": "COT",
-  "numero": "RJ04372",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "125",
-  "tipc": "3.7",
-  "hora": "11:27 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/11/2025",
-  "serie": "COT",
-  "numero": "MOQ00681",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "680",
-  "tipc": "3.7",
-  "hora": "11:32 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/11/2025",
-  "serie": "COT",
-  "numero": "MOQ00680",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "90",
-  "tipc": "3.7",
-  "hora": "11:18 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/11/2025",
-  "serie": "COT",
-  "numero": "GP00439",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "330",
-  "tipc": "3.7",
-  "hora": "11:17 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/11/2025",
-  "serie": "COT",
-  "numero": "321440",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "3214.4",
-  "tipc": "3.39",
-  "hora": "08:27 p. m.",
-  "docu": "USER: DANTE"
 },
 ]
