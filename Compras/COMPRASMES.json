@@ -55,6 +55,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "09/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00430",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "11:03 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "06/12/2025",
   "serie": "COT",
   "numero": "MOQ00429",
