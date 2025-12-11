@@ -68,6 +68,17 @@
 {
   "fechacab": "09/12/2025",
   "serie": "COT",
+  "numero": "MOQ00431",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "80",
+  "tipc": "3.7",
+  "hora": "11:04 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "09/12/2025",
+  "serie": "COT",
   "numero": "MOQ00430",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
