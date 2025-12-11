@@ -145,6 +145,17 @@
 {
   "fechacab": "09/12/2025",
   "serie": "COT",
+  "numero": "RJ04956",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "510",
+  "tipc": "3.7",
+  "hora": "11:10 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "09/12/2025",
+  "serie": "COT",
   "numero": "RJ04953",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
