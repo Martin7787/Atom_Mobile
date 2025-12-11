@@ -52382,6 +52382,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "SJ18-DORADO",
+  "descripcion": "JARRO 18OZ NAVIDEÑO DORADO SUNDA (CAJA X  48 UND)",
+  "fecha": "11/12/2025",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "180",
+  "precio": "48.65",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "48",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "SL-053",
   "descripcion": "MUG ACERO (CAJA X  4 DOC)",
   "fecha": "29/02/2024",
