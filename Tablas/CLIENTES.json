@@ -9412,6 +9412,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MANUEL",
+  "ruc": "09904424",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "12/12/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "DELIA CORA GUTIERREZ",
   "ruc": "09910858",
   "direccion": "LIMA",
