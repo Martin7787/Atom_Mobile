@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000233",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "100",
+  "tipc": "3.7",
+  "fecha": "12/12/2025",
+  "hora": "01:17 p. m.",
+  "docu": "T001-00018949",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000232",
   "nombre": "MACEDO CUEVA ZENAIDA CLEMENTINA",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "01/08/2025",
   "hora": "12:11 p. m.",
   "docu": "T001-00016230",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000203",
-  "nombre": "POTTERY ISA EIRL",
-  "moneda": "PEN",
-  "totguia": "264",
-  "tipc": "3.7",
-  "fecha": "23/07/2025",
-  "hora": "01:05 p. m.",
-  "docu": "T001-00015258",
   "via": "USER: SOFI",
   "bloquear": ""
 },
