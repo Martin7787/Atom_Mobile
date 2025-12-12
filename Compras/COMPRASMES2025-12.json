@@ -35,6 +35,17 @@
 {
   "fechacab": "11/12/2025",
   "serie": "COT",
+  "numero": "GP000643",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "420",
+  "tipc": "3.7",
+  "hora": "10:46 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "11/12/2025",
+  "serie": "COT",
   "numero": "DIA25005056",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
