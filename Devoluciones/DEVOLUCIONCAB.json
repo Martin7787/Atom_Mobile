@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000232",
+  "nombre": "MACEDO CUEVA ZENAIDA CLEMENTINA",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.7",
+  "fecha": "12/12/2025",
+  "hora": "11:27 a. m.",
+  "docu": "T001-00018924",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000231",
   "nombre": "JORGE LUIS ATOCCSA CHOMBO",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "23/07/2025",
   "hora": "01:05 p. m.",
   "docu": "T001-00015258",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000202",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "0.0000",
-  "tipc": "1",
-  "fecha": "23/07/2025",
-  "hora": "01:04 p. m.",
-  "docu": "",
   "via": "USER: SOFI",
   "bloquear": ""
 },
