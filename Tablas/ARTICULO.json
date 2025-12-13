@@ -38236,6 +38236,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "LXY7813",
+  "descripcion": "VASO VIDRIO 367ML (CAJA X  8 SET)",
+  "fecha": "13/12/2025",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "100",
+  "precio": "27.03",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "8",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "VIDRIO",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "LXY9001",
   "descripcion": "VASO DE VIDRIO 300ML (CAJA X  12 SET)",
   "fecha": "15/01/2025",
