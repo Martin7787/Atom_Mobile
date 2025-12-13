@@ -15605,4 +15605,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "13/12/2025",
+  "fecha": "Dic. 13",
+  "serie": "T001",
+  "numero": "00018975",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "45",
+  "acuenta": "45",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "09:55 a. m.",
+  "docu": "USER: SOFI",
+  "bloquear": "",
+  "user": "SOFI"
+},
 ]
