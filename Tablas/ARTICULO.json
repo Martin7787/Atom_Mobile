@@ -30852,7 +30852,7 @@
   "preciosol": "150",
   "precio": "40.54",
   "preciount": "0.0000",
-  "costosol": "109.6",
+  "costosol": "119.29",
   "costodol": "32.24",
   "undmy": "2",
   "undmn": "1",
@@ -30861,8 +30861,8 @@
   "linea": "LOZAS",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
-  "via": "",
+  "vneg": "True",
+  "via": "-",
   "bloquear": "false"
 },
 {
