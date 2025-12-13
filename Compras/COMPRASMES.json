@@ -11,6 +11,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "12/12/2025",
+  "serie": "COT",
+  "numero": "TERE121225",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "2400",
+  "tipc": "3.38",
+  "hora": "08:23 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "11/12/2025",
   "serie": "COT",
   "numero": "TERE111225",
@@ -2263,116 +2274,6 @@
   "totguia": "3600",
   "tipc": "3.38",
   "hora": "07:12 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "12/11/2025",
-  "serie": "COT",
-  "numero": "YH0002309",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "180",
-  "tipc": "3.7",
-  "hora": "10:40 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/11/2025",
-  "serie": "COT",
-  "numero": "TQ000778",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "90",
-  "tipc": "3.7",
-  "hora": "10:41 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/11/2025",
-  "serie": "COT",
-  "numero": "RJ04406",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "180",
-  "tipc": "3.7",
-  "hora": "10:43 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/11/2025",
-  "serie": "COT",
-  "numero": "RJ04396",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "95",
-  "tipc": "3.7",
-  "hora": "10:42 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/11/2025",
-  "serie": "COT",
-  "numero": "GP000449",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "260",
-  "tipc": "3.7",
-  "hora": "10:39 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/11/2025",
-  "serie": "FAC",
-  "numero": "E001-76",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "3650",
-  "tipc": "3.4",
-  "hora": "12:15 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "12/11/2025",
-  "serie": "COT",
-  "numero": "DIA25004603",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "1323",
-  "tipc": "3.375",
-  "hora": "01:02 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "12/11/2025",
-  "serie": "COT",
-  "numero": "DD25050002868",
-  "nombre": "DOU DOU",
-  "moneda": "PEN",
-  "totguia": "1222.08",
-  "tipc": "3.38",
-  "hora": "06:51 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "12/11/2025",
-  "serie": "COT",
-  "numero": "04416",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "260",
-  "tipc": "3.38",
-  "hora": "02:06 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "12/11/2025",
-  "serie": "COT",
-  "numero": "04415",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "3740",
-  "tipc": "3.38",
-  "hora": "01:54 p. m.",
   "docu": "USER: DANTE"
 },
 ]
