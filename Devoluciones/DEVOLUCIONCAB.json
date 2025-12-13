@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000234",
+  "nombre": "LUCY MARILU GABRIEL QUISPE",
+  "moneda": "PEN",
+  "totguia": "200",
+  "tipc": "3.7",
+  "fecha": "13/12/2025",
+  "hora": "03:01 p. m.",
+  "docu": "T001-00018991",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000233",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "02/08/2025",
   "hora": "02:04 p. m.",
   "docu": "T001-00016220",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000204",
-  "nombre": "MULTISERVICIOS JHON ANDERSON E.I.R.L.",
-  "moneda": "PEN",
-  "totguia": "896",
-  "tipc": "3.7",
-  "fecha": "01/08/2025",
-  "hora": "12:11 p. m.",
-  "docu": "T001-00016230",
   "via": "USER: SOFI",
   "bloquear": ""
 },
