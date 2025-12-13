@@ -82511,6 +82511,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "HENRY",
+  "ruc": "44485055",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "13/12/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MIGUEL ",
   "ruc": "44485934",
   "direccion": "LIMA",
