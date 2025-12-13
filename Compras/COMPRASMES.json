@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "13/12/2025",
+  "serie": "COT",
+  "numero": "DIA25005075",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "2900",
+  "tipc": "3.38",
+  "hora": "02:18 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "12/12/2025",
   "serie": "COT",
   "numero": "YH0002353",
