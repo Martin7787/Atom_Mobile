@@ -27654,28 +27654,6 @@
   "bloquear": "false"
 },
 {
-  "codart": "HS5105",
-  "descripcion": "TAPER DE 5 VIDRIO (CAJA X  12 SET)",
-  "fecha": "13/12/2025",
-  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
-  "cant": "0",
-  "preciosol": "90",
-  "precio": "24.32",
-  "preciount": "0.0000",
-  "costosol": "68.96",
-  "costodol": "20.4",
-  "undmy": "12",
-  "undmn": "1",
-  "leymy": "SET",
-  "leymn": "UND",
-  "linea": "VIDRIO",
-  "cdesc": "0",
-  "pdesc": "0",
-  "vneg": "False",
-  "via": "",
-  "bloquear": "false"
-},
-{
   "codart": "HS800",
   "descripcion": "TAPER DE VIDRIO REFACTRARIO 800ML (CAJA X  12 UND)",
   "fecha": "12/03/2025",
