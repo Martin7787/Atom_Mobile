@@ -21874,9 +21874,9 @@
   "stock": "STOCK = -2 CAJ  0 DOC  0 UNI",
   "cant": "-72",
   "preciosol": "118",
-  "precio": "31.89",
+  "precio": "31.892",
   "preciount": "0.0000",
-  "costosol": "86.99",
+  "costosol": "94.68",
   "costodol": "25.59",
   "undmy": "3",
   "undmn": "12",
@@ -21885,8 +21885,8 @@
   "linea": "LOZAS",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
-  "via": "",
+  "vneg": "True",
+  "via": "-",
   "bloquear": "false"
 },
 {
