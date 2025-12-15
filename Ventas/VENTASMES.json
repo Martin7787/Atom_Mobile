@@ -13612,9 +13612,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "01:37 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "11/12/2025",
@@ -14377,9 +14377,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "01:45 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "12/12/2025",
@@ -14921,9 +14921,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "07:08 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "13/12/2025",
@@ -15575,6 +15575,23 @@
   "fechacab": "15/12/2025",
   "fecha": "Dic. 15",
   "serie": "T001",
+  "numero": "00019047",
+  "nombre": "EVA REBECA HUARHUA ALVAREZ",
+  "moneda": "PEN",
+  "totguia": "664",
+  "acuenta": "664",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "03:16 p. m.",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
+{
+  "fechacab": "15/12/2025",
+  "fecha": "Dic. 15",
+  "serie": "T001",
   "numero": "00019046",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -15618,9 +15635,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "01:58 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "15/12/2025",
