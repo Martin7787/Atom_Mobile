@@ -15575,6 +15575,23 @@
   "fechacab": "15/12/2025",
   "fecha": "Dic. 15",
   "serie": "T001",
+  "numero": "00019043",
+  "nombre": "MIGUEL ANGEL SOTO QUISPE",
+  "moneda": "PEN",
+  "totguia": "1392",
+  "acuenta": "1392",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "01:44 p. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
+{
+  "fechacab": "15/12/2025",
+  "fecha": "Dic. 15",
+  "serie": "T001",
   "numero": "00019042",
   "nombre": "CCALLUCO ROCCA, ROXANA",
   "moneda": "PEN",
@@ -15584,9 +15601,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "01:26 p. m.",
-  "docu": "USER: MARTIN",
+  "docu": "USER: LIZETH",
   "bloquear": "",
-  "user": "MARTIN"
+  "user": "LIZETH"
 },
 {
   "fechacab": "15/12/2025",
@@ -15618,9 +15635,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "01:20 p. m.",
-  "docu": "USER: MARTIN",
+  "docu": "USER: LIZETH",
   "bloquear": "",
-  "user": "MARTIN"
+  "user": "LIZETH"
 },
 {
   "fechacab": "15/12/2025",
