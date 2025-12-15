@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "15/12/2025",
+  "serie": "COT",
+  "numero": "DT002780",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "3520",
+  "tipc": "3.7",
+  "hora": "02:57 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "13/12/2025",
   "serie": "COT",
   "numero": "DIA25005110",
