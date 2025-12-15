@@ -15571,4 +15571,21 @@
   "bloquear": "",
   "user": "SOFI"
 },
+{
+  "fechacab": "15/12/2025",
+  "fecha": "Dic. 15",
+  "serie": "T001",
+  "numero": "00019024",
+  "nombre": "SALOMÓN SOTO BUSTAMANTE",
+  "moneda": "PEN",
+  "totguia": "368",
+  "acuenta": "368",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:29 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
