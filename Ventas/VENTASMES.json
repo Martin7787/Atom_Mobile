@@ -15610,17 +15610,17 @@
   "fecha": "Dic. 15",
   "serie": "T001",
   "numero": "00019072",
-  "nombre": "CLIENTES VARIOS",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "135",
-  "acuenta": "135",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "08:27 p. m.",
-  "docu": "USER: SOFI",
+  "docu": "USER: MARTIN",
   "bloquear": "",
-  "user": "SOFI"
+  "user": "MARTIN"
 },
 {
   "fechacab": "15/12/2025",
