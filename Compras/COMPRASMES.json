@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "16/12/2025",
+  "serie": "COT",
+  "numero": "NVAP-0002431",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "131.36",
+  "tipc": "3.7",
+  "hora": "12:00 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "15/12/2025",
   "serie": "COT",
   "numero": "RT000199",
