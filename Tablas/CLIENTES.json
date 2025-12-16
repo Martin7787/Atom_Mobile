@@ -7514,6 +7514,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MARIBEL",
+  "ruc": "09358984",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "16/12/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MENDOZA NIEVES LITI KELLY",
   "ruc": "09361935",
   "direccion": "LIMA - ATE",
@@ -71648,6 +71661,19 @@
   "direccion": " CAJAMARCA - JAÉN - JAÉN",
   "tipo": "0",
   "fecha": "31/05/2022",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "LUZMILA CASTRO CAMAC",
+  "ruc": "41133387",
+  "direccion": "SJL",
+  "tipo": "0",
+  "fecha": "16/12/2025",
   "telefono": "",
   "email": "",
   "trato": "",
