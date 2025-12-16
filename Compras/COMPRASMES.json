@@ -88,6 +88,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "15/12/2025",
+  "serie": "COT",
+  "numero": "15122025",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "3200",
+  "tipc": "3.38",
+  "hora": "02:27 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "13/12/2025",
   "serie": "COT",
   "numero": "GP000671",
