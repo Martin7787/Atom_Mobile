@@ -35,6 +35,17 @@
 {
   "fechacab": "15/12/2025",
   "serie": "COT",
+  "numero": "GP000687",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "100",
+  "tipc": "3.7",
+  "hora": "11:09 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "15/12/2025",
+  "serie": "COT",
   "numero": "DT002780",
   "nombre": "FORTUNATO MALLQUI NIETO",
   "moneda": "PEN",
