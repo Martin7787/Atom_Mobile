@@ -35,6 +35,17 @@
 {
   "fechacab": "16/12/2025",
   "serie": "COT",
+  "numero": "GP000951",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.7",
+  "hora": "10:51 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "16/12/2025",
+  "serie": "COT",
   "numero": "GP000949",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
