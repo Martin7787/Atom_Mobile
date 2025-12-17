@@ -75920,6 +75920,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "SEGUNDO ZORRILLA",
+  "ruc": "42340819",
+  "direccion": "CALLAO",
+  "tipo": "0",
+  "fecha": "17/12/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "LUZ MARINA",
   "ruc": "42343977",
   "direccion": "LIMA",
