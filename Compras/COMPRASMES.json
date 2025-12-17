@@ -2,6 +2,17 @@
 {
   "fechacab": "16/12/2025",
   "serie": "COT",
+  "numero": "RT000221",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "304",
+  "tipc": "3.7",
+  "hora": "10:49 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "16/12/2025",
+  "serie": "COT",
   "numero": "NVAP-0002431",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -2374,16 +2385,5 @@
   "tipc": "3.38",
   "hora": "07:26 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "16/11/2025",
-  "serie": "COT",
-  "numero": "RJ04658",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "1940",
-  "tipc": "3.7",
-  "hora": "10:43 a. m.",
-  "docu": "USER: MARTIN"
 },
 ]
