@@ -35,6 +35,17 @@
 {
   "fechacab": "17/12/2025",
   "serie": "COT",
+  "numero": "1034795",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "10347.95",
+  "tipc": "3.38",
+  "hora": "05:02 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "17/12/2025",
+  "serie": "COT",
   "numero": "00143",
   "nombre": "COMERCIAL DANERI",
   "moneda": "PEN",
