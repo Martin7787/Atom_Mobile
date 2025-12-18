@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000235",
+  "nombre": "MIGUEL ANGEL SOTO QUISPE",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.7",
+  "fecha": "18/12/2025",
+  "hora": "06:44 p. m.",
+  "docu": "T001-00019043",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000234",
   "nombre": "LUCY MARILU GABRIEL QUISPE",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "04/08/2025",
   "hora": "05:01 p. m.",
   "docu": "T001-00016350",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000205",
-  "nombre": "GRUPO AMAHOGAR SAC",
-  "moneda": "PEN",
-  "totguia": "180",
-  "tipc": "3.7",
-  "fecha": "02/08/2025",
-  "hora": "02:04 p. m.",
-  "docu": "T001-00016220",
   "via": "USER: SOFI",
   "bloquear": ""
 },
