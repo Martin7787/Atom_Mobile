@@ -35,6 +35,17 @@
 {
   "fechacab": "18/12/2025",
   "serie": "COT",
+  "numero": "NP310034",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "42",
+  "tipc": "3.7",
+  "hora": "11:44 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "18/12/2025",
+  "serie": "COT",
   "numero": "MOQ00973",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
