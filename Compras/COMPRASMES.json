@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "18/12/2025",
+  "serie": "COT",
+  "numero": "YH0002240",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "277.5",
+  "tipc": "3.7",
+  "hora": "10:52 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "17/12/2025",
   "serie": "COT",
   "numero": "1037880",
@@ -2340,149 +2351,6 @@
   "totguia": "1660",
   "tipc": "3.38",
   "hora": "08:43 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/11/2025",
-  "serie": "COT",
-  "numero": "TQ000455",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "180",
-  "tipc": "3.7",
-  "hora": "11:29 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/11/2025",
-  "serie": "COT",
-  "numero": "RT005804",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "320",
-  "tipc": "3.7",
-  "hora": "11:28 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/11/2025",
-  "serie": "COT",
-  "numero": "RJ04474",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "500",
-  "tipc": "3.7",
-  "hora": "11:34 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/11/2025",
-  "serie": "COT",
-  "numero": "MOQ00686",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "11:27 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/11/2025",
-  "serie": "COT",
-  "numero": "MOQ000687",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "264",
-  "tipc": "3.7",
-  "hora": "10:38 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/11/2025",
-  "serie": "COT",
-  "numero": "GP000487",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.7",
-  "hora": "11:29 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/11/2025",
-  "serie": "FAC",
-  "numero": "F063-00068120",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "0.01",
-  "tipc": "3.37",
-  "hora": "02:15 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/11/2025",
-  "serie": "COT",
-  "numero": "DIA25004686",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "2320",
-  "tipc": "3.37",
-  "hora": "02:35 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/11/2025",
-  "serie": "COT",
-  "numero": "CP29935",
-  "nombre": "CASA PORCELANA",
-  "moneda": "PEN",
-  "totguia": "176",
-  "tipc": "3.7",
-  "hora": "11:33 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/11/2025",
-  "serie": "COT",
-  "numero": "251103499",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "691.31",
-  "tipc": "3.37",
-  "hora": "02:14 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "17/11/2025",
-  "serie": "COT",
-  "numero": "MOQ00685",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "320",
-  "tipc": "3.7",
-  "hora": "10:57 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/11/2025",
-  "serie": "COT",
-  "numero": "AGC001-047043",
-  "nombre": "AGC",
-  "moneda": "PEN",
-  "totguia": "180",
-  "tipc": "3.7",
-  "hora": "10:59 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/11/2025",
-  "serie": "COT",
-  "numero": "1339684",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "13396.84",
-  "tipc": "3.38",
-  "hora": "07:26 p. m.",
   "docu": "USER: DANTE"
 },
 ]
