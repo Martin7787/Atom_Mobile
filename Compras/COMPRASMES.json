@@ -2,12 +2,12 @@
 {
   "fechacab": "19/12/2025",
   "serie": "COT",
-  "numero": "GP000970",
+  "numero": "CX000163",
   "nombre": "CLIENTES VARIOS",
   "moneda": "",
   "totguia": "",
   "tipc": "",
-  "hora": "11:31 a. m.",
+  "hora": "11:32 a. m.",
   "docu": "USER: "
 },
 {
@@ -63,6 +63,17 @@
   "totguia": "80",
   "tipc": "3.7",
   "hora": "11:31 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "18/12/2025",
+  "serie": "COT",
+  "numero": "GP000970",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "90",
+  "tipc": "3.7",
+  "hora": "11:32 a. m.",
   "docu": "USER: MARTIN"
 },
 {
