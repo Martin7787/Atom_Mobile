@@ -16659,4 +16659,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "19/12/2025",
+  "fecha": "Dic. 19",
+  "serie": "T001",
+  "numero": "00019190",
+  "nombre": "MULTISERVICIOS Y NEGOCIACIONES G & R S.R.L.",
+  "moneda": "PEN",
+  "totguia": "1554",
+  "acuenta": "1554",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:27 a. m.",
+  "docu": "CELT-@38XSED5",
+  "bloquear": "@38XSED5",
+  "user": "LIZETH"
+},
 ]
