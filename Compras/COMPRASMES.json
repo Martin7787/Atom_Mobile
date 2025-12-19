@@ -167,6 +167,17 @@
 {
   "fechacab": "17/12/2025",
   "serie": "COT",
+  "numero": "CG005053",
+  "nombre": "CENTER GLASS E.I.R.L",
+  "moneda": "PEN",
+  "totguia": "98",
+  "tipc": "3.7",
+  "hora": "11:43 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "17/12/2025",
+  "serie": "COT",
   "numero": "1037880",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
