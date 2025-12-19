@@ -79,6 +79,17 @@
 {
   "fechacab": "16/12/2025",
   "serie": "COT",
+  "numero": "YH0002460",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.7",
+  "hora": "11:29 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "16/12/2025",
+  "serie": "COT",
   "numero": "RT000221",
   "nombre": "ROBERT TURPO",
   "moneda": "PEN",
