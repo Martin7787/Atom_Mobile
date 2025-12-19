@@ -21722,7 +21722,7 @@
   "preciosol": "120",
   "precio": "32.43",
   "preciount": "0.0000",
-  "costosol": "78.07",
+  "costosol": "85.1",
   "costodol": "23",
   "undmy": "48",
   "undmn": "1",
@@ -21731,8 +21731,8 @@
   "linea": "JARRO",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
-  "via": "",
+  "vneg": "True",
+  "via": "-",
   "bloquear": "false"
 },
 {
