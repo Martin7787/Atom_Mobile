@@ -90,6 +90,17 @@
 {
   "fechacab": "17/12/2025",
   "serie": "COT",
+  "numero": "RT000241",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.7",
+  "hora": "11:34 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "17/12/2025",
+  "serie": "COT",
   "numero": "RT000230",
   "nombre": "ROBERT TURPO",
   "moneda": "PEN",
