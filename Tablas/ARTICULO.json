@@ -20152,6 +20152,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "D63723C",
+  "descripcion": "COPA ROJA CHAMPAGNE (CAJA X  8 SET)",
+  "fecha": "20/12/2025",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "205",
+  "precio": "55.41",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "8",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "D63942C",
   "descripcion": "COPA VINO ROJA (CAJA X  8 SET)",
   "fecha": "28/11/2025",
