@@ -13,7 +13,7 @@
   "estado": "0",
   "traslado": "0.0000",
   "obs": "",
-  "codart": "JGO16-001",
+  "codart": "JGO16-1260",
   "descripcion": "VAJILLA X 16 PCS (CAJA X  2 SET)",
   "cajas": "0",
   "doce": "1",
@@ -35,7 +35,7 @@
   "punidad": "0.0000"
 },
 {
-  "codart": "JGO16-1260",
+  "codart": "JGO16-1303",
   "descripcion": "VAJILLA X 16 PCS (CAJA X  2 SET)",
   "cajas": "0",
   "doce": "1",
@@ -52,7 +52,7 @@
   "cantimp": "1 UND",
   "vacio1": "",
   "vacio2": "",
-  "auto": "-",
+  "auto": "SOFI",
   "preal": "150",
   "punidad": "0.0000"
 },
