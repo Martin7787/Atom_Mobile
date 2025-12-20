@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "20/12/2025",
+  "serie": "COT",
+  "numero": "RJ00263",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.7",
+  "hora": "03:28 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "19/12/2025",
   "serie": "COT",
   "numero": "18122025",
@@ -2439,116 +2450,6 @@
   "totguia": "540",
   "tipc": "3.375",
   "hora": "01:58 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "19/11/2025",
-  "serie": "COT",
-  "numero": "YH0002328",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "268",
-  "tipc": "3.7",
-  "hora": "10:56 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/11/2025",
-  "serie": "COT",
-  "numero": "YH0002327",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "180",
-  "tipc": "3.7",
-  "hora": "10:56 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/11/2025",
-  "serie": "COT",
-  "numero": "RJ04487",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "260",
-  "tipc": "3.7",
-  "hora": "10:44 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/11/2025",
-  "serie": "COT",
-  "numero": "RJ04484",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "830",
-  "tipc": "3.7",
-  "hora": "10:45 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/11/2025",
-  "serie": "COT",
-  "numero": "MOQ00690",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "150",
-  "tipc": "3.7",
-  "hora": "10:39 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/11/2025",
-  "serie": "COT",
-  "numero": "MOQ00689",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "172",
-  "tipc": "3.7",
-  "hora": "10:37 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/11/2025",
-  "serie": "COT",
-  "numero": "GP000492",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.7",
-  "hora": "10:39 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/11/2025",
-  "serie": "COT",
-  "numero": "C053667",
-  "nombre": "CREACIONES BETHEL S.A.C.",
-  "moneda": "PEN",
-  "totguia": "240",
-  "tipc": "3.7",
-  "hora": "10:40 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/11/2025",
-  "serie": "COT",
-  "numero": "2025-001042",
-  "nombre": "ESTABLECIMIENTOS INCA S.AC",
-  "moneda": "USD",
-  "totguia": "1618.91",
-  "tipc": "3.385",
-  "hora": "02:47 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "19/11/2025",
-  "serie": "COT",
-  "numero": "04498",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "1660",
-  "tipc": "3.38",
-  "hora": "08:43 p. m.",
   "docu": "USER: DANTE"
 },
 ]
