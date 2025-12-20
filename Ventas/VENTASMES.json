@@ -16608,4 +16608,21 @@
   "bloquear": "@38XSED5",
   "user": "LIZETH"
 },
+{
+  "fechacab": "20/12/2025",
+  "fecha": "Dic. 20",
+  "serie": "T001",
+  "numero": "00019220",
+  "nombre": "REBECA",
+  "moneda": "PEN",
+  "totguia": "55",
+  "acuenta": "55",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "11:18 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
