@@ -8062,17 +8062,17 @@
   "fecha": "Dic. 5",
   "serie": "T001",
   "numero": "00018684",
-  "nombre": "LEZAMA PEREZ BEATRIZ MARLENE",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "565",
-  "acuenta": "565",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "11:57 a. m.",
-  "docu": "USER: LIZETH",
+  "docu": "USER: MARTIN",
   "bloquear": "",
-  "user": "LIZETH"
+  "user": "MARTIN"
 },
 {
   "fechacab": "05/12/2025",
