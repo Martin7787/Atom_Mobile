@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000238",
+  "nombre": "MONAGO DEL VALLE, CARMEN ROSA",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.7",
+  "fecha": "22/12/2025",
+  "hora": "02:21 p. m.",
+  "docu": "T001-00019270",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000237",
   "nombre": "XIOMARA SANCHEZ AVILA",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "14/08/2025",
   "hora": "04:49 p. m.",
   "docu": "T001-00016541",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000208",
-  "nombre": "DANIEL MIRANDA LASTRA",
-  "moneda": "PEN",
-  "totguia": "56.67",
-  "tipc": "3.7",
-  "fecha": "14/08/2025",
-  "hora": "02:25 p. m.",
-  "docu": "T001-00016364",
   "via": "USER: SOFI",
   "bloquear": ""
 },
