@@ -13,6 +13,17 @@
 {
   "fechacab": "05/01/2026",
   "serie": "COT",
+  "numero": "SD05012026",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "21031",
+  "tipc": "3.7",
+  "hora": "01:00 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/01/2026",
+  "serie": "COT",
   "numero": "RJ00009",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
