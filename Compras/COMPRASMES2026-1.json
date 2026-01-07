@@ -1,6 +1,17 @@
 [
 {
   "fechacab": "07/01/2026",
+  "serie": "FAC",
+  "numero": "F063-00070671",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "1346.34",
+  "tipc": "3.37",
+  "hora": "02:36 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "07/01/2026",
   "serie": "COT",
   "numero": "34792",
   "nombre": "COMERCIAL DANERI",
