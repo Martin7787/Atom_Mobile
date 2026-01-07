@@ -58344,6 +58344,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "TC-J011",
+  "descripcion": "JARRA LABRADA COLORES (CAJA X  6 SET)",
+  "fecha": "07/01/2026",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "175",
+  "precio": "47.3",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "6",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "VIDRIO",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "TCR-212",
   "descripcion": "JARRO 16OZ CON RELIEVE (CAJA X  48 UND)",
   "fecha": "17/09/2024",
