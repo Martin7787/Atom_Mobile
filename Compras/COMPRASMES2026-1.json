@@ -1,0 +1,79 @@
+[
+{
+  "fechacab": "06/01/2026",
+  "serie": "FAC",
+  "numero": "F001-00017733",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "106.8",
+  "tipc": "3.4",
+  "hora": "08:23 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "05/01/2026",
+  "serie": "COT",
+  "numero": "RJ00009",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "140",
+  "tipc": "3.7",
+  "hora": "10:15 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "05/01/2026",
+  "serie": "COT",
+  "numero": "MOQ00474",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.7",
+  "hora": "10:13 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "03/01/2026",
+  "serie": "COT",
+  "numero": "RJ00008",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.7",
+  "hora": "10:14 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "03/01/2026",
+  "serie": "COT",
+  "numero": "RJ00004",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "100",
+  "tipc": "3.7",
+  "hora": "10:14 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "03/01/2026",
+  "serie": "COT",
+  "numero": "MOQ00473",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "380",
+  "tipc": "3.7",
+  "hora": "10:12 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "02/01/2026",
+  "serie": "COT",
+  "numero": "VL009945",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.7",
+  "hora": "12:23 p. m.",
+  "docu": ""
+},
+]

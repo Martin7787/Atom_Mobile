@@ -1,5 +1,60 @@
 [
 {
+  "fechacab": "30/12/2025",
+  "serie": "COT",
+  "numero": "DIA25005379",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "4598.2",
+  "tipc": "3.37",
+  "hora": "08:09 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "30/12/2025",
+  "serie": "COT",
+  "numero": "301225",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "6500",
+  "tipc": "3.7",
+  "hora": "06:26 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "29/12/2025",
+  "serie": "COT",
+  "numero": "YH0002528",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "10:34 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "29/12/2025",
+  "serie": "COT",
+  "numero": "DIA25005377",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "3097",
+  "tipc": "3.7",
+  "hora": "07:51 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "29/12/2025",
+  "serie": "COT",
+  "numero": "CG005362",
+  "nombre": "CENTER GLASS E.I.R.L",
+  "moneda": "PEN",
+  "totguia": "372",
+  "tipc": "3.7",
+  "hora": "10:38 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "28/12/2025",
   "serie": "COT",
   "numero": "GP000547",
@@ -11,6 +66,303 @@
   "docu": ""
 },
 {
+  "fechacab": "27/12/2025",
+  "serie": "COT",
+  "numero": "YV028719",
+  "nombre": "YOVIS IMPORT",
+  "moneda": "PEN",
+  "totguia": "2200",
+  "tipc": "3.7",
+  "hora": "04:54 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/12/2025",
+  "serie": "COT",
+  "numero": "YH002523",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "480",
+  "tipc": "3.7",
+  "hora": "10:32 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/12/2025",
+  "serie": "COT",
+  "numero": "rj00370",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.7",
+  "hora": "10:36 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00471",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "10:25 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00470",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.7",
+  "hora": "10:24 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00469",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "594",
+  "tipc": "3.7",
+  "hora": "10:27 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/12/2025",
+  "serie": "COT",
+  "numero": "GP000879",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "90",
+  "tipc": "3.7",
+  "hora": "10:31 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/12/2025",
+  "serie": "FAC",
+  "numero": "F063-00070339",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "0.0000",
+  "tipc": "3.4",
+  "hora": "08:23 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/12/2025",
+  "serie": "FAC",
+  "numero": "F063-00070337",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "6727.9",
+  "tipc": "3.4",
+  "hora": "08:20 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/12/2025",
+  "serie": "COT",
+  "numero": "CML002557",
+  "nombre": "COMERCIAL LINA",
+  "moneda": "PEN",
+  "totguia": "1056",
+  "tipc": "3.7",
+  "hora": "10:29 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/12/2025",
+  "serie": "COT",
+  "numero": "CG005330",
+  "nombre": "CENTER GLASS E.I.R.L",
+  "moneda": "PEN",
+  "totguia": "196",
+  "tipc": "3.7",
+  "hora": "10:37 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/12/2025",
+  "serie": "COT",
+  "numero": "002196",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "7800",
+  "tipc": "3.7",
+  "hora": "04:52 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "26/12/2025",
+  "serie": "COT",
+  "numero": "YH0002513",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "810",
+  "tipc": "3.7",
+  "hora": "10:33 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "26/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00468",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.7",
+  "hora": "10:26 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "26/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00467",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "330",
+  "tipc": "3.7",
+  "hora": "10:26 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "26/12/2025",
+  "serie": "COT",
+  "numero": "CML002544",
+  "nombre": "COMERCIAL XIMENA",
+  "moneda": "PEN",
+  "totguia": "98",
+  "tipc": "3.7",
+  "hora": "10:30 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "24/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00402",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "622",
+  "tipc": "3.7",
+  "hora": "11:09 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "23/12/2025",
+  "serie": "COT",
+  "numero": "VL009672",
+  "nombre": "VALESKA",
+  "moneda": "PEN",
+  "totguia": "720",
+  "tipc": "3.7",
+  "hora": "11:10 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "23/12/2025",
+  "serie": "COT",
+  "numero": "RJ00330",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "170",
+  "tipc": "3.7",
+  "hora": "11:10 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "23/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00466",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "320",
+  "tipc": "3.7",
+  "hora": "11:08 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "23/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00465",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "108",
+  "tipc": "3.7",
+  "hora": "11:07 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "23/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00464",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.7",
+  "hora": "11:07 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "23/12/2025",
+  "serie": "COT",
+  "numero": "DIA25005310",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "440",
+  "tipc": "3.7",
+  "hora": "05:14 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "22/12/2025",
+  "serie": "COT",
+  "numero": "RT000304",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "304",
+  "tipc": "3.7",
+  "hora": "11:28 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "22/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00463",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "10:52 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "22/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00462",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "516",
+  "tipc": "3.7",
+  "hora": "10:51 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "22/12/2025",
+  "serie": "COT",
+  "numero": "GP000855",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "90",
+  "tipc": "3.7",
+  "hora": "11:28 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "22/12/2025",
   "serie": "FAC",
   "numero": "F004-0000596",
@@ -19,6 +371,39 @@
   "totguia": "2200",
   "tipc": "3.38",
   "hora": "02:41 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "22/12/2025",
+  "serie": "COT",
+  "numero": "DIA25005256",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1300",
+  "tipc": "3.7",
+  "hora": "05:15 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "22/12/2025",
+  "serie": "COT",
+  "numero": "002919",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "2200",
+  "tipc": "3.38",
+  "hora": "08:04 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "20/12/2025",
+  "serie": "COT",
+  "numero": "RT000281",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.7",
+  "hora": "11:28 a. m.",
   "docu": ""
 },
 {
@@ -68,6 +453,17 @@
 {
   "fechacab": "20/12/2025",
   "serie": "COT",
+  "numero": "GP000839",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "90",
+  "tipc": "3.7",
+  "hora": "11:29 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "20/12/2025",
+  "serie": "COT",
   "numero": "DD25050003206",
   "nombre": "DOU DOU",
   "moneda": "PEN",
@@ -85,6 +481,94 @@
   "totguia": "85",
   "tipc": "3.7",
   "hora": "12:20 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/12/2025",
+  "serie": "COT",
+  "numero": "RJ00234",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.7",
+  "hora": "11:42 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00460",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.7",
+  "hora": "11:27 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00459",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "320",
+  "tipc": "3.7",
+  "hora": "11:37 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00457",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "570",
+  "tipc": "3.7",
+  "hora": "11:38 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00456",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "11:39 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/12/2025",
+  "serie": "COT",
+  "numero": "GP000988",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "90",
+  "tipc": "3.7",
+  "hora": "11:30 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/12/2025",
+  "serie": "COT",
+  "numero": "GP000983",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.7",
+  "hora": "11:36 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/12/2025",
+  "serie": "COT",
+  "numero": "DIA25005232",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "962.1",
+  "tipc": "3.7",
+  "hora": "03:29 p. m.",
   "docu": ""
 },
 {
@@ -118,6 +602,39 @@
   "totguia": "277.5",
   "tipc": "3.7",
   "hora": "10:52 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "18/12/2025",
+  "serie": "COT",
+  "numero": "RJ00203",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "880",
+  "tipc": "3.7",
+  "hora": "10:36 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "18/12/2025",
+  "serie": "COT",
+  "numero": "RJ00180",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "170",
+  "tipc": "3.7",
+  "hora": "11:40 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "18/12/2025",
+  "serie": "COT",
+  "numero": "RJ00177",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "210",
+  "tipc": "3.7",
+  "hora": "11:41 a. m.",
   "docu": ""
 },
 {
@@ -222,6 +739,28 @@
 {
   "fechacab": "17/12/2025",
   "serie": "COT",
+  "numero": "RJ00145",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "520",
+  "tipc": "3.7",
+  "hora": "11:41 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "17/12/2025",
+  "serie": "COT",
+  "numero": "MOQ00452",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "240",
+  "tipc": "3.7",
+  "hora": "11:39 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "17/12/2025",
+  "serie": "COT",
   "numero": "MOQ00451",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
@@ -305,6 +844,17 @@
   "totguia": "200",
   "tipc": "3.38",
   "hora": "04:36 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "16/12/2025",
+  "serie": "COT",
+  "numero": "YH0002474",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.7",
+  "hora": "10:34 a. m.",
   "docu": ""
 },
 {
@@ -690,6 +1240,17 @@
   "totguia": "1200",
   "tipc": "3.7",
   "hora": "11:07 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "12/12/2025",
+  "serie": "COT",
+  "numero": "DIA25005111",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "7500",
+  "tipc": "3.38",
+  "hora": "08:13 p. m.",
   "docu": ""
 },
 {
@@ -1647,6 +2208,17 @@
   "totguia": "1820",
   "tipc": "3.7",
   "hora": "10:54 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "02/12/2025",
+  "serie": "COT",
+  "numero": "RJ00303",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "170",
+  "tipc": "3.7",
+  "hora": "11:43 a. m.",
   "docu": ""
 },
 {

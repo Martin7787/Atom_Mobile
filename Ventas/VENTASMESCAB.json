@@ -1,70 +1,5 @@
 [
 {
-  "dia": "Sáb.",
-  "fecha": "22/11/2025",
-  "fechacab": "Nov. 22"
-},
-{
-  "dia": "Lun.",
-  "fecha": "24/11/2025",
-  "fechacab": "Nov. 24"
-},
-{
-  "dia": "Mar.",
-  "fecha": "25/11/2025",
-  "fechacab": "Nov. 25"
-},
-{
-  "dia": "Mié.",
-  "fecha": "26/11/2025",
-  "fechacab": "Nov. 26"
-},
-{
-  "dia": "Jue.",
-  "fecha": "27/11/2025",
-  "fechacab": "Nov. 27"
-},
-{
-  "dia": "Vie.",
-  "fecha": "28/11/2025",
-  "fechacab": "Nov. 28"
-},
-{
-  "dia": "Sáb.",
-  "fecha": "29/11/2025",
-  "fechacab": "Nov. 29"
-},
-{
-  "dia": "Lun.",
-  "fecha": "01/12/2025",
-  "fechacab": "Dic. 1"
-},
-{
-  "dia": "Mar.",
-  "fecha": "02/12/2025",
-  "fechacab": "Dic. 2"
-},
-{
-  "dia": "Mié.",
-  "fecha": "03/12/2025",
-  "fechacab": "Dic. 3"
-},
-{
-  "dia": "Jue.",
-  "fecha": "04/12/2025",
-  "fechacab": "Dic. 4"
-},
-{
-  "dia": "Vie.",
-  "fecha": "05/12/2025",
-  "fechacab": "Dic. 5"
-},
-{
-  "dia": "Sáb.",
-  "fecha": "06/12/2025",
-  "fechacab": "Dic. 6"
-},
-{
   "dia": "Mar.",
   "fecha": "09/12/2025",
   "fechacab": "Dic. 9"
@@ -120,8 +55,58 @@
   "fechacab": "Dic. 20"
 },
 {
-  "dia": "Hoy",
+  "dia": "Lun.",
   "fecha": "22/12/2025",
   "fechacab": "Dic. 22"
+},
+{
+  "dia": "Mar.",
+  "fecha": "23/12/2025",
+  "fechacab": "Dic. 23"
+},
+{
+  "dia": "Vie.",
+  "fecha": "26/12/2025",
+  "fechacab": "Dic. 26"
+},
+{
+  "dia": "Sáb.",
+  "fecha": "27/12/2025",
+  "fechacab": "Dic. 27"
+},
+{
+  "dia": "Lun.",
+  "fecha": "29/12/2025",
+  "fechacab": "Dic. 29"
+},
+{
+  "dia": "Mar.",
+  "fecha": "30/12/2025",
+  "fechacab": "Dic. 30"
+},
+{
+  "dia": "Vie.",
+  "fecha": "02/01/2026",
+  "fechacab": "Ene. 2"
+},
+{
+  "dia": "Sáb.",
+  "fecha": "03/01/2026",
+  "fechacab": "Ene. 3"
+},
+{
+  "dia": "Lun.",
+  "fecha": "05/01/2026",
+  "fechacab": "Ene. 5"
+},
+{
+  "dia": "Mar.",
+  "fecha": "06/01/2026",
+  "fechacab": "Ene. 6"
+},
+{
+  "dia": "Hoy",
+  "fecha": "07/01/2026",
+  "fechacab": "Ene. 7"
 },
 ]
