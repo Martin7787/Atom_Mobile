@@ -60775,6 +60775,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "COMPANY JUNIN S.A.C.",
+  "ruc": "20612723894",
+  "direccion": "URB. SAN CARLOS N° SN INT. LT. DP. MZ. KM. JUNÍN CHANCHAMAYO CHANCHAMAYO",
+  "tipo": "0",
+  "fecha": "08/01/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "AMADECOR IMPORT S.A.C.",
   "ruc": "20612770361",
   "direccion": "AV. REPUBLICA DE ARGENTINA URB. LIMA INDUSTRIAL N° 240 INT. LT. DP. MZ. KM. LIMA LIMA LIMA",
