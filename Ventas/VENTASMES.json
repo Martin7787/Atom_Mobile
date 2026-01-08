@@ -16421,4 +16421,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "08/01/2026",
+  "fecha": "Ene. 8",
+  "serie": "T001",
+  "numero": "00019735",
+  "nombre": "GRUPO AMAHOGAR SAC",
+  "moneda": "PEN",
+  "totguia": "6220",
+  "acuenta": "6220",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "10:16 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
