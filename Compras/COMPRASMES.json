@@ -167,6 +167,17 @@
 {
   "fechacab": "29/12/2025",
   "serie": "COT",
+  "numero": "MOQ00472",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.7",
+  "hora": "10:36 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/12/2025",
+  "serie": "COT",
   "numero": "DIA25005377",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
