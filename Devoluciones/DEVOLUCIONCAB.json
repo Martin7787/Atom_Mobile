@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000247",
+  "nombre": "PONCE CRISTOBAL VICTOR ANDRES",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.7",
+  "fecha": "08/01/2026",
+  "hora": "02:03 p. m.",
+  "docu": "T001-00019453",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000246",
   "nombre": "LUCY BETTY MAMANI AMANQUI",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "17/09/2025",
   "hora": "01:38 p. m.",
   "docu": "T001-00017052",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000217",
-  "nombre": "SAYAN IMPORTACIONES SOCIEDAD ANONIMA CERRADA",
-  "moneda": "PEN",
-  "totguia": "144",
-  "tipc": "3.7",
-  "fecha": "15/09/2025",
-  "hora": "10:55 a. m.",
-  "docu": "T001-00016835",
   "via": "USER: SOFI",
   "bloquear": ""
 },
