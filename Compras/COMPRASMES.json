@@ -45,6 +45,17 @@
 },
 {
   "fechacab": "06/01/2026",
+  "serie": "COT",
+  "numero": "MOQ00475",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "200",
+  "tipc": "3.7",
+  "hora": "10:37 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/01/2026",
   "serie": "FAC",
   "numero": "F001-00017733",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
