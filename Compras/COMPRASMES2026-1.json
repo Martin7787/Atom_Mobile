@@ -266,6 +266,17 @@
 {
   "fechacab": "06/01/2026",
   "serie": "COT",
+  "numero": "YH0002542",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "168",
+  "tipc": "3.7",
+  "hora": "11:36 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "06/01/2026",
+  "serie": "COT",
   "numero": "RT000443",
   "nombre": "ROBERT TURPO",
   "moneda": "PEN",
