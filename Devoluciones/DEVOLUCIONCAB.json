@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000248",
+  "nombre": "HAYDEE CHACHAIMA SALINAS",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.7",
+  "fecha": "09/01/2026",
+  "hora": "04:11 p. m.",
+  "docu": "T001-00019758",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000247",
   "nombre": "PONCE CRISTOBAL VICTOR ANDRES",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "19/09/2025",
   "hora": "11:05 a. m.",
   "docu": "T001-00017129",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000218",
-  "nombre": "JOSE LUIS MAZA",
-  "moneda": "PEN",
-  "totguia": "135",
-  "tipc": "3.7",
-  "fecha": "17/09/2025",
-  "hora": "01:38 p. m.",
-  "docu": "T001-00017052",
   "via": "USER: SOFI",
   "bloquear": ""
 },
