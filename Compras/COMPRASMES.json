@@ -268,8 +268,19 @@
   "serie": "COT",
   "numero": "GE09893",
   "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "PEN",
+  "moneda": "USD",
   "totguia": "186",
+  "tipc": "3.7",
+  "hora": "11:31 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/01/2026",
+  "serie": "COT",
+  "numero": "GE09881",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "96",
   "tipc": "3.7",
   "hora": "11:30 a. m.",
   "docu": "USER: MARTIN"
