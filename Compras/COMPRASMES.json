@@ -112,6 +112,17 @@
 {
   "fechacab": "07/01/2026",
   "serie": "COT",
+  "numero": "YH0002544",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "320",
+  "tipc": "3.7",
+  "hora": "11:35 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "07/01/2026",
+  "serie": "COT",
   "numero": "RJ00014",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
@@ -240,6 +251,17 @@
   "tipc": "3.375",
   "hora": "02:12 p. m.",
   "docu": "USER: DANTE"
+},
+{
+  "fechacab": "06/01/2026",
+  "serie": "COT",
+  "numero": "YH0002543",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.7",
+  "hora": "11:35 a. m.",
+  "docu": "USER: MARTIN"
 },
 {
   "fechacab": "06/01/2026",
