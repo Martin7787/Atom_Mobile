@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "08/01/2026",
+  "serie": "COT",
+  "numero": "DD26050000104",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "2646",
+  "tipc": "3.37",
+  "hora": "08:39 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "07/01/2026",
   "serie": "COT",
   "numero": "RJ00014",
