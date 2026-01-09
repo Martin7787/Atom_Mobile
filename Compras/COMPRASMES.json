@@ -407,6 +407,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "05/01/2026",
+  "serie": "COT",
+  "numero": "DIA26000019",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1620",
+  "tipc": "3.7",
+  "hora": "02:11 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "03/01/2026",
   "serie": "COT",
   "numero": "RJ00008",
