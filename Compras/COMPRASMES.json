@@ -46,6 +46,17 @@
 {
   "fechacab": "08/01/2026",
   "serie": "COT",
+  "numero": "GP000034",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "90",
+  "tipc": "3.7",
+  "hora": "11:23 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "08/01/2026",
+  "serie": "COT",
   "numero": "DD26050000104",
   "nombre": "DOU DOU",
   "moneda": "PEN",
