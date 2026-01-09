@@ -265,6 +265,17 @@
 },
 {
   "fechacab": "06/01/2026",
+  "serie": "COT",
+  "numero": "GE09893",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "PEN",
+  "totguia": "186",
+  "tipc": "3.7",
+  "hora": "11:30 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/01/2026",
   "serie": "FAC",
   "numero": "F001-00017733",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
