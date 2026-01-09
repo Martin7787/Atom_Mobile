@@ -178,6 +178,17 @@
 {
   "fechacab": "06/01/2026",
   "serie": "COT",
+  "numero": "RT000443",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "288",
+  "tipc": "3.7",
+  "hora": "11:22 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/01/2026",
+  "serie": "COT",
   "numero": "MOQ00475",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
