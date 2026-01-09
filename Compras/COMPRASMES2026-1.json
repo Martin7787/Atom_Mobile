@@ -24,6 +24,17 @@
 {
   "fechacab": "07/01/2026",
   "serie": "COT",
+  "numero": "MOQ00478",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "2084.2",
+  "tipc": "3.7",
+  "hora": "11:16 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "07/01/2026",
+  "serie": "COT",
   "numero": "MOQ001611",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
