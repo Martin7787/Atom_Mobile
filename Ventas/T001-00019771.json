@@ -79,8 +79,8 @@
   "punidad": "0.0000"
 },
 {
-  "codart": "BOL7W-SUNDA",
-  "descripcion": "BOLO 7\" HOTELERO LISO (CAJA X  40 UND)",
+  "codart": "BOL7W-GALLERY",
+  "descripcion": "BOLO 7\" BLANCO LISO ALTO GALLERY (CAJA X  40 UND)",
   "cajas": "2",
   "doce": "0",
   "unidad": "0",
@@ -96,8 +96,8 @@
   "cantimp": "2 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "-",
-  "preal": "110",
+  "auto": "SOFI",
+  "preal": "100",
   "punidad": "0.0000"
 },
 {
