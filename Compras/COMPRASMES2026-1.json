@@ -2,6 +2,17 @@
 {
   "fechacab": "09/01/2026",
   "serie": "COT",
+  "numero": "H20260106-285",
+  "nombre": "RONGQUIAN",
+  "moneda": "PEN",
+  "totguia": "3036",
+  "tipc": "3.37",
+  "hora": "02:47 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "09/01/2026",
+  "serie": "COT",
   "numero": "DIA26000118",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
