@@ -2,6 +2,17 @@
 {
   "fechacab": "09/01/2026",
   "serie": "COT",
+  "numero": "MOQ00479",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "152",
+  "tipc": "3.7",
+  "hora": "10:41 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "09/01/2026",
+  "serie": "COT",
   "numero": "H20260106-285",
   "nombre": "RONGQUIAN",
   "moneda": "PEN",
