@@ -57,6 +57,17 @@
 {
   "fechacab": "08/01/2026",
   "serie": "COT",
+  "numero": "RT000492",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "132",
+  "tipc": "3.7",
+  "hora": "10:39 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "08/01/2026",
+  "serie": "COT",
   "numero": "RT000484",
   "nombre": "ROBERT TURPO",
   "moneda": "PEN",
@@ -1867,160 +1878,6 @@
   "totguia": "75",
   "tipc": "3.7",
   "hora": "09:58 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "YH0002427",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "90",
-  "tipc": "3.7",
-  "hora": "10:44 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "RJ04993",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.7",
-  "hora": "11:09 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "RJ04981",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "180",
-  "tipc": "3.7",
-  "hora": "11:09 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00437",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "11:05 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00436",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "80",
-  "tipc": "3.7",
-  "hora": "10:48 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00435",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "340",
-  "tipc": "3.7",
-  "hora": "11:06 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00432",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "80",
-  "tipc": "3.7",
-  "hora": "11:04 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "MOQ000438",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "11:05 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "MOQ000434",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "80",
-  "tipc": "3.7",
-  "hora": "11:01 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "MOQ000433",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "360",
-  "tipc": "3.7",
-  "hora": "11:06 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "MOQ000400",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "80",
-  "tipc": "3.7",
-  "hora": "10:59 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "GP000630",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "110",
-  "tipc": "3.7",
-  "hora": "10:55 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "FT002769",
-  "nombre": "FORTUNATO MALLQUI NIETO",
-  "moneda": "PEN",
-  "totguia": "3300",
-  "tipc": "3.7",
-  "hora": "11:08 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/12/2025",
-  "serie": "COT",
-  "numero": "CX000015",
-  "nombre": "CORPORACION GCC S.A.C",
-  "moneda": "PEN",
-  "totguia": "310",
-  "tipc": "3.7",
-  "hora": "10:58 a. m.",
   "docu": "USER: MARTIN"
 },
 ]
