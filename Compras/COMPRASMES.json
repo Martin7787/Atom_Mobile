@@ -486,6 +486,17 @@
 {
   "fechacab": "03/01/2026",
   "serie": "COT",
+  "numero": "RT000411",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.7",
+  "hora": "10:42 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "03/01/2026",
+  "serie": "COT",
   "numero": "RJ00008",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
