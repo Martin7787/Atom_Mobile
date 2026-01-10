@@ -573,6 +573,17 @@
 },
 {
   "fechacab": "30/12/2025",
+  "serie": "FAC",
+  "numero": "F030-00007892",
+  "nombre": "ESTABLECIMIENTOS INCA S.AC",
+  "moneda": "USD",
+  "totguia": "1176.46",
+  "tipc": "3.375",
+  "hora": "05:41 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "30/12/2025",
   "serie": "COT",
   "numero": "DIA25005379",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
