@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000249",
+  "nombre": "LUCY MARILU GABRIEL QUISPE",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.7",
+  "fecha": "10/01/2026",
+  "hora": "03:54 p. m.",
+  "docu": "T001-00019785",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000248",
   "nombre": "HAYDEE CHACHAIMA SALINAS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "02/10/2025",
   "hora": "01:06 p. m.",
   "docu": "T001-00017298",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000219",
-  "nombre": "JESUS CASTAÑEDA",
-  "moneda": "PEN",
-  "totguia": "210",
-  "tipc": "3.7",
-  "fecha": "19/09/2025",
-  "hora": "11:05 a. m.",
-  "docu": "T001-00017129",
   "via": "USER: SOFI",
   "bloquear": ""
 },
