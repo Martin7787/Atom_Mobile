@@ -1090,6 +1090,17 @@
 },
 {
   "fechacab": "15/12/2025",
+  "serie": "FAC",
+  "numero": "F001-00017613",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1125",
+  "tipc": "3.37",
+  "hora": "08:43 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "15/12/2025",
   "serie": "COT",
   "numero": "DT002780",
   "nombre": "FORTUNATO MALLQUI NIETO",
