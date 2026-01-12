@@ -68809,6 +68809,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "CLIENTES VARIOS",
+  "ruc": "40056757",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "12/01/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "HECTOR ROSALES",
   "ruc": "40057461",
   "direccion": "SANTA ANITA",
