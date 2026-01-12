@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000252",
+  "nombre": "ROSARIO LLANQUECHA TAYA ",
+  "moneda": "PEN",
+  "totguia": "440",
+  "tipc": "3.7",
+  "fecha": "12/01/2026",
+  "hora": "03:28 p. m.",
+  "docu": "T001-00019688",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000251",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "04/11/2025",
   "hora": "02:12 p. m.",
   "docu": "T001-00017507",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000222",
-  "nombre": "MICHAEL LOAYZA AQUINO",
-  "moneda": "PEN",
-  "totguia": "104",
-  "tipc": "3.7",
-  "fecha": "24/10/2025",
-  "hora": "06:34 p. m.",
-  "docu": "T001-00017710",
   "via": "USER: SOFI",
   "bloquear": ""
 },
