@@ -11589,9 +11589,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "04:47 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "05/01/2026",
@@ -11691,9 +11691,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "01:54 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "05/01/2026",
@@ -11827,9 +11827,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "12:16 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "05/01/2026",
@@ -12235,9 +12235,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "11:46 a. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "06/01/2026",
@@ -13697,9 +13697,9 @@
   "tipc": "3.7",
   "estado": "CONTADO",
   "hora": "10:37 a. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "10/01/2026",
@@ -14023,6 +14023,23 @@
   "docu": "USER: LIZETH",
   "bloquear": "",
   "user": "LIZETH"
+},
+{
+  "fechacab": "12/01/2026",
+  "fecha": "Ene. 12",
+  "serie": "T001",
+  "numero": "00019801",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "80",
+  "acuenta": "80",
+  "saldo": "0.0000",
+  "tipc": "3.7",
+  "estado": "CONTADO",
+  "hora": "12:13 p. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "12/01/2026",
