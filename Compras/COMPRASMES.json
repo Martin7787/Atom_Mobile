@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "12/01/2026",
+  "serie": "COT",
+  "numero": "FT000006",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "6710",
+  "tipc": "3.7",
+  "hora": "12:02 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "10/01/2026",
   "serie": "COT",
   "numero": "D26050000127",
