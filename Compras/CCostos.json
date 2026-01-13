@@ -409,8 +409,8 @@
   "tipc": "3.370",
   "cantidad": " 10 CAJAS  0 DOCENA  0 UNIDAD",
   "totcompra": "1000.00",
-  "costo_sol": "295519.48",
-  "costo_dol": "87691.24",
+  "costo_sol": "9839753.04",
+  "costo_dol": "2919808.12",
   "cajas": "10 CAJ",
   "undmy": "0 DOC",
   "undmn": "0 UND"
@@ -1529,8 +1529,8 @@
   "tipc": "3.370",
   "cantidad": " 1 CAJAS  0 DOCENA  0 UNIDAD",
   "totcompra": "0.01",
-  "costo_sol": "295182.52",
-  "costo_dol": "87591.26",
+  "costo_sol": "9839416.08",
+  "costo_dol": "2919708.13",
   "cajas": "1 CAJ",
   "undmy": "0 DOC",
   "undmn": "0 UND"
@@ -62585,8 +62585,8 @@
   "tipc": "3.370",
   "cantidad": " 10 CAJAS  0 UNIDAD  0 UNIDAD",
   "totcompra": "2000.00",
-  "costo_sol": "12973.28",
-  "costo_dol": "3849.64",
+  "costo_sol": "410649.66",
+  "costo_dol": "121854.50",
   "cajas": "10 CAJ",
   "undmy": "0 UND",
   "undmn": "0 UND"
