@@ -24,6 +24,17 @@
 {
   "fechacab": "10/01/2026",
   "serie": "COT",
+  "numero": "YH0002555",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "168",
+  "tipc": "3.7",
+  "hora": "10:34 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/01/2026",
+  "serie": "COT",
   "numero": "GE09982",
   "nombre": "GOLDEN ELECTRONIC S.A.C.",
   "moneda": "USD",
