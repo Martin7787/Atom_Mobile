@@ -24,6 +24,17 @@
 {
   "fechacab": "10/01/2026",
   "serie": "COT",
+  "numero": "GE09982",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "1412",
+  "tipc": "3.7",
+  "hora": "10:23 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/01/2026",
+  "serie": "COT",
   "numero": "D26050000127",
   "nombre": "DOU DOU",
   "moneda": "PEN",
@@ -1725,104 +1736,5 @@
   "tipc": "3.38",
   "hora": "02:27 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "13/12/2025",
-  "serie": "COT",
-  "numero": "GP000671",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "400",
-  "tipc": "3.7",
-  "hora": "11:09 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "13/12/2025",
-  "serie": "COT",
-  "numero": "GP000669",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "200",
-  "tipc": "3.7",
-  "hora": "11:10 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "13/12/2025",
-  "serie": "COT",
-  "numero": "GP000666",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "220",
-  "tipc": "3.7",
-  "hora": "11:10 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "13/12/2025",
-  "serie": "COT",
-  "numero": "GP000664",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "110",
-  "tipc": "3.7",
-  "hora": "11:11 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "13/12/2025",
-  "serie": "COT",
-  "numero": "DIA25005110",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "318",
-  "tipc": "3.38",
-  "hora": "02:24 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "13/12/2025",
-  "serie": "COT",
-  "numero": "DIA25005109",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "299",
-  "tipc": "3.38",
-  "hora": "02:23 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "13/12/2025",
-  "serie": "COT",
-  "numero": "DIA25005108",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "840",
-  "tipc": "3.38",
-  "hora": "02:20 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "13/12/2025",
-  "serie": "COT",
-  "numero": "DIA25005075",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "2900",
-  "tipc": "3.38",
-  "hora": "02:18 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "13/12/2025",
-  "serie": "COT",
-  "numero": "511028",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "4784.8",
-  "tipc": "3.38",
-  "hora": "05:31 p. m.",
-  "docu": "USER: SOFI"
 },
 ]
