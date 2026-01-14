@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000254",
+  "nombre": "SAYAN IMPORTACIONES SOCIEDAD ANONIMA CERRADA",
+  "moneda": "PEN",
+  "totguia": "240",
+  "tipc": "3.4",
+  "fecha": "14/01/2026",
+  "hora": "02:06 p. m.",
+  "docu": "T001-00019819",
+  "via": "USER: DANTE",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000253",
   "nombre": "WILSON JOSÉ ASTO VICENTE",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "17/11/2025",
   "hora": "12:50 p. m.",
   "docu": "T001-00017841",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000224",
-  "nombre": "COMERCIAL GABRIELA EIRL",
-  "moneda": "PEN",
-  "totguia": "7.75",
-  "tipc": "3.7",
-  "fecha": "10/11/2025",
-  "hora": "03:17 p. m.",
-  "docu": "T001-00017961",
   "via": "USER: SOFI",
   "bloquear": ""
 },
