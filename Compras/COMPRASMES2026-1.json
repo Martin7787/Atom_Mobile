@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "14/01/2026",
+  "serie": "FAC",
+  "numero": "FT01-00001329",
+  "nombre": "SIN LIMITES SAC",
+  "moneda": "PEN",
+  "totguia": "5120",
+  "tipc": "3.37",
+  "hora": "01:58 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "13/01/2026",
   "serie": "COT",
   "numero": "YH0002567",
