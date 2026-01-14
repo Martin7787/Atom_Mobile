@@ -58108,7 +58108,7 @@
   "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
   "cant": "0",
   "preciosol": "144",
-  "precio": "38.92",
+  "precio": "42.35",
   "preciount": "0.0000",
   "costosol": "120",
   "costodol": "33.9",
@@ -58119,7 +58119,7 @@
   "linea": "RONGQIAN",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
+  "vneg": "True",
   "via": "",
   "bloquear": "false"
 },
