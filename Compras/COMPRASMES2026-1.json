@@ -11,6 +11,28 @@
   "docu": ""
 },
 {
+  "fechacab": "13/01/2026",
+  "serie": "COT",
+  "numero": "MOQ00483",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "304",
+  "tipc": "3.4",
+  "hora": "11:08 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "13/01/2026",
+  "serie": "COT",
+  "numero": "MOQ00482",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "11:07 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "12/01/2026",
   "serie": "COT",
   "numero": "FT000006",
