@@ -14944,7 +14944,7 @@
   "stock": "STOCK = 2 CAJ  0 SET  0 UNI",
   "cant": "16",
   "preciosol": "120",
-  "precio": "32.43",
+  "precio": "35.29",
   "preciount": "0.0000",
   "costosol": "96",
   "costodol": "28.49",
@@ -14955,7 +14955,7 @@
   "linea": "RONGQIAN",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
+  "vneg": "True",
   "via": "",
   "bloquear": "false"
 },
