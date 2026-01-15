@@ -13157,4 +13157,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "15/01/2026",
+  "fecha": "Ene. 15",
+  "serie": "T001",
+  "numero": "00019849",
+  "nombre": "WALTER AYASTA ATENCIO",
+  "moneda": "PEN",
+  "totguia": "301",
+  "acuenta": "301",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "11:59 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
