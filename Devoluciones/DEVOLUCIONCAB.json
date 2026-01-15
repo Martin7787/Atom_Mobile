@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000256",
+  "nombre": "GRUPO AMAHOGAR SAC",
+  "moneda": "PEN",
+  "totguia": "17.5",
+  "tipc": "3.4",
+  "fecha": "15/01/2026",
+  "hora": "10:36 a. m.",
+  "docu": "T001-00019737",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000255",
   "nombre": "GRUPO AMAHOGAR SAC",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "01/12/2025",
   "hora": "12:19 p. m.",
   "docu": "T001-00018504",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000226",
-  "nombre": "RESTAURANTE PERU MANKA E.I.R.L.",
-  "moneda": "PEN",
-  "totguia": "12.5",
-  "tipc": "3.7",
-  "fecha": "19/11/2025",
-  "hora": "04:24 p. m.",
-  "docu": "T001-00018229",
   "via": "USER: SOFI",
   "bloquear": ""
 },
