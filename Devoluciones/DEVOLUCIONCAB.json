@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000255",
+  "nombre": "GRUPO AMAHOGAR SAC",
+  "moneda": "PEN",
+  "totguia": "368",
+  "tipc": "3.4",
+  "fecha": "15/01/2026",
+  "hora": "10:35 a. m.",
+  "docu": "T001-00019735",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000254",
   "nombre": "SAYAN IMPORTACIONES SOCIEDAD ANONIMA CERRADA",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "19/11/2025",
   "hora": "04:24 p. m.",
   "docu": "T001-00018229",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000225",
-  "nombre": "BENDEZU ROCA VICTORIA FELICIA",
-  "moneda": "PEN",
-  "totguia": "240",
-  "tipc": "3.7",
-  "fecha": "17/11/2025",
-  "hora": "12:50 p. m.",
-  "docu": "T001-00017841",
   "via": "USER: SOFI",
   "bloquear": ""
 },
