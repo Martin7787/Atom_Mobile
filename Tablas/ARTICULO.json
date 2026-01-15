@@ -44622,7 +44622,7 @@
   "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
   "cant": "0",
   "preciosol": "120",
-  "precio": "32.43",
+  "precio": "35.29",
   "preciount": "0.0000",
   "costosol": "81",
   "costodol": "22.5",
@@ -44633,7 +44633,7 @@
   "linea": "LOZAS",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
+  "vneg": "True",
   "via": "",
   "bloquear": "false"
 },
