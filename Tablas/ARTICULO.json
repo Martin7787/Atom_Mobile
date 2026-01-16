@@ -28688,6 +28688,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "J37155BOX",
+  "descripcion": "JARRA BRISA 1.8 LT C/TAPA (CAJA X  12 UND)",
+  "fecha": "16/01/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "85",
+  "precio": "25",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "12",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "YCHI",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "J4146A",
   "descripcion": "TAPER C/RESPIRO LUMINARC (CAJA X  6 UND)",
   "fecha": "11/01/2022",
