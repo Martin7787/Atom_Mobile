@@ -3250,6 +3250,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "ROBERT",
+  "ruc": "06274999",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "16/01/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "RAUL HUMBERTO MORALES QUILCATE",
   "ruc": "06448151",
   "direccion": "IQUITOS",
