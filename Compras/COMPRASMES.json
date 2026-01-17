@@ -2,6 +2,17 @@
 {
   "fechacab": "16/01/2026",
   "serie": "COT",
+  "numero": "RJ00047",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.4",
+  "hora": "10:57 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "16/01/2026",
+  "serie": "COT",
   "numero": "DD26050000173",
   "nombre": "DOU DOU",
   "moneda": "PEN",
@@ -1505,137 +1516,5 @@
   "tipc": "3.7",
   "hora": "11:32 a. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/12/2025",
-  "serie": "COT",
-  "numero": "RT000241",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "144",
-  "tipc": "3.7",
-  "hora": "11:34 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/12/2025",
-  "serie": "COT",
-  "numero": "RT000230",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "304",
-  "tipc": "3.7",
-  "hora": "11:33 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/12/2025",
-  "serie": "COT",
-  "numero": "RJ00145",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "520",
-  "tipc": "3.7",
-  "hora": "11:41 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00452",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "240",
-  "tipc": "3.7",
-  "hora": "11:39 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00451",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "11:30 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00450",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "90",
-  "tipc": "3.7",
-  "hora": "11:42 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00449",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "80",
-  "tipc": "3.7",
-  "hora": "11:39 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/12/2025",
-  "serie": "COT",
-  "numero": "CG005071",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "126",
-  "tipc": "3.7",
-  "hora": "11:43 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/12/2025",
-  "serie": "COT",
-  "numero": "CG005053",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "98",
-  "tipc": "3.7",
-  "hora": "11:43 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/12/2025",
-  "serie": "COT",
-  "numero": "1037880",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "10378.8",
-  "tipc": "3.38",
-  "hora": "04:42 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "17/12/2025",
-  "serie": "COT",
-  "numero": "1034795",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "10347.95",
-  "tipc": "3.38",
-  "hora": "05:02 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "17/12/2025",
-  "serie": "COT",
-  "numero": "00143",
-  "nombre": "COMERCIAL DANERI",
-  "moneda": "PEN",
-  "totguia": "200",
-  "tipc": "3.38",
-  "hora": "04:36 p. m.",
-  "docu": "USER: DANTE"
 },
 ]
