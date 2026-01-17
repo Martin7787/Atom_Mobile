@@ -12647,4 +12647,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "17/01/2026",
+  "fecha": "Ene. 17",
+  "serie": "T001",
+  "numero": "00019888",
+  "nombre": "PREVENSALUD KIARI E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "380",
+  "acuenta": "380",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "09:50 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
