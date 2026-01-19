@@ -58674,6 +58674,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "TCB-2005",
+  "descripcion": "BOWL (CAJA X  24 UND)",
+  "fecha": "19/01/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "75",
+  "precio": "22.06",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "24",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "TC-J003",
   "descripcion": "JARRA LABRADA DE VIDRIO (CAJA X  6 SET)",
   "fecha": "08/11/2023",
