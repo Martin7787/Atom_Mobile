@@ -332,6 +332,17 @@
 {
   "fechacab": "09/01/2026",
   "serie": "COT",
+  "numero": "H020260109-89",
+  "nombre": "CINCO NUEVE SAC",
+  "moneda": "PEN",
+  "totguia": "9872",
+  "tipc": "3.4",
+  "hora": "06:51 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "09/01/2026",
+  "serie": "COT",
   "numero": "DIA26000118",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
