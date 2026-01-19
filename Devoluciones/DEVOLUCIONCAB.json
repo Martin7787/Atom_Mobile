@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000257",
+  "nombre": "PLASTICOS V E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "214",
+  "tipc": "3.4",
+  "fecha": "19/01/2026",
+  "hora": "01:34 p. m.",
+  "docu": "T001-00019840",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000256",
   "nombre": "GRUPO AMAHOGAR SAC",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "03/12/2025",
   "hora": "07:55 p. m.",
   "docu": "T001-00018638",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000227",
-  "nombre": "KLISMAN NUÑEZ",
-  "moneda": "PEN",
-  "totguia": "145",
-  "tipc": "3.7",
-  "fecha": "01/12/2025",
-  "hora": "12:19 p. m.",
-  "docu": "T001-00018504",
   "via": "USER: SOFI",
   "bloquear": ""
 },
