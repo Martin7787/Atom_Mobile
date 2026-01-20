@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "19/01/2026",
+  "serie": "COT",
+  "numero": "CX000463",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "130",
+  "tipc": "3.4",
+  "hora": "10:58 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "17/01/2026",
   "serie": "COT",
   "numero": "RT000594",
@@ -101,6 +112,17 @@
 {
   "fechacab": "15/01/2026",
   "serie": "COT",
+  "numero": "YH0002576",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "168",
+  "tipc": "3.4",
+  "hora": "10:58 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "15/01/2026",
+  "serie": "COT",
   "numero": "RJ00043",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
@@ -123,6 +145,17 @@
 {
   "fechacab": "15/01/2026",
   "serie": "COT",
+  "numero": "MOQ00489",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "240",
+  "tipc": "3.4",
+  "hora": "11:00 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "15/01/2026",
+  "serie": "COT",
   "numero": "MOQ000488",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
@@ -140,6 +173,17 @@
   "totguia": "3869",
   "tipc": "3.37",
   "hora": "04:14 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "14/01/2026",
+  "serie": "COT",
+  "numero": "YH0002569",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "640",
+  "tipc": "3.4",
+  "hora": "10:59 a. m.",
   "docu": ""
 },
 {
