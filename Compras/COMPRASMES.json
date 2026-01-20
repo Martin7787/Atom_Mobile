@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "20/01/2026",
+  "serie": "FAC",
+  "numero": "123",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "USD",
+  "totguia": "1000",
+  "tipc": "3.4",
+  "hora": "04:59 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "19/01/2026",
   "serie": "COT",
   "numero": "CX000463",
