@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "17/01/2026",
+  "serie": "COT",
+  "numero": "RT000594",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.4",
+  "hora": "10:57 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "16/01/2026",
   "serie": "COT",
   "numero": "TQ000779",
