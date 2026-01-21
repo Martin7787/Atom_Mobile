@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "21/01/2026",
+  "serie": "COT",
+  "numero": "NS004-0002572",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "945",
+  "tipc": "3.37",
+  "hora": "05:20 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "19/01/2026",
   "serie": "COT",
   "numero": "CX000463",
