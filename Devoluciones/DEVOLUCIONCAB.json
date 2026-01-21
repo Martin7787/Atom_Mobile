@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000259",
+  "nombre": "GALO ALBERTO CABREJOS TABOADA",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.4",
+  "fecha": "20/01/2026",
+  "hora": "07:32 p. m.",
+  "docu": "T001-00019885",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000258",
   "nombre": "PLASTICOS V E.I.R.L.",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "06/12/2025",
   "hora": "12:16 p. m.",
   "docu": "T001-00018727",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000229",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "200",
-  "tipc": "3.7",
-  "fecha": "05/12/2025",
-  "hora": "01:55 p. m.",
-  "docu": "T001-00018623",
   "via": "USER: SOFI",
   "bloquear": ""
 },
