@@ -10737,7 +10737,7 @@
 },
 {
   "codart": "7928",
-  "descripcion": "COPA WNDSOR COCKTAIL 335ML PERA NADIR (CAJA X  6 UND)",
+  "descripcion": "COPA WNDSOR COCKTAIL 335ML PERA NADIR (CAJA X 6 UND)",
   "fecha": "06/05/2022",
   "stock": "STOCK = 18 CAJ  0 UNI  0 UNI",
   "cant": "108",
@@ -10753,8 +10753,8 @@
   "linea": "YCHI",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "True",
-  "via": "",
+  "vneg": "False",
+  "via": "@ME19BB0",
   "bloquear": "false"
 },
 {
