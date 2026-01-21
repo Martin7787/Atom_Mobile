@@ -16874,6 +16874,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "BOL7W-X45-MORELLA",
+  "descripcion": "BOLO 7\" BLANCO C/BORDE DX024 (CAJA X  45 UND)",
+  "fecha": "21/01/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "130",
+  "precio": "38.24",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "45",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "BOL7W-X48-GALLERY",
   "descripcion": "BOLO 7\" BLANCO CHATO  (CAJA X  4 DOC)",
   "fecha": "01/06/2022",
