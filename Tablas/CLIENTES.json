@@ -61802,6 +61802,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "COMERCIAL AMBER",
+  "ruc": "20615246205",
+  "direccion": "AV.ABANCAY 407 DPTO. 403",
+  "tipo": "0",
+  "fecha": "21/01/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "ELIDA CARDENAS ",
   "ruc": "20646405",
   "direccion": "HUANCAYO",
