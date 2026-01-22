@@ -22,6 +22,28 @@
   "docu": "USER: DANTE"
 },
 {
+  "fechacab": "21/01/2026",
+  "serie": "COT",
+  "numero": "34793",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "08:23 p. m.",
+  "docu": "USER: "
+},
+{
+  "fechacab": "21/01/2026",
+  "serie": "COT",
+  "numero": "034793",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "9126",
+  "tipc": "3.37",
+  "hora": "08:33 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "19/01/2026",
   "serie": "COT",
   "numero": "CX000463",
