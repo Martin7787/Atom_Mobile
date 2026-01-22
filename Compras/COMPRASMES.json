@@ -55,6 +55,17 @@
   "docu": "USER: DANTE"
 },
 {
+  "fechacab": "20/01/2026",
+  "serie": "COT",
+  "numero": "YH0002600",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "10:56 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "19/01/2026",
   "serie": "COT",
   "numero": "CX000463",
@@ -1362,82 +1373,5 @@
   "tipc": "3.7",
   "hora": "05:14 p. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "22/12/2025",
-  "serie": "COT",
-  "numero": "RT000304",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "304",
-  "tipc": "3.7",
-  "hora": "11:28 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "22/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00463",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "10:52 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "22/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00462",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "516",
-  "tipc": "3.7",
-  "hora": "10:51 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "22/12/2025",
-  "serie": "COT",
-  "numero": "GP000855",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "90",
-  "tipc": "3.7",
-  "hora": "11:28 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "22/12/2025",
-  "serie": "FAC",
-  "numero": "F004-0000596",
-  "nombre": "YOVIS IMPORT",
-  "moneda": "PEN",
-  "totguia": "2200",
-  "tipc": "3.38",
-  "hora": "02:41 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "22/12/2025",
-  "serie": "COT",
-  "numero": "DIA25005256",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "1300",
-  "tipc": "3.7",
-  "hora": "05:15 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "22/12/2025",
-  "serie": "COT",
-  "numero": "002919",
-  "nombre": "FORTUNATO MALLQUI NIETO",
-  "moneda": "PEN",
-  "totguia": "2200",
-  "tipc": "3.38",
-  "hora": "08:04 p. m.",
-  "docu": "USER: DANTE"
 },
 ]
