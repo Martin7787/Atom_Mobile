@@ -13772,6 +13772,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "ARRO10W-X36",
+  "descripcion": "ARROCERO 10\" BLANCO (CAJA X  36 UND)",
+  "fecha": "22/01/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "144",
+  "precio": "42.35",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "36",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "ARRO7-MN",
   "descripcion": "ARROCERO 7\" COLORES/FLORES (CAJA X  48 UND)",
   "fecha": "19/09/2025",
