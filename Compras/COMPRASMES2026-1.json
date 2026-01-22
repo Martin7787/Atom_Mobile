@@ -35,17 +35,6 @@
 {
   "fechacab": "21/01/2026",
   "serie": "COT",
-  "numero": "34793",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "",
-  "totguia": "",
-  "tipc": "",
-  "hora": "08:23 p. m.",
-  "docu": "USER: "
-},
-{
-  "fechacab": "21/01/2026",
-  "serie": "COT",
   "numero": "309646",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
@@ -60,9 +49,9 @@
   "numero": "034793",
   "nombre": "JOSE JIBAJA",
   "moneda": "PEN",
-  "totguia": "9126",
+  "totguia": "12576",
   "tipc": "3.37",
-  "hora": "08:33 p. m.",
+  "hora": "12:42 p. m.",
   "docu": ""
 },
 {

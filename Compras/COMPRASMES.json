@@ -35,17 +35,6 @@
 {
   "fechacab": "21/01/2026",
   "serie": "COT",
-  "numero": "34793",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "",
-  "totguia": "",
-  "tipc": "",
-  "hora": "08:23 p. m.",
-  "docu": "USER: "
-},
-{
-  "fechacab": "21/01/2026",
-  "serie": "COT",
   "numero": "309646",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
@@ -60,9 +49,9 @@
   "numero": "034793",
   "nombre": "JOSE JIBAJA",
   "moneda": "PEN",
-  "totguia": "9126",
+  "totguia": "12576",
   "tipc": "3.37",
-  "hora": "08:33 p. m.",
+  "hora": "12:42 p. m.",
   "docu": "USER: DANTE"
 },
 {
@@ -1057,6 +1046,17 @@
 },
 {
   "fechacab": "30/12/2025",
+  "serie": "COT",
+  "numero": "RJ00392",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.7",
+  "hora": "10:39 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "30/12/2025",
   "serie": "FAC",
   "numero": "F030-00007892",
   "nombre": "ESTABLECIMIENTOS INCA S.AC",
@@ -1097,6 +1097,28 @@
   "totguia": "160",
   "tipc": "3.7",
   "hora": "10:34 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/12/2025",
+  "serie": "COT",
+  "numero": "YH0002477",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "336",
+  "tipc": "3.7",
+  "hora": "10:22 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/12/2025",
+  "serie": "COT",
+  "numero": "RT000369",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.7",
+  "hora": "10:38 a. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -1318,6 +1340,17 @@
   "tipc": "3.7",
   "hora": "10:30 a. m.",
   "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "26/12/2025",
+  "serie": "COT",
+  "numero": "001133",
+  "nombre": "MIRIAN NINAJA",
+  "moneda": "USD",
+  "totguia": "1842",
+  "tipc": "3.38",
+  "hora": "08:59 p. m.",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "24/12/2025",
