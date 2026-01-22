@@ -68310,6 +68310,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "YH-18AB",
+  "descripcion": "VENTILADOR 3EN1 METAL AZUL (CAJA X  2 UND)",
+  "fecha": "21/01/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "125",
+  "precio": "36.76",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "2",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "VENTILADOR",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "YJ2B-5703",
   "descripcion": "TAZA P CAFE DE VIDRIO CAPUCHINO (CAJA X  48 UND)",
   "fecha": "31/01/2022",
