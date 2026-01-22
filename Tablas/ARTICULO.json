@@ -4840,6 +4840,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "2644-1.0L",
+  "descripcion": "TERMO COLOR 1 LT (CAJA X  24 UND)",
+  "fecha": "21/01/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "240",
+  "precio": "70.59",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "24",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "TERMOS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "2644BB-NP",
   "descripcion": "TERMO BB 1LT (CAJA X  2 DOC)",
   "fecha": "08/09/2021",
