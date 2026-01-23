@@ -2,6 +2,17 @@
 {
   "fechacab": "22/01/2026",
   "serie": "COT",
+  "numero": "F063-00071223",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "370.93",
+  "tipc": "3.36",
+  "hora": "08:41 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "22/01/2026",
+  "serie": "COT",
   "numero": "DIA26000323",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
