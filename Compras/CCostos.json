@@ -41847,11 +41847,11 @@
   "proveedor": "HOUSEMART PERU SAC",
   "moneda": "PEN",
   "tipc": "3.370",
-  "cantidad": " 50 CAJAS  0 UNIDAD  0 UNIDAD",
-  "totcompra": "4827.00",
+  "cantidad": " 49 CAJAS  0 UNIDAD  0 UNIDAD",
+  "totcompra": "4730.46",
   "costo_sol": "96.60",
   "costo_dol": "28.66",
-  "cajas": "50 CAJ",
+  "cajas": "49 CAJ",
   "undmy": "0 UND",
   "undmn": "0 UND"
 },
@@ -128241,7 +128241,7 @@
 },
 {
   "codart": "TCB-1997",
-  "descripcion": "PLATO (CAJA X  24 UND)",
+  "descripcion": "PLATO 10.5\" NEGRO MATE FILO (CAJA X  24 UND)",
   "fecha": "23/01/2026",
   "documento": "COT-H20260121-155",
   "proveedor": "RONGQUIAN",
@@ -128257,7 +128257,7 @@
 },
 {
   "codart": "TCB-1997",
-  "descripcion": "PLATO (CAJA X  24 UND)",
+  "descripcion": "PLATO 10.5\" NEGRO MATE FILO (CAJA X  24 UND)",
   "fecha": "09/01/2026",
   "documento": "COT-H020260109-89",
   "proveedor": "RONGQUIAN",

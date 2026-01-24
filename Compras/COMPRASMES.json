@@ -225,9 +225,9 @@
   "numero": "1758830",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
-  "totguia": "17588.3",
+  "totguia": "17491.76",
   "tipc": "3.37",
-  "hora": "06:49 p. m.",
+  "hora": "01:20 p. m.",
   "docu": "USER: DANTE"
 },
 {
@@ -1384,16 +1384,5 @@
   "tipc": "3.38",
   "hora": "08:59 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "24/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00402",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "622",
-  "tipc": "3.7",
-  "hora": "11:09 a. m.",
-  "docu": "USER: MARTIN"
 },
 ]
