@@ -4524,6 +4524,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MIGUEL ACEVEDO RIVAS",
+  "ruc": "07406835",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "26/01/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "FRANCISCO SUTTA MESA",
   "ruc": "07408877",
   "direccion": "TREBOL AZUL MZJ1 LT 1 SAN JUAN DE MIRAFLORES",
@@ -6310,6 +6323,19 @@
   "direccion": " LIMA - LIMA  - SAN MARTÍN DE PORRES",
   "tipo": "0",
   "fecha": "23/06/2021",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "VICTOR GAMERO",
+  "ruc": "08626842",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "26/01/2026",
   "telefono": "",
   "email": "",
   "trato": "",
