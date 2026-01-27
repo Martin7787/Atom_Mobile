@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "24/01/2026",
+  "serie": "COT",
+  "numero": "RJ00082",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "360",
+  "tipc": "3.4",
+  "hora": "10:23 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "23/01/2026",
   "serie": "COT",
   "numero": "H20260121-155",
@@ -1196,138 +1207,6 @@
   "totguia": "120",
   "tipc": "3.7",
   "hora": "11:52 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/12/2025",
-  "serie": "COT",
-  "numero": "YV028719",
-  "nombre": "YOVIS IMPORT",
-  "moneda": "PEN",
-  "totguia": "2200",
-  "tipc": "3.7",
-  "hora": "04:54 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/12/2025",
-  "serie": "COT",
-  "numero": "YH002523",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "480",
-  "tipc": "3.7",
-  "hora": "10:32 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/12/2025",
-  "serie": "COT",
-  "numero": "rj00370",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "180",
-  "tipc": "3.7",
-  "hora": "10:36 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00471",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "10:25 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00470",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.7",
-  "hora": "10:24 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00469",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "594",
-  "tipc": "3.7",
-  "hora": "10:27 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/12/2025",
-  "serie": "COT",
-  "numero": "GP000879",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "90",
-  "tipc": "3.7",
-  "hora": "10:31 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/12/2025",
-  "serie": "FAC",
-  "numero": "F063-00070339",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "0.0000",
-  "tipc": "3.4",
-  "hora": "08:23 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/12/2025",
-  "serie": "FAC",
-  "numero": "F063-00070337",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "6727.9",
-  "tipc": "3.4",
-  "hora": "08:20 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/12/2025",
-  "serie": "COT",
-  "numero": "CML002557",
-  "nombre": "COMERCIAL LINA",
-  "moneda": "PEN",
-  "totguia": "1056",
-  "tipc": "3.7",
-  "hora": "10:29 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/12/2025",
-  "serie": "COT",
-  "numero": "CG005330",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "196",
-  "tipc": "3.7",
-  "hora": "10:37 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/12/2025",
-  "serie": "COT",
-  "numero": "002196",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "7800",
-  "tipc": "3.7",
-  "hora": "04:52 p. m.",
   "docu": "USER: MARTIN"
 },
 ]
