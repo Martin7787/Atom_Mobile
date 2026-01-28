@@ -7788,6 +7788,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "52052",
+  "descripcion": "SET DE VASOS ALANYA (CAJA X  8 SET)",
+  "fecha": "27/01/2026",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "35",
+  "precio": "10.29",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "8",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "VASOS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "5208",
   "descripcion": "JARRA DE LOZA (CAJA X 18 UND)",
   "fecha": "22/01/2024",
