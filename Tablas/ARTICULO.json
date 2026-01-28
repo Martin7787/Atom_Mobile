@@ -42218,6 +42218,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "MOLINOX4",
+  "descripcion": "MOLINO CORONA (CAJA X  4 UND)",
+  "fecha": "28/01/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "400",
+  "precio": "117.65",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "4",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "VARIOS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "MOQ-14",
   "descripcion": "BOLOS DE LOZA (CAJA X  2 DOC)",
   "fecha": "14/10/2021",
