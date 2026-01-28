@@ -447,7 +447,7 @@
   "moneda": "USD",
   "totguia": "5961.15",
   "tipc": "3.4",
-  "hora": "07:38 p. m.",
+  "hora": "02:50 p. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -1240,17 +1240,6 @@
   "totguia": "372",
   "tipc": "3.7",
   "hora": "10:38 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "28/12/2025",
-  "serie": "COT",
-  "numero": "GP000547",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.7",
-  "hora": "11:52 a. m.",
   "docu": "USER: MARTIN"
 },
 ]
