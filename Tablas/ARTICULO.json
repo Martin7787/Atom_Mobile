@@ -43494,6 +43494,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "OCT-K79248A",
+  "descripcion": "SET DE VASOS LABRADO 333ML (CAJA X  8 SET)",
+  "fecha": "28/01/2026",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "84",
+  "precio": "24.71",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "8",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "VASOS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "OLLA28CM",
   "descripcion": "OLLA DE ACERO INOXIDABLE C/TAPA (CAJA X  16 UND)",
   "fecha": "11/04/2024",
