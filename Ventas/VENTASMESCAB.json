@@ -115,8 +115,13 @@
   "fechacab": "Ene. 26"
 },
 {
-  "dia": "Hoy",
+  "dia": "Mar.",
   "fecha": "27/01/2026",
   "fechacab": "Ene. 27"
+},
+{
+  "dia": "Hoy",
+  "fecha": "28/01/2026",
+  "fechacab": "Ene. 28"
 },
 ]
