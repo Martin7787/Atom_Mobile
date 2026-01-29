@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000261",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "fecha": "29/01/2026",
+  "hora": "06:35 p. m.",
+  "docu": "T001-00020089",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000260",
   "nombre": "THERMO CLIMA S.A.C.",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "12/12/2025",
   "hora": "11:27 a. m.",
   "docu": "T001-00018924",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000231",
-  "nombre": "JORGE LUIS ATOCCSA CHOMBO",
-  "moneda": "PEN",
-  "totguia": "96",
-  "tipc": "3.7",
-  "fecha": "10/12/2025",
-  "hora": "06:10 p. m.",
-  "docu": "T001-00018830",
   "via": "USER: SOFI",
   "bloquear": ""
 },
