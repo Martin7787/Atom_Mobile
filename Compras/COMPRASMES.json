@@ -49,9 +49,9 @@
   "numero": "H20260121-155",
   "nombre": "RONGQUIAN",
   "moneda": "PEN",
-  "totguia": "3510",
+  "totguia": "3610",
   "tipc": "3.37",
-  "hora": "06:40 p. m.",
+  "hora": "02:36 p. m.",
   "docu": "USER: DANTE"
 },
 {
@@ -1185,72 +1185,6 @@
   "totguia": "6500",
   "tipc": "3.7",
   "hora": "06:26 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/12/2025",
-  "serie": "COT",
-  "numero": "YH0002528",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.7",
-  "hora": "10:34 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/12/2025",
-  "serie": "COT",
-  "numero": "YH0002477",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "336",
-  "tipc": "3.7",
-  "hora": "10:22 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/12/2025",
-  "serie": "COT",
-  "numero": "RT000369",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "144",
-  "tipc": "3.7",
-  "hora": "10:38 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/12/2025",
-  "serie": "COT",
-  "numero": "MOQ00472",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.7",
-  "hora": "10:36 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/12/2025",
-  "serie": "COT",
-  "numero": "DIA25005377",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "3097",
-  "tipc": "3.7",
-  "hora": "07:51 p. m.",
-  "docu": "USER: SOFI"
-},
-{
-  "fechacab": "29/12/2025",
-  "serie": "COT",
-  "numero": "CG005362",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "372",
-  "tipc": "3.7",
-  "hora": "10:38 a. m.",
   "docu": "USER: MARTIN"
 },
 ]
