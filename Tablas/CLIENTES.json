@@ -75075,6 +75075,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MARIA VERGARA",
+  "ruc": "41701164",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "29/01/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "CRISTIAN MIGUEL MIRANDA LOPEZ",
   "ruc": "41705501",
   "direccion": "LIMA",
