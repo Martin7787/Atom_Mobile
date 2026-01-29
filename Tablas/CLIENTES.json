@@ -1300,6 +1300,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MANUEL ORBEZO",
+  "ruc": "01061650",
+  "direccion": "TARAPOTO",
+  "tipo": "0",
+  "fecha": "29/01/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MARIA ENRIQUETA TANGOA PANAIJO",
   "ruc": "01083570",
   "direccion": "LIMA",
