@@ -1,5 +1,49 @@
 [
 {
+  "fechacab": "29/01/2026",
+  "serie": "COT",
+  "numero": "NP311186",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "120",
+  "tipc": "3.4",
+  "hora": "11:43 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/01/2026",
+  "serie": "COT",
+  "numero": "GP000116",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.4",
+  "hora": "11:42 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "28/01/2026",
+  "serie": "COT",
+  "numero": "YH0002619",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.4",
+  "hora": "11:39 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "28/01/2026",
+  "serie": "COT",
+  "numero": "MOQ00492",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "11:41 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "27/01/2026",
   "serie": "COT",
   "numero": "GE10208",
@@ -187,6 +231,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "18/01/2026",
+  "serie": "COT",
+  "numero": "RT000739",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.4",
+  "hora": "11:40 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "17/01/2026",
   "serie": "COT",
   "numero": "RT000594",
@@ -371,6 +426,17 @@
   "totguia": "640",
   "tipc": "3.4",
   "hora": "10:59 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "14/01/2026",
+  "serie": "COT",
+  "numero": "MOQ00485",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "240",
+  "tipc": "3.4",
+  "hora": "11:42 a. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -1152,50 +1218,6 @@
   "totguia": "120",
   "tipc": "3.7",
   "hora": "12:23 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "30/12/2025",
-  "serie": "COT",
-  "numero": "RJ00392",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "70",
-  "tipc": "3.7",
-  "hora": "10:39 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "30/12/2025",
-  "serie": "FAC",
-  "numero": "F030-00007892",
-  "nombre": "ESTABLECIMIENTOS INCA S.AC",
-  "moneda": "USD",
-  "totguia": "1176.46",
-  "tipc": "3.375",
-  "hora": "05:41 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "30/12/2025",
-  "serie": "COT",
-  "numero": "DIA25005379",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "4598.2",
-  "tipc": "3.37",
-  "hora": "08:09 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "30/12/2025",
-  "serie": "COT",
-  "numero": "301225",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "6500",
-  "tipc": "3.7",
-  "hora": "06:26 p. m.",
   "docu": "USER: MARTIN"
 },
 ]

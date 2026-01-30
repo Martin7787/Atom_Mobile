@@ -1,5 +1,49 @@
 [
 {
+  "fechacab": "29/01/2026",
+  "serie": "COT",
+  "numero": "NP311186",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "120",
+  "tipc": "3.4",
+  "hora": "11:43 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "29/01/2026",
+  "serie": "COT",
+  "numero": "GP000116",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.4",
+  "hora": "11:42 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "28/01/2026",
+  "serie": "COT",
+  "numero": "YH0002619",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.4",
+  "hora": "11:39 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "28/01/2026",
+  "serie": "COT",
+  "numero": "MOQ00492",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "11:41 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "27/01/2026",
   "serie": "COT",
   "numero": "GE10208",
@@ -187,6 +231,17 @@
   "docu": ""
 },
 {
+  "fechacab": "18/01/2026",
+  "serie": "COT",
+  "numero": "RT000739",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.4",
+  "hora": "11:40 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "17/01/2026",
   "serie": "COT",
   "numero": "RT000594",
@@ -371,6 +426,17 @@
   "totguia": "640",
   "tipc": "3.4",
   "hora": "10:59 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "14/01/2026",
+  "serie": "COT",
+  "numero": "MOQ00485",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "240",
+  "tipc": "3.4",
+  "hora": "11:42 a. m.",
   "docu": ""
 },
 {
