@@ -2,6 +2,17 @@
 {
   "fechacab": "30/01/2026",
   "serie": "COT",
+  "numero": "MOQ00495",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "108",
+  "tipc": "3.4",
+  "hora": "02:10 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "30/01/2026",
+  "serie": "COT",
   "numero": "DIA26000337",
   "nombre": "CLIENTES VARIOS",
   "moneda": "",
@@ -9,6 +20,28 @@
   "tipc": "",
   "hora": "05:13 p. m.",
   "docu": "USER: "
+},
+{
+  "fechacab": "30/01/2026",
+  "serie": "COT",
+  "numero": "CG000024",
+  "nombre": "CENTER GLASS E.I.R.L",
+  "moneda": "PEN",
+  "totguia": "136",
+  "tipc": "3.4",
+  "hora": "02:13 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "30/01/2026",
+  "serie": "COT",
+  "numero": "C00100",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.4",
+  "hora": "02:12 p. m.",
+  "docu": ""
 },
 {
   "fechacab": "29/01/2026",
@@ -19,6 +52,17 @@
   "totguia": "120",
   "tipc": "3.4",
   "hora": "11:43 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "29/01/2026",
+  "serie": "COT",
+  "numero": "MOQ00493",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.4",
+  "hora": "02:11 p. m.",
   "docu": ""
 },
 {
