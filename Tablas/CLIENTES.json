@@ -46618,6 +46618,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "NEGOCIACIONES SANTA CRUZ S.A.C.",
+  "ruc": "20504197469",
+  "direccion": "AV. JAVIER PRADO ESTE URB. LA RIVIERA DE MONTERRICO N° 6303 INT. LT. DP. MZ. KM. LIMA LIMA LA MOLINA",
+  "tipo": "0",
+  "fecha": "30/01/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "IMPORTACIONES JAABU S.A.C.",
   "ruc": "20504251692",
   "direccion": "JR.CUZCO N.-626 INT.E12 SOT GAL.MDO.CENTRAL LIMA",
@@ -47940,6 +47953,19 @@
   "email": " ",
   "trato": " ",
   "obs": " ",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "L.G. NEGOCIOS S.A.C.",
+  "ruc": "20524246661",
+  "direccion": "JR. HUALLAGA N° 650 INT. 417 LT. DP. MZ. KM. LIMA LIMA LIMA",
+  "tipo": "0",
+  "fecha": "30/01/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
   "via": "",
   "bloquear": "false"
 },
@@ -65208,6 +65234,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "VICTOR MELENDEZ MENDOZA",
+  "ruc": "25711281",
+  "direccion": "SAN MARTÍN DE PORRES",
+  "tipo": "0",
+  "fecha": "31/01/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "KAREN MUNIVES",
   "ruc": "25714207",
   "direccion": "LIMA",
@@ -80249,6 +80288,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "CARLOS ALBERTO INGA CHAVEZ",
+  "ruc": "43206478",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "30/01/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "ALICIA",
   "ruc": "43207283",
   "direccion": "LIMA",
@@ -84518,6 +84570,19 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "07/12/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "ANGELA VALERIO",
+  "ruc": "44545674",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "30/01/2026",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -100399,6 +100464,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MARICLER CHAVEZ",
+  "ruc": "74050548",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "30/01/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "JENY HUANCA",
   "ruc": "74060335",
   "direccion": "JULIACA",
@@ -102167,6 +102245,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MILAGROS DEL ROSARIO PEREZ QUISPE",
+  "ruc": "75577464",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "30/01/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "DARWIN BANDA",
   "ruc": "75603263",
   "direccion": "PUENTE PIEDRA",
@@ -103472,6 +103563,19 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "06/07/2023",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "MIGUEL ALVARADO QUISPE ",
+  "ruc": "76648025",
+  "direccion": "HUANCAYO",
+  "tipo": "0",
+  "fecha": "30/01/2026",
   "telefono": "",
   "email": "",
   "trato": "",

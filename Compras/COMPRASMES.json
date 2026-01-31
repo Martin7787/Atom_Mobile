@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "30/01/2026",
+  "serie": "COT",
+  "numero": "DIA26000337",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "05:13 p. m.",
+  "docu": "USER: "
+},
+{
   "fechacab": "29/01/2026",
   "serie": "COT",
   "numero": "NP311186",
@@ -107,6 +118,28 @@
   "totguia": "3138",
   "tipc": "3.37",
   "hora": "02:39 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "23/01/2026",
+  "serie": "COT",
+  "numero": "DIA26000336",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1146.93",
+  "tipc": "3.37",
+  "hora": "04:29 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "23/01/2026",
+  "serie": "COT",
+  "numero": "DIA26000335",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "6934.2",
+  "tipc": "3.37",
+  "hora": "03:13 p. m.",
   "docu": "USER: DANTE"
 },
 {
