@@ -140,7 +140,7 @@
   "preciosol": "90",
   "precio": "24.32",
   "preciount": "0.0000",
-  "costosol": "59.55",
+  "costosol": "60.08",
   "costodol": "17.67",
   "undmy": "4",
   "undmn": "12",
@@ -149,8 +149,8 @@
   "linea": "YCHI",
   "cdesc": "480",
   "pdesc": "1.35",
-  "vneg": "True",
-  "via": "",
+  "vneg": "False",
+  "via": "-",
   "bloquear": "false"
 },
 {
