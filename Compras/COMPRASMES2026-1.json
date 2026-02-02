@@ -13,17 +13,6 @@
 {
   "fechacab": "30/01/2026",
   "serie": "COT",
-  "numero": "DIA26000337",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "",
-  "totguia": "",
-  "tipc": "",
-  "hora": "05:13 p. m.",
-  "docu": "USER: "
-},
-{
-  "fechacab": "30/01/2026",
-  "serie": "COT",
   "numero": "CG000024",
   "nombre": "CENTER GLASS E.I.R.L",
   "moneda": "PEN",
@@ -162,6 +151,17 @@
   "totguia": "3138",
   "tipc": "3.37",
   "hora": "02:39 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "23/01/2026",
+  "serie": "COT",
+  "numero": "DIA26000337",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "2338.8",
+  "tipc": "3.4",
+  "hora": "11:00 a. m.",
   "docu": ""
 },
 {

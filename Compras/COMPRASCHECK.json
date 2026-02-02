@@ -21173,10 +21173,6 @@
 },
 {
   "serie": "COT",
-  "numero": "DIA26000337"
-},
-{
-  "serie": "COT",
   "numero": "MOQ00495"
 },
 {
@@ -21194,5 +21190,9 @@
 {
   "serie": "COT",
   "numero": "YH0002592"
+},
+{
+  "serie": "COT",
+  "numero": "DIA26000337"
 },
 ]
