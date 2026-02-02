@@ -211,6 +211,17 @@
 {
   "fechacab": "21/01/2026",
   "serie": "COT",
+  "numero": "YH0002592",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.4",
+  "hora": "10:47 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "21/01/2026",
+  "serie": "COT",
   "numero": "NS004-0002572",
   "nombre": "DISTRIBUIDORA MORELLA",
   "moneda": "USD",
@@ -1284,17 +1295,6 @@
   "totguia": "70",
   "tipc": "3.7",
   "hora": "10:45 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "02/01/2026",
-  "serie": "COT",
-  "numero": "VL009945",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.7",
-  "hora": "12:23 p. m.",
   "docu": "USER: MARTIN"
 },
 ]
