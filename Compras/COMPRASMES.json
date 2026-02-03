@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "02/02/2026",
+  "serie": "COT",
+  "numero": "RJ00426",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "170",
+  "tipc": "3.4",
+  "hora": "10:56 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "31/01/2026",
   "serie": "COT",
   "numero": "GP000123",
@@ -19,6 +30,17 @@
   "totguia": "600",
   "tipc": "3.4",
   "hora": "10:53 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "30/01/2026",
+  "serie": "COT",
+  "numero": "YH0002626",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "1136",
+  "tipc": "3.4",
+  "hora": "10:56 a. m.",
   "docu": "USER: MARTIN"
 },
 {
