@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000262",
+  "nombre": "JESUS CASTAÑEDA",
+  "moneda": "PEN",
+  "totguia": "23.33",
+  "tipc": "3.4",
+  "fecha": "05/02/2026",
+  "hora": "12:17 p. m.",
+  "docu": "T001-00020191",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000261",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "12/12/2025",
   "hora": "01:17 p. m.",
   "docu": "T001-00018949",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000232",
-  "nombre": "MACEDO CUEVA ZENAIDA CLEMENTINA",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.7",
-  "fecha": "12/12/2025",
-  "hora": "11:27 a. m.",
-  "docu": "T001-00018924",
   "via": "USER: SOFI",
   "bloquear": ""
 },
