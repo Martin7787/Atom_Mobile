@@ -2,6 +2,17 @@
 {
   "fechacab": "04/02/2026",
   "serie": "COT",
+  "numero": "GP000138",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.4",
+  "hora": "11:18 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "04/02/2026",
+  "serie": "COT",
   "numero": "GE10332",
   "nombre": "GOLDEN ELECTRONIC S.A.C.",
   "moneda": "USD",
@@ -1241,93 +1252,5 @@
   "tipc": "3.7",
   "hora": "02:08 p. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/01/2026",
-  "serie": "COT",
-  "numero": "YH0002538",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "168",
-  "tipc": "3.7",
-  "hora": "10:44 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/01/2026",
-  "serie": "COT",
-  "numero": "SD05012026",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "21031",
-  "tipc": "3.7",
-  "hora": "01:00 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/01/2026",
-  "serie": "COT",
-  "numero": "RJ00009",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "140",
-  "tipc": "3.7",
-  "hora": "10:15 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/01/2026",
-  "serie": "COT",
-  "numero": "MOQ00474",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "180",
-  "tipc": "3.7",
-  "hora": "10:13 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/01/2026",
-  "serie": "COT",
-  "numero": "GE09855",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "74",
-  "tipc": "3.7",
-  "hora": "11:29 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/01/2026",
-  "serie": "COT",
-  "numero": "DIA26000019",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "1620",
-  "tipc": "3.7",
-  "hora": "02:11 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/01/2026",
-  "serie": "COT",
-  "numero": "DIA26000018",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "2607.71",
-  "tipc": "3.37",
-  "hora": "05:51 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "05/01/2026",
-  "serie": "COT",
-  "numero": "DD25050003337",
-  "nombre": "DOU DOU",
-  "moneda": "PEN",
-  "totguia": "3240",
-  "tipc": "3.37",
-  "hora": "05:50 p. m.",
-  "docu": "USER: DANTE"
 },
 ]
