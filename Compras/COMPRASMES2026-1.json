@@ -673,6 +673,17 @@
 {
   "fechacab": "13/01/2026",
   "serie": "COT",
+  "numero": "C00033",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "295",
+  "tipc": "3.4",
+  "hora": "11:20 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "13/01/2026",
+  "serie": "COT",
   "numero": "2026-000166",
   "nombre": "ESTABLECIMIENTOS INCA S.AC",
   "moneda": "USD",
