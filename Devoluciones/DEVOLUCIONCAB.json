@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000263",
+  "nombre": "OSCAR NINA",
+  "moneda": "PEN",
+  "totguia": "84",
+  "tipc": "3.4",
+  "fecha": "05/02/2026",
+  "hora": "03:20 p. m.",
+  "docu": "T001-00020199",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000262",
   "nombre": "JESUS CASTAÑEDA",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "13/12/2025",
   "hora": "03:01 p. m.",
   "docu": "T001-00018991",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000233",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "100",
-  "tipc": "3.7",
-  "fecha": "12/12/2025",
-  "hora": "01:17 p. m.",
-  "docu": "T001-00018949",
   "via": "USER: SOFI",
   "bloquear": ""
 },
