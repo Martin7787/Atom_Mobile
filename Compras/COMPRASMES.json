@@ -22,6 +22,17 @@
   "docu": "USER: DANTE"
 },
 {
+  "fechacab": "04/02/2026",
+  "serie": "COT",
+  "numero": "DD2605000332",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "4120",
+  "tipc": "3.37",
+  "hora": "09:06 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "02/02/2026",
   "serie": "COT",
   "numero": "RJ00426",
