@@ -33484,6 +33484,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "JGO18-EP9959",
+  "descripcion": "VAJILLA X 18 PCS NEGRO MATE ROCK (CAJA X  2 SET)",
+  "fecha": "04/02/2026",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "140",
+  "precio": "41.18",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "2",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "VAJILLA",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "JGO18-PJ1849",
   "descripcion": "VAJILLA X 18 PCS NEGRO MATE (CAJA X  2 SET)",
   "fecha": "10/09/2025",
