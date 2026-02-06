@@ -8074,6 +8074,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "5412ROJO",
+  "descripcion": "SET DE VASOS LABRADO ROJO 315ML (CAJA X  8 SET)",
+  "fecha": "06/02/2026",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "155",
+  "precio": "45.59",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "8",
+  "undmn": "1",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "VASOS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "5413CG",
   "descripcion": "SET DE VASOS LABRADO VERDE 315ML (CAJA X  8 SET)",
   "fecha": "28/01/2026",
