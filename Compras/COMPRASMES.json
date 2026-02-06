@@ -2,13 +2,24 @@
 {
   "fechacab": "05/02/2026",
   "serie": "COT",
+  "numero": "MOQ00496",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "440",
+  "tipc": "3.4",
+  "hora": "05:09 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/02/2026",
+  "serie": "COT",
   "numero": "001941",
   "nombre": "BEN BEN S.A.C.",
   "moneda": "PEN",
   "totguia": "4800",
   "tipc": "3.37",
-  "hora": "01:22 p. m.",
-  "docu": "USER: SOFI"
+  "hora": "05:46 p. m.",
+  "docu": "USER: MARTIN"
 },
 {
   "fechacab": "04/02/2026",
