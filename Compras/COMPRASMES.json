@@ -68,6 +68,17 @@
 {
   "fechacab": "05/02/2026",
   "serie": "COT",
+  "numero": "C054503",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "250",
+  "tipc": "3.4",
+  "hora": "11:33 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/02/2026",
+  "serie": "COT",
   "numero": "001941",
   "nombre": "BEN BEN S.A.C.",
   "moneda": "PEN",
