@@ -90,6 +90,17 @@
 {
   "fechacab": "05/02/2026",
   "serie": "COT",
+  "numero": "DIA26000513",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "1100",
+  "tipc": "3.3",
+  "hora": "02:35 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "05/02/2026",
+  "serie": "COT",
   "numero": "C054503",
   "nombre": "CREACIONES BETHEL S.A.C.",
   "moneda": "PEN",
