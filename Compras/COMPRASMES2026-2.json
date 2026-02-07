@@ -2,12 +2,34 @@
 {
   "fechacab": "06/02/2026",
   "serie": "COT",
+  "numero": "RJ00116",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.4",
+  "hora": "11:26 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "06/02/2026",
+  "serie": "COT",
   "numero": "MOQ00498",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
   "totguia": "172",
   "tipc": "3.4",
   "hora": "11:22 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "06/02/2026",
+  "serie": "COT",
+  "numero": "GP000144",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.4",
+  "hora": "11:26 a. m.",
   "docu": ""
 },
 {
