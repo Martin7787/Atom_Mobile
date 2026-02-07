@@ -68,6 +68,17 @@
 {
   "fechacab": "05/02/2026",
   "serie": "COT",
+  "numero": "GP00141",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "110",
+  "tipc": "3.4",
+  "hora": "11:34 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/02/2026",
+  "serie": "COT",
   "numero": "C054503",
   "nombre": "CREACIONES BETHEL S.A.C.",
   "moneda": "PEN",
