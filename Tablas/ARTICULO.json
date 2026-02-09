@@ -45540,6 +45540,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "P-112ZQ",
+  "descripcion": "VASO CHOPP (CAJA X  2 DOC)",
+  "fecha": "09/02/2026",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "155",
+  "precio": "45.59",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "2",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "P114",
   "descripcion": "PLATO 10.5\" RUSTICO (CAJA X  28 UND)",
   "fecha": "23/07/2025",
