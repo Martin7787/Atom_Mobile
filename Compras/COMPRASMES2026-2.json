@@ -155,6 +155,17 @@
 },
 {
   "fechacab": "04/02/2026",
+  "serie": "COT",
+  "numero": "GE00109",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "128",
+  "tipc": "3.4",
+  "hora": "03:58 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "04/02/2026",
   "serie": "FAC",
   "numero": "F401-00041710",
   "nombre": "GRUPO FEY",
