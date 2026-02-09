@@ -53174,6 +53174,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "S8815 ",
+  "descripcion": "TAZA COLORES (CAJA X  4 DOC)",
+  "fecha": "09/02/2026",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "175",
+  "precio": "51.47",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "4",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "S97CP27",
   "descripcion": "SET X6 COPAS CRISTAL TRIVENTO CHAMPAGNE 270ML (CAJA X  4 SET)",
   "fecha": "28/01/2026",
