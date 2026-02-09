@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000264",
+  "nombre": "INVERSIONES VERCINTH SOCIEDAD ANONIMA CERRADA ",
+  "moneda": "PEN",
+  "totguia": "175",
+  "tipc": "3.4",
+  "fecha": "09/02/2026",
+  "hora": "04:48 p. m.",
+  "docu": "T001-00020270",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000263",
   "nombre": "OSCAR NINA",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "18/12/2025",
   "hora": "06:44 p. m.",
   "docu": "T001-00019043",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000234",
-  "nombre": "LUCY MARILU GABRIEL QUISPE",
-  "moneda": "PEN",
-  "totguia": "200",
-  "tipc": "3.7",
-  "fecha": "13/12/2025",
-  "hora": "03:01 p. m.",
-  "docu": "T001-00018991",
   "via": "USER: SOFI",
   "bloquear": ""
 },
