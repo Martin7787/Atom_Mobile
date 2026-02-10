@@ -1,5 +1,38 @@
 [
 {
+  "fechacab": "09/02/2026",
+  "serie": "COT",
+  "numero": "YH0002661",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "11:00 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "09/02/2026",
+  "serie": "COT",
+  "numero": "MOQ000801",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "570",
+  "tipc": "3.4",
+  "hora": "10:59 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "09/02/2026",
+  "serie": "COT",
+  "numero": "GE10394",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "54",
+  "tipc": "3.4",
+  "hora": "10:58 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "06/02/2026",
   "serie": "COT",
   "numero": "RJ00116",
@@ -965,61 +998,6 @@
   "totguia": "2870",
   "tipc": "3.7",
   "hora": "12:03 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/01/2026",
-  "serie": "COT",
-  "numero": "YH0002555",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "168",
-  "tipc": "3.7",
-  "hora": "10:34 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/01/2026",
-  "serie": "COT",
-  "numero": "GE09982",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "1412",
-  "tipc": "3.7",
-  "hora": "10:23 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/01/2026",
-  "serie": "COT",
-  "numero": "D26050000127",
-  "nombre": "DOU DOU",
-  "moneda": "PEN",
-  "totguia": "1920",
-  "tipc": "3.37",
-  "hora": "05:45 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "10/01/2026",
-  "serie": "COT",
-  "numero": "CG005579",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "252",
-  "tipc": "3.7",
-  "hora": "10:35 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "10/01/2026",
-  "serie": "COT",
-  "numero": "CG005568",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "72",
-  "tipc": "3.7",
-  "hora": "10:34 a. m.",
   "docu": "USER: MARTIN"
 },
 ]
