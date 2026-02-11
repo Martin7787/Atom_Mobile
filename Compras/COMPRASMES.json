@@ -2,6 +2,17 @@
 {
   "fechacab": "10/02/2026",
   "serie": "COT",
+  "numero": "VL098599",
+  "nombre": "VALESKA",
+  "moneda": "USD",
+  "totguia": "126",
+  "tipc": "3.4",
+  "hora": "11:01 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/02/2026",
+  "serie": "COT",
   "numero": "GE10410",
   "nombre": "GOLDEN ELECTRONIC S.A.C.",
   "moneda": "USD",
