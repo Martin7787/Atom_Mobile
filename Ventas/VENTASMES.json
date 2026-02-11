@@ -8720,4 +8720,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "11/02/2026",
+  "fecha": "Feb. 11",
+  "serie": "T001",
+  "numero": "00020313",
+  "nombre": "ALISON VIVAR ",
+  "moneda": "PEN",
+  "totguia": "70",
+  "acuenta": "70",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:56 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
