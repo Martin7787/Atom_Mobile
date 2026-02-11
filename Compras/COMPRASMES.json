@@ -13,6 +13,50 @@
 {
   "fechacab": "10/02/2026",
   "serie": "COT",
+  "numero": "RT000883",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "784",
+  "tipc": "3.4",
+  "hora": "11:06 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/02/2026",
+  "serie": "COT",
+  "numero": "MOQ00804",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "437.6",
+  "tipc": "3.4",
+  "hora": "11:05 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/02/2026",
+  "serie": "COT",
+  "numero": "MOQ00803",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "492",
+  "tipc": "3.4",
+  "hora": "11:04 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/02/2026",
+  "serie": "COT",
+  "numero": "GP00162",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "220",
+  "tipc": "3.4",
+  "hora": "11:02 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/02/2026",
+  "serie": "COT",
   "numero": "GE10410",
   "nombre": "GOLDEN ELECTRONIC S.A.C.",
   "moneda": "USD",
@@ -63,6 +107,17 @@
   "totguia": "54",
   "tipc": "3.4",
   "hora": "10:58 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "07/02/2026",
+  "serie": "COT",
+  "numero": "GP00148",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.4",
+  "hora": "11:03 a. m.",
   "docu": "USER: MARTIN"
 },
 {
