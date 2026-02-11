@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000265",
+  "nombre": "COMERCIAL TINEO JR E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "513",
+  "tipc": "3.4",
+  "fecha": "11/02/2026",
+  "hora": "04:16 p. m.",
+  "docu": "T001-00020264",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000264",
   "nombre": "INVERSIONES VERCINTH SOCIEDAD ANONIMA CERRADA ",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "20/12/2025",
   "hora": "04:22 p. m.",
   "docu": "T001-00019237",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000235",
-  "nombre": "MIGUEL ANGEL SOTO QUISPE",
-  "moneda": "PEN",
-  "totguia": "180",
-  "tipc": "3.7",
-  "fecha": "18/12/2025",
-  "hora": "06:44 p. m.",
-  "docu": "T001-00019043",
   "via": "USER: SOFI",
   "bloquear": ""
 },
