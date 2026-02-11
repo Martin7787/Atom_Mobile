@@ -539,9 +539,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "12:19 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "13/01/2026",
@@ -862,9 +862,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "06:36 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "15/01/2026",
@@ -4160,9 +4160,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "05:28 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "28/01/2026",
@@ -4568,9 +4568,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "05:09 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "29/01/2026",
@@ -5010,9 +5010,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "06:57 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "30/01/2026",
@@ -5163,9 +5163,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "03:02 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "30/01/2026",
@@ -5452,9 +5452,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "05:49 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "31/01/2026",
@@ -6268,9 +6268,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "12:11 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "03/02/2026",
@@ -8240,9 +8240,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "06:34 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "10/02/2026",
@@ -8359,9 +8359,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "03:55 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "10/02/2026",
@@ -8724,6 +8724,23 @@
   "fechacab": "11/02/2026",
   "fecha": "Feb. 11",
   "serie": "T001",
+  "numero": "00020333",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "132",
+  "acuenta": "132",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "05:34 p. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
+{
+  "fechacab": "11/02/2026",
+  "fecha": "Feb. 11",
+  "serie": "T001",
   "numero": "00020332",
   "nombre": "JOSUE URETA",
   "moneda": "PEN",
@@ -8954,9 +8971,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "12:57 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "11/02/2026",
