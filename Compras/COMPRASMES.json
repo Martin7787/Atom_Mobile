@@ -2,6 +2,17 @@
 {
   "fechacab": "10/02/2026",
   "serie": "COT",
+  "numero": "GE10410",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "11:00 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/02/2026",
+  "serie": "COT",
   "numero": "FT000011",
   "nombre": "FORTUNATO MALLQUI NIETO",
   "moneda": "PEN",
