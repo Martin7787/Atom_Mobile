@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "12/02/2026",
+  "serie": "COT",
+  "numero": "650.00",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "650",
+  "tipc": "3.4",
+  "hora": "05:54 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "11/02/2026",
   "serie": "FAC",
   "numero": "GP000165",
