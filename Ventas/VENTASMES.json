@@ -8300,17 +8300,17 @@
   "fecha": "Feb. 10",
   "serie": "T001",
   "numero": "00020288",
-  "nombre": "ROSARIO LLANQUECHA TAYA ",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "1150",
-  "acuenta": "1150",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "11:35 a. m.",
-  "docu": "USER: LIZETH",
+  "docu": "USER: MARTIN",
   "bloquear": "",
-  "user": "LIZETH"
+  "user": "MARTIN"
 },
 {
   "fechacab": "10/02/2026",
