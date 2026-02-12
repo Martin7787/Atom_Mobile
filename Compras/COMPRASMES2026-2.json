@@ -1,6 +1,28 @@
 [
 {
   "fechacab": "11/02/2026",
+  "serie": "FAC",
+  "numero": "GP000165",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.4",
+  "hora": "10:04 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "11/02/2026",
+  "serie": "FAC",
+  "numero": "GP000164",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.4",
+  "hora": "10:04 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "11/02/2026",
   "serie": "COT",
   "numero": "FT000258",
   "nombre": "FORTUNATO MALLQUI NIETO",
@@ -8,6 +30,17 @@
   "totguia": "3300",
   "tipc": "3.4",
   "hora": "04:05 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "11/02/2026",
+  "serie": "FAC",
+  "numero": "ADO000577",
+  "nombre": "ADONAI P&V MENAJE",
+  "moneda": "PEN",
+  "totguia": "240",
+  "tipc": "3.4",
+  "hora": "10:05 a. m.",
   "docu": ""
 },
 {
