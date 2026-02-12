@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000266",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "126",
+  "tipc": "3.4",
+  "fecha": "12/02/2026",
+  "hora": "03:59 p. m.",
+  "docu": "T001-00020159",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000265",
   "nombre": "COMERCIAL TINEO JR E.I.R.L.",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "22/12/2025",
   "hora": "12:38 p. m.",
   "docu": "T001-00019269",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000236",
-  "nombre": "RUBEN SILVA",
-  "moneda": "PEN",
-  "totguia": "138",
-  "tipc": "3.7",
-  "fecha": "20/12/2025",
-  "hora": "04:22 p. m.",
-  "docu": "T001-00019237",
   "via": "USER: SOFI",
   "bloquear": ""
 },
