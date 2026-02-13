@@ -62361,6 +62361,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "CORPORACION DUEÑAS SAC",
+  "ruc": "20614852853",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "13/02/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "COMERCIAL AMBER",
   "ruc": "20615246205",
   "direccion": "AV.ABANCAY 407 DPTO. 403",
