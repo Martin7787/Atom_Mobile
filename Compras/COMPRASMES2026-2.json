@@ -2,6 +2,28 @@
 {
   "fechacab": "13/02/2026",
   "serie": "COT",
+  "numero": "FT000268",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "2200",
+  "tipc": "3.4",
+  "hora": "03:20 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "COT",
+  "numero": "DIA26000606",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "07:37 p. m.",
+  "docu": "USER: "
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "COT",
   "numero": "DIA26000605",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",

@@ -2,6 +2,28 @@
 {
   "fechacab": "13/02/2026",
   "serie": "COT",
+  "numero": "FT000268",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "2200",
+  "tipc": "3.4",
+  "hora": "03:20 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "COT",
+  "numero": "DIA26000606",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "07:37 p. m.",
+  "docu": "USER: "
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "COT",
   "numero": "DIA26000605",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
@@ -1042,83 +1064,6 @@
   "totguia": "3869",
   "tipc": "3.37",
   "hora": "04:14 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "14/01/2026",
-  "serie": "COT",
-  "numero": "YH0002569",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "640",
-  "tipc": "3.4",
-  "hora": "10:59 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "14/01/2026",
-  "serie": "COT",
-  "numero": "MOQ00485",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "240",
-  "tipc": "3.4",
-  "hora": "11:42 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "14/01/2026",
-  "serie": "COT",
-  "numero": "MOQ00484",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.4",
-  "hora": "11:18 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "14/01/2026",
-  "serie": "COT",
-  "numero": "MOQ000487",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "300",
-  "tipc": "3.4",
-  "hora": "11:19 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "14/01/2026",
-  "serie": "FAC",
-  "numero": "FT01-00001329",
-  "nombre": "SIN LIMITES SAC",
-  "moneda": "PEN",
-  "totguia": "5120",
-  "tipc": "3.37",
-  "hora": "01:58 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "14/01/2026",
-  "serie": "COT",
-  "numero": "DIA26000194",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "4550",
-  "tipc": "3.372",
-  "hora": "05:56 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "14/01/2026",
-  "serie": "COT",
-  "numero": "260102234",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "921.88",
-  "tipc": "3.36",
-  "hora": "06:13 p. m.",
   "docu": "USER: DANTE"
 },
 ]
