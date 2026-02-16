@@ -8589,17 +8589,17 @@
   "fecha": "Feb. 16",
   "serie": "T001",
   "numero": "00020384",
-  "nombre": "CLIENTES VARIOS",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "150",
-  "acuenta": "150",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "11:07 a. m.",
-  "docu": "USER: EDITH",
+  "docu": "USER: MARTIN",
   "bloquear": "",
-  "user": "EDITH"
+  "user": "MARTIN"
 },
 {
   "fechacab": "16/02/2026",
