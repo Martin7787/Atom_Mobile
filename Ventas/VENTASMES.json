@@ -8397,4 +8397,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "16/02/2026",
+  "fecha": "Feb. 16",
+  "serie": "T001",
+  "numero": "00020382",
+  "nombre": "JESUS CASTAÑEDA",
+  "moneda": "PEN",
+  "totguia": "168",
+  "acuenta": "168",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:09 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
