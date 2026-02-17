@@ -8482,4 +8482,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "17/02/2026",
+  "fecha": "Feb. 17",
+  "serie": "T001",
+  "numero": "00020399",
+  "nombre": "MARIA ROSAURA CHAVEZ SANCHEZ",
+  "moneda": "PEN",
+  "totguia": "380",
+  "acuenta": "380",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:46 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
