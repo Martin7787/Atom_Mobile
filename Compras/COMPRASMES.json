@@ -1,6 +1,17 @@
 [
 {
   "fechacab": "18/02/2026",
+  "serie": "FAC",
+  "numero": "F401-00043437",
+  "nombre": "GRUPO FEY",
+  "moneda": "PEN",
+  "totguia": "7233",
+  "tipc": "3.36",
+  "hora": "06:53 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "18/02/2026",
   "serie": "COT",
   "numero": "DD26430000311",
   "nombre": "DOU DOU",
