@@ -24112,6 +24112,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "DX-55-236",
+  "descripcion": "BOWL 6\" RUSTICO  (CAJA X  48 UND)",
+  "fecha": "18/02/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "144",
+  "precio": "42.35",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "48",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "DX-55-68",
   "descripcion": "PLATO 8\" CON BORDE MARMOLEADO (CAJA X  3 DOC)",
   "fecha": "07/02/2024",
