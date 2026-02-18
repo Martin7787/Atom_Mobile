@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000267",
+  "nombre": "HERLY SOLEDAD TRINIDAD MARCELO",
+  "moneda": "PEN",
+  "totguia": "715",
+  "tipc": "3.4",
+  "fecha": "18/02/2026",
+  "hora": "01:04 p. m.",
+  "docu": "T001-00020042",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000266",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "22/12/2025",
   "hora": "02:21 p. m.",
   "docu": "T001-00019270",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000237",
-  "nombre": "XIOMARA SANCHEZ AVILA",
-  "moneda": "PEN",
-  "totguia": "234",
-  "tipc": "3.7",
-  "fecha": "22/12/2025",
-  "hora": "12:38 p. m.",
-  "docu": "T001-00019269",
   "via": "USER: SOFI",
   "bloquear": ""
 },
