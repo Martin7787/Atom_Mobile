@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "18/02/2026",
+  "serie": "COT",
+  "numero": "DD26430000311",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "2483.52",
+  "tipc": "3.36",
+  "hora": "05:55 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "16/02/2026",
   "serie": "COT",
   "numero": "YH0002699",
