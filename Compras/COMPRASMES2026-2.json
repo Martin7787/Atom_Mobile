@@ -35,6 +35,17 @@
 {
   "fechacab": "13/02/2026",
   "serie": "COT",
+  "numero": "GP00186",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "220",
+  "tipc": "3.4",
+  "hora": "12:31 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "COT",
   "numero": "GP000177",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
