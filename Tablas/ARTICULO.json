@@ -24794,6 +24794,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "EP-2467",
+  "descripcion": "PLATON BANDEJA RUSTICO (CAJA X  8 UND)",
+  "fecha": "18/02/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "125",
+  "precio": "36.76",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "8",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "ET-180",
   "descripcion": "TERMO MINI ELEGANT (CAJA X  12 UND)",
   "fecha": "21/09/2021",
