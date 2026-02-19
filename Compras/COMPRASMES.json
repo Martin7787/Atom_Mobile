@@ -100,6 +100,17 @@
 },
 {
   "fechacab": "13/02/2026",
+  "serie": "FAC",
+  "numero": "DIA26000606",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "660",
+  "tipc": "3.368",
+  "hora": "03:42 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "13/02/2026",
   "serie": "COT",
   "numero": "DIA26000605",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
@@ -987,28 +998,6 @@
   "totguia": "815",
   "tipc": "3.4",
   "hora": "10:26 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/01/2026",
-  "serie": "COT",
-  "numero": "MOQ00490",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "624",
-  "tipc": "3.4",
-  "hora": "10:58 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/01/2026",
-  "serie": "COT",
-  "numero": "CX000463",
-  "nombre": "CORPORACION GCC S.A.C",
-  "moneda": "PEN",
-  "totguia": "130",
-  "tipc": "3.4",
-  "hora": "10:58 a. m.",
   "docu": "USER: MARTIN"
 },
 ]
