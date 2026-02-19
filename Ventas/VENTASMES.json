@@ -7263,17 +7263,17 @@
   "fecha": "Feb. 12",
   "serie": "T001",
   "numero": "00020340",
-  "nombre": "CORPORACION INTI SHOCK S.A.C.",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "1737",
-  "acuenta": "1737",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "11:58 a. m.",
-  "docu": "USER: LIZETH",
+  "docu": "USER: MARTIN",
   "bloquear": "",
-  "user": "LIZETH"
+  "user": "MARTIN"
 },
 {
   "fechacab": "12/02/2026",
