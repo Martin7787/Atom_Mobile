@@ -1,6 +1,17 @@
 [
 {
   "fechacab": "20/02/2026",
+  "serie": "FAC",
+  "numero": "F032-00057727",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "0.05",
+  "tipc": "3.356",
+  "hora": "02:18 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "20/02/2026",
   "serie": "COT",
   "numero": "260204124",
   "nombre": "UNION YCHICAWA S.A",
