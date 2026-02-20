@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "20/02/2026",
+  "serie": "COT",
+  "numero": "260204124",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "675.48",
+  "tipc": "3.356",
+  "hora": "02:06 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "18/02/2026",
   "serie": "FAC",
   "numero": "F401-00043437",
@@ -89,17 +100,6 @@
 },
 {
   "fechacab": "13/02/2026",
-  "serie": "COT",
-  "numero": "DIA26000606",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "",
-  "totguia": "",
-  "tipc": "",
-  "hora": "07:37 p. m.",
-  "docu": "USER: "
-},
-{
-  "fechacab": "13/02/2026",
   "serie": "FAC",
   "numero": "DIA26000606",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
@@ -108,6 +108,17 @@
   "tipc": "3.368",
   "hora": "03:42 p. m.",
   "docu": "USER: DANTE"
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "COT",
+  "numero": "DIA26000606",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "07:37 p. m.",
+  "docu": "USER: "
 },
 {
   "fechacab": "13/02/2026",
@@ -977,27 +988,5 @@
   "tipc": "3.37",
   "hora": "12:42 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "20/01/2026",
-  "serie": "COT",
-  "numero": "YH0002600",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.4",
-  "hora": "10:56 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "20/01/2026",
-  "serie": "COT",
-  "numero": "MOQ00491",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "815",
-  "tipc": "3.4",
-  "hora": "10:26 a. m.",
-  "docu": "USER: MARTIN"
 },
 ]
