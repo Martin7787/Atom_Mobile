@@ -8686,4 +8686,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "21/02/2026",
+  "fecha": "Feb. 21",
+  "serie": "T001",
+  "numero": "00020461",
+  "nombre": "LUNAC S.A.C.",
+  "moneda": "PEN",
+  "totguia": "90",
+  "acuenta": "90",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:29 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
