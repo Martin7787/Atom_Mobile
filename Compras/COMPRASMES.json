@@ -40,7 +40,7 @@
   "moneda": "PEN",
   "totguia": "7233",
   "tipc": "3.36",
-  "hora": "06:53 p. m.",
+  "hora": "03:46 p. m.",
   "docu": "USER: DANTE"
 },
 {
@@ -954,72 +954,6 @@
   "totguia": "630",
   "tipc": "3.37",
   "hora": "01:29 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "21/01/2026",
-  "serie": "COT",
-  "numero": "YH0002592",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.4",
-  "hora": "10:47 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "21/01/2026",
-  "serie": "COT",
-  "numero": "NS004-0002572",
-  "nombre": "DISTRIBUIDORA MORELLA",
-  "moneda": "USD",
-  "totguia": "945",
-  "tipc": "3.37",
-  "hora": "05:20 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "21/01/2026",
-  "serie": "COT",
-  "numero": "NS002-0002439",
-  "nombre": "DISTRIBUIDORA MORELLA",
-  "moneda": "USD",
-  "totguia": "1407.26",
-  "tipc": "3.37",
-  "hora": "05:48 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "21/01/2026",
-  "serie": "COT",
-  "numero": "CX000473",
-  "nombre": "CORPORACION GCC S.A.C",
-  "moneda": "PEN",
-  "totguia": "130",
-  "tipc": "3.4",
-  "hora": "10:57 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "21/01/2026",
-  "serie": "COT",
-  "numero": "309646",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "3193",
-  "tipc": "3.37",
-  "hora": "08:56 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "21/01/2026",
-  "serie": "COT",
-  "numero": "034793",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "12576",
-  "tipc": "3.37",
-  "hora": "12:42 p. m.",
   "docu": "USER: DANTE"
 },
 ]
