@@ -12,6 +12,17 @@
 },
 {
   "fechacab": "30/12/2025",
+  "serie": "COT",
+  "numero": "HS30122025",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "9399.5",
+  "tipc": "3.4",
+  "hora": "07:16 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "30/12/2025",
   "serie": "FAC",
   "numero": "F030-00007892",
   "nombre": "ESTABLECIMIENTOS INCA S.AC",
