@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "24/02/2026",
+  "serie": "COT",
+  "numero": "DD26050000426",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "3300",
+  "tipc": "3.36",
+  "hora": "01:34 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "20/02/2026",
   "serie": "FAC",
   "numero": "F032-00057727",
@@ -877,17 +888,6 @@
   "totguia": "150",
   "tipc": "3.4",
   "hora": "10:24 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "24/01/2026",
-  "serie": "COT",
-  "numero": "RJ00082",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "360",
-  "tipc": "3.4",
-  "hora": "10:23 a. m.",
   "docu": "USER: MARTIN"
 },
 ]
