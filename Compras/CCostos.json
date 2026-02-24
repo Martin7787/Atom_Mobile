@@ -63191,12 +63191,12 @@
   "proveedor": "DOU DOU",
   "moneda": "PEN",
   "tipc": "3.360",
-  "cantidad": " 13 CAJAS  0 UNIDAD  0 UNIDAD",
-  "totcompra": "1485.12",
+  "cantidad": " 12 CAJAS  34 UNIDAD  0 UNIDAD",
+  "totcompra": "1451.80",
   "costo_sol": "114.24",
   "costo_dol": "34.00",
-  "cajas": "13 CAJ",
-  "undmy": "0 UND",
+  "cajas": "12 CAJ",
+  "undmy": "34 UND",
   "undmn": "0 UND"
 },
 {
@@ -63207,12 +63207,12 @@
   "proveedor": "DOU DOU",
   "moneda": "PEN",
   "tipc": "3.360",
-  "cantidad": " 10 CAJAS  0 UNIDAD  0 UNIDAD",
-  "totcompra": "998.40",
+  "cantidad": " 9 CAJAS  35 UNIDAD  0 UNIDAD",
+  "totcompra": "971.36",
   "costo_sol": "99.84",
   "costo_dol": "29.71",
-  "cajas": "10 CAJ",
-  "undmy": "0 UND",
+  "cajas": "9 CAJ",
+  "undmy": "35 UND",
   "undmn": "0 UND"
 },
 {
