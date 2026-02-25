@@ -2,6 +2,17 @@
 {
   "fechacab": "24/02/2026",
   "serie": "COT",
+  "numero": "YH0002717",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "165",
+  "tipc": "3.4",
+  "hora": "12:08 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "24/02/2026",
+  "serie": "COT",
   "numero": "HM18022026",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
@@ -30,6 +41,28 @@
   "totguia": "3286.25",
   "tipc": "3.36",
   "hora": "01:37 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "23/02/2026",
+  "serie": "COT",
+  "numero": "YH0002713",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.4",
+  "hora": "12:07 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "20/02/2026",
+  "serie": "COT",
+  "numero": "GP000210",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "110",
+  "tipc": "3.4",
+  "hora": "12:07 p. m.",
   "docu": ""
 },
 {
@@ -74,6 +107,28 @@
   "totguia": "840",
   "tipc": "3.365",
   "hora": "09:12 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "18/02/2026",
+  "serie": "COT",
+  "numero": "YH0002704",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "330",
+  "tipc": "3.4",
+  "hora": "12:09 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "18/02/2026",
+  "serie": "COT",
+  "numero": "YH0002703",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "640",
+  "tipc": "3.4",
+  "hora": "12:08 p. m.",
   "docu": ""
 },
 {
@@ -210,17 +265,6 @@
 },
 {
   "fechacab": "13/02/2026",
-  "serie": "COT",
-  "numero": "DIA26000606",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "",
-  "totguia": "",
-  "tipc": "",
-  "hora": "07:37 p. m.",
-  "docu": "USER: "
-},
-{
-  "fechacab": "13/02/2026",
   "serie": "FAC",
   "numero": "DIA26000606",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
@@ -229,6 +273,17 @@
   "tipc": "3.368",
   "hora": "03:42 p. m.",
   "docu": ""
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "COT",
+  "numero": "DIA26000606",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "07:37 p. m.",
+  "docu": "USER: "
 },
 {
   "fechacab": "13/02/2026",
