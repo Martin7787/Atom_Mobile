@@ -110,6 +110,28 @@
   "docu": ""
 },
 {
+  "fechacab": "17/02/2026",
+  "serie": "COT",
+  "numero": "GP000193",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.4",
+  "hora": "12:05 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "17/02/2026",
+  "serie": "COT",
+  "numero": "GP000192",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "220",
+  "tipc": "3.4",
+  "hora": "12:04 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "16/02/2026",
   "serie": "COT",
   "numero": "YH0002699",
@@ -188,17 +210,6 @@
 },
 {
   "fechacab": "13/02/2026",
-  "serie": "FAC",
-  "numero": "DIA26000606",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "660",
-  "tipc": "3.368",
-  "hora": "03:42 p. m.",
-  "docu": ""
-},
-{
-  "fechacab": "13/02/2026",
   "serie": "COT",
   "numero": "DIA26000606",
   "nombre": "CLIENTES VARIOS",
@@ -207,6 +218,17 @@
   "tipc": "",
   "hora": "07:37 p. m.",
   "docu": "USER: "
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "FAC",
+  "numero": "DIA26000606",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "660",
+  "tipc": "3.368",
+  "hora": "03:42 p. m.",
+  "docu": ""
 },
 {
   "fechacab": "13/02/2026",

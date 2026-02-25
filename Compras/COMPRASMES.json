@@ -110,6 +110,28 @@
   "docu": "USER: DANTE"
 },
 {
+  "fechacab": "17/02/2026",
+  "serie": "COT",
+  "numero": "GP000193",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.4",
+  "hora": "12:05 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "17/02/2026",
+  "serie": "COT",
+  "numero": "GP000192",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "220",
+  "tipc": "3.4",
+  "hora": "12:04 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "16/02/2026",
   "serie": "COT",
   "numero": "YH0002699",
