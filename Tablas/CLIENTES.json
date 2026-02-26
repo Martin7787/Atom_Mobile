@@ -61230,6 +61230,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "CLIENTES VARIOS",
+  "ruc": "20612042960",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "26/02/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "KULLKY SOLUCIONES INTEGRALES E.I.R.L.",
   "ruc": "20612101524",
   "direccion": "AV. PERIURBANA URB. VILLA CLUB 2 N° INT. LT. 7 DP. MZ. X KM. LIMA LIMA CARABAYLLO",
