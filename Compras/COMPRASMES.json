@@ -945,48 +945,4 @@
   "hora": "07:13 p. m.",
   "docu": "USER: DANTE"
 },
-{
-  "fechacab": "27/01/2026",
-  "serie": "COT",
-  "numero": "GE10208",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "264",
-  "tipc": "3.4",
-  "hora": "06:02 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/01/2026",
-  "serie": "FAC",
-  "numero": "F032-00057334",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "0.0000",
-  "tipc": "3.4",
-  "hora": "06:37 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/01/2026",
-  "serie": "FAC",
-  "numero": "F032-00057333",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "10924.38",
-  "tipc": "3.37",
-  "hora": "12:59 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/01/2026",
-  "serie": "COT",
-  "numero": "2026-000404",
-  "nombre": "ESTABLECIMIENTOS INCA S.AC",
-  "moneda": "USD",
-  "totguia": "2352.92",
-  "tipc": "3.36",
-  "hora": "06:20 p. m.",
-  "docu": "USER: DANTE"
-},
 ]
