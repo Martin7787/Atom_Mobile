@@ -62700,6 +62700,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "TP450W-H",
+  "descripcion": "TAZA C/PLATO BLANCO (CAJA X  2 DOC)",
+  "fecha": "27/02/2026",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "158",
+  "precio": "46.47",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "2",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "TP-6",
   "descripcion": "JARROS DECORADOS (CAJA X  4 DOC)",
   "fecha": "14/06/2022",
