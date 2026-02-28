@@ -5070,6 +5070,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "ROSSANA HERRERA ",
+  "ruc": "07603887",
+  "direccion": "SURCO",
+  "tipo": "0",
+  "fecha": "28/02/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "RICARDO NARCISO RODRIGUEZ CHALE",
   "ruc": "07612263",
   "direccion": "TOMAS VALLE Y BERTELO NRO. PROV. CONST. DEL CALLAO - CALLAO",
@@ -35313,6 +35326,19 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "31/03/2022",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "ANDRES  VELASQUEZ",
+  "ruc": "10663065",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "28/02/2026",
   "telefono": "",
   "email": "",
   "trato": "",

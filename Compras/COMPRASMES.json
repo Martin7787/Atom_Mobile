@@ -265,17 +265,6 @@
 },
 {
   "fechacab": "13/02/2026",
-  "serie": "FAC",
-  "numero": "DIA26000606",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "660",
-  "tipc": "3.368",
-  "hora": "03:42 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "13/02/2026",
   "serie": "COT",
   "numero": "DIA26000606",
   "nombre": "CLIENTES VARIOS",
@@ -284,6 +273,17 @@
   "tipc": "",
   "hora": "07:37 p. m.",
   "docu": "USER: "
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "FAC",
+  "numero": "DIA26000606",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "660",
+  "tipc": "3.368",
+  "hora": "03:42 p. m.",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "13/02/2026",
@@ -911,38 +911,5 @@
   "tipc": "3.4",
   "hora": "11:42 a. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "28/01/2026",
-  "serie": "COT",
-  "numero": "YH0002619",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "260",
-  "tipc": "3.4",
-  "hora": "11:39 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "28/01/2026",
-  "serie": "COT",
-  "numero": "MOQ00492",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "11:41 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "28/01/2026",
-  "serie": "COT",
-  "numero": "HM28012026",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "13820.34",
-  "tipc": "3.4",
-  "hora": "07:13 p. m.",
-  "docu": "USER: DANTE"
 },
 ]
