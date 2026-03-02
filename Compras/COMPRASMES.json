@@ -265,17 +265,6 @@
 },
 {
   "fechacab": "13/02/2026",
-  "serie": "COT",
-  "numero": "DIA26000606",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "",
-  "totguia": "",
-  "tipc": "",
-  "hora": "07:37 p. m.",
-  "docu": "USER: "
-},
-{
-  "fechacab": "13/02/2026",
   "serie": "FAC",
   "numero": "DIA26000606",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
@@ -284,6 +273,17 @@
   "tipc": "3.368",
   "hora": "03:42 p. m.",
   "docu": "USER: DANTE"
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "COT",
+  "numero": "DIA26000606",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "07:37 p. m.",
+  "docu": "USER: "
 },
 {
   "fechacab": "13/02/2026",
@@ -833,83 +833,6 @@
   "totguia": "600",
   "tipc": "3.4",
   "hora": "10:53 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "30/01/2026",
-  "serie": "COT",
-  "numero": "YH0002626",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "1136",
-  "tipc": "3.4",
-  "hora": "10:56 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "30/01/2026",
-  "serie": "COT",
-  "numero": "MOQ00495",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "108",
-  "tipc": "3.4",
-  "hora": "02:10 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "30/01/2026",
-  "serie": "COT",
-  "numero": "CG000024",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "136",
-  "tipc": "3.4",
-  "hora": "02:13 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "30/01/2026",
-  "serie": "COT",
-  "numero": "C00100",
-  "nombre": "CREACIONES BETHEL S.A.C.",
-  "moneda": "PEN",
-  "totguia": "70",
-  "tipc": "3.4",
-  "hora": "02:12 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/01/2026",
-  "serie": "COT",
-  "numero": "NP311186",
-  "nombre": "NADIA PARIONA",
-  "moneda": "USD",
-  "totguia": "120",
-  "tipc": "3.4",
-  "hora": "11:43 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/01/2026",
-  "serie": "COT",
-  "numero": "MOQ00493",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "180",
-  "tipc": "3.4",
-  "hora": "02:11 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/01/2026",
-  "serie": "COT",
-  "numero": "GP000116",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "150",
-  "tipc": "3.4",
-  "hora": "11:42 a. m.",
   "docu": "USER: MARTIN"
 },
 ]
