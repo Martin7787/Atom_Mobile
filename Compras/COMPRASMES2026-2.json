@@ -1,5 +1,38 @@
 [
 {
+  "fechacab": "27/02/2026",
+  "serie": "COT",
+  "numero": "YH0002735",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.4",
+  "hora": "11:09 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/02/2026",
+  "serie": "COT",
+  "numero": "PV000674",
+  "nombre": "ADONAI P&V MENAJE",
+  "moneda": "PEN",
+  "totguia": "220",
+  "tipc": "3.4",
+  "hora": "11:11 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/02/2026",
+  "serie": "COT",
+  "numero": "PV000672",
+  "nombre": "ADONAI P&V MENAJE",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.4",
+  "hora": "11:10 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "24/02/2026",
   "serie": "COT",
   "numero": "YH0002717",
