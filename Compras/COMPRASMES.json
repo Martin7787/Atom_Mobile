@@ -11,6 +11,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "02/03/2026",
+  "serie": "COT",
+  "numero": "EK000512",
+  "nombre": "COMERCIAL MANUELA",
+  "moneda": "USD",
+  "totguia": "3174",
+  "tipc": "3.4",
+  "hora": "06:29 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "28/02/2026",
   "serie": "COT",
   "numero": "RJ00163",
@@ -375,17 +386,6 @@
 },
 {
   "fechacab": "13/02/2026",
-  "serie": "FAC",
-  "numero": "DIA26000606",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "660",
-  "tipc": "3.368",
-  "hora": "03:42 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "13/02/2026",
   "serie": "COT",
   "numero": "DIA26000606",
   "nombre": "CLIENTES VARIOS",
@@ -394,6 +394,17 @@
   "tipc": "",
   "hora": "07:37 p. m.",
   "docu": "USER: "
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "FAC",
+  "numero": "DIA26000606",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "660",
+  "tipc": "3.368",
+  "hora": "03:42 p. m.",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "13/02/2026",
