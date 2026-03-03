@@ -6160,6 +6160,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "35621",
+  "descripcion": "FUENTE PESCADO (CAJA X  3 DOC)",
+  "fecha": "03/03/2026",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "354",
+  "precio": "104.12",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "3",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "FUENTE DE VIDRIO",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "3565",
   "descripcion": "JARRO DECORADO (CAJA X  4 DOC)",
   "fecha": "15/06/2023",
