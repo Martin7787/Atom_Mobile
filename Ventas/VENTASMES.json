@@ -7203,9 +7203,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "01:57 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "28/02/2026",
@@ -7628,9 +7628,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "03:25 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "03/03/2026",
@@ -7730,9 +7730,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "12:37 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "03/03/2026",
@@ -7801,6 +7801,23 @@
   "docu": "USER: LIZETH",
   "bloquear": "",
   "user": "LIZETH"
+},
+{
+  "fechacab": "04/03/2026",
+  "fecha": "Mar. 4",
+  "serie": "T001",
+  "numero": "00020598",
+  "nombre": "COLEGIO DE NUTRICIONISTAS DEL PERU CR IV",
+  "moneda": "PEN",
+  "totguia": "220",
+  "acuenta": "220",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "12:31 p. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
 },
 {
   "fechacab": "04/03/2026",

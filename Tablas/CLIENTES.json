@@ -44772,6 +44772,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "COLEGIO DE NUTRICIONISTAS DEL PERU CR IV",
+  "ruc": "20196313037",
+  "direccion": "JR. SANTA SUSANA URB. PANDO III N° 444 INT. LT. DP. MZ. KM. LIMA LIMA LIMA",
+  "tipo": "0",
+  "fecha": "04/03/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MUNICIPALIDAD DISTRITAL DE HUAROS",
   "ruc": "20198248372",
   "direccion": "PZA.DE ARMAS NRO. 412 URB. HUAROS LIMA - CANTA - HUAROS",
