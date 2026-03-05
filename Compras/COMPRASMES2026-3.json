@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "30/03/2026",
+  "serie": "COT",
+  "numero": "EK000512",
+  "nombre": "MIRIAN NINAJA",
+  "moneda": "USD",
+  "totguia": "2850",
+  "tipc": "3.4",
+  "hora": "06:01 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "03/03/2026",
   "serie": "COT",
   "numero": "HS02023026",
@@ -19,17 +30,6 @@
   "totguia": "150",
   "tipc": "3.4",
   "hora": "10:47 a. m.",
-  "docu": ""
-},
-{
-  "fechacab": "02/03/2026",
-  "serie": "COT",
-  "numero": "EK000512",
-  "nombre": "MIRIAN NINAJA",
-  "moneda": "USD",
-  "totguia": "3174",
-  "tipc": "3.4",
-  "hora": "03:55 p. m.",
   "docu": ""
 },
 ]
