@@ -7717,4 +7717,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "05/03/2026",
+  "fecha": "Mar. 5",
+  "serie": "T001",
+  "numero": "00020611",
+  "nombre": "RUFINA SATURNINA PECHO REYNA",
+  "moneda": "PEN",
+  "totguia": "1111",
+  "acuenta": "1111",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:11 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
