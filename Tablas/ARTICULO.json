@@ -17556,6 +17556,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "BOL7WB-SUNDA",
+  "descripcion": "BOLO 7\" BLANCO C/BORDE SUNDA (CAJA X  40 UND)",
+  "fecha": "05/03/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "120",
+  "precio": "35.29",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "40",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "BOLOS DE LOZA",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "BOL7W-CIESKO",
   "descripcion": "BOLO 7\" BLANCO  (CAJA X  40 UND)",
   "fecha": "11/04/2023",
