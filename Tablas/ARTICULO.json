@@ -18766,6 +18766,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "C007",
+  "descripcion": "PLATO TENDIDO 8.5\" GLASEADO C/RELIEVE (CAJA X  36 UND)",
+  "fecha": "09/03/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "72",
+  "precio": "21.18",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "36",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "YCHI",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "C011",
   "descripcion": "BOWL 7\" NEGRO MATE RUSTICO (CAJA X  24 UND)",
   "fecha": "01/02/2024",
