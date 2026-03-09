@@ -376,12 +376,12 @@
 {
   "fechacab": "13/02/2026",
   "serie": "FAC",
-  "numero": "DIA26000606",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "660",
-  "tipc": "3.368",
-  "hora": "03:42 p. m.",
+  "numero": "F063-00072052",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "PEN",
+  "totguia": "0.0000",
+  "tipc": "3.4",
+  "hora": "02:28 p. m.",
   "docu": ""
 },
 {
@@ -394,6 +394,17 @@
   "tipc": "",
   "hora": "07:37 p. m.",
   "docu": "USER: "
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "FAC",
+  "numero": "DIA26000606",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "660",
+  "tipc": "3.368",
+  "hora": "03:42 p. m.",
+  "docu": ""
 },
 {
   "fechacab": "13/02/2026",
