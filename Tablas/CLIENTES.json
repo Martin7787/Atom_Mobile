@@ -62686,6 +62686,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "CORPORACIÓN LAFGRE S.A.C.",
+  "ruc": "20614700794",
+  "direccion": "AV. MIRAFLORES N° INT. LT. 13 DP. MZ. A KM. UCAYALI CORONEL PORTILLO YARINACOCHA",
+  "tipo": "0",
+  "fecha": "09/03/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "CORPORACION DUEÑAS SAC",
   "ruc": "20614852853",
   "direccion": "LIMA",
