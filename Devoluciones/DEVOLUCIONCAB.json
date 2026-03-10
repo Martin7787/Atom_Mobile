@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000268",
+  "nombre": "SAYAN IMPORTACIONES SOCIEDAD ANONIMA CERRADA",
+  "moneda": "PEN",
+  "totguia": "95",
+  "tipc": "3.4",
+  "fecha": "10/03/2026",
+  "hora": "11:32 a. m.",
+  "docu": "T001-00020409",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000267",
   "nombre": "HERLY SOLEDAD TRINIDAD MARCELO",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "23/12/2025",
   "hora": "01:51 p. m.",
   "docu": "T001-00019331",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000238",
-  "nombre": "MONAGO DEL VALLE, CARMEN ROSA",
-  "moneda": "PEN",
-  "totguia": "144",
-  "tipc": "3.7",
-  "fecha": "22/12/2025",
-  "hora": "02:21 p. m.",
-  "docu": "T001-00019270",
   "via": "USER: SOFI",
   "bloquear": ""
 },
