@@ -11,6 +11,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "06/03/2026",
+  "serie": "COT",
+  "numero": "BK098961",
+  "nombre": "BRIKENIA",
+  "moneda": "USD",
+  "totguia": "177",
+  "tipc": "3.4",
+  "hora": "10:53 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "03/03/2026",
   "serie": "COT",
   "numero": "HS02023026",
@@ -712,17 +723,6 @@
   "totguia": "54",
   "tipc": "3.4",
   "hora": "10:58 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "07/02/2026",
-  "serie": "COT",
-  "numero": "GP00148",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "150",
-  "tipc": "3.4",
-  "hora": "11:03 a. m.",
   "docu": "USER: MARTIN"
 },
 ]
