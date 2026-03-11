@@ -1,5 +1,27 @@
 [
 {
+  "fechacab": "07/03/2026",
+  "serie": "COT",
+  "numero": "YH0002751",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "330",
+  "tipc": "3.4",
+  "hora": "11:04 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "07/03/2026",
+  "serie": "COT",
+  "numero": "GP000264",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.4",
+  "hora": "11:03 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "06/03/2026",
   "serie": "COT",
   "numero": "DIA26000821",
@@ -19,6 +41,28 @@
   "totguia": "177",
   "tipc": "3.4",
   "hora": "10:53 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/03/2026",
+  "serie": "COT",
+  "numero": "GP000252",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "110",
+  "tipc": "3.4",
+  "hora": "11:03 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "04/03/2026",
+  "serie": "COT",
+  "numero": "C00173",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.4",
+  "hora": "11:06 a. m.",
   "docu": "USER: MARTIN"
 },
 {
