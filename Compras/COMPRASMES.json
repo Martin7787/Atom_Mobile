@@ -725,48 +725,4 @@
   "hora": "06:51 p. m.",
   "docu": "USER: MARTIN"
 },
-{
-  "fechacab": "09/02/2026",
-  "serie": "COT",
-  "numero": "YH0002661",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.4",
-  "hora": "11:00 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "09/02/2026",
-  "serie": "COT",
-  "numero": "MOQ00802",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "400",
-  "tipc": "3.4",
-  "hora": "10:41 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "09/02/2026",
-  "serie": "COT",
-  "numero": "MOQ000801",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "570",
-  "tipc": "3.4",
-  "hora": "10:59 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "09/02/2026",
-  "serie": "COT",
-  "numero": "GE10394",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "54",
-  "tipc": "3.4",
-  "hora": "10:58 a. m.",
-  "docu": "USER: MARTIN"
-},
 ]
