@@ -6115,9 +6115,9 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "02:35 p. m.",
-  "docu": "USER: ",
+  "docu": "USER: LIZETH",
   "bloquear": "",
-  "user": ""
+  "user": "LIZETH"
 },
 {
   "fechacab": "11/03/2026",
@@ -6438,6 +6438,23 @@
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "10:07 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
+{
+  "fechacab": "13/03/2026",
+  "fecha": "Mar. 13",
+  "serie": "T001",
+  "numero": "00020695",
+  "nombre": "JUAN OCTAVIO ROPA CARRION",
+  "moneda": "PEN",
+  "totguia": "170",
+  "acuenta": "170",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "02:47 p. m.",
   "docu": "USER: EDITH",
   "bloquear": "",
   "user": "EDITH"
