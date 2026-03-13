@@ -1,5 +1,38 @@
 [
 {
+  "fechacab": "13/03/2026",
+  "serie": "COT",
+  "numero": "MOQ00814",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "12:05 p. m.",
+  "docu": "USER: "
+},
+{
+  "fechacab": "12/03/2026",
+  "serie": "COT",
+  "numero": "MOQ00816",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "12:05 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "11/03/2026",
+  "serie": "COT",
+  "numero": "MOQ00815",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.4",
+  "hora": "12:04 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "07/03/2026",
   "serie": "COT",
   "numero": "YH0002751",
@@ -140,6 +173,17 @@
   "totguia": "120",
   "tipc": "3.4",
   "hora": "11:10 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "26/02/2026",
+  "serie": "COT",
+  "numero": "MOQ00811",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "12:06 p. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -474,17 +518,6 @@
 },
 {
   "fechacab": "13/02/2026",
-  "serie": "FAC",
-  "numero": "DIA26000606",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "660",
-  "tipc": "3.368",
-  "hora": "03:42 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "13/02/2026",
   "serie": "COT",
   "numero": "DIA26000606",
   "nombre": "CLIENTES VARIOS",
@@ -493,6 +526,17 @@
   "tipc": "",
   "hora": "07:37 p. m.",
   "docu": "USER: "
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "FAC",
+  "numero": "DIA26000606",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "660",
+  "tipc": "3.368",
+  "hora": "03:42 p. m.",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "13/02/2026",

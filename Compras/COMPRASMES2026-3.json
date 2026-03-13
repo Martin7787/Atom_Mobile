@@ -11,6 +11,39 @@
   "docu": ""
 },
 {
+  "fechacab": "13/03/2026",
+  "serie": "COT",
+  "numero": "MOQ00814",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "12:05 p. m.",
+  "docu": "USER: "
+},
+{
+  "fechacab": "12/03/2026",
+  "serie": "COT",
+  "numero": "MOQ00816",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "12:05 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "11/03/2026",
+  "serie": "COT",
+  "numero": "MOQ00815",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.4",
+  "hora": "12:04 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "07/03/2026",
   "serie": "COT",
   "numero": "YH0002751",

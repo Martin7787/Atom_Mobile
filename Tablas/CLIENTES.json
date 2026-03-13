@@ -5603,6 +5603,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "JUAN OCTAVIO ROPA CARRION",
+  "ruc": "08053210",
+  "direccion": "HUARAZ",
+  "tipo": "0",
+  "fecha": "13/03/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MARCELINO SANTIAGO ZORRILLA",
   "ruc": "08064283",
   "direccion": "LIMA",
