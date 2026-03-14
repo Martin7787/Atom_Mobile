@@ -12,7 +12,7 @@
   "tipc": "3.4",
   "estado": "0",
   "traslado": "0.0000",
-  "obs": "346",
+  "obs": "",
   "codart": "ARRO9DIS-SUNDA",
   "descripcion": "ARROCERO 9\" C/DISEÑO SUNDA (CAJA X  48 UND)",
   "cajas": "1",
@@ -57,8 +57,8 @@
   "punidad": "0.0000"
 },
 {
-  "codart": "SU-111-12PC",
-  "descripcion": "JUEGO DE OLLAS (CAJA X  2 SET)",
+  "codart": "SU-0112B",
+  "descripcion": "SET DE OLLAS COLORES (CAJA X  2 SET)",
   "cajas": "1",
   "doce": "0",
   "unidad": "0",
@@ -74,8 +74,8 @@
   "cantimp": "1 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "-",
-  "preal": "356",
+  "auto": "SOFI",
+  "preal": "366",
   "punidad": "0.0000"
 },
 {
