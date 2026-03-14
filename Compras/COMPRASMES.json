@@ -11,6 +11,17 @@
   "docu": "USER: "
 },
 {
+  "fechacab": "13/03/2026",
+  "serie": "COT",
+  "numero": "DIA26000924",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "675",
+  "tipc": "3.4",
+  "hora": "01:07 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "12/03/2026",
   "serie": "COT",
   "numero": "MOQ00816",
@@ -518,17 +529,6 @@
 },
 {
   "fechacab": "13/02/2026",
-  "serie": "COT",
-  "numero": "DIA26000606",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "",
-  "totguia": "",
-  "tipc": "",
-  "hora": "07:37 p. m.",
-  "docu": "USER: "
-},
-{
-  "fechacab": "13/02/2026",
   "serie": "FAC",
   "numero": "DIA26000606",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
@@ -537,6 +537,17 @@
   "tipc": "3.368",
   "hora": "03:42 p. m.",
   "docu": "USER: DANTE"
+},
+{
+  "fechacab": "13/02/2026",
+  "serie": "COT",
+  "numero": "DIA26000606",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "07:37 p. m.",
+  "docu": "USER: "
 },
 {
   "fechacab": "13/02/2026",
@@ -625,60 +636,5 @@
   "tipc": "3.4",
   "hora": "05:54 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "11/02/2026",
-  "serie": "COT",
-  "numero": "MOQ00805",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "1000",
-  "tipc": "3.4",
-  "hora": "10:41 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/02/2026",
-  "serie": "FAC",
-  "numero": "GP000165",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "300",
-  "tipc": "3.4",
-  "hora": "10:04 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/02/2026",
-  "serie": "FAC",
-  "numero": "GP000164",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "150",
-  "tipc": "3.4",
-  "hora": "10:04 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/02/2026",
-  "serie": "COT",
-  "numero": "FT000258",
-  "nombre": "FORTUNATO MALLQUI NIETO",
-  "moneda": "PEN",
-  "totguia": "3300",
-  "tipc": "3.4",
-  "hora": "04:05 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/02/2026",
-  "serie": "FAC",
-  "numero": "ADO000577",
-  "nombre": "ADONAI P&V MENAJE",
-  "moneda": "PEN",
-  "totguia": "240",
-  "tipc": "3.4",
-  "hora": "10:05 a. m.",
-  "docu": "USER: MARTIN"
 },
 ]

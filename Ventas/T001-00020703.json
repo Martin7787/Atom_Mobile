@@ -57,8 +57,8 @@
   "punidad": "0.0000"
 },
 {
-  "codart": "DJ14-COLOR",
-  "descripcion": "JARRO 14 OZ CONICO RAYAS COLORES (CAJA X  4 DOC)",
+  "codart": "DJ14-101",
+  "descripcion": "JARRO 14 OZ COLORES (CAJA X  4 DOC)",
   "cajas": "1",
   "doce": "0",
   "unidad": "0",
@@ -74,8 +74,8 @@
   "cantimp": "1 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "-",
-  "preal": "100",
+  "auto": "SOFI",
+  "preal": "103.6",
   "punidad": "0.0000"
 },
 {
@@ -96,7 +96,7 @@
   "cantimp": "1 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "125",
   "punidad": "0.0000"
 },
