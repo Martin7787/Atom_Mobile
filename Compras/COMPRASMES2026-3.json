@@ -66,6 +66,39 @@
   "docu": ""
 },
 {
+  "fechacab": "09/03/2026",
+  "serie": "COT",
+  "numero": "DIA26000852",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "96.42",
+  "tipc": "3.498",
+  "hora": "05:25 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "09/03/2026",
+  "serie": "COT",
+  "numero": "DIA26000851",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "PEN",
+  "totguia": "771.36",
+  "tipc": "3.498",
+  "hora": "05:24 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "09/03/2026",
+  "serie": "COT",
+  "numero": "DIA26000838",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "462",
+  "tipc": "3.498",
+  "hora": "05:11 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "07/03/2026",
   "serie": "COT",
   "numero": "YH0002751",
@@ -95,7 +128,7 @@
   "moneda": "USD",
   "totguia": "484",
   "tipc": "3.4",
-  "hora": "11:19 a. m.",
+  "hora": "05:14 p. m.",
   "docu": ""
 },
 {
