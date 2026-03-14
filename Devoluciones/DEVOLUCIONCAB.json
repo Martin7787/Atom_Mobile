@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000269",
+  "nombre": "JAHUIRA MAMANI DE FLORES GUADALUPE",
+  "moneda": "PEN",
+  "totguia": "178",
+  "tipc": "3.4",
+  "fecha": "14/03/2026",
+  "hora": "03:56 p. m.",
+  "docu": "T001-00020704",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000268",
   "nombre": "SAYAN IMPORTACIONES SOCIEDAD ANONIMA CERRADA",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "29/12/2025",
   "hora": "01:49 p. m.",
   "docu": "T001-00019503",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000239",
-  "nombre": "LUCY MARILU GABRIEL QUISPE",
-  "moneda": "PEN",
-  "totguia": "100",
-  "tipc": "3.7",
-  "fecha": "23/12/2025",
-  "hora": "01:51 p. m.",
-  "docu": "T001-00019331",
   "via": "USER: SOFI",
   "bloquear": ""
 },
