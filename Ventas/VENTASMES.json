@@ -6187,4 +6187,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "14/03/2026",
+  "fecha": "Mar. 14",
+  "serie": "T001",
+  "numero": "00020702",
+  "nombre": "JOEL BASILIO DAVILA ROJAS",
+  "moneda": "PEN",
+  "totguia": "255",
+  "acuenta": "255",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "12:34 p. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
