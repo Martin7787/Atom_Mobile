@@ -172,7 +172,18 @@
   "moneda": "USD",
   "totguia": "2157.6",
   "tipc": "3.4",
-  "hora": "01:41 p. m.",
+  "hora": "03:54 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "04/03/2026",
+  "serie": "COT",
+  "numero": "NS002-0002742",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "231",
+  "tipc": "3.4",
+  "hora": "03:55 p. m.",
   "docu": ""
 },
 {
