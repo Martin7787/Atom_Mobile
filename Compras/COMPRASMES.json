@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "16/03/2026",
+  "serie": "COT",
+  "numero": "GE10920",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "127.5",
+  "tipc": "3.4",
+  "hora": "05:53 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "14/03/2026",
   "serie": "COT",
   "numero": "GE10908",
@@ -163,6 +174,17 @@
   "tipc": "3.4",
   "hora": "03:55 p. m.",
   "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "04/03/2026",
+  "serie": "COT",
+  "numero": "DD26050000468",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "6945.4",
+  "tipc": "3.4",
+  "hora": "05:33 p. m.",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "04/03/2026",
