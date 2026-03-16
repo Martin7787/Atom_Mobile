@@ -167,6 +167,17 @@
 {
   "fechacab": "04/03/2026",
   "serie": "COT",
+  "numero": "NS004-0002914",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "2157.6",
+  "tipc": "3.4",
+  "hora": "01:41 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "04/03/2026",
+  "serie": "COT",
   "numero": "C00173",
   "nombre": "CREACIONES BETHEL S.A.C.",
   "moneda": "PEN",
