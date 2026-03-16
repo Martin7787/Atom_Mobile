@@ -25344,6 +25344,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "FD02",
+  "descripcion": "BOWL 7\" GLACEADOS (CAJA X  30 UND)",
+  "fecha": "16/03/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "120",
+  "precio": "35.29",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "30",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "FD-15LABRADO",
   "descripcion": "JARRO 15OZ LABRADO BLANCO (CAJA X  48 UND)",
   "fecha": "14/08/2025",
