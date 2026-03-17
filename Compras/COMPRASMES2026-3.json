@@ -35,12 +35,45 @@
 {
   "fechacab": "14/03/2026",
   "serie": "COT",
+  "numero": "YH0001998",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.4",
+  "hora": "11:24 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "14/03/2026",
+  "serie": "COT",
   "numero": "GE10908",
   "nombre": "GOLDEN ELECTRONIC S.A.C.",
   "moneda": "USD",
   "totguia": "172",
   "tipc": "3.4",
   "hora": "07:29 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "14/03/2026",
+  "serie": "COT",
+  "numero": "CX000762",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "130",
+  "tipc": "3.4",
+  "hora": "11:25 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "13/03/2026",
+  "serie": "COT",
+  "numero": "MOQ00817",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "750",
+  "tipc": "3.4",
+  "hora": "11:24 a. m.",
   "docu": ""
 },
 {
