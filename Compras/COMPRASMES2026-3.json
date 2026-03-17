@@ -288,6 +288,17 @@
 {
   "fechacab": "04/03/2026",
   "serie": "COT",
+  "numero": "HM04032026",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "4887",
+  "tipc": "3.4",
+  "hora": "05:30 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "04/03/2026",
+  "serie": "COT",
   "numero": "DD26050000468",
   "nombre": "DOU DOU",
   "moneda": "PEN",
