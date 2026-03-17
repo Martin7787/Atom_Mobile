@@ -112,12 +112,34 @@
 {
   "fechacab": "11/03/2026",
   "serie": "COT",
+  "numero": "YH0002757",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.4",
+  "hora": "11:27 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "11/03/2026",
+  "serie": "COT",
   "numero": "MOQ00815",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
   "totguia": "180",
   "tipc": "3.4",
   "hora": "12:04 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "10/03/2026",
+  "serie": "COT",
+  "numero": "GP00274",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.4",
+  "hora": "11:26 a. m.",
   "docu": ""
 },
 {
@@ -173,6 +195,17 @@
   "totguia": "300",
   "tipc": "3.4",
   "hora": "11:03 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "06/03/2026",
+  "serie": "COT",
+  "numero": "YH0002747",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.4",
+  "hora": "11:28 a. m.",
   "docu": ""
 },
 {
