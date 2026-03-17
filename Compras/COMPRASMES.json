@@ -101,6 +101,17 @@
 {
   "fechacab": "11/03/2026",
   "serie": "COT",
+  "numero": "YH0002756",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "1450",
+  "tipc": "3.4",
+  "hora": "01:13 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "11/03/2026",
+  "serie": "COT",
   "numero": "MOQ00815",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
