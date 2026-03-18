@@ -35552,6 +35552,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "JRECTO-SUNDA",
+  "descripcion": "JARRO RECTO DECORADO 11OZ SUNDA (CAJA X  4 DOC)",
+  "fecha": "18/03/2026",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "85",
+  "precio": "25",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "4",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "JARRO",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "JRECTO-W-GALLERY",
   "descripcion": "JARRO 11OZ RECTO BLANCO GALLERY (CAJA X  4 DOC)",
   "fecha": "04/08/2021",
