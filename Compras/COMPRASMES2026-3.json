@@ -134,6 +134,17 @@
 {
   "fechacab": "13/03/2026",
   "serie": "COT",
+  "numero": "HM13032026",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "12700",
+  "tipc": "3.4",
+  "hora": "12:59 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "13/03/2026",
+  "serie": "COT",
   "numero": "DIA26000924",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
@@ -324,9 +335,9 @@
   "numero": "HM04032026",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
-  "totguia": "4887",
+  "totguia": "15612",
   "tipc": "3.4",
-  "hora": "05:30 p. m.",
+  "hora": "12:58 p. m.",
   "docu": ""
 },
 {
@@ -371,6 +382,17 @@
   "totguia": "150",
   "tipc": "3.4",
   "hora": "10:47 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "02/03/2026",
+  "serie": "COT",
+  "numero": "HM02032026",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "11159.27",
+  "tipc": "3.4",
+  "hora": "01:02 p. m.",
   "docu": ""
 },
 ]
