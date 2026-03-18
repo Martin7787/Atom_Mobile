@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000270",
+  "nombre": "HUANCARI JAYO EUFEMIA",
+  "moneda": "PEN",
+  "totguia": "198",
+  "tipc": "3.4",
+  "fecha": "17/03/2026",
+  "hora": "07:28 p. m.",
+  "docu": "T001-00020725",
+  "via": "USER: LIZETH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000269",
   "nombre": "JAHUIRA MAMANI DE FLORES GUADALUPE",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "02/01/2026",
   "hora": "12:29 p. m.",
   "docu": "T001-00019429",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000240",
-  "nombre": "UNI PETS S.A.C.",
-  "moneda": "PEN",
-  "totguia": "14",
-  "tipc": "3.7",
-  "fecha": "29/12/2025",
-  "hora": "01:49 p. m.",
-  "docu": "T001-00019503",
   "via": "USER: SOFI",
   "bloquear": ""
 },
