@@ -245,7 +245,7 @@
   "fechacab": "04/03/2026",
   "serie": "COT",
   "numero": "NS004-0002914",
-  "nombre": "DISTRIBUIDORA MORELLA",
+  "nombre": "MARY",
   "moneda": "USD",
   "totguia": "2157.6",
   "tipc": "3.4",
@@ -256,7 +256,7 @@
   "fechacab": "04/03/2026",
   "serie": "COT",
   "numero": "NS002-0002742",
-  "nombre": "DISTRIBUIDORA MORELLA",
+  "nombre": "MARY",
   "moneda": "USD",
   "totguia": "231",
   "tipc": "3.4",
@@ -647,16 +647,5 @@
   "tipc": "3.4",
   "hora": "10:43 a. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/02/2026",
-  "serie": "COT",
-  "numero": "DIA26000176",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "14800",
-  "tipc": "3.372",
-  "hora": "02:04 p. m.",
-  "docu": "USER: DANTE"
 },
 ]

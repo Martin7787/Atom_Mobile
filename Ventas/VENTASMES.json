@@ -6136,4 +6136,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "18/03/2026",
+  "fecha": "Mar. 18",
+  "serie": "T001",
+  "numero": "00020743",
+  "nombre": "EDSON WLADIMIR ROJAS YAPIAS",
+  "moneda": "PEN",
+  "totguia": "145",
+  "acuenta": "145",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:51 a. m.",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
 ]
