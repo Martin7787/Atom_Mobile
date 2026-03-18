@@ -35,6 +35,17 @@
 {
   "fechacab": "17/03/2026",
   "serie": "COT",
+  "numero": "DIA26000959",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "312.96",
+  "tipc": "3.4",
+  "hora": "04:23 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "17/03/2026",
+  "serie": "COT",
   "numero": "BK099177",
   "nombre": "BRIKENIA",
   "moneda": "USD",
