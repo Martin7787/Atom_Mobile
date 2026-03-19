@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "19/03/2026",
+  "serie": "COT",
+  "numero": "GE10971",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "224",
+  "tipc": "3.4",
+  "hora": "12:22 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "17/03/2026",
   "serie": "COT",
   "numero": "GE10935",
