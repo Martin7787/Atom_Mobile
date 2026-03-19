@@ -703,26 +703,4 @@
   "hora": "12:04 p. m.",
   "docu": "USER: MARTIN"
 },
-{
-  "fechacab": "16/02/2026",
-  "serie": "COT",
-  "numero": "YH0002699",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "165",
-  "tipc": "3.4",
-  "hora": "10:42 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "16/02/2026",
-  "serie": "COT",
-  "numero": "MOQ00808",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "360",
-  "tipc": "3.4",
-  "hora": "10:43 a. m.",
-  "docu": "USER: MARTIN"
-},
 ]
