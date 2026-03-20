@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "20/03/2026",
+  "serie": "COT",
+  "numero": "HM20022026",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "21599.6",
+  "tipc": "3.4",
+  "hora": "03:13 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "19/03/2026",
   "serie": "FAC",
   "numero": "VC3-009546",
@@ -713,27 +724,5 @@
   "tipc": "3.36",
   "hora": "07:45 p. m.",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "17/02/2026",
-  "serie": "COT",
-  "numero": "GP000193",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "150",
-  "tipc": "3.4",
-  "hora": "12:05 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/02/2026",
-  "serie": "COT",
-  "numero": "GP000192",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "220",
-  "tipc": "3.4",
-  "hora": "12:04 p. m.",
-  "docu": "USER: MARTIN"
 },
 ]
