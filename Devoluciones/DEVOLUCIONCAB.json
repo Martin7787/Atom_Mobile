@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000271",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "84",
+  "tipc": "3.4",
+  "fecha": "23/03/2026",
+  "hora": "06:26 p. m.",
+  "docu": "T001-00020790",
+  "via": "USER: LIZETH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000270",
   "nombre": "HUANCARI JAYO EUFEMIA",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "05/01/2026",
   "hora": "06:06 p. m.",
   "docu": "T001-00018399",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000241",
-  "nombre": "RONDAN ANDRADE TEODORO CARLOS",
-  "moneda": "PEN",
-  "totguia": "625",
-  "tipc": "3.7",
-  "fecha": "02/01/2026",
-  "hora": "12:29 p. m.",
-  "docu": "T001-00019429",
   "via": "USER: SOFI",
   "bloquear": ""
 },
