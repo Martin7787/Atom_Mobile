@@ -2,9 +2,9 @@
 {
   "numero": "T001-00020831",
   "fecha": "24/03/2026",
-  "ruc": "20612692026",
-  "nombre": "SAYAN IMPORTACIONES SOCIEDAD ANONIMA CERRADA",
-  "direccion": "JR. SIMON BOLIVAR NRO. 133 CENTRO DE TUMBES (FRENTE AL PARQUE) TUMBES - TUMBES - TUMBES",
+  "ruc": "10028935949",
+  "nombre": "ROQUE SAYAN BENJAMIN ARMANDO",
+  "direccion": "AV. PIURA 1049 CERCADO DE TUMBES TUMBES",
   "moneda": "0",
   "totguia": "1111",
   "acuenta": "1111",
@@ -52,7 +52,7 @@
   "cantimp": "11 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "180",
   "punidad": "0.0000"
 },
@@ -74,7 +74,7 @@
   "cantimp": "2 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "130",
   "punidad": "0.0000"
 },
