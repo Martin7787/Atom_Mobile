@@ -13,6 +13,17 @@
 {
   "fechacab": "20/03/2026",
   "serie": "COT",
+  "numero": "HM20032026",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "16743.9",
+  "tipc": "3.4",
+  "hora": "01:14 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "20/03/2026",
+  "serie": "COT",
   "numero": "HM20022026",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
