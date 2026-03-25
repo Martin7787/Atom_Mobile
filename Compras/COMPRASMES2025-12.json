@@ -112,6 +112,17 @@
 {
   "fechacab": "29/12/2025",
   "serie": "COT",
+  "numero": "CT01-0000719",
+  "nombre": "FINEZZA DAZA COMPANY S.A.C.",
+  "moneda": "USD",
+  "totguia": "930",
+  "tipc": "3.37",
+  "hora": "07:32 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "29/12/2025",
+  "serie": "COT",
   "numero": "CG005362",
   "nombre": "CENTER GLASS E.I.R.L",
   "moneda": "PEN",
@@ -866,6 +877,17 @@
   "totguia": "80",
   "tipc": "3.7",
   "hora": "11:39 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "17/12/2025",
+  "serie": "FAC",
+  "numero": "CT01-0000708",
+  "nombre": "FINEZZA DAZA COMPANY S.A.C.",
+  "moneda": "USD",
+  "totguia": "310",
+  "tipc": "3.37",
+  "hora": "07:42 p. m.",
   "docu": ""
 },
 {
