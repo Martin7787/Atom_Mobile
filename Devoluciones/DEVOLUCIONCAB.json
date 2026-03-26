@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000272",
+  "nombre": "HONGYE BELLAVISTA S.A.C.",
+  "moneda": "PEN",
+  "totguia": "13.6",
+  "tipc": "3.4",
+  "fecha": "26/03/2026",
+  "hora": "12:15 p. m.",
+  "docu": "T001-00019651",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000271",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "07/01/2026",
   "hora": "10:01 a. m.",
   "docu": "T001-00019603",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000242",
-  "nombre": "ALO ALPACA E.I.R.L.",
-  "moneda": "PEN",
-  "totguia": "210",
-  "tipc": "3.7",
-  "fecha": "05/01/2026",
-  "hora": "06:06 p. m.",
-  "docu": "T001-00018399",
   "via": "USER: SOFI",
   "bloquear": ""
 },
