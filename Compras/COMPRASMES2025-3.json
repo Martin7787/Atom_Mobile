@@ -277,6 +277,17 @@
 {
   "fechacab": "25/03/2025",
   "serie": "COT",
+  "numero": "YCHI260305152",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "10820.46",
+  "tipc": "3.4",
+  "hora": "03:28 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "25/03/2025",
+  "serie": "COT",
   "numero": "SS000606",
   "nombre": "SUSU",
   "moneda": "PEN",
