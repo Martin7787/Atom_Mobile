@@ -5983,4 +5983,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "27/03/2026",
+  "fecha": "Mar. 27",
+  "serie": "T001",
+  "numero": "00020865",
+  "nombre": "DIMEPSA S.R.L",
+  "moneda": "PEN",
+  "totguia": "2889",
+  "acuenta": "2889",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:08 a. m.",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
 ]
