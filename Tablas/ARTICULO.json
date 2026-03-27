@@ -45518,6 +45518,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "OCT-DK80868",
+  "descripcion": "COPA CUADRADA CHABELA 570ML (CAJA X  12 UND)",
+  "fecha": "27/03/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "143",
+  "precio": "42.06",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "12",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "YCHI",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "OCTIME 1.6LT",
   "descripcion": "JARRA OCTIME 1.6LT (CAJA X 6 UND)",
   "fecha": "13/05/2021",
