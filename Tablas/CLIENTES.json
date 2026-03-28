@@ -832,6 +832,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "HENRY  ALMACEN ",
+  "ruc": "00000012",
+  "direccion": "ROTOS",
+  "tipo": "0",
+  "fecha": "28/03/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "YANG",
   "ruc": "00000180821",
   "direccion": "JR. PUNO\r\n",
