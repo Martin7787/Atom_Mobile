@@ -11,6 +11,17 @@
   "docu": ""
 },
 {
+  "fechacab": "28/03/2026",
+  "serie": "COT",
+  "numero": "GE11111",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "300",
+  "tipc": "3.4",
+  "hora": "05:42 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "26/03/2026",
   "serie": "COT",
   "numero": "RJ00445",
@@ -41,6 +52,17 @@
   "totguia": "3670",
   "tipc": "3.4",
   "hora": "07:26 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "25/03/2026",
+  "serie": "COT",
+  "numero": "YH0002800",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "1650",
+  "tipc": "3.4",
+  "hora": "06:38 p. m.",
   "docu": ""
 },
 {
