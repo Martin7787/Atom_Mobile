@@ -66,6 +66,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "25/03/2026",
+  "serie": "COT",
+  "numero": "YCHI260305152",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "10820.46",
+  "tipc": "3.4",
+  "hora": "03:21 p. m.",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "24/03/2026",
   "serie": "COT",
   "numero": "CX000810",
