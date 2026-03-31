@@ -5940,6 +5940,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "3258-62-63",
+  "descripcion": "JARRO 17OZ LABRADO DORADOS (CAJA X  48 UND)",
+  "fecha": "31/03/2026",
+  "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
+  "cant": "0",
+  "preciosol": "190",
+  "precio": "55.88",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "48",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "3282",
   "descripcion": "VASOS DE VIDRIO (CAJA X  12 SET)",
   "fecha": "29/05/2023",
