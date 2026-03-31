@@ -2,6 +2,17 @@
 {
   "fechacab": "30/03/2026",
   "serie": "COT",
+  "numero": "RJ00455",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "1910",
+  "tipc": "3.4",
+  "hora": "11:57 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "30/03/2026",
+  "serie": "COT",
   "numero": "EK000512",
   "nombre": "MIRIAN NINAJA",
   "moneda": "USD",
