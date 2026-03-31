@@ -6051,4 +6051,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "31/03/2026",
+  "fecha": "Mar. 31",
+  "serie": "T001",
+  "numero": "00020920",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "100",
+  "acuenta": "100",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:17 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
