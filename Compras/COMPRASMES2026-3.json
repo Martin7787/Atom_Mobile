@@ -11,6 +11,17 @@
   "docu": ""
 },
 {
+  "fechacab": "30/03/2026",
+  "serie": "COT",
+  "numero": "AGC001-049573",
+  "nombre": "AGC",
+  "moneda": "PEN",
+  "totguia": "130",
+  "tipc": "3.4",
+  "hora": "10:54 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "28/03/2026",
   "serie": "COT",
   "numero": "GE11111",
@@ -19,6 +30,17 @@
   "totguia": "300",
   "tipc": "3.4",
   "hora": "05:42 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/03/2026",
+  "serie": "COT",
+  "numero": "RJ00267",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.4",
+  "hora": "10:55 a. m.",
   "docu": ""
 },
 {
