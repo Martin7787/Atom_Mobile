@@ -923,6 +923,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "AGUIRRE BAZAN TEODORO",
+  "ruc": "00118754",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "01/04/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "JUAN VARGAS",
   "ruc": "00159197",
   "direccion": "PACALLPA",
