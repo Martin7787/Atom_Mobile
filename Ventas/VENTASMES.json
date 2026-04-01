@@ -6425,4 +6425,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "01/04/2026",
+  "fecha": "Abr. 1",
+  "serie": "T001",
+  "numero": "00020942",
+  "nombre": "ASTERIA ELIDA VILLAR ESPELETA",
+  "moneda": "PEN",
+  "totguia": "1655",
+  "acuenta": "1655",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "11:55 a. m.",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
