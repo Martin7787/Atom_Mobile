@@ -79,8 +79,8 @@
   "punidad": "0.0000"
 },
 {
-  "codart": "SU-111-12PC",
-  "descripcion": "JUEGO DE OLLAS (CAJA X  2 SET)",
+  "codart": "SU-0112B",
+  "descripcion": "SET DE OLLAS COLORES (CAJA X  2 SET)",
   "cajas": "0",
   "doce": "1",
   "unidad": "0",
@@ -96,8 +96,8 @@
   "cantimp": "1 UND",
   "vacio1": "",
   "vacio2": "",
-  "auto": "-",
-  "preal": "356",
+  "auto": "SOFI",
+  "preal": "366",
   "punidad": "0.0000"
 },
 ]
