@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000275",
+  "nombre": "WALTER HERNANDEZ LINGAN",
+  "moneda": "PEN",
+  "totguia": "95",
+  "tipc": "3.4",
+  "fecha": "06/04/2026",
+  "hora": "06:54 p. m.",
+  "docu": "T001-00018600",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000274",
   "nombre": "CORPORACION A&R XXIII E.I.R.L.",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "07/01/2026",
   "hora": "12:01 p. m.",
   "docu": "T001-00019266",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000245",
-  "nombre": "MULTISERVICIOS Y NEGOCIACIONES G & R S.R.L.",
-  "moneda": "PEN",
-  "totguia": "80",
-  "tipc": "3.7",
-  "fecha": "07/01/2026",
-  "hora": "10:06 a. m.",
-  "docu": "T001-00019484",
   "via": "USER: SOFI",
   "bloquear": ""
 },
