@@ -560,48 +560,4 @@
   "hora": "11:03 a. m.",
   "docu": "USER: MARTIN"
 },
-{
-  "fechacab": "06/03/2026",
-  "serie": "COT",
-  "numero": "YH0002747",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.4",
-  "hora": "11:28 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "06/03/2026",
-  "serie": "COT",
-  "numero": "DIA26000821",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "483.99",
-  "tipc": "3.4",
-  "hora": "11:09 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "06/03/2026",
-  "serie": "COT",
-  "numero": "BK098961",
-  "nombre": "BRIKENIA",
-  "moneda": "USD",
-  "totguia": "177",
-  "tipc": "3.4",
-  "hora": "10:53 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/03/2026",
-  "serie": "COT",
-  "numero": "GP000252",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "110",
-  "tipc": "3.4",
-  "hora": "11:03 a. m.",
-  "docu": "USER: MARTIN"
-},
 ]
