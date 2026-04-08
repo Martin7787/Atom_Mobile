@@ -2,12 +2,56 @@
 {
   "fechacab": "07/04/2026",
   "serie": "COT",
+  "numero": "YH0002815",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "900",
+  "tipc": "3.4",
+  "hora": "10:40 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "07/04/2026",
+  "serie": "COT",
   "numero": "HF055059",
   "nombre": "CREACIONES BETHEL S.A.C.",
   "moneda": "PEN",
   "totguia": "240",
   "tipc": "3.4",
   "hora": "11:30 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "07/04/2026",
+  "serie": "COT",
+  "numero": "C055062",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "135",
+  "tipc": "3.4",
+  "hora": "10:39 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "07/04/2026",
+  "serie": "COT",
+  "numero": "AGC001-049737",
+  "nombre": "AGC",
+  "moneda": "PEN",
+  "totguia": "330",
+  "tipc": "3.4",
+  "hora": "10:40 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "07/04/2026",
+  "serie": "COT",
+  "numero": "11019",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "210",
+  "tipc": "3.4",
+  "hora": "10:41 a. m.",
   "docu": ""
 },
 {
