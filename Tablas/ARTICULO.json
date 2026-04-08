@@ -22550,6 +22550,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "DJ15.5M",
+  "descripcion": "JARRO FELIZ DIA MAMA 15.5OZ (CAJA X  4 DOC)",
+  "fecha": "08/04/2026",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "166",
+  "precio": "48.82",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "4",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "LOZAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "False",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "DJ15.5XMAS",
   "descripcion": "JARRO 15.5 OZ NAVIDEÑO C/CAJITA (CAJA X  48 UND)",
   "fecha": "13/10/2025",
