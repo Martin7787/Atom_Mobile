@@ -1,5 +1,60 @@
 [
 {
+  "fechacab": "08/04/2026",
+  "serie": "COT",
+  "numero": "PV000924",
+  "nombre": "ADONAI P&V MENAJE",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.4",
+  "hora": "11:50 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "08/04/2026",
+  "serie": "COT",
+  "numero": "GP000395",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "330",
+  "tipc": "3.4",
+  "hora": "11:49 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "08/04/2026",
+  "serie": "COT",
+  "numero": "CX000877",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "170",
+  "tipc": "3.4",
+  "hora": "11:50 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "08/04/2026",
+  "serie": "COT",
+  "numero": "C055076",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "135",
+  "tipc": "3.4",
+  "hora": "11:48 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "08/04/2026",
+  "serie": "COT",
+  "numero": "C055072",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "135",
+  "tipc": "3.4",
+  "hora": "11:47 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "07/04/2026",
   "serie": "COT",
   "numero": "YH0002815",
