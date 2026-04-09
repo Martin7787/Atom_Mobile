@@ -249,7 +249,7 @@
   "moneda": "USD",
   "totguia": "1216",
   "tipc": "3.4",
-  "hora": "02:37 p. m.",
+  "hora": "07:40 p. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -592,38 +592,5 @@
   "tipc": "3.4",
   "hora": "11:26 a. m.",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "09/03/2026",
-  "serie": "COT",
-  "numero": "DIA26000852",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "96.42",
-  "tipc": "3.498",
-  "hora": "05:25 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "09/03/2026",
-  "serie": "COT",
-  "numero": "DIA26000851",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "PEN",
-  "totguia": "771.36",
-  "tipc": "3.498",
-  "hora": "05:24 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "09/03/2026",
-  "serie": "COT",
-  "numero": "DIA26000838",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "462",
-  "tipc": "3.498",
-  "hora": "05:11 p. m.",
-  "docu": "USER: DANTE"
 },
 ]
