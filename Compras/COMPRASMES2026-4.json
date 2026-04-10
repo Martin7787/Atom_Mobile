@@ -1,5 +1,27 @@
 [
 {
+  "fechacab": "10/04/2026",
+  "serie": "COT",
+  "numero": "34653",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "11500",
+  "tipc": "3.4",
+  "hora": "06:29 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "10/04/2026",
+  "serie": "COT",
+  "numero": "10/04/2026",
+  "nombre": "CRISTIAN BURGA",
+  "moneda": "PEN",
+  "totguia": "2193",
+  "tipc": "3.4",
+  "hora": "06:15 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "09/04/2026",
   "serie": "COT",
   "numero": "RJ00489",
