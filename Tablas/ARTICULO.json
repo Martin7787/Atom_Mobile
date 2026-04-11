@@ -43406,6 +43406,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "MH081904",
+  "descripcion": "SOPERO 7\" C/DISEÑO (CAJA X  5 DOC)",
+  "fecha": "10/04/2026",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "130",
+  "precio": "38.24",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "5",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "MH5201",
   "descripcion": "RONDA MARINA (CAJA X  20 UND)",
   "fecha": "16/08/2025",
