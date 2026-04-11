@@ -1,5 +1,38 @@
 [
 {
+  "fechacab": "31/03/2026",
+  "serie": "COT",
+  "numero": "RJ00272",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.4",
+  "hora": "02:22 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "31/03/2026",
+  "serie": "COT",
+  "numero": "MOQ00828",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "02:24 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "31/03/2026",
+  "serie": "COT",
+  "numero": "CX000829",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.4",
+  "hora": "02:29 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "30/03/2026",
   "serie": "COT",
   "numero": "RJ00455",
@@ -46,12 +79,34 @@
 {
   "fechacab": "27/03/2026",
   "serie": "COT",
+  "numero": "RT001403",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "144",
+  "tipc": "3.4",
+  "hora": "02:24 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/03/2026",
+  "serie": "COT",
   "numero": "RJ00267",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
   "totguia": "260",
   "tipc": "3.4",
   "hora": "10:55 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "27/03/2026",
+  "serie": "COT",
+  "numero": "MOQ00826",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "312",
+  "tipc": "3.4",
+  "hora": "02:23 p. m.",
   "docu": ""
 },
 {
@@ -112,6 +167,39 @@
 {
   "fechacab": "24/03/2026",
   "serie": "COT",
+  "numero": "YH0002790",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "95",
+  "tipc": "3.4",
+  "hora": "02:31 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "24/03/2026",
+  "serie": "COT",
+  "numero": "MOQ00825",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "320",
+  "tipc": "3.4",
+  "hora": "02:25 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "24/03/2026",
+  "serie": "COT",
+  "numero": "GP000341",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.4",
+  "hora": "02:29 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "24/03/2026",
+  "serie": "COT",
   "numero": "CX000810",
   "nombre": "CORPORACION GCC S.A.C",
   "moneda": "PEN",
@@ -129,6 +217,17 @@
   "totguia": "1520",
   "tipc": "3.4",
   "hora": "08:09 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "21/03/2026",
+  "serie": "COT",
+  "numero": "YH0002787.",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "210",
+  "tipc": "3.4",
+  "hora": "02:32 p. m.",
   "docu": ""
 },
 {
@@ -173,6 +272,17 @@
   "totguia": "534.6",
   "tipc": "3.4",
   "hora": "04:01 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "19/03/2026",
+  "serie": "COT",
+  "numero": "RJ00254",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.4",
+  "hora": "02:22 p. m.",
   "docu": ""
 },
 {
