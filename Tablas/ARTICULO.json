@@ -29788,6 +29788,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "HY-116-6",
+  "descripcion": "JARRO MAMA DISEÑOS (CAJA X  4 DOC)",
+  "fecha": "10/04/2026",
+  "stock": "STOCK = 0 CAJ  0 DOC  0 UNI",
+  "cant": "0",
+  "preciosol": "190",
+  "precio": "55.88",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "4",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "HY26-1MB",
   "descripcion": "JARRO MAMA (CAJA X  4 DOC)",
   "fecha": "10/04/2026",
