@@ -2,6 +2,17 @@
 {
   "fechacab": "10/04/2026",
   "serie": "COT",
+  "numero": "FT000038",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "7157",
+  "tipc": "3.4",
+  "hora": "02:35 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/04/2026",
+  "serie": "COT",
   "numero": "CX000888",
   "nombre": "CORPORACION GCC S.A.C",
   "moneda": "PEN",
