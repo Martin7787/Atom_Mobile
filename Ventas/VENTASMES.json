@@ -6765,4 +6765,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "11/04/2026",
+  "fecha": "Abr. 11",
+  "serie": "T001",
+  "numero": "00021079",
+  "nombre": "NAVARRO VILLASECA AGUSTIN RAMON",
+  "moneda": "PEN",
+  "totguia": "3625",
+  "acuenta": "3625",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:38 a. m.",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
 ]
