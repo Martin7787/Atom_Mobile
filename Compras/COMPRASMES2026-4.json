@@ -13,6 +13,17 @@
 {
   "fechacab": "11/04/2026",
   "serie": "COT",
+  "numero": "HM11042026",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "23758.6",
+  "tipc": "3.4",
+  "hora": "02:52 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "11/04/2026",
+  "serie": "COT",
   "numero": "BK099576",
   "nombre": "BRIKENIA",
   "moneda": "USD",
