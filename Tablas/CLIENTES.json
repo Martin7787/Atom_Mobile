@@ -10413,6 +10413,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "ALFREDO",
+  "ruc": "09973830",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "13/04/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "ANGEL DANIEL ARROYO MEZA",
   "ruc": "09974130",
   "direccion": "LIMA",
@@ -44608,6 +44621,19 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "16/08/2021",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "FREDDY LUDEÑA TORRES",
+  "ruc": "20093590",
+  "direccion": "SAN LUIS",
+  "tipo": "0",
+  "fecha": "13/04/2026",
   "telefono": "",
   "email": "",
   "trato": "",
@@ -107887,6 +107913,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "NANCY ASTUVILCA ",
+  "ruc": "80393374",
+  "direccion": "LOS OLIVOS",
+  "tipo": "0",
+  "fecha": "13/04/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "ALEX PEÑA",
   "ruc": "80394816",
   "direccion": "TRUJILLO",
@@ -108009,6 +108048,19 @@
   "direccion": "HUAMANCHUCO-LA LIBERTAD",
   "tipo": "0",
   "fecha": "06/05/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "ARMANDO CESAR PARIMANGO RODRIGUEZ",
+  "ruc": "80494656",
+  "direccion": "TRUJILLO- TRUJILLO- TRUJILLO-SUAREZ 683",
+  "tipo": "0",
+  "fecha": "13/04/2026",
   "telefono": "",
   "email": "",
   "trato": "",
