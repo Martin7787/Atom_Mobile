@@ -2,6 +2,17 @@
 {
   "fechacab": "10/04/2026",
   "serie": "COT",
+  "numero": "RJ00494",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "670",
+  "tipc": "3.4",
+  "hora": "10:49 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/04/2026",
+  "serie": "COT",
   "numero": "FT000038",
   "nombre": "FORTUNATO MALLQUI NIETO",
   "moneda": "PEN",
