@@ -1,5 +1,71 @@
 [
 {
+  "fechacab": "13/04/2026",
+  "serie": "COT",
+  "numero": "RJ00302",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "80",
+  "tipc": "3.4",
+  "hora": "10:03 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "13/04/2026",
+  "serie": "COT",
+  "numero": "RJ00246",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "10:03 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "13/04/2026",
+  "serie": "COT",
+  "numero": "NVLU-0002814",
+  "nombre": "FINEZZA DAZA COMPANY S.A.C.",
+  "moneda": "USD",
+  "totguia": "310",
+  "tipc": "3.4",
+  "hora": "07:40 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "13/04/2026",
+  "serie": "COT",
+  "numero": "DD26050000797",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "1083.6",
+  "tipc": "3.4",
+  "hora": "08:57 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "11/04/2026",
+  "serie": "COT",
+  "numero": "TQ000734",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "320",
+  "tipc": "3.4",
+  "hora": "10:01 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "11/04/2026",
+  "serie": "COT",
+  "numero": "RJ00240",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "80",
+  "tipc": "3.4",
+  "hora": "10:02 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "11/04/2026",
   "serie": "COT",
   "numero": "HM11042026",
@@ -30,6 +96,17 @@
   "totguia": "670",
   "tipc": "3.4",
   "hora": "10:51 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/04/2026",
+  "serie": "COT",
+  "numero": "GP000413",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "110",
+  "tipc": "3.4",
+  "hora": "10:04 a. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -75,6 +152,17 @@
   "tipc": "3.4",
   "hora": "06:15 p. m.",
   "docu": "USER: DANTE"
+},
+{
+  "fechacab": "09/04/2026",
+  "serie": "COT",
+  "numero": "YH0002818",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "1800",
+  "tipc": "3.4",
+  "hora": "10:05 a. m.",
+  "docu": "USER: MARTIN"
 },
 {
   "fechacab": "09/04/2026",
@@ -178,6 +266,17 @@
 {
   "fechacab": "08/04/2026",
   "serie": "COT",
+  "numero": "RJ00212",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.4",
+  "hora": "10:01 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "08/04/2026",
+  "serie": "COT",
   "numero": "PV000924",
   "nombre": "ADONAI P&V MENAJE",
   "moneda": "PEN",
@@ -207,6 +306,17 @@
   "tipc": "3.4",
   "hora": "11:49 a. m.",
   "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "08/04/2026",
+  "serie": "COT",
+  "numero": "DD26050000760",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "3108",
+  "tipc": "3.4",
+  "hora": "08:52 p. m.",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "08/04/2026",
@@ -822,50 +932,6 @@
   "totguia": "178.09",
   "tipc": "3.4",
   "hora": "07:53 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "14/03/2026",
-  "serie": "COT",
-  "numero": "YH0001998",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "260",
-  "tipc": "3.4",
-  "hora": "11:24 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "14/03/2026",
-  "serie": "COT",
-  "numero": "GP000303",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "100",
-  "tipc": "3.4",
-  "hora": "11:30 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "14/03/2026",
-  "serie": "COT",
-  "numero": "GE10908",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "172",
-  "tipc": "3.4",
-  "hora": "07:29 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "14/03/2026",
-  "serie": "COT",
-  "numero": "CX000762",
-  "nombre": "CORPORACION GCC S.A.C",
-  "moneda": "PEN",
-  "totguia": "130",
-  "tipc": "3.4",
-  "hora": "11:25 a. m.",
   "docu": "USER: MARTIN"
 },
 ]

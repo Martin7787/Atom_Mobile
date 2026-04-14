@@ -11,6 +11,72 @@
   "docu": ""
 },
 {
+  "fechacab": "13/04/2026",
+  "serie": "COT",
+  "numero": "RJ00302",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "80",
+  "tipc": "3.4",
+  "hora": "10:03 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "13/04/2026",
+  "serie": "COT",
+  "numero": "RJ00246",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "10:03 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "13/04/2026",
+  "serie": "COT",
+  "numero": "NVLU-0002814",
+  "nombre": "FINEZZA DAZA COMPANY S.A.C.",
+  "moneda": "USD",
+  "totguia": "310",
+  "tipc": "3.4",
+  "hora": "07:40 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "13/04/2026",
+  "serie": "COT",
+  "numero": "DD26050000797",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "1083.6",
+  "tipc": "3.4",
+  "hora": "08:57 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "11/04/2026",
+  "serie": "COT",
+  "numero": "TQ000734",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "320",
+  "tipc": "3.4",
+  "hora": "10:01 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "11/04/2026",
+  "serie": "COT",
+  "numero": "RJ00240",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "80",
+  "tipc": "3.4",
+  "hora": "10:02 a. m.",
+  "docu": ""
+},
+{
   "fechacab": "11/04/2026",
   "serie": "COT",
   "numero": "HM11042026",
@@ -41,6 +107,17 @@
   "totguia": "670",
   "tipc": "3.4",
   "hora": "10:51 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "10/04/2026",
+  "serie": "COT",
+  "numero": "GP000413",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "110",
+  "tipc": "3.4",
+  "hora": "10:04 a. m.",
   "docu": ""
 },
 {
@@ -85,6 +162,17 @@
   "totguia": "2193",
   "tipc": "3.4",
   "hora": "06:15 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "09/04/2026",
+  "serie": "COT",
+  "numero": "YH0002818",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "1800",
+  "tipc": "3.4",
+  "hora": "10:05 a. m.",
   "docu": ""
 },
 {
@@ -189,6 +277,17 @@
 {
   "fechacab": "08/04/2026",
   "serie": "COT",
+  "numero": "RJ00212",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.4",
+  "hora": "10:01 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "08/04/2026",
+  "serie": "COT",
   "numero": "PV000924",
   "nombre": "ADONAI P&V MENAJE",
   "moneda": "PEN",
@@ -217,6 +316,17 @@
   "totguia": "330",
   "tipc": "3.4",
   "hora": "11:49 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "08/04/2026",
+  "serie": "COT",
+  "numero": "DD26050000760",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "3108",
+  "tipc": "3.4",
+  "hora": "08:52 p. m.",
   "docu": ""
 },
 {
