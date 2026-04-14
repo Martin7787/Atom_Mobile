@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000276",
+  "nombre": "FILOMENO VERGARA VILCA",
+  "moneda": "PEN",
+  "totguia": "84",
+  "tipc": "3.4",
+  "fecha": "14/04/2026",
+  "hora": "11:13 a. m.",
+  "docu": "T001-00021114",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000275",
   "nombre": "WALTER HERNANDEZ LINGAN",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "08/01/2026",
   "hora": "02:03 p. m.",
   "docu": "T001-00019453",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000246",
-  "nombre": "LUCY BETTY MAMANI AMANQUI",
-  "moneda": "PEN",
-  "totguia": "216",
-  "tipc": "3.7",
-  "fecha": "07/01/2026",
-  "hora": "12:01 p. m.",
-  "docu": "T001-00019266",
   "via": "USER: SOFI",
   "bloquear": ""
 },

@@ -112,6 +112,17 @@
 {
   "fechacab": "10/04/2026",
   "serie": "COT",
+  "numero": "GP000416",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "700",
+  "tipc": "3.4",
+  "hora": "11:16 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "10/04/2026",
+  "serie": "COT",
   "numero": "GP000413",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
@@ -126,9 +137,9 @@
   "numero": "FT000038",
   "nombre": "FORTUNATO MALLQUI NIETO",
   "moneda": "PEN",
-  "totguia": "7157",
+  "totguia": "5530",
   "tipc": "3.4",
-  "hora": "02:35 p. m.",
+  "hora": "10:54 a. m.",
   "docu": ""
 },
 {
@@ -469,7 +480,7 @@
   "moneda": "PEN",
   "totguia": "164",
   "tipc": "3.4",
-  "hora": "10:07 a. m.",
+  "hora": "10:53 a. m.",
   "docu": ""
 },
 {
