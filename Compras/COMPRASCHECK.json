@@ -19705,10 +19705,6 @@
 },
 {
   "serie": "COT",
-  "numero": "2030"
-},
-{
-  "serie": "COT",
   "numero": "G/2030"
 },
 {
@@ -19730,6 +19726,10 @@
 {
   "serie": "COT",
   "numero": "MOQ00410"
+},
+{
+  "serie": "COT",
+  "numero": "HO20260114"
 },
 {
   "serie": "COT",
@@ -21397,7 +21397,7 @@
 },
 {
   "serie": "COT",
-  "numero": "DIA26000606"
+  "numero": "HM15042026"
 },
 {
   "serie": "COT",
@@ -21610,10 +21610,6 @@
 {
   "serie": "COT",
   "numero": "MOQ00816"
-},
-{
-  "serie": "COT",
-  "numero": "MOQ00814"
 },
 {
   "serie": "COT",
@@ -22050,5 +22046,117 @@
 {
   "serie": "COT",
   "numero": "GP000416"
+},
+{
+  "serie": "FAC",
+  "numero": "F032-00028338"
+},
+{
+  "serie": "COT",
+  "numero": "MOQ00840"
+},
+{
+  "serie": "COT",
+  "numero": "MOQ00837"
+},
+{
+  "serie": "COT",
+  "numero": "MOQ00838"
+},
+{
+  "serie": "COT",
+  "numero": "MOQ000834"
+},
+{
+  "serie": "COT",
+  "numero": "GP000424"
+},
+{
+  "serie": "COT",
+  "numero": "GP000425"
+},
+{
+  "serie": "COT",
+  "numero": "MOQ00839"
+},
+{
+  "serie": "COT",
+  "numero": "RJ00313"
+},
+{
+  "serie": "COT",
+  "numero": "CX000928"
+},
+{
+  "serie": "COT",
+  "numero": "MOQ00843"
+},
+{
+  "serie": "COT",
+  "numero": "MOQ00844"
+},
+{
+  "serie": "COT",
+  "numero": "MOQ00842"
+},
+{
+  "serie": "COT",
+  "numero": "YH002795"
+},
+{
+  "serie": "COT",
+  "numero": "FT000342"
+},
+{
+  "serie": "FAC",
+  "numero": "F015-00151344"
+},
+{
+  "serie": "FAC",
+  "numero": "F015-00151345"
+},
+{
+  "serie": "COT",
+  "numero": "RJ00327"
+},
+{
+  "serie": "COT",
+  "numero": "RJ00314"
+},
+{
+  "serie": "COT",
+  "numero": "RJ00309"
+},
+{
+  "serie": "COT",
+  "numero": "CX000941"
+},
+{
+  "serie": "COT",
+  "numero": "MOQ00830"
+},
+{
+  "serie": "COT",
+  "numero": "RJ00505"
+},
+{
+  "serie": "COT",
+  "numero": "GE11406"
+},
+{
+  "serie": "COT",
+  "numero": "DIA26001120"
+},
+{
+  "serie": "COT",
+  "numero": "RT001642"
+},
+{
+  "serie": "COT",
+  "numero": "GP000453"
+},
+{
+  "serie": "COT",
+  "numero": "MOQ00845"
 },
 ]

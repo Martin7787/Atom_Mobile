@@ -1,6 +1,32 @@
 [
 {
   "serie": "T001",
+  "numero": "00000278",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "84",
+  "tipc": "3.4",
+  "fecha": "18/04/2026",
+  "hora": "05:21 p. m.",
+  "docu": "T001-00021242",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
+  "numero": "00000277",
+  "nombre": "BETTY E. OBREGON ALEJO",
+  "moneda": "PEN",
+  "totguia": "210",
+  "tipc": "3.4",
+  "fecha": "16/04/2026",
+  "hora": "01:29 p. m.",
+  "docu": "T001-00021053",
+  "via": "USER: EDITH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000276",
   "nombre": "FILOMENO VERGARA VILCA",
   "moneda": "PEN",
@@ -360,32 +386,6 @@
   "fecha": "10/01/2026",
   "hora": "03:54 p. m.",
   "docu": "T001-00019785",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000248",
-  "nombre": "HAYDEE CHACHAIMA SALINAS",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.7",
-  "fecha": "09/01/2026",
-  "hora": "04:11 p. m.",
-  "docu": "T001-00019758",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000247",
-  "nombre": "PONCE CRISTOBAL VICTOR ANDRES",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.7",
-  "fecha": "08/01/2026",
-  "hora": "02:03 p. m.",
-  "docu": "T001-00019453",
   "via": "USER: SOFI",
   "bloquear": ""
 },

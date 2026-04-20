@@ -348,7 +348,7 @@
   "moneda": "USD",
   "totguia": "14800.08",
   "tipc": "3.372",
-  "hora": "07:58 p. m.",
+  "hora": "03:51 p. m.",
   "docu": ""
 },
 {
@@ -405,17 +405,6 @@
   "tipc": "3.4",
   "hora": "02:28 p. m.",
   "docu": ""
-},
-{
-  "fechacab": "13/02/2026",
-  "serie": "COT",
-  "numero": "DIA26000606",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "",
-  "totguia": "",
-  "tipc": "",
-  "hora": "07:37 p. m.",
-  "docu": "USER: "
 },
 {
   "fechacab": "13/02/2026",

@@ -1,5 +1,214 @@
 [
 {
+  "fechacab": "18/04/2026",
+  "serie": "COT",
+  "numero": "MOQ000822",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "164",
+  "tipc": "3.4",
+  "hora": "02:26 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "17/04/2026",
+  "serie": "COT",
+  "numero": "RJ00505",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "03:52 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "17/04/2026",
+  "serie": "COT",
+  "numero": "GP000453",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "330",
+  "tipc": "3.4",
+  "hora": "11:47 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "17/04/2026",
+  "serie": "COT",
+  "numero": "GE11406",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "192",
+  "tipc": "3.4",
+  "hora": "05:45 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "16/04/2026",
+  "serie": "COT",
+  "numero": "RJ00327",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "10:45 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "16/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00845",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "860",
+  "tipc": "3.4",
+  "hora": "11:49 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "16/04/2026",
+  "serie": "COT",
+  "numero": "FT000342",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "2200",
+  "tipc": "3.4",
+  "hora": "10:46 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "16/04/2026",
+  "serie": "COT",
+  "numero": "CX000941",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "360",
+  "tipc": "3.4",
+  "hora": "10:47 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "RT001642",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "484",
+  "tipc": "3.4",
+  "hora": "11:46 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "RJ00314",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "290",
+  "tipc": "3.4",
+  "hora": "10:45 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "RJ00313",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "1150",
+  "tipc": "3.4",
+  "hora": "09:59 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00844",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "640",
+  "tipc": "3.4",
+  "hora": "10:04 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00843",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "200",
+  "tipc": "3.4",
+  "hora": "10:04 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "HM15042026",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "10228.35",
+  "tipc": "3.4",
+  "hora": "05:45 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "CX000928",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "360",
+  "tipc": "3.4",
+  "hora": "10:03 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "14/04/2026",
+  "serie": "COT",
+  "numero": "RJ00309",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.4",
+  "hora": "10:46 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "14/04/2026",
+  "serie": "COT",
+  "numero": "HO20260114",
+  "nombre": "RONGQUIAN",
+  "moneda": "PEN",
+  "totguia": "4670",
+  "tipc": "3.4",
+  "hora": "01:16 p. m.",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "14/04/2026",
+  "serie": "FAC",
+  "numero": "F015-00151345",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "0.0000",
+  "tipc": "3.4",
+  "hora": "03:01 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "14/04/2026",
+  "serie": "FAC",
+  "numero": "F015-00151344",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "1260.84",
+  "tipc": "3.4",
+  "hora": "01:22 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "13/04/2026",
   "serie": "COT",
   "numero": "RJ00302",
@@ -30,6 +239,17 @@
   "totguia": "310",
   "tipc": "3.4",
   "hora": "07:40 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "13/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00842",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "172",
+  "tipc": "3.4",
+  "hora": "10:06 a. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -68,12 +288,56 @@
 {
   "fechacab": "11/04/2026",
   "serie": "COT",
+  "numero": "MOQ00840",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "09:58 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "11/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00839",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "351",
+  "tipc": "3.4",
+  "hora": "11:06 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "11/04/2026",
+  "serie": "COT",
   "numero": "HM11042026",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
-  "totguia": "23758.6",
+  "totguia": "23758.61",
   "tipc": "3.4",
-  "hora": "02:52 p. m.",
+  "hora": "07:08 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "11/04/2026",
+  "serie": "COT",
+  "numero": "GP000425",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "110",
+  "tipc": "3.4",
+  "hora": "11:05 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "11/04/2026",
+  "serie": "COT",
+  "numero": "GP000424",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "320",
+  "tipc": "3.4",
+  "hora": "11:04 a. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -96,6 +360,17 @@
   "totguia": "670",
   "tipc": "3.4",
   "hora": "10:51 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00838",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "108",
+  "tipc": "3.4",
+  "hora": "09:59 a. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -159,9 +434,9 @@
   "numero": "10/04/2026",
   "nombre": "CRISTIAN BURGA",
   "moneda": "PEN",
-  "totguia": "2193",
+  "totguia": "4386.05",
   "tipc": "3.4",
-  "hora": "06:15 p. m.",
+  "hora": "05:52 p. m.",
   "docu": "USER: DANTE"
 },
 {
@@ -211,12 +486,34 @@
 {
   "fechacab": "09/04/2026",
   "serie": "COT",
+  "numero": "MOQ00837",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "09:58 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "09/04/2026",
+  "serie": "COT",
   "numero": "MOQ00832",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
   "totguia": "160",
   "tipc": "3.4",
   "hora": "10:16 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "09/04/2026",
+  "serie": "COT",
+  "numero": "MOQ000834",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "280",
+  "tipc": "3.4",
+  "hora": "10:00 a. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -324,9 +621,9 @@
   "numero": "DD26050000760",
   "nombre": "DOU DOU",
   "moneda": "PEN",
-  "totguia": "3108",
+  "totguia": "3004.4",
   "tipc": "3.4",
-  "hora": "08:52 p. m.",
+  "hora": "05:04 p. m.",
   "docu": "USER: DANTE"
 },
 {
@@ -426,6 +723,17 @@
   "totguia": "210",
   "tipc": "3.4",
   "hora": "10:41 a. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00830",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "640",
+  "tipc": "3.4",
+  "hora": "10:48 a. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -574,6 +882,17 @@
 {
   "fechacab": "30/03/2026",
   "serie": "COT",
+  "numero": "DIA26001120",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "2721.4",
+  "tipc": "3.4",
+  "hora": "06:04 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "30/03/2026",
+  "serie": "COT",
   "numero": "AGC001-049573",
   "nombre": "AGC",
   "moneda": "PEN",
@@ -657,6 +976,28 @@
   "totguia": "3670",
   "tipc": "3.4",
   "hora": "07:26 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "26/03/2026",
+  "serie": "FAC",
+  "numero": "F032-00028338",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "PEN",
+  "totguia": "0.0000",
+  "tipc": "3.4",
+  "hora": "04:21 p. m.",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "25/03/2026",
+  "serie": "COT",
+  "numero": "YH002795",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "570",
+  "tipc": "3.4",
+  "hora": "10:06 a. m.",
   "docu": "USER: MARTIN"
 },
 {
@@ -756,193 +1097,6 @@
   "totguia": "180",
   "tipc": "3.4",
   "hora": "10:47 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "20/03/2026",
-  "serie": "COT",
-  "numero": "HM20032026",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "16743.91",
-  "tipc": "3.4",
-  "hora": "11:24 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "20/03/2026",
-  "serie": "COT",
-  "numero": "HM20022026",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "21599.6",
-  "tipc": "3.4",
-  "hora": "08:01 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/03/2026",
-  "serie": "FAC",
-  "numero": "VC3-009546",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "534.6",
-  "tipc": "3.4",
-  "hora": "04:01 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/03/2026",
-  "serie": "COT",
-  "numero": "RJ00254",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "70",
-  "tipc": "3.4",
-  "hora": "02:22 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/03/2026",
-  "serie": "COT",
-  "numero": "MOQ00813",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "270",
-  "tipc": "3.4",
-  "hora": "10:48 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/03/2026",
-  "serie": "COT",
-  "numero": "GE10971",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "224",
-  "tipc": "3.4",
-  "hora": "12:22 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/03/2026",
-  "serie": "COT",
-  "numero": "CX000789",
-  "nombre": "CORPORACION GCC S.A.C",
-  "moneda": "PEN",
-  "totguia": "180",
-  "tipc": "3.4",
-  "hora": "10:49 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/03/2026",
-  "serie": "COT",
-  "numero": "MOQ000821",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.4",
-  "hora": "10:47 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/03/2026",
-  "serie": "COT",
-  "numero": "RT001269",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "288",
-  "tipc": "3.4",
-  "hora": "10:48 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/03/2026",
-  "serie": "COT",
-  "numero": "GE10935",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "272",
-  "tipc": "3.4",
-  "hora": "11:28 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/03/2026",
-  "serie": "COT",
-  "numero": "DIA26000959",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "312.94",
-  "tipc": "3.4",
-  "hora": "07:52 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/03/2026",
-  "serie": "COT",
-  "numero": "BK099177",
-  "nombre": "BRIKENIA",
-  "moneda": "USD",
-  "totguia": "238",
-  "tipc": "3.4",
-  "hora": "03:50 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "17/03/2026",
-  "serie": "COT",
-  "numero": "AGC001-049387",
-  "nombre": "AGC",
-  "moneda": "PEN",
-  "totguia": "100",
-  "tipc": "3.4",
-  "hora": "11:31 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "16/03/2026",
-  "serie": "COT",
-  "numero": "GE10920",
-  "nombre": "GOLDEN ELECTRONIC S.A.C.",
-  "moneda": "USD",
-  "totguia": "127.5",
-  "tipc": "3.4",
-  "hora": "05:53 p. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "16/03/2026",
-  "serie": "COT",
-  "numero": "DIA26000961",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "660",
-  "tipc": "3.425",
-  "hora": "02:12 p. m.",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "16/03/2026",
-  "serie": "COT",
-  "numero": "DIA26000943",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "3393.97",
-  "tipc": "3.4",
-  "hora": "11:23 a. m.",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "16/03/2026",
-  "serie": "COT",
-  "numero": "DIA26000935",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "178.09",
-  "tipc": "3.4",
-  "hora": "07:53 p. m.",
   "docu": "USER: MARTIN"
 },
 ]

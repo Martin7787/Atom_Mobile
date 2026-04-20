@@ -57,6 +57,17 @@
 {
   "fechacab": "30/03/2026",
   "serie": "COT",
+  "numero": "DIA26001120",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "2721.4",
+  "tipc": "3.4",
+  "hora": "06:04 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "30/03/2026",
+  "serie": "COT",
   "numero": "AGC001-049573",
   "nombre": "AGC",
   "moneda": "PEN",
@@ -140,6 +151,28 @@
   "totguia": "3670",
   "tipc": "3.4",
   "hora": "07:26 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "26/03/2026",
+  "serie": "FAC",
+  "numero": "F032-00028338",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "PEN",
+  "totguia": "0.0000",
+  "tipc": "3.4",
+  "hora": "04:21 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "25/03/2026",
+  "serie": "COT",
+  "numero": "YH002795",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "570",
+  "tipc": "3.4",
+  "hora": "10:06 a. m.",
   "docu": ""
 },
 {
@@ -412,9 +445,9 @@
   "numero": "DIA26000943",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
-  "totguia": "3393.97",
+  "totguia": "3345.52",
   "tipc": "3.4",
-  "hora": "11:23 a. m.",
+  "hora": "02:54 p. m.",
   "docu": ""
 },
 {
@@ -482,17 +515,6 @@
   "tipc": "3.4",
   "hora": "11:24 a. m.",
   "docu": ""
-},
-{
-  "fechacab": "13/03/2026",
-  "serie": "COT",
-  "numero": "MOQ00814",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "",
-  "totguia": "",
-  "tipc": "",
-  "hora": "12:05 p. m.",
-  "docu": "USER: "
 },
 {
   "fechacab": "13/03/2026",

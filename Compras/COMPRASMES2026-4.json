@@ -11,6 +11,204 @@
   "docu": ""
 },
 {
+  "fechacab": "17/04/2026",
+  "serie": "COT",
+  "numero": "RJ00505",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "03:52 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "17/04/2026",
+  "serie": "COT",
+  "numero": "GP000453",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "330",
+  "tipc": "3.4",
+  "hora": "11:47 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "17/04/2026",
+  "serie": "COT",
+  "numero": "GE11406",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "192",
+  "tipc": "3.4",
+  "hora": "05:45 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "16/04/2026",
+  "serie": "COT",
+  "numero": "RJ00327",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "10:45 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "16/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00845",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "860",
+  "tipc": "3.4",
+  "hora": "11:49 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "16/04/2026",
+  "serie": "COT",
+  "numero": "FT000342",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "2200",
+  "tipc": "3.4",
+  "hora": "10:46 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "16/04/2026",
+  "serie": "COT",
+  "numero": "CX000941",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "360",
+  "tipc": "3.4",
+  "hora": "10:47 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "RT001642",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "484",
+  "tipc": "3.4",
+  "hora": "11:46 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "RJ00314",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "290",
+  "tipc": "3.4",
+  "hora": "10:45 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "RJ00313",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "1150",
+  "tipc": "3.4",
+  "hora": "09:59 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00844",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "640",
+  "tipc": "3.4",
+  "hora": "10:04 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00843",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "200",
+  "tipc": "3.4",
+  "hora": "10:04 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "HM15042026",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "10228.35",
+  "tipc": "3.4",
+  "hora": "05:45 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "15/04/2026",
+  "serie": "COT",
+  "numero": "CX000928",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "360",
+  "tipc": "3.4",
+  "hora": "10:03 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "14/04/2026",
+  "serie": "COT",
+  "numero": "RJ00309",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.4",
+  "hora": "10:46 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "14/04/2026",
+  "serie": "COT",
+  "numero": "HO20260114",
+  "nombre": "RONGQUIAN",
+  "moneda": "PEN",
+  "totguia": "4670",
+  "tipc": "3.4",
+  "hora": "01:16 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "14/04/2026",
+  "serie": "FAC",
+  "numero": "F015-00151345",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "0.0000",
+  "tipc": "3.4",
+  "hora": "03:01 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "14/04/2026",
+  "serie": "FAC",
+  "numero": "F015-00151344",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "1260.84",
+  "tipc": "3.4",
+  "hora": "01:22 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "13/04/2026",
   "serie": "COT",
   "numero": "RJ00302",
@@ -41,6 +239,17 @@
   "totguia": "310",
   "tipc": "3.4",
   "hora": "07:40 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "13/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00842",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "172",
+  "tipc": "3.4",
+  "hora": "10:06 a. m.",
   "docu": ""
 },
 {
@@ -79,12 +288,56 @@
 {
   "fechacab": "11/04/2026",
   "serie": "COT",
+  "numero": "MOQ00840",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "09:58 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "11/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00839",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "351",
+  "tipc": "3.4",
+  "hora": "11:06 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "11/04/2026",
+  "serie": "COT",
   "numero": "HM11042026",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
-  "totguia": "23758.6",
+  "totguia": "23758.61",
   "tipc": "3.4",
-  "hora": "02:52 p. m.",
+  "hora": "07:08 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "11/04/2026",
+  "serie": "COT",
+  "numero": "GP000425",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "110",
+  "tipc": "3.4",
+  "hora": "11:05 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "11/04/2026",
+  "serie": "COT",
+  "numero": "GP000424",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "320",
+  "tipc": "3.4",
+  "hora": "11:04 a. m.",
   "docu": ""
 },
 {
@@ -107,6 +360,17 @@
   "totguia": "670",
   "tipc": "3.4",
   "hora": "10:51 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "10/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00838",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "108",
+  "tipc": "3.4",
+  "hora": "09:59 a. m.",
   "docu": ""
 },
 {
@@ -170,9 +434,9 @@
   "numero": "10/04/2026",
   "nombre": "CRISTIAN BURGA",
   "moneda": "PEN",
-  "totguia": "2193",
+  "totguia": "4386.05",
   "tipc": "3.4",
-  "hora": "06:15 p. m.",
+  "hora": "05:52 p. m.",
   "docu": ""
 },
 {
@@ -222,12 +486,34 @@
 {
   "fechacab": "09/04/2026",
   "serie": "COT",
+  "numero": "MOQ00837",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "09:58 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "09/04/2026",
+  "serie": "COT",
   "numero": "MOQ00832",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
   "totguia": "160",
   "tipc": "3.4",
   "hora": "10:16 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "09/04/2026",
+  "serie": "COT",
+  "numero": "MOQ000834",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "280",
+  "tipc": "3.4",
+  "hora": "10:00 a. m.",
   "docu": ""
 },
 {
@@ -335,9 +621,9 @@
   "numero": "DD26050000760",
   "nombre": "DOU DOU",
   "moneda": "PEN",
-  "totguia": "3108",
+  "totguia": "3004.4",
   "tipc": "3.4",
-  "hora": "08:52 p. m.",
+  "hora": "05:04 p. m.",
   "docu": ""
 },
 {
@@ -437,6 +723,17 @@
   "totguia": "210",
   "tipc": "3.4",
   "hora": "10:41 a. m.",
+  "docu": ""
+},
+{
+  "fechacab": "06/04/2026",
+  "serie": "COT",
+  "numero": "MOQ00830",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "640",
+  "tipc": "3.4",
+  "hora": "10:48 a. m.",
   "docu": ""
 },
 {

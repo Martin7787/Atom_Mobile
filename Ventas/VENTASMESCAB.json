@@ -1,30 +1,5 @@
 [
 {
-  "dia": "Lun.",
-  "fecha": "16/03/2026",
-  "fechacab": "Mar. 16"
-},
-{
-  "dia": "Mar.",
-  "fecha": "17/03/2026",
-  "fechacab": "Mar. 17"
-},
-{
-  "dia": "Mié.",
-  "fecha": "18/03/2026",
-  "fechacab": "Mar. 18"
-},
-{
-  "dia": "Jue.",
-  "fecha": "19/03/2026",
-  "fechacab": "Mar. 19"
-},
-{
-  "dia": "Vie.",
-  "fecha": "20/03/2026",
-  "fechacab": "Mar. 20"
-},
-{
   "dia": "Sáb.",
   "fecha": "21/03/2026",
   "fechacab": "Mar. 21"
@@ -115,8 +90,33 @@
   "fechacab": "Abr. 13"
 },
 {
-  "dia": "Hoy",
+  "dia": "Mar.",
   "fecha": "14/04/2026",
   "fechacab": "Abr. 14"
+},
+{
+  "dia": "Mié.",
+  "fecha": "15/04/2026",
+  "fechacab": "Abr. 15"
+},
+{
+  "dia": "Jue.",
+  "fecha": "16/04/2026",
+  "fechacab": "Abr. 16"
+},
+{
+  "dia": "Vie.",
+  "fecha": "17/04/2026",
+  "fechacab": "Abr. 17"
+},
+{
+  "dia": "Sáb.",
+  "fecha": "18/04/2026",
+  "fechacab": "Abr. 18"
+},
+{
+  "dia": "Hoy",
+  "fecha": "20/04/2026",
+  "fechacab": "Abr. 20"
 },
 ]
