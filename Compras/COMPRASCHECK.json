@@ -21632,6 +21632,10 @@
   "numero": "DIA26000851"
 },
 {
+  "serie": "FAC",
+  "numero": "F063-00074375"
+},
+{
   "serie": "COT",
   "numero": "DIA26000852"
 },
@@ -22158,5 +22162,21 @@
 {
   "serie": "COT",
   "numero": "MOQ00845"
+},
+{
+  "serie": "FAC",
+  "numero": "F063-00074376"
+},
+{
+  "serie": "COT",
+  "numero": "RJ00510"
+},
+{
+  "serie": "COT",
+  "numero": "DIA26001380"
+},
+{
+  "serie": "COT",
+  "numero": "DIA26001381"
 },
 ]

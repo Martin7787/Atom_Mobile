@@ -1,5 +1,60 @@
 [
 {
+  "fechacab": "20/04/2026",
+  "serie": "COT",
+  "numero": "RJ00510",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "1340",
+  "tipc": "3.4",
+  "hora": "12:48 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "20/04/2026",
+  "serie": "FAC",
+  "numero": "F063-00074376",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "0.0000",
+  "tipc": "3.4",
+  "hora": "12:01 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "20/04/2026",
+  "serie": "FAC",
+  "numero": "F063-00074375",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "866.09",
+  "tipc": "3.4",
+  "hora": "12:00 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "20/04/2026",
+  "serie": "COT",
+  "numero": "DIA26001381",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "520",
+  "tipc": "3.4",
+  "hora": "03:34 p. m.",
+  "docu": ""
+},
+{
+  "fechacab": "20/04/2026",
+  "serie": "COT",
+  "numero": "DIA26001380",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "2284",
+  "tipc": "3.4",
+  "hora": "03:33 p. m.",
+  "docu": ""
+},
+{
   "fechacab": "18/04/2026",
   "serie": "COT",
   "numero": "MOQ000822",
