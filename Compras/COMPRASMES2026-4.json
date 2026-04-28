@@ -1,16 +1,5 @@
 [
 {
-  "fechacab": "28/04/2026",
-  "serie": "COT",
-  "numero": "RJ00408",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "",
-  "totguia": "",
-  "tipc": "",
-  "hora": "11:47",
-  "docu": "USER: "
-},
-{
   "fechacab": "27/04/2026",
   "serie": "COT",
   "numero": "27022026",
@@ -19,6 +8,17 @@
   "totguia": "18000",
   "tipc": "3.4",
   "hora": "18:50",
+  "docu": ""
+},
+{
+  "fechacab": "25/04/2026",
+  "serie": "COT",
+  "numero": "RJ00408",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "11:47",
   "docu": ""
 },
 {
