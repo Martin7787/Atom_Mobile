@@ -57,6 +57,17 @@
 {
   "fechacab": "24/04/2026",
   "serie": "COT",
+  "numero": "RJ00398",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "11:48",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "24/04/2026",
+  "serie": "COT",
   "numero": "GE11550",
   "nombre": "GOLDEN ELECTRONIC S.A.C.",
   "moneda": "USD",
