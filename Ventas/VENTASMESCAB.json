@@ -1,36 +1,6 @@
 [
 {
   "dia": "Lun.",
-  "fecha": "23/03/2026",
-  "fechacab": "Mar. 23"
-},
-{
-  "dia": "Mar.",
-  "fecha": "24/03/2026",
-  "fechacab": "Mar. 24"
-},
-{
-  "dia": "Mié.",
-  "fecha": "25/03/2026",
-  "fechacab": "Mar. 25"
-},
-{
-  "dia": "Jue.",
-  "fecha": "26/03/2026",
-  "fechacab": "Mar. 26"
-},
-{
-  "dia": "Vie.",
-  "fecha": "27/03/2026",
-  "fechacab": "Mar. 27"
-},
-{
-  "dia": "Sáb.",
-  "fecha": "28/03/2026",
-  "fechacab": "Mar. 28"
-},
-{
-  "dia": "Lun.",
   "fecha": "30/03/2026",
   "fechacab": "Mar. 30"
 },
@@ -113,5 +83,35 @@
   "dia": "Lun.",
   "fecha": "20/04/2026",
   "fechacab": "Abr. 20"
+},
+{
+  "dia": "Mar.",
+  "fecha": "21/04/2026",
+  "fechacab": "Abr. 21"
+},
+{
+  "dia": "Mié.",
+  "fecha": "22/04/2026",
+  "fechacab": "Abr. 22"
+},
+{
+  "dia": "Jue.",
+  "fecha": "23/04/2026",
+  "fechacab": "Abr. 23"
+},
+{
+  "dia": "Vie.",
+  "fecha": "24/04/2026",
+  "fechacab": "Abr. 24"
+},
+{
+  "dia": "Sáb.",
+  "fecha": "25/04/2026",
+  "fechacab": "Abr. 25"
+},
+{
+  "dia": "Lun.",
+  "fecha": "27/04/2026",
+  "fechacab": "Abr. 27"
 },
 ]

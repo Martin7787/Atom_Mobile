@@ -7,7 +7,7 @@
   "moneda": "PEN",
   "totguia": "95",
   "tipc": "3.7",
-  "hora": "11:15 a. m.",
+  "hora": "11:15",
   "docu": ""
 },
 {
@@ -18,7 +18,7 @@
   "moneda": "PEN",
   "totguia": "310",
   "tipc": "3.7",
-  "hora": "11:13 a. m.",
+  "hora": "11:13",
   "docu": ""
 },
 {
@@ -29,7 +29,7 @@
   "moneda": "USD",
   "totguia": "0.01",
   "tipc": "3.467",
-  "hora": "05:52 p. m.",
+  "hora": "17:52",
   "docu": ""
 },
 {
@@ -40,7 +40,7 @@
   "moneda": "USD",
   "totguia": "631.8",
   "tipc": "3.467",
-  "hora": "05:51 p. m.",
+  "hora": "17:51",
   "docu": ""
 },
 {
@@ -51,7 +51,7 @@
   "moneda": "USD",
   "totguia": "288",
   "tipc": "3.5",
-  "hora": "06:57 p. m.",
+  "hora": "18:57",
   "docu": ""
 },
 {
@@ -62,7 +62,7 @@
   "moneda": "PEN",
   "totguia": "0.0000",
   "tipc": "3.7",
-  "hora": "06:02 p. m.",
+  "hora": "18:02",
   "docu": ""
 },
 {
@@ -73,7 +73,7 @@
   "moneda": "PEN",
   "totguia": "108",
   "tipc": "3.7",
-  "hora": "11:13 a. m.",
+  "hora": "11:13",
   "docu": ""
 },
 {
@@ -84,7 +84,7 @@
   "moneda": "PEN",
   "totguia": "448",
   "tipc": "3.7",
-  "hora": "11:20 a. m.",
+  "hora": "11:20",
   "docu": ""
 },
 {
@@ -95,7 +95,7 @@
   "moneda": "PEN",
   "totguia": "195",
   "tipc": "3.7",
-  "hora": "11:14 a. m.",
+  "hora": "11:14",
   "docu": ""
 },
 {
@@ -106,7 +106,7 @@
   "moneda": "USD",
   "totguia": "129",
   "tipc": "3.7",
-  "hora": "11:19 a. m.",
+  "hora": "11:19",
   "docu": ""
 },
 {
@@ -117,7 +117,7 @@
   "moneda": "PEN",
   "totguia": "0.0000",
   "tipc": "3.7",
-  "hora": "06:09 p. m.",
+  "hora": "18:09",
   "docu": ""
 },
 {
@@ -128,7 +128,7 @@
   "moneda": "PEN",
   "totguia": "2059.2",
   "tipc": "3.5",
-  "hora": "05:23 p. m.",
+  "hora": "17:23",
   "docu": ""
 },
 {
@@ -139,7 +139,7 @@
   "moneda": "PEN",
   "totguia": "4591",
   "tipc": "3.51",
-  "hora": "05:47 p. m.",
+  "hora": "17:47",
   "docu": ""
 },
 {
@@ -150,7 +150,7 @@
   "moneda": "PEN",
   "totguia": "95",
   "tipc": "3.7",
-  "hora": "11:25 a. m.",
+  "hora": "11:25",
   "docu": ""
 },
 {
@@ -161,7 +161,7 @@
   "moneda": "PEN",
   "totguia": "8350",
   "tipc": "3.5",
-  "hora": "02:04 p. m.",
+  "hora": "14:04",
   "docu": ""
 },
 {
@@ -172,7 +172,7 @@
   "moneda": "PEN",
   "totguia": "260",
   "tipc": "3.7",
-  "hora": "11:23 a. m.",
+  "hora": "11:23",
   "docu": ""
 },
 {
@@ -183,7 +183,7 @@
   "moneda": "PEN",
   "totguia": "95",
   "tipc": "3.7",
-  "hora": "07:40 p. m.",
+  "hora": "19:40",
   "docu": ""
 },
 {
@@ -194,7 +194,7 @@
   "moneda": "PEN",
   "totguia": "5130",
   "tipc": "3.7",
-  "hora": "06:22 p. m.",
+  "hora": "18:22",
   "docu": ""
 },
 {
@@ -205,7 +205,7 @@
   "moneda": "PEN",
   "totguia": "100",
   "tipc": "3.7",
-  "hora": "11:25 a. m.",
+  "hora": "11:25",
   "docu": ""
 },
 {
@@ -216,7 +216,7 @@
   "moneda": "PEN",
   "totguia": "140",
   "tipc": "3.7",
-  "hora": "10:59 a. m.",
+  "hora": "10:59",
   "docu": ""
 },
 {
@@ -227,7 +227,7 @@
   "moneda": "PEN",
   "totguia": "120",
   "tipc": "3.7",
-  "hora": "11:22 a. m.",
+  "hora": "11:22",
   "docu": ""
 },
 {
@@ -238,7 +238,7 @@
   "moneda": "PEN",
   "totguia": "4830",
   "tipc": "3.7",
-  "hora": "10:30 a. m.",
+  "hora": "10:30",
   "docu": ""
 },
 {
@@ -249,7 +249,7 @@
   "moneda": "PEN",
   "totguia": "70",
   "tipc": "3.7",
-  "hora": "10:57 a. m.",
+  "hora": "10:57",
   "docu": ""
 },
 {
@@ -260,7 +260,7 @@
   "moneda": "USD",
   "totguia": "1300",
   "tipc": "3.508",
-  "hora": "08:36 p. m.",
+  "hora": "20:36",
   "docu": ""
 },
 {
@@ -271,7 +271,7 @@
   "moneda": "PEN",
   "totguia": "1973.2",
   "tipc": "3.5",
-  "hora": "06:03 p. m.",
+  "hora": "18:03",
   "docu": ""
 },
 {
@@ -282,7 +282,7 @@
   "moneda": "PEN",
   "totguia": "95",
   "tipc": "3.7",
-  "hora": "11:00 a. m.",
+  "hora": "11:00",
   "docu": ""
 },
 {
@@ -293,7 +293,7 @@
   "moneda": "PEN",
   "totguia": "400",
   "tipc": "3.7",
-  "hora": "10:45 a. m.",
+  "hora": "10:45",
   "docu": ""
 },
 {
@@ -304,7 +304,7 @@
   "moneda": "PEN",
   "totguia": "900",
   "tipc": "3.7",
-  "hora": "11:21 a. m.",
+  "hora": "11:21",
   "docu": ""
 },
 {
@@ -315,7 +315,7 @@
   "moneda": "PEN",
   "totguia": "484",
   "tipc": "3.7",
-  "hora": "11:03 a. m.",
+  "hora": "11:03",
   "docu": ""
 },
 {
@@ -326,7 +326,7 @@
   "moneda": "USD",
   "totguia": "0.06",
   "tipc": "3.5",
-  "hora": "08:41 p. m.",
+  "hora": "20:41",
   "docu": ""
 },
 {
@@ -337,7 +337,7 @@
   "moneda": "USD",
   "totguia": "2039.34",
   "tipc": "3.5",
-  "hora": "08:38 p. m.",
+  "hora": "20:38",
   "docu": ""
 },
 {
@@ -348,7 +348,7 @@
   "moneda": "USD",
   "totguia": "80",
   "tipc": "3.7",
-  "hora": "07:31 p. m.",
+  "hora": "19:31",
   "docu": ""
 },
 {
@@ -359,7 +359,7 @@
   "moneda": "USD",
   "totguia": "96",
   "tipc": "3.7",
-  "hora": "07:32 p. m.",
+  "hora": "19:32",
   "docu": ""
 },
 {
@@ -370,7 +370,7 @@
   "moneda": "USD",
   "totguia": "854.5",
   "tipc": "3.51",
-  "hora": "12:39 p. m.",
+  "hora": "12:39",
   "docu": ""
 },
 {
@@ -381,7 +381,7 @@
   "moneda": "PEN",
   "totguia": "108",
   "tipc": "3.7",
-  "hora": "10:46 a. m.",
+  "hora": "10:46",
   "docu": ""
 },
 {
@@ -392,7 +392,7 @@
   "moneda": "PEN",
   "totguia": "172",
   "tipc": "3.7",
-  "hora": "10:45 a. m.",
+  "hora": "10:45",
   "docu": ""
 },
 {
@@ -403,7 +403,7 @@
   "moneda": "PEN",
   "totguia": "180",
   "tipc": "3.7",
-  "hora": "10:45 a. m.",
+  "hora": "10:45",
   "docu": ""
 },
 {
@@ -414,7 +414,7 @@
   "moneda": "PEN",
   "totguia": "70",
   "tipc": "3.7",
-  "hora": "10:59 a. m.",
+  "hora": "10:59",
   "docu": ""
 },
 {
@@ -425,7 +425,7 @@
   "moneda": "USD",
   "totguia": "1716",
   "tipc": "3.5",
-  "hora": "08:07 p. m.",
+  "hora": "20:07",
   "docu": ""
 },
 {
@@ -436,7 +436,7 @@
   "moneda": "PEN",
   "totguia": "190",
   "tipc": "3.7",
-  "hora": "10:46 a. m.",
+  "hora": "10:46",
   "docu": ""
 },
 {
@@ -447,7 +447,7 @@
   "moneda": "PEN",
   "totguia": "130",
   "tipc": "3.7",
-  "hora": "10:47 a. m.",
+  "hora": "10:47",
   "docu": ""
 },
 {
@@ -458,7 +458,7 @@
   "moneda": "PEN",
   "totguia": "210",
   "tipc": "3.7",
-  "hora": "11:04 a. m.",
+  "hora": "11:04",
   "docu": ""
 },
 {
@@ -469,7 +469,7 @@
   "moneda": "USD",
   "totguia": "752.7",
   "tipc": "3.5",
-  "hora": "02:03 p. m.",
+  "hora": "14:03",
   "docu": ""
 },
 {
@@ -480,7 +480,7 @@
   "moneda": "USD",
   "totguia": "948",
   "tipc": "3.5",
-  "hora": "01:52 p. m.",
+  "hora": "13:52",
   "docu": ""
 },
 {
@@ -491,7 +491,7 @@
   "moneda": "PEN",
   "totguia": "720",
   "tipc": "3.7",
-  "hora": "11:05 a. m.",
+  "hora": "11:05",
   "docu": ""
 },
 {
@@ -502,7 +502,7 @@
   "moneda": "USD",
   "totguia": "258",
   "tipc": "3.7",
-  "hora": "03:14 p. m.",
+  "hora": "15:14",
   "docu": ""
 },
 {
@@ -513,7 +513,7 @@
   "moneda": "USD",
   "totguia": "3025",
   "tipc": "3.5",
-  "hora": "07:39 p. m.",
+  "hora": "19:39",
   "docu": ""
 },
 {
@@ -524,7 +524,7 @@
   "moneda": "PEN",
   "totguia": "5972.8",
   "tipc": "3.5",
-  "hora": "06:57 p. m.",
+  "hora": "18:57",
   "docu": ""
 },
 {
@@ -535,7 +535,7 @@
   "moneda": "USD",
   "totguia": "3649.63",
   "tipc": "3.5",
-  "hora": "01:49 p. m.",
+  "hora": "13:49",
   "docu": ""
 },
 {
@@ -546,7 +546,7 @@
   "moneda": "PEN",
   "totguia": "160",
   "tipc": "3.7",
-  "hora": "10:43 a. m.",
+  "hora": "10:43",
   "docu": ""
 },
 {
@@ -557,7 +557,7 @@
   "moneda": "PEN",
   "totguia": "5250",
   "tipc": "3.7",
-  "hora": "10:24 a. m.",
+  "hora": "10:24",
   "docu": ""
 },
 {
@@ -568,7 +568,7 @@
   "moneda": "PEN",
   "totguia": "125",
   "tipc": "3.7",
-  "hora": "10:50 a. m.",
+  "hora": "10:50",
   "docu": ""
 },
 {
@@ -579,7 +579,7 @@
   "moneda": "PEN",
   "totguia": "125",
   "tipc": "3.7",
-  "hora": "10:50 a. m.",
+  "hora": "10:50",
   "docu": ""
 },
 {
@@ -590,7 +590,7 @@
   "moneda": "PEN",
   "totguia": "495",
   "tipc": "3.7",
-  "hora": "10:43 a. m.",
+  "hora": "10:43",
   "docu": ""
 },
 {
@@ -601,7 +601,7 @@
   "moneda": "PEN",
   "totguia": "180",
   "tipc": "3.7",
-  "hora": "10:58 a. m.",
+  "hora": "10:58",
   "docu": ""
 },
 {
@@ -612,7 +612,7 @@
   "moneda": "PEN",
   "totguia": "80",
   "tipc": "3.7",
-  "hora": "10:49 a. m.",
+  "hora": "10:49",
   "docu": ""
 },
 {
@@ -623,7 +623,7 @@
   "moneda": "USD",
   "totguia": "74",
   "tipc": "3.7",
-  "hora": "03:15 p. m.",
+  "hora": "15:15",
   "docu": ""
 },
 {
@@ -634,7 +634,7 @@
   "moneda": "PEN",
   "totguia": "5267.28",
   "tipc": "3.51",
-  "hora": "03:41 p. m.",
+  "hora": "15:41",
   "docu": ""
 },
 {
@@ -645,7 +645,7 @@
   "moneda": "PEN",
   "totguia": "95",
   "tipc": "3.7",
-  "hora": "10:58 a. m.",
+  "hora": "10:58",
   "docu": ""
 },
 {
@@ -656,7 +656,7 @@
   "moneda": "PEN",
   "totguia": "140",
   "tipc": "3.7",
-  "hora": "10:35 a. m.",
+  "hora": "10:35",
   "docu": ""
 },
 {
@@ -667,7 +667,7 @@
   "moneda": "USD",
   "totguia": "100",
   "tipc": "3.7",
-  "hora": "11:05 a. m.",
+  "hora": "11:05",
   "docu": ""
 },
 {
@@ -678,7 +678,7 @@
   "moneda": "PEN",
   "totguia": "270",
   "tipc": "3.7",
-  "hora": "10:44 a. m.",
+  "hora": "10:44",
   "docu": ""
 },
 {
@@ -689,7 +689,7 @@
   "moneda": "PEN",
   "totguia": "108",
   "tipc": "3.7",
-  "hora": "10:29 a. m.",
+  "hora": "10:29",
   "docu": ""
 },
 {
@@ -700,7 +700,7 @@
   "moneda": "PEN",
   "totguia": "260",
   "tipc": "3.7",
-  "hora": "10:20 a. m.",
+  "hora": "10:20",
   "docu": ""
 },
 {
@@ -711,7 +711,7 @@
   "moneda": "USD",
   "totguia": "1036.8",
   "tipc": "3.55",
-  "hora": "12:30 p. m.",
+  "hora": "12:30",
   "docu": ""
 },
 {
@@ -722,7 +722,7 @@
   "moneda": "USD",
   "totguia": "0.11",
   "tipc": "3.5",
-  "hora": "08:47 p. m.",
+  "hora": "20:47",
   "docu": ""
 },
 {
@@ -733,7 +733,7 @@
   "moneda": "USD",
   "totguia": "4456.45",
   "tipc": "3.5",
-  "hora": "12:17 p. m.",
+  "hora": "12:17",
   "docu": ""
 },
 {
@@ -744,7 +744,7 @@
   "moneda": "PEN",
   "totguia": "440",
   "tipc": "3.7",
-  "hora": "10:56 a. m.",
+  "hora": "10:56",
   "docu": ""
 },
 {
@@ -755,7 +755,7 @@
   "moneda": "PEN",
   "totguia": "470",
   "tipc": "3.7",
-  "hora": "10:57 a. m.",
+  "hora": "10:57",
   "docu": ""
 },
 {
@@ -766,7 +766,7 @@
   "moneda": "PEN",
   "totguia": "290",
   "tipc": "3.7",
-  "hora": "10:27 a. m.",
+  "hora": "10:27",
   "docu": ""
 },
 {
@@ -777,7 +777,7 @@
   "moneda": "USD",
   "totguia": "0.02",
   "tipc": "3.5",
-  "hora": "07:06 p. m.",
+  "hora": "19:06",
   "docu": ""
 },
 {
@@ -788,7 +788,7 @@
   "moneda": "USD",
   "totguia": "540.95",
   "tipc": "3.5",
-  "hora": "04:08 p. m.",
+  "hora": "16:08",
   "docu": ""
 },
 {
@@ -799,7 +799,7 @@
   "moneda": "USD",
   "totguia": "5309.67",
   "tipc": "3.55",
-  "hora": "02:48 p. m.",
+  "hora": "14:48",
   "docu": ""
 },
 {
@@ -810,7 +810,7 @@
   "moneda": "USD",
   "totguia": "3129.7",
   "tipc": "3.54",
-  "hora": "03:46 p. m.",
+  "hora": "15:46",
   "docu": ""
 },
 {
@@ -821,7 +821,7 @@
   "moneda": "USD",
   "totguia": "100",
   "tipc": "3.7",
-  "hora": "10:55 a. m.",
+  "hora": "10:55",
   "docu": ""
 },
 {
@@ -832,7 +832,7 @@
   "moneda": "PEN",
   "totguia": "160",
   "tipc": "3.7",
-  "hora": "10:37 a. m.",
+  "hora": "10:37",
   "docu": ""
 },
 {
@@ -843,7 +843,7 @@
   "moneda": "PEN",
   "totguia": "7700",
   "tipc": "3.54",
-  "hora": "05:49 p. m.",
+  "hora": "17:49",
   "docu": ""
 },
 {
@@ -854,7 +854,7 @@
   "moneda": "PEN",
   "totguia": "760",
   "tipc": "3.7",
-  "hora": "10:49 a. m.",
+  "hora": "10:49",
   "docu": ""
 },
 {
@@ -865,7 +865,7 @@
   "moneda": "PEN",
   "totguia": "95",
   "tipc": "3.7",
-  "hora": "10:55 a. m.",
+  "hora": "10:55",
   "docu": ""
 },
 {
@@ -876,7 +876,7 @@
   "moneda": "USD",
   "totguia": "900",
   "tipc": "3.54",
-  "hora": "01:22 p. m.",
+  "hora": "13:22",
   "docu": ""
 },
 {
@@ -887,7 +887,7 @@
   "moneda": "PEN",
   "totguia": "2454.8",
   "tipc": "3.54",
-  "hora": "04:09 p. m.",
+  "hora": "16:09",
   "docu": ""
 },
 {
@@ -898,7 +898,7 @@
   "moneda": "PEN",
   "totguia": "1660",
   "tipc": "3.54",
-  "hora": "02:32 p. m.",
+  "hora": "14:32",
   "docu": ""
 },
 {
@@ -909,7 +909,7 @@
   "moneda": "PEN",
   "totguia": "4150",
   "tipc": "3.54",
-  "hora": "02:31 p. m.",
+  "hora": "14:31",
   "docu": ""
 },
 {
@@ -920,7 +920,7 @@
   "moneda": "PEN",
   "totguia": "260",
   "tipc": "3.7",
-  "hora": "10:23 a. m.",
+  "hora": "10:23",
   "docu": ""
 },
 {
@@ -931,7 +931,7 @@
   "moneda": "PEN",
   "totguia": "160",
   "tipc": "3.7",
-  "hora": "10:23 a. m.",
+  "hora": "10:23",
   "docu": ""
 },
 {
@@ -942,7 +942,7 @@
   "moneda": "PEN",
   "totguia": "115",
   "tipc": "3.7",
-  "hora": "10:31 a. m.",
+  "hora": "10:31",
   "docu": ""
 },
 {
@@ -953,7 +953,7 @@
   "moneda": "PEN",
   "totguia": "304",
   "tipc": "3.7",
-  "hora": "10:27 a. m.",
+  "hora": "10:27",
   "docu": ""
 },
 {
@@ -964,7 +964,7 @@
   "moneda": "PEN",
   "totguia": "190",
   "tipc": "3.7",
-  "hora": "10:24 a. m.",
+  "hora": "10:24",
   "docu": ""
 },
 {
@@ -975,7 +975,7 @@
   "moneda": "USD",
   "totguia": "1540",
   "tipc": "3.54",
-  "hora": "06:46 p. m.",
+  "hora": "18:46",
   "docu": ""
 },
 {
@@ -986,7 +986,7 @@
   "moneda": "USD",
   "totguia": "660",
   "tipc": "3.54",
-  "hora": "06:58 p. m.",
+  "hora": "18:58",
   "docu": ""
 },
 {
@@ -997,7 +997,7 @@
   "moneda": "PEN",
   "totguia": "2491.2",
   "tipc": "3.54",
-  "hora": "07:06 p. m.",
+  "hora": "19:06",
   "docu": ""
 },
 {
@@ -1008,7 +1008,7 @@
   "moneda": "PEN",
   "totguia": "1350",
   "tipc": "3.54",
-  "hora": "08:07 p. m.",
+  "hora": "20:07",
   "docu": ""
 },
 {
@@ -1019,7 +1019,7 @@
   "moneda": "PEN",
   "totguia": "70",
   "tipc": "3.7",
-  "hora": "10:30 a. m.",
+  "hora": "10:30",
   "docu": ""
 },
 {
@@ -1030,7 +1030,7 @@
   "moneda": "PEN",
   "totguia": "440",
   "tipc": "3.7",
-  "hora": "10:30 a. m.",
+  "hora": "10:30",
   "docu": ""
 },
 {
@@ -1041,7 +1041,7 @@
   "moneda": "PEN",
   "totguia": "260",
   "tipc": "3.7",
-  "hora": "10:22 a. m.",
+  "hora": "10:22",
   "docu": ""
 },
 ]
