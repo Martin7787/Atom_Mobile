@@ -24,6 +24,17 @@
 {
   "fechacab": "23/04/2026",
   "serie": "COT",
+  "numero": "RT001812",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "252",
+  "tipc": "3.4",
+  "hora": "11:44",
+  "docu": ""
+},
+{
+  "fechacab": "23/04/2026",
+  "serie": "COT",
   "numero": "HM01S2604220",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
