@@ -11000,7 +11000,7 @@
 {
   "nombre": "MARIA ALARCON",
   "ruc": "10009703921",
-  "direccion": "JUANJUI",
+  "direccion": "EDUARDO PEÑA MEZA CDRA 4 MERCADO DE ABASTOS 1 - JUANJUI",
   "tipo": "0",
   "fecha": "03/05/2025",
   "telefono": "",
@@ -94593,6 +94593,19 @@
   "direccion": "PUERTO MALDONADO-MAZUCO",
   "tipo": "0",
   "fecha": "02/12/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "MARTA ISABEL",
+  "ruc": "47452123",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "28/04/2026",
   "telefono": "",
   "email": "",
   "trato": "",
