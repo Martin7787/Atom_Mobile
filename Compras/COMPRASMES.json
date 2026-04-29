@@ -915,6 +915,17 @@
 {
   "fechacab": "10/04/2026",
   "serie": "COT",
+  "numero": "RJ00497",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "2010",
+  "tipc": "3.4",
+  "hora": "11:33",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "10/04/2026",
+  "serie": "COT",
   "numero": "RJ00494",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
