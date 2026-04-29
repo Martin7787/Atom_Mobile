@@ -79,6 +79,17 @@
 {
   "fechacab": "28/04/2026",
   "serie": "COT",
+  "numero": "NS002-0003097",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "2205",
+  "tipc": "3.4",
+  "hora": "18:38",
+  "docu": ""
+},
+{
+  "fechacab": "28/04/2026",
+  "serie": "COT",
   "numero": "MOQ00854",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
