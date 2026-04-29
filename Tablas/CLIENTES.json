@@ -6565,6 +6565,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MARIA TORRES",
+  "ruc": "08593118",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "29/04/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "LUIS RAMOS",
   "ruc": "08594024",
   "direccion": "LIMA",
