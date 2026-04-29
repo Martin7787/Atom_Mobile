@@ -2,6 +2,17 @@
 {
   "fechacab": "29/04/2026",
   "serie": "COT",
+  "numero": "NP314012",
+  "nombre": "NADIA PARIONA",
+  "moneda": "PEN",
+  "totguia": "1800",
+  "tipc": "3.4",
+  "hora": "16:55",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/04/2026",
+  "serie": "COT",
   "numero": "HM604291313",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
