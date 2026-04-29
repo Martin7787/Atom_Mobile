@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "29/04/2026",
+  "serie": "COT",
+  "numero": "HM604281247",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "9668",
+  "tipc": "3.4",
+  "hora": "13:20",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "28/04/2026",
   "serie": "COT",
   "numero": "YH0002879",
