@@ -189,6 +189,17 @@
 {
   "fechacab": "27/04/2026",
   "serie": "COT",
+  "numero": "RJ00418",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "10:43",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "27/04/2026",
+  "serie": "COT",
   "numero": "27022026",
   "nombre": "JOSE JIBAJA",
   "moneda": "PEN",
