@@ -34,6 +34,17 @@
 },
 {
   "fechacab": "29/04/2026",
+  "serie": "COT",
+  "numero": "C055310",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "135",
+  "tipc": "3.4",
+  "hora": "10:41",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/04/2026",
   "serie": "DUA",
   "numero": "313974",
   "nombre": "NADIA PARIONA",
@@ -97,6 +108,17 @@
   "tipc": "3.4",
   "hora": "11:28",
   "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "28/04/2026",
+  "serie": "COT",
+  "numero": "DIA26001503",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1695",
+  "tipc": "3.52",
+  "hora": "19:38",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "28/04/2026",
@@ -1515,61 +1537,6 @@
   "totguia": "180",
   "tipc": "3.4",
   "hora": "14:29",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "30/03/2026",
-  "serie": "COT",
-  "numero": "RJ00455",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "1910",
-  "tipc": "3.4",
-  "hora": "11:57",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "30/03/2026",
-  "serie": "COT",
-  "numero": "EK000512",
-  "nombre": "MIRIAN NINAJA",
-  "moneda": "USD",
-  "totguia": "2850",
-  "tipc": "3.4",
-  "hora": "18:01",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "30/03/2026",
-  "serie": "COT",
-  "numero": "DIA26001121",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "62.31",
-  "tipc": "3.4",
-  "hora": "14:43",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "30/03/2026",
-  "serie": "COT",
-  "numero": "DIA26001120",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "2721.4",
-  "tipc": "3.4",
-  "hora": "18:04",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "30/03/2026",
-  "serie": "COT",
-  "numero": "AGC001-049573",
-  "nombre": "AGC",
-  "moneda": "PEN",
-  "totguia": "130",
-  "tipc": "3.4",
-  "hora": "10:54",
   "docu": "USER: MARTIN"
 },
 ]
