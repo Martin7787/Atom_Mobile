@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000283",
+  "nombre": "MALLQUI RUIZ DIANA DE FATIMA",
+  "moneda": "PEN",
+  "totguia": "100",
+  "tipc": "3.4",
+  "fecha": "30/04/2026",
+  "hora": "12:44",
+  "docu": "T001-00021596",
+  "via": "USER: EDITH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000282",
   "nombre": "MARIA PILARES POCOHUANCA",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "14:06",
   "docu": "T001-00019819",
   "via": "USER: DANTE",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000253",
-  "nombre": "WILSON JOSÉ ASTO VICENTE",
-  "moneda": "PEN",
-  "totguia": "264",
-  "tipc": "3.4",
-  "fecha": "13/01/2026",
-  "hora": "18:35",
-  "docu": "T001-00018652",
-  "via": "USER: SOFI",
   "bloquear": ""
 },
 ]
