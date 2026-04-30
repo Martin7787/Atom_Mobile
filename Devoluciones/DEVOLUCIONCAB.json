@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000282",
+  "nombre": "MARIA PILARES POCOHUANCA",
+  "moneda": "PEN",
+  "totguia": "105",
+  "tipc": "3.4",
+  "fecha": "29/04/2026",
+  "hora": "19:23",
+  "docu": "T001-00021177",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000281",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "13/01/2026",
   "hora": "18:35",
   "docu": "T001-00018652",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000252",
-  "nombre": "ROSARIO LLANQUECHA TAYA ",
-  "moneda": "PEN",
-  "totguia": "440",
-  "tipc": "3.7",
-  "fecha": "12/01/2026",
-  "hora": "15:28",
-  "docu": "T001-00019688",
   "via": "USER: SOFI",
   "bloquear": ""
 },
