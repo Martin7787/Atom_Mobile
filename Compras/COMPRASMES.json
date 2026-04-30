@@ -79,6 +79,17 @@
 {
   "fechacab": "29/04/2026",
   "serie": "COT",
+  "numero": "CG001986",
+  "nombre": "CENTER GLASS E.I.R.L",
+  "moneda": "PEN",
+  "totguia": "50",
+  "tipc": "3.4",
+  "hora": "10:46",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/04/2026",
+  "serie": "COT",
   "numero": "C055310",
   "nombre": "CREACIONES BETHEL S.A.C.",
   "moneda": "PEN",
