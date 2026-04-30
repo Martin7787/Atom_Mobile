@@ -255,6 +255,17 @@
 {
   "fechacab": "24/04/2026",
   "serie": "COT",
+  "numero": "RT001855",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "1396",
+  "tipc": "3.4",
+  "hora": "10:46",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "24/04/2026",
+  "serie": "COT",
   "numero": "RT001852",
   "nombre": "ROBERT TURPO",
   "moneda": "PEN",
