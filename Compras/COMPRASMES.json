@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "30/04/2026",
+  "serie": "COT",
+  "numero": "JM30042026",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "3360",
+  "tipc": "3.4",
+  "hora": "19:17",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "29/04/2026",
   "serie": "COT",
   "numero": "RT001980",
