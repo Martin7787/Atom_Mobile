@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000285",
+  "nombre": "RONER AQUILES ULLOA BAYLON",
+  "moneda": "PEN",
+  "totguia": "192",
+  "tipc": "3.4",
+  "fecha": "02/05/2026",
+  "hora": "15:00",
+  "docu": "T001-00021655",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000284",
   "nombre": "CATALINA",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "15/01/2026",
   "hora": "10:36",
   "docu": "T001-00019737",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000255",
-  "nombre": "GRUPO AMAHOGAR SAC",
-  "moneda": "PEN",
-  "totguia": "368",
-  "tipc": "3.4",
-  "fecha": "15/01/2026",
-  "hora": "10:35",
-  "docu": "T001-00019735",
   "via": "USER: SOFI",
   "bloquear": ""
 },
