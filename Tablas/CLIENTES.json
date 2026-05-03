@@ -102115,6 +102115,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "ROSA",
+  "ruc": "72426015",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "02/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "JOSSELIN MENDOZA ALARCON",
   "ruc": "72430382",
   "direccion": "LIMA",
