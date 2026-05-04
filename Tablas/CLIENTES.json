@@ -5954,6 +5954,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "GLADYS",
+  "ruc": "08179451",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "04/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MARIA RIVERA GUEVARA",
   "ruc": "08190580",
   "direccion": "LIMA",
