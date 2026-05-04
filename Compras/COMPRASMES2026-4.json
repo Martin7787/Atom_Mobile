@@ -5,9 +5,9 @@
   "numero": "JM30042026",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
-  "totguia": "3360",
+  "totguia": "1660",
   "tipc": "3.4",
-  "hora": "19:17",
+  "hora": "14:45",
   "docu": ""
 },
 {
@@ -239,6 +239,17 @@
   "totguia": "190",
   "tipc": "3.4",
   "hora": "10:43",
+  "docu": ""
+},
+{
+  "fechacab": "27/04/2026",
+  "serie": "COT",
+  "numero": "DIA26001476",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "3795.1",
+  "tipc": "3.474",
+  "hora": "19:58",
   "docu": ""
 },
 {

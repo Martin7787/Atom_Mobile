@@ -1,14 +1,25 @@
 [
 {
+  "fechacab": "02/05/2026",
+  "serie": "COT",
+  "numero": "001483",
+  "nombre": "CHUNGA PINGO MARIA PRISIDA",
+  "moneda": "PEN",
+  "totguia": "1632",
+  "tipc": "3.4",
+  "hora": "13:58",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "30/04/2026",
   "serie": "COT",
   "numero": "JM30042026",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
-  "totguia": "3360",
+  "totguia": "1660",
   "tipc": "3.4",
-  "hora": "19:17",
-  "docu": "USER: MARTIN"
+  "hora": "14:45",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "29/04/2026",
@@ -240,6 +251,17 @@
   "tipc": "3.4",
   "hora": "10:43",
   "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "27/04/2026",
+  "serie": "COT",
+  "numero": "DIA26001476",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "3795.1",
+  "tipc": "3.474",
+  "hora": "19:58",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "27/04/2026",
