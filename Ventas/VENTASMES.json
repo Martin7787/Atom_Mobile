@@ -12120,4 +12120,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "04/05/2026",
+  "fecha": "May. 4",
+  "serie": "T001",
+  "numero": "00021671",
+  "nombre": "ISABEL",
+  "moneda": "PEN",
+  "totguia": "600",
+  "acuenta": "600",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "09:52",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
