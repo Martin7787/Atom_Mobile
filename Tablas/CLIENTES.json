@@ -77298,6 +77298,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MARIBEL",
+  "ruc": "41578455",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "04/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "SHIRLEY",
   "ruc": "41581743",
   "direccion": "LIMA",
