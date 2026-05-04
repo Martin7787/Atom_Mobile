@@ -12601,17 +12601,17 @@
   "fecha": "May. 4",
   "serie": "T001",
   "numero": "00021685",
-  "nombre": "XIOMARA SANCHEZ AVILA",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "768",
-  "acuenta": "768",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "11:57",
-  "docu": "USER: LIZETH",
+  "docu": "USER: MARTIN",
   "bloquear": "",
-  "user": "LIZETH"
+  "user": "MARTIN"
 },
 {
   "fechacab": "04/05/2026",
