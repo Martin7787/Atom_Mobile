@@ -93561,6 +93561,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "HENRY",
+  "ruc": "46869501",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "04/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "CRISTHIAN",
   "ruc": "46869803",
   "direccion": "LIMA",
