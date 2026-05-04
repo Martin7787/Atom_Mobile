@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000288",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "50",
+  "tipc": "3.4",
+  "fecha": "04/05/2026",
+  "hora": "16:02",
+  "docu": "T001-00021677",
+  "via": "USER: EDITH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000287",
   "nombre": "XIOMARA SANCHEZ AVILA",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "20/01/2026",
   "hora": "19:32",
   "docu": "T001-00019885",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000258",
-  "nombre": "PLASTICOS V E.I.R.L.",
-  "moneda": "PEN",
-  "totguia": "3.02",
-  "tipc": "3.4",
-  "fecha": "19/01/2026",
-  "hora": "13:37",
-  "docu": "T001-00019838",
   "via": "USER: SOFI",
   "bloquear": ""
 },
