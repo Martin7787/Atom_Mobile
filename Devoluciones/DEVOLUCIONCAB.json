@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000289",
+  "nombre": "ELIU JHONATAN YUPANQUI HUAMAN",
+  "moneda": "PEN",
+  "totguia": "200",
+  "tipc": "3.4",
+  "fecha": "04/05/2026",
+  "hora": "17:15",
+  "docu": "T001-00021695",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000288",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "24/01/2026",
   "hora": "17:21",
   "docu": "T001-00019991",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000259",
-  "nombre": "GALO ALBERTO CABREJOS TABOADA",
-  "moneda": "PEN",
-  "totguia": "150",
-  "tipc": "3.4",
-  "fecha": "20/01/2026",
-  "hora": "19:32",
-  "docu": "T001-00019885",
   "via": "USER: SOFI",
   "bloquear": ""
 },
