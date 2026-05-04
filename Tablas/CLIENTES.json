@@ -4914,6 +4914,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "ISABEL",
+  "ruc": "07494442",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "04/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "ERLINDA LOA MONTOYA",
   "ruc": "07495893",
   "direccion": "LIMA",
