@@ -24,6 +24,17 @@
 {
   "fechacab": "02/05/2026",
   "serie": "COT",
+  "numero": "CX01220",
+  "nombre": "CORPORACION GCC S.A.C",
+  "moneda": "PEN",
+  "totguia": "140",
+  "tipc": "3.4",
+  "hora": "11:41",
+  "docu": ""
+},
+{
+  "fechacab": "02/05/2026",
+  "serie": "COT",
   "numero": "001483",
   "nombre": "CHUNGA PINGO MARIA PRISIDA",
   "moneda": "PEN",
