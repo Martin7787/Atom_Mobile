@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000290",
+  "nombre": "LIGIA NUÑEZ",
+  "moneda": "PEN",
+  "totguia": "80",
+  "tipc": "3.4",
+  "fecha": "04/05/2026",
+  "hora": "17:53",
+  "docu": "T001-00021729",
+  "via": "USER: EDITH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000289",
   "nombre": "ELIU JHONATAN YUPANQUI HUAMAN",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "29/01/2026",
   "hora": "18:35",
   "docu": "T001-00020089",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000260",
-  "nombre": "THERMO CLIMA S.A.C.",
-  "moneda": "PEN",
-  "totguia": "108",
-  "tipc": "3.4",
-  "fecha": "24/01/2026",
-  "hora": "17:21",
-  "docu": "T001-00019991",
   "via": "USER: SOFI",
   "bloquear": ""
 },
