@@ -35,6 +35,17 @@
 {
   "fechacab": "02/05/2026",
   "serie": "COT",
+  "numero": "CG002060",
+  "nombre": "CENTER GLASS E.I.R.L",
+  "moneda": "PEN",
+  "totguia": "50",
+  "tipc": "3.4",
+  "hora": "11:47",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "02/05/2026",
+  "serie": "COT",
   "numero": "001483",
   "nombre": "CHUNGA PINGO MARIA PRISIDA",
   "moneda": "PEN",

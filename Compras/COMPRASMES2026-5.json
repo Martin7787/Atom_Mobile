@@ -22,6 +22,17 @@
   "docu": ""
 },
 {
+  "fechacab": "04/05/2026",
+  "serie": "COT",
+  "numero": "PV000966",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "11:47",
+  "docu": "USER: "
+},
+{
   "fechacab": "02/05/2026",
   "serie": "COT",
   "numero": "YH0002896",
@@ -52,6 +63,17 @@
   "totguia": "140",
   "tipc": "3.4",
   "hora": "11:41",
+  "docu": ""
+},
+{
+  "fechacab": "02/05/2026",
+  "serie": "COT",
+  "numero": "CG002060",
+  "nombre": "CENTER GLASS E.I.R.L",
+  "moneda": "PEN",
+  "totguia": "50",
+  "tipc": "3.4",
+  "hora": "11:47",
   "docu": ""
 },
 {
