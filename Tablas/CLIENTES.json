@@ -108615,6 +108615,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "TONY PEREZ",
+  "ruc": "79051495",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "04/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "YAMILE",
   "ruc": "79625596",
   "direccion": "LIMA",
