@@ -13,6 +13,17 @@
 {
   "fechacab": "30/04/2026",
   "serie": "COT",
+  "numero": "PV000966",
+  "nombre": "ADONAI P&V MENAJE",
+  "moneda": "PEN",
+  "totguia": "230",
+  "tipc": "3.4",
+  "hora": "11:47",
+  "docu": ""
+},
+{
+  "fechacab": "30/04/2026",
+  "serie": "COT",
   "numero": "MOQ00856",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
