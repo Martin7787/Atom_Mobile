@@ -106691,6 +106691,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "RUT PAMELA",
+  "ruc": "76346417",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "04/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "NICOL MENDOZA",
   "ruc": "76350012",
   "direccion": "LIMA",
