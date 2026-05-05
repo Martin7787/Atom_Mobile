@@ -4927,6 +4927,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MARCIAL QUISPE",
+  "ruc": "07490297",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "05/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "ISABEL",
   "ruc": "07494442",
   "direccion": "LIMA",
