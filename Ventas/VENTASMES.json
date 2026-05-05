@@ -12919,4 +12919,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "05/05/2026",
+  "fecha": "May. 5",
+  "serie": "T001",
+  "numero": "00021743",
+  "nombre": "OCL DENTAL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "92",
+  "acuenta": "92",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "09:48",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
 ]
