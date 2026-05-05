@@ -76609,6 +76609,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "CARMEN ROSA",
+  "ruc": "41400309",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "05/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "TONNY ANGELO ORTIZ LUNA",
   "ruc": "41404501",
   "direccion": "LIMA",
