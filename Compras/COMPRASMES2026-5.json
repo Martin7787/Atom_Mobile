@@ -24,6 +24,17 @@
 {
   "fechacab": "05/05/2026",
   "serie": "COT",
+  "numero": "YH0002910",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "324",
+  "tipc": "3.4",
+  "hora": "10:48",
+  "docu": ""
+},
+{
+  "fechacab": "05/05/2026",
+  "serie": "COT",
   "numero": "YCHI260500834",
   "nombre": "UNION YCHICAWA S.A",
   "moneda": "PEN",
