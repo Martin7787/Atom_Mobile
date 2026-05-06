@@ -90,6 +90,17 @@
 {
   "fechacab": "04/05/2026",
   "serie": "COT",
+  "numero": "RJ00495",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "10:45",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
   "numero": "RJ002133",
   "nombre": "ROBERT TURPO",
   "moneda": "PEN",
@@ -122,17 +133,6 @@
 },
 {
   "fechacab": "04/05/2026",
-  "serie": "FAC",
-  "numero": "FRANK04052026",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "2550",
-  "tipc": "3.4",
-  "hora": "19:53",
-  "docu": ""
-},
-{
-  "fechacab": "04/05/2026",
   "serie": "COT",
   "numero": "FRANK04052026",
   "nombre": "JOSE JIBAJA",
@@ -140,6 +140,17 @@
   "totguia": "5950",
   "tipc": "3.4",
   "hora": "15:56",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "FAC",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "2550",
+  "tipc": "3.4",
+  "hora": "19:53",
   "docu": ""
 },
 {
