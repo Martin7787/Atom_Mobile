@@ -1,5 +1,49 @@
 [
 {
+  "fechacab": "05/05/2026",
+  "serie": "COT",
+  "numero": "YCHI260500834",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "PEN",
+  "totguia": "6452.07",
+  "tipc": "3.4",
+  "hora": "19:54",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "FAC",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "2550",
+  "tipc": "3.4",
+  "hora": "19:53",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "5950",
+  "tipc": "3.4",
+  "hora": "15:56",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
+  "numero": "DD26050001011",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "4421.7",
+  "tipc": "3.4",
+  "hora": "22:10",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "02/05/2026",
   "serie": "COT",
   "numero": "YH0002896",
@@ -9,6 +53,17 @@
   "tipc": "3.4",
   "hora": "11:42",
   "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "02/05/2026",
+  "serie": "COT",
+  "numero": "HM2605030101",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "5160",
+  "tipc": "3.4",
+  "hora": "18:57",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "02/05/2026",
@@ -1658,72 +1713,6 @@
   "totguia": "126",
   "tipc": "3.4",
   "hora": "17:04",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "04/04/2026",
-  "serie": "COT",
-  "numero": "RJ00471",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "1110",
-  "tipc": "3.4",
-  "hora": "11:34",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "04/04/2026",
-  "serie": "COT",
-  "numero": "RJ00470",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "4030",
-  "tipc": "3.4",
-  "hora": "10:37",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "04/04/2026",
-  "serie": "COT",
-  "numero": "RJ00293",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "14:21",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "04/04/2026",
-  "serie": "COT",
-  "numero": "RJ00290",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "540",
-  "tipc": "3.4",
-  "hora": "10:35",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "04/04/2026",
-  "serie": "COT",
-  "numero": "MOQ00829",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "164",
-  "tipc": "3.4",
-  "hora": "10:53",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "04/04/2026",
-  "serie": "COT",
-  "numero": "HM02042026",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "7411.01",
-  "tipc": "3.4",
-  "hora": "15:11",
   "docu": "USER: MARTIN"
 },
 ]

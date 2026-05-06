@@ -22,6 +22,50 @@
   "docu": ""
 },
 {
+  "fechacab": "05/05/2026",
+  "serie": "COT",
+  "numero": "YCHI260500834",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "PEN",
+  "totguia": "6452.07",
+  "tipc": "3.4",
+  "hora": "19:54",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "FAC",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "2550",
+  "tipc": "3.4",
+  "hora": "19:53",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "5950",
+  "tipc": "3.4",
+  "hora": "15:56",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
+  "numero": "DD26050001011",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "4421.7",
+  "tipc": "3.4",
+  "hora": "22:10",
+  "docu": ""
+},
+{
   "fechacab": "02/05/2026",
   "serie": "COT",
   "numero": "YH0002896",
@@ -30,6 +74,17 @@
   "totguia": "260",
   "tipc": "3.4",
   "hora": "11:42",
+  "docu": ""
+},
+{
+  "fechacab": "02/05/2026",
+  "serie": "COT",
+  "numero": "HM2605030101",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "5160",
+  "tipc": "3.4",
+  "hora": "18:57",
   "docu": ""
 },
 {
