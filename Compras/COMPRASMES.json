@@ -46,6 +46,17 @@
 {
   "fechacab": "05/05/2026",
   "serie": "COT",
+  "numero": "RJ00521",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "380",
+  "tipc": "3.4",
+  "hora": "10:46",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/05/2026",
+  "serie": "COT",
   "numero": "RJ00511",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
