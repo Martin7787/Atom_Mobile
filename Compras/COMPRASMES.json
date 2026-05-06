@@ -90,6 +90,17 @@
 {
   "fechacab": "04/05/2026",
   "serie": "COT",
+  "numero": "YH0002908",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "324",
+  "tipc": "3.4",
+  "hora": "10:48",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
   "numero": "RT002147",
   "nombre": "ROBERT TURPO",
   "moneda": "PEN",
