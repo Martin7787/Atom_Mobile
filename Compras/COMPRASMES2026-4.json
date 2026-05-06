@@ -13,6 +13,17 @@
 {
   "fechacab": "30/04/2026",
   "serie": "COT",
+  "numero": "RJ00458",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "10:39",
+  "docu": ""
+},
+{
+  "fechacab": "30/04/2026",
+  "serie": "COT",
   "numero": "PV000966",
   "nombre": "ADONAI P&V MENAJE",
   "moneda": "PEN",
