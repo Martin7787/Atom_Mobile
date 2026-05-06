@@ -44,6 +44,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "05/05/2026",
+  "serie": "COT",
+  "numero": "C055382",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "135",
+  "tipc": "3.4",
+  "hora": "10:42",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "04/05/2026",
   "serie": "COT",
   "numero": "RT002147",
@@ -89,17 +100,6 @@
 },
 {
   "fechacab": "04/05/2026",
-  "serie": "FAC",
-  "numero": "FRANK04052026",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "2550",
-  "tipc": "3.4",
-  "hora": "19:53",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "04/05/2026",
   "serie": "COT",
   "numero": "FRANK04052026",
   "nombre": "JOSE JIBAJA",
@@ -107,6 +107,17 @@
   "totguia": "5950",
   "tipc": "3.4",
   "hora": "15:56",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "FAC",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "2550",
+  "tipc": "3.4",
+  "hora": "19:53",
   "docu": "USER: DANTE"
 },
 {
