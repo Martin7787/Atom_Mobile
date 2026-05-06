@@ -57,6 +57,17 @@
 {
   "fechacab": "04/05/2026",
   "serie": "COT",
+  "numero": "RT002147",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "252",
+  "tipc": "3.4",
+  "hora": "10:41",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
   "numero": "RJ002133",
   "nombre": "ROBERT TURPO",
   "moneda": "PEN",
