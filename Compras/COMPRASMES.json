@@ -68,6 +68,17 @@
 {
   "fechacab": "05/05/2026",
   "serie": "COT",
+  "numero": "RJ00509",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "880",
+  "tipc": "3.4",
+  "hora": "10:47",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/05/2026",
+  "serie": "COT",
   "numero": "C055382",
   "nombre": "CREACIONES BETHEL S.A.C.",
   "moneda": "PEN",
