@@ -65846,6 +65846,28 @@
   "bloquear": "false"
 },
 {
+  "codart": "TPV-MA",
+  "descripcion": "TAZA C/ PLATO MAMA (CAJA X  24 SET)",
+  "fecha": "06/05/2026",
+  "stock": "STOCK = 0 CAJ  0 SET  0 UNI",
+  "cant": "0",
+  "preciosol": "140",
+  "precio": "41.18",
+  "preciount": "0.0000",
+  "costosol": "0.0000",
+  "costodol": "0.0000",
+  "undmy": "24",
+  "undmn": "140",
+  "leymy": "SET",
+  "leymn": "UND",
+  "linea": "MUESTRAS",
+  "cdesc": "0",
+  "pdesc": "0",
+  "vneg": "True",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "codart": "TQ-103",
   "descripcion": "VERDULERO (CAJA X  12 UND)",
   "fecha": "16/10/2021",
