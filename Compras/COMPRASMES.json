@@ -68,6 +68,17 @@
 {
   "fechacab": "04/05/2026",
   "serie": "COT",
+  "numero": "RJ055363",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "216",
+  "tipc": "3.4",
+  "hora": "10:42",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
   "numero": "RJ002133",
   "nombre": "ROBERT TURPO",
   "moneda": "PEN",
