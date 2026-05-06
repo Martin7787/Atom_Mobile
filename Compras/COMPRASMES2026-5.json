@@ -111,6 +111,17 @@
 },
 {
   "fechacab": "04/05/2026",
+  "serie": "COT",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "5950",
+  "tipc": "3.4",
+  "hora": "15:56",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
   "serie": "FAC",
   "numero": "FRANK04052026",
   "nombre": "JOSE JIBAJA",
@@ -123,23 +134,23 @@
 {
   "fechacab": "04/05/2026",
   "serie": "COT",
-  "numero": "FRANK04052026",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "5950",
-  "tipc": "3.4",
-  "hora": "15:56",
-  "docu": ""
-},
-{
-  "fechacab": "04/05/2026",
-  "serie": "COT",
   "numero": "DD26050001011",
   "nombre": "DOU DOU",
   "moneda": "PEN",
   "totguia": "4184.1",
   "tipc": "3.4",
   "hora": "21:36",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
+  "numero": "C055344",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "135",
+  "tipc": "3.4",
+  "hora": "10:42",
   "docu": ""
 },
 {
