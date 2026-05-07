@@ -97604,6 +97604,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "GERALDIN",
+  "ruc": "48333624",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "06/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "LEONARDO RAMOS",
   "ruc": "48342536",
   "direccion": "LIMA",
