@@ -45864,6 +45864,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MUNICIPALIDAD DISTRITAL DE CALANGO",
+  "ruc": "20199187008",
+  "direccion": "AV. GRANADOS N° S/N INT. LT. DP. MZ. KM. LIMA CAÑETE CALANGO",
+  "tipo": "0",
+  "fecha": "07/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MUNICIPALIDAD DISTRITAL DE JANGAS",
   "ruc": "20206179776",
   "direccion": "JANGAS",
