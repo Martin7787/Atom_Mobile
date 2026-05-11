@@ -11,6 +11,116 @@
   "docu": ""
 },
 {
+  "fechacab": "08/05/2026",
+  "serie": "COT",
+  "numero": "NP314480",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "78",
+  "tipc": "3.4",
+  "hora": "10:07",
+  "docu": ""
+},
+{
+  "fechacab": "08/05/2026",
+  "serie": "COT",
+  "numero": "MOQ00859",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "302",
+  "tipc": "3.4",
+  "hora": "10:45",
+  "docu": ""
+},
+{
+  "fechacab": "08/05/2026",
+  "serie": "COT",
+  "numero": "GE11746",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "1262",
+  "tipc": "3.4",
+  "hora": "10:22",
+  "docu": ""
+},
+{
+  "fechacab": "08/05/2026",
+  "serie": "COT",
+  "numero": "C055426",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "135",
+  "tipc": "3.4",
+  "hora": "10:47",
+  "docu": ""
+},
+{
+  "fechacab": "08/05/2026",
+  "serie": "COT",
+  "numero": "C055423",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "270",
+  "tipc": "3.4",
+  "hora": "10:46",
+  "docu": ""
+},
+{
+  "fechacab": "07/05/2026",
+  "serie": "COT",
+  "numero": "YH0002936",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "1200",
+  "tipc": "3.4",
+  "hora": "10:44",
+  "docu": ""
+},
+{
+  "fechacab": "07/05/2026",
+  "serie": "COT",
+  "numero": "NP001-000006",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "400",
+  "tipc": "3.46",
+  "hora": "12:31",
+  "docu": ""
+},
+{
+  "fechacab": "07/05/2026",
+  "serie": "COT",
+  "numero": "DIA26001620",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "560",
+  "tipc": "3.485",
+  "hora": "17:58",
+  "docu": ""
+},
+{
+  "fechacab": "07/05/2026",
+  "serie": "COT",
+  "numero": "C00556",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "12:41",
+  "docu": ""
+},
+{
+  "fechacab": "07/05/2026",
+  "serie": "COT",
+  "numero": "000054",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "2200",
+  "tipc": "3.4",
+  "hora": "18:50",
+  "docu": ""
+},
+{
   "fechacab": "06/05/2026",
   "serie": "COT",
   "numero": "RJ00476",
@@ -19,6 +129,105 @@
   "totguia": "1420",
   "tipc": "3.4",
   "hora": "11:44",
+  "docu": ""
+},
+{
+  "fechacab": "06/05/2026",
+  "serie": "COT",
+  "numero": "NP314340",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "36",
+  "tipc": "3.4",
+  "hora": "10:09",
+  "docu": ""
+},
+{
+  "fechacab": "06/05/2026",
+  "serie": "COT",
+  "numero": "MOQ00858",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "172",
+  "tipc": "3.4",
+  "hora": "12:39",
+  "docu": ""
+},
+{
+  "fechacab": "06/05/2026",
+  "serie": "COT",
+  "numero": "HM2605070241",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "6997.2",
+  "tipc": "3.4",
+  "hora": "17:16",
+  "docu": ""
+},
+{
+  "fechacab": "06/05/2026",
+  "serie": "COT",
+  "numero": "GP000644",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "200",
+  "tipc": "3.4",
+  "hora": "12:38",
+  "docu": ""
+},
+{
+  "fechacab": "06/05/2026",
+  "serie": "COT",
+  "numero": "F063-00075239",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "0.16",
+  "tipc": "3.4",
+  "hora": "22:18",
+  "docu": ""
+},
+{
+  "fechacab": "06/05/2026",
+  "serie": "COT",
+  "numero": "DIA26001619",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1218",
+  "tipc": "3.485",
+  "hora": "18:23",
+  "docu": ""
+},
+{
+  "fechacab": "06/05/2026",
+  "serie": "COT",
+  "numero": "CG002193",
+  "nombre": "CENTER GLASS E.I.R.L",
+  "moneda": "PEN",
+  "totguia": "100",
+  "tipc": "3.4",
+  "hora": "12:42",
+  "docu": ""
+},
+{
+  "fechacab": "06/05/2026",
+  "serie": "COT",
+  "numero": "CG002179",
+  "nombre": "CENTER GLASS E.I.R.L",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.4",
+  "hora": "12:42",
+  "docu": ""
+},
+{
+  "fechacab": "06/05/2026",
+  "serie": "COT",
+  "numero": "C055405",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "135",
+  "tipc": "3.4",
+  "hora": "10:46",
   "docu": ""
 },
 {
@@ -37,10 +246,10 @@
   "serie": "COT",
   "numero": "YCHI260500834",
   "nombre": "UNION YCHICAWA S.A",
-  "moneda": "PEN",
+  "moneda": "USD",
   "totguia": "6508.83",
-  "tipc": "3.4",
-  "hora": "14:09",
+  "tipc": "3.466",
+  "hora": "22:21",
   "docu": ""
 },
 {
@@ -48,10 +257,10 @@
   "serie": "COT",
   "numero": "YCHI260500833",
   "nombre": "UNION YCHICAWA S.A",
-  "moneda": "PEN",
+  "moneda": "USD",
   "totguia": "525.09",
-  "tipc": "3.4",
-  "hora": "19:55",
+  "tipc": "3.466",
+  "hora": "22:22",
   "docu": ""
 },
 {
@@ -96,6 +305,28 @@
   "totguia": "880",
   "tipc": "3.4",
   "hora": "10:47",
+  "docu": ""
+},
+{
+  "fechacab": "05/05/2026",
+  "serie": "COT",
+  "numero": "GP00630",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.4",
+  "hora": "12:39",
+  "docu": ""
+},
+{
+  "fechacab": "05/05/2026",
+  "serie": "COT",
+  "numero": "DIA26001564",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "559.01",
+  "tipc": "3.53",
+  "hora": "17:42",
   "docu": ""
 },
 {
@@ -200,6 +431,28 @@
 {
   "fechacab": "04/05/2026",
   "serie": "COT",
+  "numero": "MOQ00857",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "434",
+  "tipc": "3.4",
+  "hora": "12:40",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
+  "numero": "HO20260504",
+  "nombre": "RONGQUIAN",
+  "moneda": "PEN",
+  "totguia": "1620",
+  "tipc": "3.4",
+  "hora": "21:56",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
   "numero": "GP000611",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
@@ -239,6 +492,17 @@
   "totguia": "5950",
   "tipc": "3.4",
   "hora": "15:56",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "FAC",
+  "numero": "DIA26001548",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1050",
+  "tipc": "3.53",
+  "hora": "18:27",
   "docu": ""
 },
 {
