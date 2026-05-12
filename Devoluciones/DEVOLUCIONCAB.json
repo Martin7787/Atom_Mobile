@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000292",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.4",
+  "fecha": "12/05/2026",
+  "hora": "17:35",
+  "docu": "T001-00021957",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000291",
   "nombre": "SONIA SANCHEZ CALDERON",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "05/02/2026",
   "hora": "15:20",
   "docu": "T001-00020199",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000262",
-  "nombre": "JESUS CASTAÑEDA",
-  "moneda": "PEN",
-  "totguia": "23.33",
-  "tipc": "3.4",
-  "fecha": "05/02/2026",
-  "hora": "12:17",
-  "docu": "T001-00020191",
   "via": "USER: SOFI",
   "bloquear": ""
 },
