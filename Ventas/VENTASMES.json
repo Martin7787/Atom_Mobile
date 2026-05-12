@@ -14415,4 +14415,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "12/05/2026",
+  "fecha": "May. 12",
+  "serie": "T001",
+  "numero": "00021943",
+  "nombre": "FIBAY CORP SAC",
+  "moneda": "PEN",
+  "totguia": "216",
+  "acuenta": "216",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:43",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
 ]
