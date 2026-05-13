@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "12/05/2026",
+  "serie": "OTR",
+  "numero": "AJU12052026",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "0.0000",
+  "tipc": "3.4",
+  "hora": "14:35",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "08/05/2026",
   "serie": "COT",
   "numero": "NP314480",
@@ -238,7 +249,7 @@
   "moneda": "USD",
   "totguia": "6508.83",
   "tipc": "3.466",
-  "hora": "22:21",
+  "hora": "18:48",
   "docu": "USER: DANTE"
 },
 {
@@ -463,17 +474,6 @@
 },
 {
   "fechacab": "04/05/2026",
-  "serie": "COT",
-  "numero": "FRANK04052026",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "5950",
-  "tipc": "3.4",
-  "hora": "15:56",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "04/05/2026",
   "serie": "FAC",
   "numero": "FRANK04052026",
   "nombre": "JOSE JIBAJA",
@@ -481,6 +481,17 @@
   "totguia": "2550",
   "tipc": "3.4",
   "hora": "19:53",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "5950",
+  "tipc": "3.4",
+  "hora": "15:56",
   "docu": "USER: DANTE"
 },
 {
@@ -1360,7 +1371,7 @@
   "moneda": "USD",
   "totguia": "2284",
   "tipc": "3.4",
-  "hora": "19:27",
+  "hora": "15:18",
   "docu": "USER: MARTIN"
 },
 {
@@ -1757,94 +1768,6 @@
   "totguia": "2511.2",
   "tipc": "3.4",
   "hora": "19:14",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/04/2026",
-  "serie": "COT",
-  "numero": "TQ000734",
-  "nombre": "TAQUIMA",
-  "moneda": "PEN",
-  "totguia": "320",
-  "tipc": "3.4",
-  "hora": "10:01",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/04/2026",
-  "serie": "COT",
-  "numero": "RJ00240",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "80",
-  "tipc": "3.4",
-  "hora": "10:02",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/04/2026",
-  "serie": "COT",
-  "numero": "MOQ00840",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.4",
-  "hora": "09:58",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/04/2026",
-  "serie": "COT",
-  "numero": "MOQ00839",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "351",
-  "tipc": "3.4",
-  "hora": "11:06",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/04/2026",
-  "serie": "COT",
-  "numero": "HM11042026",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "23758.61",
-  "tipc": "3.4",
-  "hora": "16:10",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "11/04/2026",
-  "serie": "COT",
-  "numero": "GP000425",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "110",
-  "tipc": "3.4",
-  "hora": "11:05",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/04/2026",
-  "serie": "COT",
-  "numero": "GP000424",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "320",
-  "tipc": "3.4",
-  "hora": "11:04",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "11/04/2026",
-  "serie": "COT",
-  "numero": "BK099576",
-  "nombre": "BRIKENIA",
-  "moneda": "USD",
-  "totguia": "102",
-  "tipc": "3.4",
-  "hora": "13:41",
   "docu": "USER: MARTIN"
 },
 ]

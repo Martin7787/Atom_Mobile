@@ -11,6 +11,17 @@
   "docu": ""
 },
 {
+  "fechacab": "12/05/2026",
+  "serie": "OTR",
+  "numero": "AJU12052026",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "0.0000",
+  "tipc": "3.4",
+  "hora": "14:35",
+  "docu": ""
+},
+{
   "fechacab": "08/05/2026",
   "serie": "COT",
   "numero": "NP314480",
@@ -249,7 +260,7 @@
   "moneda": "USD",
   "totguia": "6508.83",
   "tipc": "3.466",
-  "hora": "22:21",
+  "hora": "18:48",
   "docu": ""
 },
 {
