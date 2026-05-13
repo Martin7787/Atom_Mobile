@@ -45877,6 +45877,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MARINA DE GUERRA DEL PERU",
+  "ruc": "20153408191",
+  "direccion": "AV. LA MARINA CDRA 36 CUARTE LA PERLA N° SN INT. LT. DP. MZ. KM. CALLAO PROV. CONST. DEL CALLAO LA PERLA",
+  "tipo": "0",
+  "fecha": "13/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "KARLUI IMPORT S.R.L",
   "ruc": "20155222248",
   "direccion": "JR. PUNO NRO. 659 INT. 202 LIMA",
