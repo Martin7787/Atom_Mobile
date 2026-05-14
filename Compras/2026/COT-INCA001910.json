@@ -149,23 +149,6 @@
   "locked": "No"
 },
 {
-  "codart": "2644BB-NP",
-  "descripcion": "TERMO BB 1LT (CAJA X  2 DOC)",
-  "cajas": "10",
-  "doce": "0",
-  "unidad": "0",
-  "vunit": "66.00",
-  "total": "660",
-  "cant": "240",
-  "undmy": "2",
-  "undmn": "12",
-  "leymy": "DOC",
-  "leymn": "UND",
-  "lote": "2644BB-NP",
-  "grat": "1",
-  "locked": "No"
-},
-{
   "codart": "TD7318",
   "descripcion": "TERMO 1.80LT FUTURA HOGAR (CAJA X  12 UND)",
   "cajas": "20",
@@ -213,6 +196,23 @@
   "leymy": "UND",
   "leymn": "UND",
   "lote": "43028-CARRE",
+  "grat": "1",
+  "locked": "No"
+},
+{
+  "codart": "2644",
+  "descripcion": "TERMO 1.00LT FUTURA ECO SUN (CAJA X  24 UND)",
+  "cajas": "10",
+  "doce": "0",
+  "unidad": "0",
+  "vunit": "66.00",
+  "total": "660",
+  "cant": "240",
+  "undmy": "24",
+  "undmn": "1",
+  "leymy": "UND",
+  "leymn": "UND",
+  "lote": "2644",
   "grat": "1",
   "locked": "No"
 },
