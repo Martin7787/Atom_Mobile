@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "15/05/2026",
+  "serie": "COT",
+  "numero": "RJ00553",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "1330",
+  "tipc": "3.4",
+  "hora": "16:46",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "14/05/2026",
   "serie": "COT",
   "numero": "RJ00548",
