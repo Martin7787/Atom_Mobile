@@ -14432,4 +14432,38 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "15/05/2026",
+  "fecha": "May. 15",
+  "serie": "T001",
+  "numero": "00021995",
+  "nombre": "LUCY BETTY MAMANI AMANQUI",
+  "moneda": "PEN",
+  "totguia": "205",
+  "acuenta": "205",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "12:11",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
+{
+  "fechacab": "15/05/2026",
+  "fecha": "May. 15",
+  "serie": "T001",
+  "numero": "00021994",
+  "nombre": "NEGOCIOS CALMET SOCIEDAD ANONIMA CERRADA",
+  "moneda": "PEN",
+  "totguia": "3166",
+  "acuenta": "3166",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:49",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
 ]
