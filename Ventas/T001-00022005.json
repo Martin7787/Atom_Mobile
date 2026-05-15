@@ -2,9 +2,9 @@
 {
   "numero": "T001-00022005",
   "fecha": "15/05/2026",
-  "ruc": "00000000",
-  "nombre": "CLIENTES VARIOS",
-  "direccion": "LIMA",
+  "ruc": "10803959345",
+  "nombre": "MARTINEZ VASQUEZ ENRIQUE DOMINGO",
+  "direccion": "JR. DANIEL HERNANDEZ 297 MZ O LT1 URB COVIDA LOS OLIVOS LIMA LIMA",
   "moneda": "0",
   "totguia": "2472",
   "acuenta": "2472",
@@ -184,7 +184,7 @@
   "cantimp": "4 CAJ",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "160",
   "punidad": "0.0000"
 },
