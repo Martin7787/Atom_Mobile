@@ -11,6 +11,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "15/05/2026",
+  "serie": "COT",
+  "numero": "MOQ00862",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "320",
+  "tipc": "3.4",
+  "hora": "10:32",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "14/05/2026",
   "serie": "COT",
   "numero": "RJ00548",
@@ -19,6 +30,17 @@
   "totguia": "2760",
   "tipc": "3.4",
   "hora": "11:16",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "14/05/2026",
+  "serie": "COT",
+  "numero": "MOQ000861",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "10:31",
   "docu": "USER: MARTIN"
 },
 {
@@ -529,17 +551,6 @@
 },
 {
   "fechacab": "04/05/2026",
-  "serie": "COT",
-  "numero": "FRANK04052026",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "5950",
-  "tipc": "3.4",
-  "hora": "15:56",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "04/05/2026",
   "serie": "FAC",
   "numero": "FRANK04052026",
   "nombre": "JOSE JIBAJA",
@@ -547,6 +558,17 @@
   "totguia": "2550",
   "tipc": "3.4",
   "hora": "19:53",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "5950",
+  "tipc": "3.4",
+  "hora": "15:56",
   "docu": "USER: DANTE"
 },
 {
@@ -1636,83 +1658,6 @@
   "totguia": "360",
   "tipc": "3.4",
   "hora": "10:47",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/04/2026",
-  "serie": "COT",
-  "numero": "RT001642",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "484",
-  "tipc": "3.4",
-  "hora": "11:46",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/04/2026",
-  "serie": "COT",
-  "numero": "RJ00314",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "290",
-  "tipc": "3.4",
-  "hora": "10:45",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/04/2026",
-  "serie": "COT",
-  "numero": "RJ00313",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "1150",
-  "tipc": "3.4",
-  "hora": "09:59",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/04/2026",
-  "serie": "COT",
-  "numero": "MOQ00844",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "640",
-  "tipc": "3.4",
-  "hora": "10:04",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/04/2026",
-  "serie": "COT",
-  "numero": "MOQ00843",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "200",
-  "tipc": "3.4",
-  "hora": "10:04",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/04/2026",
-  "serie": "COT",
-  "numero": "HM15042026",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "10228.35",
-  "tipc": "3.4",
-  "hora": "13:40",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "15/04/2026",
-  "serie": "COT",
-  "numero": "CX000928",
-  "nombre": "CORPORACION GCC S.A.C",
-  "moneda": "PEN",
-  "totguia": "360",
-  "tipc": "3.4",
-  "hora": "10:03",
   "docu": "USER: MARTIN"
 },
 ]
