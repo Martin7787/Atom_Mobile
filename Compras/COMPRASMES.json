@@ -2,6 +2,17 @@
 {
   "fechacab": "18/05/2026",
   "serie": "COT",
+  "numero": "INCA002076",
+  "nombre": "ESTABLECIMIENTOS INCA S.AC",
+  "moneda": "USD",
+  "totguia": "2852.25",
+  "tipc": "3.45",
+  "hora": "15:36",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "18/05/2026",
+  "serie": "COT",
   "numero": "HM14052026",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
