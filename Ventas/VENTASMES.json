@@ -13446,4 +13446,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "18/05/2026",
+  "fecha": "May. 18",
+  "serie": "T001",
+  "numero": "00022025",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "55",
+  "acuenta": "55",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "11:06",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
