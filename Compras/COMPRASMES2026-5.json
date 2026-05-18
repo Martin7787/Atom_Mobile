@@ -11,6 +11,17 @@
   "docu": ""
 },
 {
+  "fechacab": "18/05/2026",
+  "serie": "COT",
+  "numero": "HM14052026",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "15580.9",
+  "tipc": "3.4",
+  "hora": "14:21",
+  "docu": ""
+},
+{
   "fechacab": "15/05/2026",
   "serie": "COT",
   "numero": "YH0002969",
@@ -85,17 +96,6 @@
   "totguia": "190",
   "tipc": "3.4",
   "hora": "10:31",
-  "docu": ""
-},
-{
-  "fechacab": "14/05/2026",
-  "serie": "COT",
-  "numero": "HM14052026",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "14910",
-  "tipc": "3.4",
-  "hora": "15:07",
   "docu": ""
 },
 {
