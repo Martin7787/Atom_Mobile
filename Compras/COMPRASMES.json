@@ -22,6 +22,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "16/05/2026",
+  "serie": "COT",
+  "numero": "DIA26001737",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "840",
+  "tipc": "3.4",
+  "hora": "15:38",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "15/05/2026",
   "serie": "COT",
   "numero": "YH0002969",
@@ -683,17 +694,6 @@
 },
 {
   "fechacab": "04/05/2026",
-  "serie": "FAC",
-  "numero": "FRANK04052026",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "2550",
-  "tipc": "3.4",
-  "hora": "19:53",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "04/05/2026",
   "serie": "COT",
   "numero": "FRANK04052026",
   "nombre": "JOSE JIBAJA",
@@ -701,6 +701,17 @@
   "totguia": "5950",
   "tipc": "3.4",
   "hora": "15:56",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "FAC",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "2550",
+  "tipc": "3.4",
+  "hora": "19:53",
   "docu": "USER: DANTE"
 },
 {
