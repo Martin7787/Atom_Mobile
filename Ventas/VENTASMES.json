@@ -7144,17 +7144,17 @@
   "fecha": "May. 2",
   "serie": "T001",
   "numero": "00021650",
-  "nombre": "FERNANDEZ FERNANDEZ ANITA",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "1412",
-  "acuenta": "1412",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.4",
   "estado": "CONTADO",
   "hora": "13:21",
-  "docu": "USER: LIZETH",
+  "docu": "USER: MARTIN",
   "bloquear": "",
-  "user": "LIZETH"
+  "user": "MARTIN"
 },
 {
   "fechacab": "02/05/2026",
