@@ -110,6 +110,17 @@
   "docu": ""
 },
 {
+  "fechacab": "13/05/2026",
+  "serie": "COT",
+  "numero": "MOQ00860",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "320",
+  "tipc": "3.4",
+  "hora": "10:35",
+  "docu": ""
+},
+{
   "fechacab": "12/05/2026",
   "serie": "COT",
   "numero": "RJ00539",
@@ -145,6 +156,17 @@
 {
   "fechacab": "08/05/2026",
   "serie": "COT",
+  "numero": "RJ00576",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "10:35",
+  "docu": ""
+},
+{
+  "fechacab": "08/05/2026",
+  "serie": "COT",
   "numero": "NP314480",
   "nombre": "NADIA PARIONA",
   "moneda": "USD",
@@ -162,6 +184,17 @@
   "totguia": "302",
   "tipc": "3.4",
   "hora": "10:45",
+  "docu": ""
+},
+{
+  "fechacab": "08/05/2026",
+  "serie": "COT",
+  "numero": "GP00671",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "500",
+  "tipc": "3.4",
+  "hora": "10:32",
   "docu": ""
 },
 {
@@ -211,6 +244,17 @@
 {
   "fechacab": "07/05/2026",
   "serie": "COT",
+  "numero": "RT002306",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "400",
+  "tipc": "3.4",
+  "hora": "10:33",
+  "docu": ""
+},
+{
+  "fechacab": "07/05/2026",
+  "serie": "COT",
   "numero": "NP001-000006",
   "nombre": "DISTRIBUIDORA MORELLA",
   "moneda": "USD",
@@ -250,6 +294,28 @@
   "totguia": "2200",
   "tipc": "3.4",
   "hora": "17:41",
+  "docu": ""
+},
+{
+  "fechacab": "06/05/2026",
+  "serie": "COT",
+  "numero": "RT002319",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "10:34",
+  "docu": ""
+},
+{
+  "fechacab": "06/05/2026",
+  "serie": "COT",
+  "numero": "RT002281",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "504",
+  "tipc": "3.4",
+  "hora": "10:33",
   "docu": ""
 },
 {
@@ -503,6 +569,17 @@
   "totguia": "324",
   "tipc": "3.4",
   "hora": "10:48",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
+  "numero": "RT002197",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "10:32",
   "docu": ""
 },
 {
