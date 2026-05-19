@@ -13106,4 +13106,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "19/05/2026",
+  "fecha": "May. 19",
+  "serie": "T001",
+  "numero": "00022043",
+  "nombre": "JACQUELINE ROSSI GARAY CONTRERAS",
+  "moneda": "PEN",
+  "totguia": "1050",
+  "acuenta": "1050",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:42",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
 ]
