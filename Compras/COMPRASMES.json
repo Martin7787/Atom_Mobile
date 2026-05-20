@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "20/05/2026",
+  "serie": "COT",
+  "numero": "FT000698",
+  "nombre": "FORTUNATO MALLQUI NIETO",
+  "moneda": "PEN",
+  "totguia": "2200",
+  "tipc": "3.4",
+  "hora": "13:13",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "18/05/2026",
   "serie": "COT",
   "numero": "INCA002076",
@@ -1592,116 +1603,6 @@
   "totguia": "2284",
   "tipc": "3.4",
   "hora": "15:18",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/04/2026",
-  "serie": "COT",
-  "numero": "RJ00345",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "11:07",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/04/2026",
-  "serie": "COT",
-  "numero": "RJ00341",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "11:07",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/04/2026",
-  "serie": "COT",
-  "numero": "RJ00339",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "11:08",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/04/2026",
-  "serie": "COT",
-  "numero": "RJ00338",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "11:08",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/04/2026",
-  "serie": "COT",
-  "numero": "PV001070",
-  "nombre": "ADONAI P&V MENAJE",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.4",
-  "hora": "12:14",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/04/2026",
-  "serie": "COT",
-  "numero": "MOQ00847",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.4",
-  "hora": "11:04",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/04/2026",
-  "serie": "COT",
-  "numero": "MOQ000822",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "164",
-  "tipc": "3.4",
-  "hora": "14:26",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/04/2026",
-  "serie": "COT",
-  "numero": "HO20260418",
-  "nombre": "RONGQUIAN",
-  "moneda": "PEN",
-  "totguia": "3700",
-  "tipc": "3.4",
-  "hora": "17:12",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/04/2026",
-  "serie": "COT",
-  "numero": "GP000461",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "220",
-  "tipc": "3.4",
-  "hora": "11:06",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/04/2026",
-  "serie": "COT",
-  "numero": "C055191",
-  "nombre": "CREACIONES BETHEL S.A.C.",
-  "moneda": "PEN",
-  "totguia": "135",
-  "tipc": "3.4",
-  "hora": "11:06",
   "docu": "USER: MARTIN"
 },
 ]
