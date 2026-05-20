@@ -10546,7 +10546,7 @@
   "preciosol": "250",
   "precio": "73.53",
   "preciount": "0.0000",
-  "costosol": "230",
+  "costosol": "230.01",
   "costodol": "67.65",
   "undmy": "2",
   "undmn": "12",
@@ -10555,8 +10555,8 @@
   "linea": "MUESTRAS",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
-  "via": "",
+  "vneg": "True",
+  "via": "-",
   "bloquear": "false"
 },
 {
