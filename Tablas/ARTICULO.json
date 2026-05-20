@@ -60508,7 +60508,7 @@
   "preciosol": "300",
   "precio": "88.24",
   "preciount": "0.0000",
-  "costosol": "280",
+  "costosol": "279.99",
   "costodol": "82.35",
   "undmy": "4",
   "undmn": "12",
@@ -60518,7 +60518,7 @@
   "cdesc": "0",
   "pdesc": "0",
   "vneg": "True",
-  "via": "",
+  "via": "-",
   "bloquear": "false"
 },
 {
