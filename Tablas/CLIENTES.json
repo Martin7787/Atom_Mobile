@@ -62660,6 +62660,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "KULLMI S.A.C.",
+  "ruc": "20611621761",
+  "direccion": "JR. DOMINGO PONTE URB. PRIMAVERA N° 1053 INT. LT. DP. 402 MZ. KM. LIMA LIMA MAGDALENA DEL MAR",
+  "tipo": "0",
+  "fecha": "21/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "GRUPO DA GUSTO SAC",
   "ruc": "20611624621",
   "direccion": "ASOC SAN JUAN BAUTISTA MZ D LT11 - SMP",
