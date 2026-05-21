@@ -23,6 +23,17 @@
 },
 {
   "fechacab": "19/05/2026",
+  "serie": "COT",
+  "numero": "RJ00610",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "580",
+  "tipc": "3.4",
+  "hora": "12:01",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "19/05/2026",
   "serie": "FAC",
   "numero": "F003-00029566",
   "nombre": "ESTABLECIMIENTOS INCA S.AC",
@@ -738,17 +749,6 @@
 },
 {
   "fechacab": "04/05/2026",
-  "serie": "COT",
-  "numero": "FRANK04052026",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "5950",
-  "tipc": "3.4",
-  "hora": "15:56",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "04/05/2026",
   "serie": "FAC",
   "numero": "FRANK04052026",
   "nombre": "JOSE JIBAJA",
@@ -756,6 +756,17 @@
   "totguia": "2550",
   "tipc": "3.4",
   "hora": "19:53",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "5950",
+  "tipc": "3.4",
+  "hora": "15:56",
   "docu": "USER: DANTE"
 },
 {

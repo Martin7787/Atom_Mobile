@@ -34,6 +34,17 @@
 },
 {
   "fechacab": "19/05/2026",
+  "serie": "COT",
+  "numero": "RJ00610",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "580",
+  "tipc": "3.4",
+  "hora": "12:01",
+  "docu": ""
+},
+{
+  "fechacab": "19/05/2026",
   "serie": "FAC",
   "numero": "F003-00029566",
   "nombre": "ESTABLECIMIENTOS INCA S.AC",
