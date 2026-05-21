@@ -90,6 +90,17 @@
 {
   "fechacab": "15/05/2026",
   "serie": "COT",
+  "numero": "RJ00601",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "1300",
+  "tipc": "3.4",
+  "hora": "12:00",
+  "docu": ""
+},
+{
+  "fechacab": "15/05/2026",
+  "serie": "COT",
   "numero": "RJ00553",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
