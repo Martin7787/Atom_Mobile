@@ -67,6 +67,17 @@
 },
 {
   "fechacab": "19/05/2026",
+  "serie": "COT",
+  "numero": "GP000733",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "100",
+  "tipc": "3.4",
+  "hora": "12:03",
+  "docu": ""
+},
+{
+  "fechacab": "19/05/2026",
   "serie": "FAC",
   "numero": "F003-00029566",
   "nombre": "ESTABLECIMIENTOS INCA S.AC",
