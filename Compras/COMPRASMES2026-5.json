@@ -45,6 +45,17 @@
 },
 {
   "fechacab": "19/05/2026",
+  "serie": "COT",
+  "numero": "MOQ00863",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "480",
+  "tipc": "3.4",
+  "hora": "12:02",
+  "docu": ""
+},
+{
+  "fechacab": "19/05/2026",
   "serie": "FAC",
   "numero": "F003-00029566",
   "nombre": "ESTABLECIMIENTOS INCA S.AC",
