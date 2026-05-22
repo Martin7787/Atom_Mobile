@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "21/05/2026",
+  "serie": "COT",
+  "numero": "21052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "9000",
+  "tipc": "3.44",
+  "hora": "18:39",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "20/05/2026",
   "serie": "COT",
   "numero": "RJ00564",
