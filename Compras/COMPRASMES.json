@@ -2,6 +2,17 @@
 {
   "fechacab": "21/05/2026",
   "serie": "COT",
+  "numero": "HM20052026",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "6925",
+  "tipc": "3.4",
+  "hora": "12:30",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "21/05/2026",
+  "serie": "COT",
   "numero": "21052026",
   "nombre": "JOSE JIBAJA",
   "moneda": "PEN",
