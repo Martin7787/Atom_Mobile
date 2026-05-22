@@ -13,6 +13,23 @@
   "tipo": "NAC",
   "factura": "",
   "user": "DANTE",
+  "codart": "JRECTO",
+  "descripcion": "JARROS RECTO DECORADO GALLERY  11OZ (CAJA X  4 DOC)",
+  "cajas": "100",
+  "doce": "0",
+  "unidad": "0",
+  "vunit": "20.50",
+  "total": "2050",
+  "cant": "4800",
+  "undmy": "4",
+  "undmn": "12",
+  "leymy": "DOC",
+  "leymn": "UND",
+  "lote": "JRECTO",
+  "grat": "1",
+  "locked": "0"
+},
+{
   "codart": "DJ14Q",
   "descripcion": "JARRO 14 OZ  (CAJA X  48 UND)",
   "cajas": "20",
@@ -27,7 +44,7 @@
   "leymn": "UND",
   "lote": "DJ14Q",
   "grat": "1",
-  "locked": "No"
+  "locked": "0"
 },
 {
   "codart": "DJ15G",
@@ -44,23 +61,6 @@
   "leymn": "UND",
   "lote": "DJ15G",
   "grat": "1",
-  "locked": "No"
-},
-{
-  "codart": "JRECTO",
-  "descripcion": "JARROS RECTO DECORADO GALLERY  11OZ (CAJA X  4 DOC)",
-  "cajas": "100",
-  "doce": "0",
-  "unidad": "0",
-  "vunit": "20.50",
-  "total": "2050",
-  "cant": "4800",
-  "undmy": "4",
-  "undmn": "12",
-  "leymy": "DOC",
-  "leymn": "UND",
-  "lote": "JRECTO",
-  "grat": "1",
-  "locked": "No"
+  "locked": "0"
 },
 ]
