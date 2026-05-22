@@ -5,14 +5,14 @@
   "ruc": "20538347281",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "1",
-  "totcompra": "2950",
-  "acuenta": "2950",
+  "totcompra": "2949.97",
+  "acuenta": "2949.97",
   "saldo": "0.0000",
   "tipc": "3.53",
   "obs": "",
   "tipo": "NAC",
   "factura": "",
-  "user": "DANTE",
+  "user": "MARTIN",
   "codart": "JRECTO",
   "descripcion": "JARROS RECTO DECORADO GALLERY  11OZ (CAJA X  4 DOC)",
   "cajas": "100",
@@ -27,7 +27,7 @@
   "leymn": "UND",
   "lote": "JRECTO",
   "grat": "1",
-  "locked": "0"
+  "locked": "No"
 },
 {
   "codart": "DJ14Q",
@@ -36,7 +36,7 @@
   "doce": "0",
   "unidad": "0",
   "vunit": "22.00",
-  "total": "440",
+  "total": "439.97",
   "cant": "960",
   "undmy": "48",
   "undmn": "1",
@@ -44,7 +44,7 @@
   "leymn": "UND",
   "lote": "DJ14Q",
   "grat": "1",
-  "locked": "0"
+  "locked": "No"
 },
 {
   "codart": "DJ15G",
