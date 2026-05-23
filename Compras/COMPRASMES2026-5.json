@@ -200,6 +200,17 @@
 {
   "fechacab": "15/05/2026",
   "serie": "COT",
+  "numero": "RT0023423",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.4",
+  "hora": "10:34",
+  "docu": ""
+},
+{
+  "fechacab": "15/05/2026",
+  "serie": "COT",
   "numero": "RJ00601",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
