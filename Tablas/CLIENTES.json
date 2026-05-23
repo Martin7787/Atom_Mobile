@@ -3497,6 +3497,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "IVAN",
+  "ruc": "06609259",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "23/05/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "ISIDORA CHOQUE PUMA",
   "ruc": "06616568",
   "direccion": "LIMA - ATE VITARTE",
