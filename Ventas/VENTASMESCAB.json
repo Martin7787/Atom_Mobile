@@ -1,15 +1,5 @@
 [
 {
-  "dia": "Jue.",
-  "fecha": "23/04/2026",
-  "fechacab": "Abr. 23"
-},
-{
-  "dia": "Vie.",
-  "fecha": "24/04/2026",
-  "fechacab": "Abr. 24"
-},
-{
   "dia": "Sáb.",
   "fecha": "25/04/2026",
   "fechacab": "Abr. 25"
@@ -125,7 +115,7 @@
   "fechacab": "May. 22"
 },
 {
-  "dia": "Hoy",
+  "dia": "Sáb.",
   "fecha": "23/05/2026",
   "fechacab": "May. 23"
 },
