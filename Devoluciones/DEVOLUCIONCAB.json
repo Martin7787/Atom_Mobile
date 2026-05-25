@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000294",
+  "nombre": "XIOMARA SANCHEZ AVILA",
+  "moneda": "PEN",
+  "totguia": "110",
+  "tipc": "3.4",
+  "fecha": "25/05/2026",
+  "hora": "11:53",
+  "docu": "T001-00022148",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000293",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "11/02/2026",
   "hora": "16:16",
   "docu": "T001-00020264",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000264",
-  "nombre": "INVERSIONES VERCINTH SOCIEDAD ANONIMA CERRADA ",
-  "moneda": "PEN",
-  "totguia": "175",
-  "tipc": "3.4",
-  "fecha": "09/02/2026",
-  "hora": "16:48",
-  "docu": "T001-00020270",
   "via": "USER: SOFI",
   "bloquear": ""
 },
