@@ -11814,4 +11814,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "25/05/2026",
+  "fecha": "May. 25",
+  "serie": "T001",
+  "numero": "00022145",
+  "nombre": "CASTILLO DE CHAVARRIA CIRILA",
+  "moneda": "PEN",
+  "totguia": "194",
+  "acuenta": "194",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:25",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
