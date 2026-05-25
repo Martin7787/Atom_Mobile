@@ -70164,7 +70164,7 @@
   "stock": "STOCK = 0 CAJ  -2 UNI  0 UNI",
   "cant": "-2",
   "preciosol": "851.1",
-  "precio": "230.027",
+  "precio": "250.32",
   "preciount": "0.0000",
   "costosol": "720",
   "costodol": "187.01",
@@ -70175,7 +70175,7 @@
   "linea": "TETERAS",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
+  "vneg": "True",
   "via": "",
   "bloquear": "false"
 },
