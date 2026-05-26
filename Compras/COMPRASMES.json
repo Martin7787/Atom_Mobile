@@ -385,6 +385,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "09/05/2026",
+  "serie": "FAC",
+  "numero": "F001-00018861",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "PEN",
+  "totguia": "3639.83",
+  "tipc": "3.4",
+  "hora": "14:45",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "08/05/2026",
   "serie": "COT",
   "numero": "RJ00576",
