@@ -1,5 +1,27 @@
 [
 {
+  "fechacab": "25/05/2026",
+  "serie": "COT",
+  "numero": "RJ00590",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "1965",
+  "tipc": "3.4",
+  "hora": "11:24",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "25/05/2026",
+  "serie": "COT",
+  "numero": "DIA26001812",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "2199",
+  "tipc": "3.425",
+  "hora": "21:04",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "22/05/2026",
   "serie": "COT",
   "numero": "GP000763",
@@ -1405,28 +1427,6 @@
   "totguia": "18000",
   "tipc": "3.4",
   "hora": "17:40",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "25/04/2026",
-  "serie": "COT",
-  "numero": "RJ00408",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "11:47",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "25/04/2026",
-  "serie": "COT",
-  "numero": "GP000532",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "150",
-  "tipc": "3.4",
-  "hora": "11:46",
   "docu": "USER: MARTIN"
 },
 ]

@@ -11,6 +11,28 @@
   "docu": ""
 },
 {
+  "fechacab": "25/05/2026",
+  "serie": "COT",
+  "numero": "RJ00590",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "1965",
+  "tipc": "3.4",
+  "hora": "11:24",
+  "docu": ""
+},
+{
+  "fechacab": "25/05/2026",
+  "serie": "COT",
+  "numero": "DIA26001812",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "2199",
+  "tipc": "3.425",
+  "hora": "21:04",
+  "docu": ""
+},
+{
   "fechacab": "22/05/2026",
   "serie": "COT",
   "numero": "GP000763",
