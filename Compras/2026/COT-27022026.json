@@ -5,8 +5,8 @@
   "ruc": "20600814122",
   "nombre": "JOSE JIBAJA",
   "moneda": "0",
-  "totcompra": "8600",
-  "acuenta": "8600",
+  "totcompra": "8730",
+  "acuenta": "8730",
   "saldo": "0.0000",
   "tipc": "3.4",
   "obs": "",
@@ -18,8 +18,8 @@
   "cajas": "50",
   "doce": "0",
   "unidad": "0",
-  "vunit": "180.00",
-  "total": "8600",
+  "vunit": "174.60",
+  "total": "8730",
   "cant": "1800",
   "undmy": "36",
   "undmn": "1",
@@ -27,6 +27,6 @@
   "leymn": "UND",
   "lote": "ZB111",
   "grat": "1",
-  "locked": "0"
+  "locked": "No"
 },
 ]
