@@ -5,8 +5,8 @@
   "ruc": "20538347281",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "1",
-  "totcompra": "2949.97",
-  "acuenta": "2949.97",
+  "totcompra": "2950",
+  "acuenta": "2950",
   "saldo": "0.0000",
   "tipc": "3.53",
   "obs": "",
@@ -27,7 +27,7 @@
   "leymn": "UND",
   "lote": "JRECTO",
   "grat": "1",
-  "locked": "0"
+  "locked": "No"
 },
 {
   "codart": "DJ14Q",
@@ -53,7 +53,7 @@
   "doce": "0",
   "unidad": "0",
   "vunit": "23.00",
-  "total": "460",
+  "total": "460.03",
   "cant": "960",
   "undmy": "48",
   "undmn": "1",
@@ -61,6 +61,6 @@
   "leymn": "UND",
   "lote": "DJ15G",
   "grat": "1",
-  "locked": "0"
+  "locked": "No"
 },
 ]
