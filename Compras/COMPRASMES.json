@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "26/05/2026",
+  "serie": "COT",
+  "numero": "001134",
+  "nombre": "MIRIAN NINAJA",
+  "moneda": "USD",
+  "totguia": "1340",
+  "tipc": "3.43",
+  "hora": "17:44",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "25/05/2026",
   "serie": "COT",
   "numero": "RJ00590",
@@ -9,6 +20,28 @@
   "tipc": "3.4",
   "hora": "11:25",
   "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "25/05/2026",
+  "serie": "COT",
+  "numero": "HM2605250902",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "4395",
+  "tipc": "3.425",
+  "hora": "17:05",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "25/05/2026",
+  "serie": "COT",
+  "numero": "HM2605250891",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "7170",
+  "tipc": "3.425",
+  "hora": "16:59",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "25/05/2026",
@@ -390,9 +423,9 @@
   "numero": "F001-00018861",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "PEN",
-  "totguia": "3639.83",
+  "totguia": "3639.84",
   "tipc": "3.4",
-  "hora": "14:45",
+  "hora": "18:38",
   "docu": "USER: MARTIN"
 },
 {

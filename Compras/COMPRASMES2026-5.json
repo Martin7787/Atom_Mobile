@@ -11,6 +11,17 @@
   "docu": ""
 },
 {
+  "fechacab": "26/05/2026",
+  "serie": "COT",
+  "numero": "001134",
+  "nombre": "MIRIAN NINAJA",
+  "moneda": "USD",
+  "totguia": "1340",
+  "tipc": "3.43",
+  "hora": "17:44",
+  "docu": ""
+},
+{
   "fechacab": "25/05/2026",
   "serie": "COT",
   "numero": "RJ00590",
@@ -19,6 +30,28 @@
   "totguia": "1965",
   "tipc": "3.4",
   "hora": "11:25",
+  "docu": ""
+},
+{
+  "fechacab": "25/05/2026",
+  "serie": "COT",
+  "numero": "HM2605250902",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "4395",
+  "tipc": "3.425",
+  "hora": "17:05",
+  "docu": ""
+},
+{
+  "fechacab": "25/05/2026",
+  "serie": "COT",
+  "numero": "HM2605250891",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "7170",
+  "tipc": "3.425",
+  "hora": "16:59",
   "docu": ""
 },
 {
@@ -401,9 +434,9 @@
   "numero": "F001-00018861",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "PEN",
-  "totguia": "3639.83",
+  "totguia": "3639.84",
   "tipc": "3.4",
-  "hora": "14:45",
+  "hora": "18:38",
   "docu": ""
 },
 {
@@ -936,17 +969,6 @@
 },
 {
   "fechacab": "04/05/2026",
-  "serie": "FAC",
-  "numero": "FRANK04052026",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "2550",
-  "tipc": "3.4",
-  "hora": "19:53",
-  "docu": ""
-},
-{
-  "fechacab": "04/05/2026",
   "serie": "COT",
   "numero": "FRANK04052026",
   "nombre": "JOSE JIBAJA",
@@ -954,6 +976,17 @@
   "totguia": "5950",
   "tipc": "3.4",
   "hora": "15:56",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "FAC",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "2550",
+  "tipc": "3.4",
+  "hora": "19:53",
   "docu": ""
 },
 {

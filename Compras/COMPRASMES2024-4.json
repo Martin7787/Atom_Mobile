@@ -210,17 +210,6 @@
 },
 {
   "fechacab": "29/04/2024",
-  "serie": "FAC",
-  "numero": "29042024",
-  "nombre": "RONGQUIAN",
-  "moneda": "PEN",
-  "totguia": "1185",
-  "tipc": "3.73",
-  "hora": "18:42",
-  "docu": ""
-},
-{
-  "fechacab": "29/04/2024",
   "serie": "COT",
   "numero": "29042024",
   "nombre": "CLIENTES VARIOS",
@@ -228,6 +217,17 @@
   "totguia": "1500",
   "tipc": "3.73",
   "hora": "18:31",
+  "docu": ""
+},
+{
+  "fechacab": "29/04/2024",
+  "serie": "FAC",
+  "numero": "29042024",
+  "nombre": "RONGQUIAN",
+  "moneda": "PEN",
+  "totguia": "1185",
+  "tipc": "3.73",
+  "hora": "18:42",
   "docu": ""
 },
 {

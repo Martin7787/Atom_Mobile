@@ -1068,17 +1068,6 @@
 },
 {
   "fechacab": "23/04/2025",
-  "serie": "COT",
-  "numero": "DIA25001715",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "460",
-  "tipc": "3.7",
-  "hora": "18:06",
-  "docu": ""
-},
-{
-  "fechacab": "23/04/2025",
   "serie": "FAC",
   "numero": "DIA25001715",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
@@ -1086,6 +1075,17 @@
   "totguia": "460",
   "tipc": "3.7",
   "hora": "18:09",
+  "docu": ""
+},
+{
+  "fechacab": "23/04/2025",
+  "serie": "COT",
+  "numero": "DIA25001715",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "460",
+  "tipc": "3.7",
+  "hora": "18:06",
   "docu": ""
 },
 {
