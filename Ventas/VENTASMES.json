@@ -12018,4 +12018,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "27/05/2026",
+  "fecha": "May. 27",
+  "serie": "T001",
+  "numero": "00022188",
+  "nombre": "GRAMED S.A.C.",
+  "moneda": "PEN",
+  "totguia": "278",
+  "acuenta": "278",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "11:28",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
 ]
