@@ -13,6 +13,17 @@
 {
   "fechacab": "26/05/2026",
   "serie": "COT",
+  "numero": "RJ0596",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "1140",
+  "tipc": "3.4",
+  "hora": "10:41",
+  "docu": ""
+},
+{
+  "fechacab": "26/05/2026",
+  "serie": "COT",
   "numero": "001134",
   "nombre": "MIRIAN NINAJA",
   "moneda": "USD",
