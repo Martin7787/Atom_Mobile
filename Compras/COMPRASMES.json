@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "28/05/2026",
+  "serie": "COT",
+  "numero": "001409",
+  "nombre": "CRUZVAL DISTRIBUIDORA",
+  "moneda": "PEN",
+  "totguia": "3960",
+  "tipc": "3.4",
+  "hora": "17:42",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "26/05/2026",
   "serie": "COT",
   "numero": "RJ0596",
@@ -1493,39 +1504,6 @@
   "totguia": "135",
   "tipc": "3.4",
   "hora": "11:29",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/04/2026",
-  "serie": "COT",
-  "numero": "RJ00418",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "10:43",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/04/2026",
-  "serie": "COT",
-  "numero": "DIA26001476",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "3795.1",
-  "tipc": "3.474",
-  "hora": "15:32",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/04/2026",
-  "serie": "COT",
-  "numero": "27022026",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "8730",
-  "tipc": "3.4",
-  "hora": "14:54",
   "docu": "USER: MARTIN"
 },
 ]

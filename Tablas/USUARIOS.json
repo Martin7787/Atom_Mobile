@@ -16,6 +16,14 @@
   "combi": "268"
 },
 {
+  "cod": "EDITH",
+  "pass": "1234",
+  "tipo": "VENDEDOR",
+  "permisos": "1 1 1 1 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ",
+  "nombre": "EDITH LUCANO",
+  "combi": "612"
+},
+{
   "cod": "FRANK",
   "pass": "1234",
   "tipo": "ALMACEN",
@@ -54,13 +62,5 @@
   "permisos": "1 1 0 1 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ",
   "nombre": "VENTAS G.",
   "combi": "369"
-},
-{
-  "cod": "EDITH",
-  "pass": "1234",
-  "tipo": "VENDEDOR",
-  "permisos": "1 1 1 1 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ",
-  "nombre": "EDITH LUCANO",
-  "combi": "612"
 },
 ]
