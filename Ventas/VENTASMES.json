@@ -11474,4 +11474,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "29/05/2026",
+  "fecha": "May. 29",
+  "serie": "T001",
+  "numero": "00022220",
+  "nombre": "GIULIANNO OSCAR VARGAS GALLARDO",
+  "moneda": "PEN",
+  "totguia": "140",
+  "acuenta": "140",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "11:48",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
