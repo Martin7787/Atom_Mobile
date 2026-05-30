@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "30/05/2026",
+  "serie": "COT",
+  "numero": "RT002545",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "13:18",
+  "docu": "USER: "
+},
+{
   "fechacab": "29/05/2026",
   "serie": "COT",
   "numero": "MOQ00869",
@@ -217,6 +228,17 @@
   "totguia": "2199",
   "tipc": "3.425",
   "hora": "17:15",
+  "docu": ""
+},
+{
+  "fechacab": "23/05/2026",
+  "serie": "COT",
+  "numero": "GP00768",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.4",
+  "hora": "13:17",
   "docu": ""
 },
 {
