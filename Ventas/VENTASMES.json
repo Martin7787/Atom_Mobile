@@ -10998,4 +10998,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "30/05/2026",
+  "fecha": "May. 30",
+  "serie": "T001",
+  "numero": "00022237",
+  "nombre": "VELARDE RIMACHI GRACIELA",
+  "moneda": "PEN",
+  "totguia": "90",
+  "acuenta": "90",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "09:59",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
