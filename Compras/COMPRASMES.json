@@ -2,6 +2,17 @@
 {
   "fechacab": "28/05/2026",
   "serie": "COT",
+  "numero": "YH0003027",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.4",
+  "hora": "13:10",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "28/05/2026",
+  "serie": "COT",
   "numero": "001409",
   "nombre": "CRUZVAL DISTRIBUIDORA",
   "moneda": "PEN",
