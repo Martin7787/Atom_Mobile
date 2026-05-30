@@ -1014,6 +1014,17 @@
 {
   "fechacab": "04/05/2026",
   "serie": "COT",
+  "numero": "GE11649",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "232",
+  "tipc": "3.4",
+  "hora": "13:07",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
   "numero": "FRANK04052026",
   "nombre": "JOSE JIBAJA",
   "moneda": "PEN",

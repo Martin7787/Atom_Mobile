@@ -1013,14 +1013,14 @@
 },
 {
   "fechacab": "04/05/2026",
-  "serie": "FAC",
-  "numero": "FRANK04052026",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "2550",
+  "serie": "COT",
+  "numero": "GE11649",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "232",
   "tipc": "3.4",
-  "hora": "19:53",
-  "docu": "USER: DANTE"
+  "hora": "13:07",
+  "docu": "USER: MARTIN"
 },
 {
   "fechacab": "04/05/2026",
@@ -1031,6 +1031,17 @@
   "totguia": "5950",
   "tipc": "3.4",
   "hora": "15:56",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "FAC",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "2550",
+  "tipc": "3.4",
+  "hora": "19:53",
   "docu": "USER: DANTE"
 },
 {
@@ -1274,126 +1285,5 @@
   "tipc": "3.4",
   "hora": "11:34",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/04/2026",
-  "serie": "COT",
-  "numero": "RT001980",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "252",
-  "tipc": "3.4",
-  "hora": "10:44",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/04/2026",
-  "serie": "COT",
-  "numero": "RJ0443",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "11:38",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/04/2026",
-  "serie": "COT",
-  "numero": "RJ00433",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "10:43",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/04/2026",
-  "serie": "COT",
-  "numero": "RJ00430",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "10:42",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/04/2026",
-  "serie": "COT",
-  "numero": "RJ00429",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "10:42",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/04/2026",
-  "serie": "COT",
-  "numero": "NP314012",
-  "nombre": "NADIA PARIONA",
-  "moneda": "PEN",
-  "totguia": "1800",
-  "tipc": "3.4",
-  "hora": "16:55",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/04/2026",
-  "serie": "COT",
-  "numero": "HM604291313",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "3678",
-  "tipc": "3.4",
-  "hora": "14:10",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/04/2026",
-  "serie": "COT",
-  "numero": "HM604281247",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "9667.96",
-  "tipc": "3.4",
-  "hora": "17:09",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/04/2026",
-  "serie": "COT",
-  "numero": "CG001986",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "50",
-  "tipc": "3.4",
-  "hora": "10:46",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/04/2026",
-  "serie": "COT",
-  "numero": "C055310",
-  "nombre": "CREACIONES BETHEL S.A.C.",
-  "moneda": "PEN",
-  "totguia": "135",
-  "tipc": "3.4",
-  "hora": "10:41",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "29/04/2026",
-  "serie": "DUA",
-  "numero": "313974",
-  "nombre": "NADIA PARIONA",
-  "moneda": "PEN",
-  "totguia": "1800",
-  "tipc": "3.4",
-  "hora": "14:08",
-  "docu": "USER: DANTE"
 },
 ]
