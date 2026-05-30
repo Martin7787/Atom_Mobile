@@ -57,6 +57,28 @@
 {
   "fechacab": "28/05/2026",
   "serie": "COT",
+  "numero": "GP00812",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.4",
+  "hora": "13:16",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "28/05/2026",
+  "serie": "COT",
+  "numero": "GP000814",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.4",
+  "hora": "13:16",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "28/05/2026",
+  "serie": "COT",
   "numero": "001409",
   "nombre": "CRUZVAL DISTRIBUIDORA",
   "moneda": "PEN",
