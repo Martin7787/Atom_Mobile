@@ -11,6 +11,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "29/05/2026",
+  "serie": "COT",
+  "numero": "GP00825",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.4",
+  "hora": "13:14",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "28/05/2026",
   "serie": "COT",
   "numero": "YH0003027",
@@ -1101,17 +1112,6 @@
 },
 {
   "fechacab": "04/05/2026",
-  "serie": "COT",
-  "numero": "FRANK04052026",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "5950",
-  "tipc": "3.4",
-  "hora": "15:56",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "04/05/2026",
   "serie": "FAC",
   "numero": "FRANK04052026",
   "nombre": "JOSE JIBAJA",
@@ -1119,6 +1119,17 @@
   "totguia": "2550",
   "tipc": "3.4",
   "hora": "19:53",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "COT",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "5950",
+  "tipc": "3.4",
+  "hora": "15:56",
   "docu": "USER: DANTE"
 },
 {
