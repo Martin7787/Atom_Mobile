@@ -57,6 +57,17 @@
 {
   "fechacab": "26/05/2026",
   "serie": "COT",
+  "numero": "MOQ00867",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.4",
+  "hora": "13:12",
+  "docu": ""
+},
+{
+  "fechacab": "26/05/2026",
+  "serie": "COT",
   "numero": "GP000792",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
