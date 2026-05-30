@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "29/05/2026",
+  "serie": "COT",
+  "numero": "MOQ00869",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.4",
+  "hora": "13:12",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "28/05/2026",
   "serie": "COT",
   "numero": "YH0003027",
