@@ -68,6 +68,17 @@
 {
   "fechacab": "28/05/2026",
   "serie": "COT",
+  "numero": "GP00810",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "240",
+  "tipc": "3.4",
+  "hora": "13:17",
+  "docu": ""
+},
+{
+  "fechacab": "28/05/2026",
+  "serie": "COT",
   "numero": "GP000814",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
