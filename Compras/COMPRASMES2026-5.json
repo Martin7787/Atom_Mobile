@@ -134,6 +134,17 @@
 {
   "fechacab": "26/05/2026",
   "serie": "COT",
+  "numero": "NP315038",
+  "nombre": "NADIA PARIONA",
+  "moneda": "PEN",
+  "totguia": "97",
+  "tipc": "3.4",
+  "hora": "13:21",
+  "docu": ""
+},
+{
+  "fechacab": "26/05/2026",
+  "serie": "COT",
   "numero": "MOQ00867",
   "nombre": "YOHON MEZA",
   "moneda": "PEN",
@@ -1222,17 +1233,6 @@
 },
 {
   "fechacab": "04/05/2026",
-  "serie": "FAC",
-  "numero": "FRANK04052026",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "2550",
-  "tipc": "3.4",
-  "hora": "19:53",
-  "docu": ""
-},
-{
-  "fechacab": "04/05/2026",
   "serie": "COT",
   "numero": "FRANK04052026",
   "nombre": "JOSE JIBAJA",
@@ -1240,6 +1240,17 @@
   "totguia": "5950",
   "tipc": "3.4",
   "hora": "15:56",
+  "docu": ""
+},
+{
+  "fechacab": "04/05/2026",
+  "serie": "FAC",
+  "numero": "FRANK04052026",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "2550",
+  "tipc": "3.4",
+  "hora": "19:53",
   "docu": ""
 },
 {
