@@ -409,6 +409,17 @@
 {
   "fechacab": "13/05/2026",
   "serie": "COT",
+  "numero": "YH0002956",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.4",
+  "hora": "13:09",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "13/05/2026",
+  "serie": "COT",
   "numero": "RJ00588",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
