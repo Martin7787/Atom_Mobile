@@ -10420,4 +10420,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "01/06/2026",
+  "fecha": "Jun. 1",
+  "serie": "T001",
+  "numero": "00022247",
+  "nombre": "ENRIQUE BOSSIO ",
+  "moneda": "PEN",
+  "totguia": "100",
+  "acuenta": "100",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "10:28",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
