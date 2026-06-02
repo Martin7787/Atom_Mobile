@@ -9944,4 +9944,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "02/06/2026",
+  "fecha": "Jun. 2",
+  "serie": "T001",
+  "numero": "00022256",
+  "nombre": "IVAN",
+  "moneda": "PEN",
+  "totguia": "110",
+  "acuenta": "110",
+  "saldo": "0.0000",
+  "tipc": "3.4",
+  "estado": "CONTADO",
+  "hora": "09:51",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
