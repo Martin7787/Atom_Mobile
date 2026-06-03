@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "02/06/2026",
+  "serie": "COT",
+  "numero": "HM2606021301",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "4851",
+  "tipc": "3.42",
+  "hora": "15:36",
+  "docu": ""
+},
+{
   "fechacab": "01/06/2026",
   "serie": "FAC",
   "numero": "F063-00076336",
@@ -8,6 +19,17 @@
   "totguia": "1206.67",
   "tipc": "3.416",
   "hora": "13:51",
+  "docu": ""
+},
+{
+  "fechacab": "01/06/2026",
+  "serie": "COT",
+  "numero": "034665",
+  "nombre": "JOSE JIBAJA",
+  "moneda": "PEN",
+  "totguia": "4500",
+  "tipc": "3.43",
+  "hora": "18:29",
   "docu": ""
 },
 ]
