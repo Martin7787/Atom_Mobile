@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "03/06/2026",
+  "serie": "COT",
+  "numero": "NP315253",
+  "nombre": "ROSA JARRO",
+  "moneda": "USD",
+  "totguia": "26",
+  "tipc": "3.43",
+  "hora": "11:19",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "02/06/2026",
   "serie": "COT",
   "numero": "RJ000692",
