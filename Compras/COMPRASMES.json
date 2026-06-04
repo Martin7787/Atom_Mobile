@@ -123,6 +123,17 @@
 {
   "fechacab": "28/05/2026",
   "serie": "COT",
+  "numero": "RJ00657",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "225",
+  "tipc": "3.43",
+  "hora": "11:18",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "28/05/2026",
+  "serie": "COT",
   "numero": "GP00812",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
