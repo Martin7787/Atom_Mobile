@@ -9315,4 +9315,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "04/06/2026",
+  "fecha": "Jun. 4",
+  "serie": "T001",
+  "numero": "00022291",
+  "nombre": "MECH GROUP SAC",
+  "moneda": "PEN",
+  "totguia": "490",
+  "acuenta": "490",
+  "saldo": "0.0000",
+  "tipc": "3.43",
+  "estado": "CONTADO",
+  "hora": "10:56",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
