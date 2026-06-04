@@ -35,6 +35,17 @@
 {
   "fechacab": "29/05/2026",
   "serie": "COT",
+  "numero": "RJ00669",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "225",
+  "tipc": "3.43",
+  "hora": "11:11",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "29/05/2026",
+  "serie": "COT",
   "numero": "MOQ00869",
   "nombre": "YOHON MEZA",
   "moneda": "PEN",
