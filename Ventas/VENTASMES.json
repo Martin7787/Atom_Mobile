@@ -8554,6 +8554,23 @@
   "fechacab": "05/06/2026",
   "fecha": "Jun. 5",
   "serie": "T001",
+  "numero": "00022309",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "50",
+  "acuenta": "50",
+  "saldo": "0.0000",
+  "tipc": "3.43",
+  "estado": "CONTADO",
+  "hora": "13:11",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
+{
+  "fechacab": "05/06/2026",
+  "fecha": "Jun. 5",
+  "serie": "T001",
   "numero": "00022308",
   "nombre": "GARCIA HUERTAS DE DE FREITAS ZOILA ROSA",
   "moneda": "PEN",
@@ -8597,9 +8614,9 @@
   "tipc": "3.43",
   "estado": "CONTADO",
   "hora": "11:26",
-  "docu": "USER: ",
+  "docu": "USER: EDITH",
   "bloquear": "",
-  "user": ""
+  "user": "EDITH"
 },
 {
   "fechacab": "05/06/2026",
