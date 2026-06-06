@@ -75356,7 +75356,7 @@
   "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
   "cant": "0",
   "preciosol": "73",
-  "precio": "21.47",
+  "precio": "21.28",
   "preciount": "0.0000",
   "costosol": "56.84",
   "costodol": "16.72",
@@ -75367,7 +75367,7 @@
   "linea": "PLATO",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
+  "vneg": "True",
   "via": "",
   "bloquear": "false"
 },
