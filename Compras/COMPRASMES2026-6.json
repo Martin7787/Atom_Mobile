@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "06/06/2026",
+  "serie": "INV",
+  "numero": "06062026",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "1883.5",
+  "tipc": "3.43",
+  "hora": "16:48",
+  "docu": ""
+},
+{
   "fechacab": "04/06/2026",
   "serie": "COT",
   "numero": "RJ00702",
