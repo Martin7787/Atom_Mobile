@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "04/06/2026",
+  "serie": "COT",
+  "numero": "GP000862",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "390",
+  "tipc": "3.43",
+  "hora": "10:46",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "03/06/2026",
   "serie": "COT",
   "numero": "NP315253",
@@ -764,10 +775,10 @@
   "numero": "F001-00018861",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "PEN",
-  "totguia": "3639.84",
+  "totguia": "3488.66",
   "tipc": "3.4",
-  "hora": "18:38",
-  "docu": "USER: MARTIN"
+  "hora": "19:31",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "08/05/2026",
@@ -921,270 +932,6 @@
   "totguia": "2200",
   "tipc": "3.4",
   "hora": "17:41",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "06/05/2026",
-  "serie": "COT",
-  "numero": "RT002319",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.4",
-  "hora": "10:34",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "06/05/2026",
-  "serie": "COT",
-  "numero": "RT002281",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "504",
-  "tipc": "3.4",
-  "hora": "10:33",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "06/05/2026",
-  "serie": "COT",
-  "numero": "RJ00476",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "1420",
-  "tipc": "3.4",
-  "hora": "11:44",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "06/05/2026",
-  "serie": "COT",
-  "numero": "NP314340",
-  "nombre": "NADIA PARIONA",
-  "moneda": "USD",
-  "totguia": "36",
-  "tipc": "3.4",
-  "hora": "10:09",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "06/05/2026",
-  "serie": "COT",
-  "numero": "MOQ00858",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "172",
-  "tipc": "3.4",
-  "hora": "12:39",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "06/05/2026",
-  "serie": "COT",
-  "numero": "HM2605070241",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "6997.2",
-  "tipc": "3.4",
-  "hora": "17:31",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "06/05/2026",
-  "serie": "COT",
-  "numero": "GP000644",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "200",
-  "tipc": "3.4",
-  "hora": "12:38",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "06/05/2026",
-  "serie": "COT",
-  "numero": "F063-00075239",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "0.16",
-  "tipc": "3.4",
-  "hora": "22:18",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "06/05/2026",
-  "serie": "COT",
-  "numero": "DIA26001619",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "1218",
-  "tipc": "3.485",
-  "hora": "18:23",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "06/05/2026",
-  "serie": "COT",
-  "numero": "CG002193",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "100",
-  "tipc": "3.4",
-  "hora": "12:42",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "06/05/2026",
-  "serie": "COT",
-  "numero": "CG002179",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "150",
-  "tipc": "3.4",
-  "hora": "12:42",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "06/05/2026",
-  "serie": "COT",
-  "numero": "C055405",
-  "nombre": "CREACIONES BETHEL S.A.C.",
-  "moneda": "PEN",
-  "totguia": "135",
-  "tipc": "3.4",
-  "hora": "10:46",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/05/2026",
-  "serie": "COT",
-  "numero": "YH0002910",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "324",
-  "tipc": "3.4",
-  "hora": "10:48",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/05/2026",
-  "serie": "COT",
-  "numero": "YCHI260500834",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "6508.83",
-  "tipc": "3.466",
-  "hora": "18:48",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "05/05/2026",
-  "serie": "COT",
-  "numero": "YCHI260500833",
-  "nombre": "UNION YCHICAWA S.A",
-  "moneda": "USD",
-  "totguia": "525.09",
-  "tipc": "3.466",
-  "hora": "22:22",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "05/05/2026",
-  "serie": "COT",
-  "numero": "RJ00529",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "1070",
-  "tipc": "3.4",
-  "hora": "10:32",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/05/2026",
-  "serie": "COT",
-  "numero": "RJ00521",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "380",
-  "tipc": "3.4",
-  "hora": "10:46",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/05/2026",
-  "serie": "COT",
-  "numero": "RJ00511",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "10:45",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/05/2026",
-  "serie": "COT",
-  "numero": "RJ00509",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "880",
-  "tipc": "3.4",
-  "hora": "10:47",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/05/2026",
-  "serie": "COT",
-  "numero": "GP00630",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "150",
-  "tipc": "3.4",
-  "hora": "12:39",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/05/2026",
-  "serie": "COT",
-  "numero": "DIA26001564",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "559.01",
-  "tipc": "3.53",
-  "hora": "16:09",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/05/2026",
-  "serie": "COT",
-  "numero": "CG002152",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "50",
-  "tipc": "3.4",
-  "hora": "10:50",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/05/2026",
-  "serie": "COT",
-  "numero": "CG002131",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "100",
-  "tipc": "3.4",
-  "hora": "10:49",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "05/05/2026",
-  "serie": "COT",
-  "numero": "C055382",
-  "nombre": "CREACIONES BETHEL S.A.C.",
-  "moneda": "PEN",
-  "totguia": "135",
-  "tipc": "3.4",
-  "hora": "10:42",
   "docu": "USER: MARTIN"
 },
 ]
