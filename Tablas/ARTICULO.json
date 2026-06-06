@@ -38770,7 +38770,7 @@
   "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
   "cant": "0",
   "preciosol": "200",
-  "precio": "58.82",
+  "precio": "58.31",
   "preciount": "0.0000",
   "costosol": "163.2",
   "costodol": "48",
@@ -38781,7 +38781,7 @@
   "linea": "VIDRIO",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
+  "vneg": "True",
   "via": "",
   "bloquear": "false"
 },
