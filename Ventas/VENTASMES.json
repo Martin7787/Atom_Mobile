@@ -7037,4 +7037,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "08/06/2026",
+  "fecha": "Jun. 8",
+  "serie": "T001",
+  "numero": "00022334",
+  "nombre": "YULISA MARILI CARRION SANCHEZ",
+  "moneda": "PEN",
+  "totguia": "890",
+  "acuenta": "890",
+  "saldo": "0.0000",
+  "tipc": "3.43",
+  "estado": "CONTADO",
+  "hora": "10:46",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
 ]
