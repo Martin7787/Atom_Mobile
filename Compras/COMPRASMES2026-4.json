@@ -497,6 +497,17 @@
 {
   "fechacab": "24/04/2026",
   "serie": "COT",
+  "numero": "MOQ00852",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "776",
+  "tipc": "3.43",
+  "hora": "11:03",
+  "docu": ""
+},
+{
+  "fechacab": "24/04/2026",
+  "serie": "COT",
   "numero": "MOQ000522",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
