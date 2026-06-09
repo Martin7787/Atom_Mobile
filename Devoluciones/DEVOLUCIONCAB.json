@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000296",
+  "nombre": "YULISA MARILI CARRION SANCHEZ",
+  "moneda": "PEN",
+  "totguia": "165",
+  "tipc": "3.43",
+  "fecha": "09/06/2026",
+  "hora": "11:41",
+  "docu": "T001-00022334",
+  "via": "USER: MARTIN",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000295",
   "nombre": "PATRICIA SILVIA DEL SOCORRO RODRIGUEZ KUAN",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "18/02/2026",
   "hora": "13:04",
   "docu": "T001-00020042",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000266",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "126",
-  "tipc": "3.4",
-  "fecha": "12/02/2026",
-  "hora": "15:59",
-  "docu": "T001-00020159",
   "via": "USER: SOFI",
   "bloquear": ""
 },
