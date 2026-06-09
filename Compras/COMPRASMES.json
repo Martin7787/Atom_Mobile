@@ -90,6 +90,17 @@
 {
   "fechacab": "06/06/2026",
   "serie": "COT",
+  "numero": "NP315354",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "26",
+  "tipc": "3.43",
+  "hora": "11:23",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/06/2026",
+  "serie": "COT",
   "numero": "GE12129",
   "nombre": "GOLDEN ELECTRONIC S.A.C.",
   "moneda": "USD",
