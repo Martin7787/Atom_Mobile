@@ -11358,7 +11358,7 @@
   "stock": "STOCK = 1 CAJ  0 UNI  0 UNI",
   "cant": "12",
   "preciosol": "45",
-  "precio": "12.1622",
+  "precio": "13.12",
   "preciount": "0.0000",
   "costosol": "32.61",
   "costodol": "9.42",
@@ -11369,7 +11369,7 @@
   "linea": "YCHI",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
+  "vneg": "True",
   "via": "",
   "bloquear": "false"
 },
