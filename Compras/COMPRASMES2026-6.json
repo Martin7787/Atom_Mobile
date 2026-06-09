@@ -13,6 +13,17 @@
 {
   "fechacab": "08/06/2026",
   "serie": "COT",
+  "numero": "RJ00738",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "840",
+  "tipc": "3.43",
+  "hora": "11:21",
+  "docu": ""
+},
+{
+  "fechacab": "08/06/2026",
+  "serie": "COT",
   "numero": "HM2606060276",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
