@@ -7122,4 +7122,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "09/06/2026",
+  "fecha": "Jun. 9",
+  "serie": "T001",
+  "numero": "00022351",
+  "nombre": "FILOMENO VERGARA VILCA",
+  "moneda": "PEN",
+  "totguia": "1477",
+  "acuenta": "1477",
+  "saldo": "0.0000",
+  "tipc": "3.43",
+  "estado": "CONTADO",
+  "hora": "10:49",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
