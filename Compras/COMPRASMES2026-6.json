@@ -11,6 +11,72 @@
   "docu": ""
 },
 {
+  "fechacab": "08/06/2026",
+  "serie": "COT",
+  "numero": "HM2606060276",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "6816.6",
+  "tipc": "3.43",
+  "hora": "17:42",
+  "docu": ""
+},
+{
+  "fechacab": "08/06/2026",
+  "serie": "COT",
+  "numero": "HM2606060249",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "10781",
+  "tipc": "3.43",
+  "hora": "17:38",
+  "docu": ""
+},
+{
+  "fechacab": "08/06/2026",
+  "serie": "COT",
+  "numero": "DIA26001922",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1810",
+  "tipc": "3.43",
+  "hora": "18:03",
+  "docu": ""
+},
+{
+  "fechacab": "08/06/2026",
+  "serie": "COT",
+  "numero": "DIA26001920",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "265.8",
+  "tipc": "3.427",
+  "hora": "18:06",
+  "docu": ""
+},
+{
+  "fechacab": "08/06/2026",
+  "serie": "COT",
+  "numero": "DIA26001918",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "525.2",
+  "tipc": "3.427",
+  "hora": "18:42",
+  "docu": ""
+},
+{
+  "fechacab": "06/06/2026",
+  "serie": "COT",
+  "numero": "RJ00733",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.43",
+  "hora": "11:21",
+  "docu": ""
+},
+{
   "fechacab": "06/06/2026",
   "serie": "COT",
   "numero": "GE12129",
@@ -19,6 +85,17 @@
   "totguia": "120",
   "tipc": "3.43",
   "hora": "11:14",
+  "docu": ""
+},
+{
+  "fechacab": "05/06/2026",
+  "serie": "FAC",
+  "numero": "DIA26001913",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "2100",
+  "tipc": "3.427",
+  "hora": "17:44",
   "docu": ""
 },
 {

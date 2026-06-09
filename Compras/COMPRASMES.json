@@ -1,5 +1,82 @@
 [
 {
+  "fechacab": "09/06/2026",
+  "serie": "COT",
+  "numero": "CP31792",
+  "nombre": "CASA PORCELANA",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.43",
+  "hora": "10:50",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "08/06/2026",
+  "serie": "COT",
+  "numero": "HM2606060276",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "6816.6",
+  "tipc": "3.43",
+  "hora": "17:42",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "08/06/2026",
+  "serie": "COT",
+  "numero": "HM2606060249",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "10781",
+  "tipc": "3.43",
+  "hora": "17:38",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "08/06/2026",
+  "serie": "COT",
+  "numero": "DIA26001922",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1810",
+  "tipc": "3.43",
+  "hora": "18:03",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "08/06/2026",
+  "serie": "COT",
+  "numero": "DIA26001920",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "265.8",
+  "tipc": "3.427",
+  "hora": "18:06",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "08/06/2026",
+  "serie": "COT",
+  "numero": "DIA26001918",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "525.2",
+  "tipc": "3.427",
+  "hora": "18:42",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "06/06/2026",
+  "serie": "COT",
+  "numero": "RJ00733",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.43",
+  "hora": "11:21",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "06/06/2026",
   "serie": "COT",
   "numero": "GE12129",
@@ -9,6 +86,17 @@
   "tipc": "3.43",
   "hora": "11:14",
   "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "05/06/2026",
+  "serie": "FAC",
+  "numero": "DIA26001913",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "2100",
+  "tipc": "3.427",
+  "hora": "17:44",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "04/06/2026",
@@ -812,27 +900,5 @@
   "tipc": "3.4",
   "hora": "14:35",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "09/05/2026",
-  "serie": "FAC",
-  "numero": "F002-00002663",
-  "nombre": "CRISTIAN BURGA",
-  "moneda": "PEN",
-  "totguia": "2416.4",
-  "tipc": "3.4",
-  "hora": "14:34",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "09/05/2026",
-  "serie": "FAC",
-  "numero": "F001-00018861",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "PEN",
-  "totguia": "3488.66",
-  "tipc": "3.4",
-  "hora": "19:31",
-  "docu": "USER: DANTE"
 },
 ]
