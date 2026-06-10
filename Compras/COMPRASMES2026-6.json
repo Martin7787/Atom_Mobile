@@ -232,6 +232,17 @@
 },
 {
   "fechacab": "01/06/2026",
+  "serie": "COT",
+  "numero": "MOQ00871",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "324",
+  "tipc": "3.43",
+  "hora": "09:59",
+  "docu": ""
+},
+{
+  "fechacab": "01/06/2026",
   "serie": "FAC",
   "numero": "F063-00076336",
   "nombre": "UNION YCHICAWA S.A",
