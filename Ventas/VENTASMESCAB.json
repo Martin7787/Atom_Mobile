@@ -125,8 +125,13 @@
   "fechacab": "Jun. 8"
 },
 {
-  "dia": "Hoy",
+  "dia": "Mar.",
   "fecha": "09/06/2026",
   "fechacab": "Jun. 9"
+},
+{
+  "dia": "Hoy",
+  "fecha": "10/06/2026",
+  "fechacab": "Jun. 10"
 },
 ]
