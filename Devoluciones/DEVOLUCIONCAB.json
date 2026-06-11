@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000298",
+  "nombre": "COMERCIALIZADORA CASTAÑEDA S.A.C.",
+  "moneda": "PEN",
+  "totguia": "220",
+  "tipc": "3.43",
+  "fecha": "11/06/2026",
+  "hora": "18:03",
+  "docu": "T001-00020883",
+  "via": "USER: MARTIN",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000297",
   "nombre": "COMERCIALIZADORA CASTAÑEDA S.A.C.",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "14/03/2026",
   "hora": "15:56",
   "docu": "T001-00020704",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000268",
-  "nombre": "SAYAN IMPORTACIONES SOCIEDAD ANONIMA CERRADA",
-  "moneda": "PEN",
-  "totguia": "95",
-  "tipc": "3.4",
-  "fecha": "10/03/2026",
-  "hora": "11:32",
-  "docu": "T001-00020409",
   "via": "USER: SOFI",
   "bloquear": ""
 },
