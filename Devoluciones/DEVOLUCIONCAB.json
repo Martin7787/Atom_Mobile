@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000297",
+  "nombre": "COMERCIALIZADORA CASTAÑEDA S.A.C.",
+  "moneda": "PEN",
+  "totguia": "220",
+  "tipc": "3.43",
+  "fecha": "11/06/2026",
+  "hora": "17:51",
+  "docu": "T001-00020883",
+  "via": "USER: MARTIN",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000296",
   "nombre": "YULISA MARILI CARRION SANCHEZ",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "10/03/2026",
   "hora": "11:32",
   "docu": "T001-00020409",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000267",
-  "nombre": "HERLY SOLEDAD TRINIDAD MARCELO",
-  "moneda": "PEN",
-  "totguia": "715",
-  "tipc": "3.4",
-  "fecha": "18/02/2026",
-  "hora": "13:04",
-  "docu": "T001-00020042",
   "via": "USER: SOFI",
   "bloquear": ""
 },
