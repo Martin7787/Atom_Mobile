@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "10/06/2026",
+  "serie": "COT",
+  "numero": "GP000900",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.43",
+  "hora": "10:49",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "09/06/2026",
   "serie": "COT",
   "numero": "CP31792",
