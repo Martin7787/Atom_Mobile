@@ -1,14 +1,14 @@
 [
 {
   "serie": "T001",
-  "numero": "00000297",
+  "numero": "00000298",
   "nombre": "COMERCIALIZADORA CASTAÑEDA S.A.C.",
   "moneda": "PEN",
-  "totguia": "220",
+  "totguia": "192",
   "tipc": "3.43",
   "fecha": "11/06/2026",
-  "hora": "17:51",
-  "docu": "T001-00020883",
+  "hora": "17:52",
+  "docu": "T001-00020882",
   "via": "USER: MARTIN",
   "bloquear": ""
 },
