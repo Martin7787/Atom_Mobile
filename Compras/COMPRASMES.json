@@ -112,6 +112,17 @@
 {
   "fechacab": "09/06/2026",
   "serie": "COT",
+  "numero": "DIA26001932",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1728",
+  "tipc": "3.405",
+  "hora": "17:25",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "09/06/2026",
+  "serie": "COT",
   "numero": "CP31792",
   "nombre": "CASA PORCELANA",
   "moneda": "PEN",
@@ -189,6 +200,17 @@
 {
   "fechacab": "06/06/2026",
   "serie": "COT",
+  "numero": "YH0003057",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.43",
+  "hora": "10:29",
+  "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/06/2026",
+  "serie": "COT",
   "numero": "RJ00733",
   "nombre": "ROSA JARRO",
   "moneda": "PEN",
@@ -218,6 +240,17 @@
   "tipc": "3.43",
   "hora": "11:14",
   "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "06/06/2026",
+  "serie": "COT",
+  "numero": "DD26050001433",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "3171.4",
+  "tipc": "3.41",
+  "hora": "21:01",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "06/06/2026",
@@ -1053,39 +1086,6 @@
   "totguia": "320",
   "tipc": "3.4",
   "hora": "10:35",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/05/2026",
-  "serie": "COT",
-  "numero": "RJ00539",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "3290",
-  "tipc": "3.4",
-  "hora": "13:32",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/05/2026",
-  "serie": "COT",
-  "numero": "INCA001910",
-  "nombre": "ESTABLECIMIENTOS INCA S.AC",
-  "moneda": "USD",
-  "totguia": "7440.34",
-  "tipc": "3.4",
-  "hora": "13:01",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "12/05/2026",
-  "serie": "OTR",
-  "numero": "AJU12052026",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "0.0000",
-  "tipc": "3.4",
-  "hora": "14:35",
   "docu": "USER: MARTIN"
 },
 ]
