@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000300",
+  "nombre": "MERCEDES",
+  "moneda": "PEN",
+  "totguia": "120",
+  "tipc": "3.43",
+  "fecha": "11/06/2026",
+  "hora": "20:02",
+  "docu": "T001-00021854",
+  "via": "USER: EDITH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000299",
   "nombre": "COMERCIALIZADORA CASTAÑEDA S.A.C.",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "23/03/2026",
   "hora": "18:26",
   "docu": "T001-00020790",
-  "via": "USER: LIZETH",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000270",
-  "nombre": "HUANCARI JAYO EUFEMIA",
-  "moneda": "PEN",
-  "totguia": "198",
-  "tipc": "3.4",
-  "fecha": "17/03/2026",
-  "hora": "19:28",
-  "docu": "T001-00020725",
   "via": "USER: LIZETH",
   "bloquear": ""
 },
