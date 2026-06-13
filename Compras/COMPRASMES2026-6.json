@@ -22,6 +22,17 @@
   "docu": ""
 },
 {
+  "fechacab": "11/06/2026",
+  "serie": "FAC",
+  "numero": "F003-00029751",
+  "nombre": "ESTABLECIMIENTOS INCA S.AC",
+  "moneda": "USD",
+  "totguia": "3322.24",
+  "tipc": "3.389",
+  "hora": "15:27",
+  "docu": ""
+},
+{
   "fechacab": "10/06/2026",
   "serie": "COT",
   "numero": "RT002733",
@@ -302,9 +313,9 @@
   "numero": "DD26050001433",
   "nombre": "DOU DOU",
   "moneda": "PEN",
-  "totguia": "3171.4",
+  "totguia": "2733.32",
   "tipc": "3.41",
-  "hora": "21:01",
+  "hora": "16:44",
   "docu": ""
 },
 {

@@ -11,6 +11,17 @@
   "docu": "USER: MARTIN"
 },
 {
+  "fechacab": "11/06/2026",
+  "serie": "FAC",
+  "numero": "F003-00029751",
+  "nombre": "ESTABLECIMIENTOS INCA S.AC",
+  "moneda": "USD",
+  "totguia": "3322.24",
+  "tipc": "3.389",
+  "hora": "15:27",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "10/06/2026",
   "serie": "COT",
   "numero": "RT002733",
@@ -291,9 +302,9 @@
   "numero": "DD26050001433",
   "nombre": "DOU DOU",
   "moneda": "PEN",
-  "totguia": "3171.4",
+  "totguia": "2733.32",
   "tipc": "3.41",
-  "hora": "21:01",
+  "hora": "16:44",
   "docu": "USER: DANTE"
 },
 {
@@ -1097,39 +1108,6 @@
   "totguia": "190",
   "tipc": "3.4",
   "hora": "10:31",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "13/05/2026",
-  "serie": "COT",
-  "numero": "YH0002956",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "260",
-  "tipc": "3.4",
-  "hora": "13:09",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "13/05/2026",
-  "serie": "COT",
-  "numero": "RJ00588",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "230",
-  "tipc": "3.4",
-  "hora": "18:27",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "13/05/2026",
-  "serie": "COT",
-  "numero": "MOQ00860",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "320",
-  "tipc": "3.4",
-  "hora": "10:35",
   "docu": "USER: MARTIN"
 },
 ]
