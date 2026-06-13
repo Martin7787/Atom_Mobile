@@ -398,6 +398,17 @@
 {
   "fechacab": "03/06/2026",
   "serie": "COT",
+  "numero": "YCHI260600855",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "PEN",
+  "totguia": "13229.88",
+  "tipc": "3.43",
+  "hora": "18:19",
+  "docu": ""
+},
+{
+  "fechacab": "03/06/2026",
+  "serie": "COT",
   "numero": "NP315253",
   "nombre": "ROSA JARRO",
   "moneda": "USD",
