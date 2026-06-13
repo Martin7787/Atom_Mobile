@@ -22182,7 +22182,7 @@
   "stock": "STOCK = -5 CAJ  -1 SET  0 UNI",
   "cant": "-41",
   "preciosol": "78",
-  "precio": "21.08",
+  "precio": "22.74",
   "preciount": "0.0000",
   "costosol": "58.83",
   "costodol": "15.9",
@@ -22193,7 +22193,7 @@
   "linea": "VASOS",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
+  "vneg": "True",
   "via": "",
   "bloquear": "false"
 },
