@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "15/06/2026",
+  "serie": "COT",
+  "numero": "RT002421",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "600",
+  "tipc": "3.43",
+  "hora": "11:22",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "12/06/2026",
   "serie": "COT",
   "numero": "GE12188",
@@ -389,11 +400,11 @@
   "serie": "COT",
   "numero": "YCHI260600855",
   "nombre": "UNION YCHICAWA S.A",
-  "moneda": "PEN",
+  "moneda": "USD",
   "totguia": "13229.88",
-  "tipc": "3.43",
-  "hora": "18:19",
-  "docu": "USER: MARTIN"
+  "tipc": "3.41",
+  "hora": "18:52",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "03/06/2026",
@@ -1009,127 +1020,6 @@
   "totguia": "840",
   "tipc": "3.4",
   "hora": "15:37",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/05/2026",
-  "serie": "COT",
-  "numero": "YH0002969",
-  "nombre": "YOHON MEZA",
-  "moneda": "PEN",
-  "totguia": "780",
-  "tipc": "3.4",
-  "hora": "10:36",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/05/2026",
-  "serie": "COT",
-  "numero": "RT002430",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "612",
-  "tipc": "3.4",
-  "hora": "10:53",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/05/2026",
-  "serie": "COT",
-  "numero": "RT0023423",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "160",
-  "tipc": "3.4",
-  "hora": "10:34",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/05/2026",
-  "serie": "COT",
-  "numero": "RJ00601",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "1300",
-  "tipc": "3.4",
-  "hora": "12:00",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/05/2026",
-  "serie": "COT",
-  "numero": "RJ00553",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "1330",
-  "tipc": "3.4",
-  "hora": "16:46",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/05/2026",
-  "serie": "COT",
-  "numero": "MOQ00862",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "320",
-  "tipc": "3.4",
-  "hora": "10:32",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "15/05/2026",
-  "serie": "COT",
-  "numero": "GP000701",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "90",
-  "tipc": "3.4",
-  "hora": "10:55",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "14/05/2026",
-  "serie": "COT",
-  "numero": "RJ00596",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "230",
-  "tipc": "3.4",
-  "hora": "10:34",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "14/05/2026",
-  "serie": "COT",
-  "numero": "RJ00592",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "380",
-  "tipc": "3.4",
-  "hora": "10:33",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "14/05/2026",
-  "serie": "COT",
-  "numero": "RJ00548",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "2760",
-  "tipc": "3.4",
-  "hora": "11:16",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "14/05/2026",
-  "serie": "COT",
-  "numero": "MOQ000861",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.4",
-  "hora": "10:31",
   "docu": "USER: MARTIN"
 },
 ]
