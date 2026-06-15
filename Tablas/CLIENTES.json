@@ -87490,6 +87490,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "JEANPOL",
+  "ruc": "44204980",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "15/06/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "MARIA HUAMANI",
   "ruc": "44205634",
   "direccion": "LIMA",
