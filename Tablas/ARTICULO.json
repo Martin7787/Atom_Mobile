@@ -18197,8 +18197,8 @@
   "codart": "BOL7WB-SUNDA",
   "descripcion": "BOLO 7\" BLANCO C/BORDE SUNDA 23732 (CAJA X  40 UND)",
   "fecha": "05/03/2026",
-  "stock": "STOCK = 25 CAJ  0 UNI  0 UNI",
-  "cant": "1000",
+  "stock": "STOCK = 24 CAJ  0 UNI  0 UNI",
+  "cant": "960",
   "preciosol": "120",
   "precio": "35.29",
   "preciount": "0.0000",
@@ -51305,7 +51305,7 @@
 },
 {
   "codart": "PLT11W-SUNDA",
-  "descripcion": "PLATO 11\" SEMICUADRADO HOTELERO (CAJA X  36 UND)",
+  "descripcion": "PLATO 11\" SEMICUADRADO HOTELERO SD (CAJA X  36 UND)",
   "fecha": "05/07/2025",
   "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
   "cant": "0",
@@ -52097,7 +52097,7 @@
 },
 {
   "codart": "PLT7RW-96-SUNDA",
-  "descripcion": "PLATO 7\" REDONDO BLANCO (CAJA X  8 DOC)",
+  "descripcion": "PLATO 7\" REDONDO BLANCO SD (CAJA X  8 DOC)",
   "fecha": "11/03/2025",
   "stock": "STOCK = 5 CAJ  2 DOC  0 UNI",
   "cant": "504",
@@ -52383,7 +52383,7 @@
 },
 {
   "codart": "PLT8CW-SUNDA",
-  "descripcion": "PLATO 8\" CUADRADO BLANCO (CAJA X  72 UND)",
+  "descripcion": "PLATO 8\" CUADRADO BLANCO SD05923 (CAJA X  72 UND)",
   "fecha": "12/05/2025",
   "stock": "STOCK = 1 CAJ  0 UNI  0 UNI",
   "cant": "72",
