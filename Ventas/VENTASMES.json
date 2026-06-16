@@ -7309,4 +7309,21 @@
   "bloquear": "",
   "user": ""
 },
+{
+  "fechacab": "16/06/2026",
+  "fecha": "Jun. 16",
+  "serie": "T001",
+  "numero": "00022455",
+  "nombre": "TAPIA FERNANDEZ WILLIAM FABIAN",
+  "moneda": "PEN",
+  "totguia": "85",
+  "acuenta": "85",
+  "saldo": "0.0000",
+  "tipc": "3.43",
+  "estado": "CONTADO",
+  "hora": "09:58",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
