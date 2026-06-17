@@ -1,5 +1,38 @@
 [
 {
+  "fechacab": "16/06/2026",
+  "serie": "COT",
+  "numero": "T100-00076734",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "0.07",
+  "tipc": "3.43",
+  "hora": "14:50",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "16/06/2026",
+  "serie": "COT",
+  "numero": "HM2606140113",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "3522.6",
+  "tipc": "3.4",
+  "hora": "16:47",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "16/06/2026",
+  "serie": "COT",
+  "numero": "HM2606140110",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "11475.31",
+  "tipc": "3.4",
+  "hora": "16:43",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "15/06/2026",
   "serie": "COT",
   "numero": "RT002421",
@@ -9,6 +42,17 @@
   "tipc": "3.43",
   "hora": "11:22",
   "docu": "USER: MARTIN"
+},
+{
+  "fechacab": "15/06/2026",
+  "serie": "FAC",
+  "numero": "F001-15174",
+  "nombre": "IMPORTACIONES CHILDREN TOYS E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "4500",
+  "tipc": "3.4",
+  "hora": "16:59",
+  "docu": "USER: DANTE"
 },
 {
   "fechacab": "12/06/2026",
@@ -403,7 +447,7 @@
   "moneda": "USD",
   "totguia": "13229.88",
   "tipc": "3.41",
-  "hora": "18:52",
+  "hora": "14:51",
   "docu": "USER: DANTE"
 },
 {
@@ -1009,17 +1053,6 @@
   "totguia": "87",
   "tipc": "3.4",
   "hora": "12:04",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "16/05/2026",
-  "serie": "COT",
-  "numero": "DIA26001737",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "840",
-  "tipc": "3.4",
-  "hora": "15:37",
   "docu": "USER: MARTIN"
 },
 ]
