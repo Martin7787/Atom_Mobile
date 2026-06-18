@@ -7331,17 +7331,17 @@
   "fecha": "Jun. 16",
   "serie": "T001",
   "numero": "00022465",
-  "nombre": "PAMELA MENDOZA RONDINEL",
+  "nombre": "ANULADO",
   "moneda": "PEN",
-  "totguia": "740",
-  "acuenta": "740",
+  "totguia": "0.0000",
+  "acuenta": "0.0000",
   "saldo": "0.0000",
   "tipc": "3.43",
   "estado": "CONTADO",
   "hora": "12:49",
-  "docu": "USER: LIZETH",
+  "docu": "USER: MARTIN",
   "bloquear": "",
-  "user": "LIZETH"
+  "user": "MARTIN"
 },
 {
   "fechacab": "16/06/2026",
