@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "17/06/2026",
+  "serie": "COT",
+  "numero": "GP000950",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.43",
+  "hora": "11:17",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "16/06/2026",
   "serie": "COT",
   "numero": "YH0003094",
@@ -1086,50 +1097,6 @@
   "totguia": "1382.25",
   "tipc": "3.45",
   "hora": "13:18",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/05/2026",
-  "serie": "COT",
-  "numero": "MOQ00848",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "320",
-  "tipc": "3.43",
-  "hora": "10:53",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/05/2026",
-  "serie": "COT",
-  "numero": "INCA002076",
-  "nombre": "ESTABLECIMIENTOS INCA S.AC",
-  "moneda": "USD",
-  "totguia": "2852.25",
-  "tipc": "3.45",
-  "hora": "15:36",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "18/05/2026",
-  "serie": "COT",
-  "numero": "HM14052026",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "15586.3",
-  "tipc": "3.4",
-  "hora": "14:24",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "18/05/2026",
-  "serie": "COT",
-  "numero": "CG002408",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "87",
-  "tipc": "3.4",
-  "hora": "12:04",
   "docu": "USER: MARTIN"
 },
 ]
