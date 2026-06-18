@@ -64168,6 +64168,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MOLA 22 S.A.C.",
+  "ruc": "20613034961",
+  "direccion": "JR. GENERAL FELIPE VARELA URB. BREÑA N° 760 INT. 201 LT. DP. MZ. KM. LIMA LIMA BREÑA",
+  "tipo": "0",
+  "fecha": "18/06/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "POLLERIA Y RESTAURANT SOLANO EIRL",
   "ruc": "20613048503",
   "direccion": "COMAS",
