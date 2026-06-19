@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000301",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.43",
+  "fecha": "19/06/2026",
+  "hora": "12:33",
+  "docu": "T001-00022506",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000300",
   "nombre": "MERCEDES",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "12:15",
   "docu": "T001-00019651",
   "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000271",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "84",
-  "tipc": "3.4",
-  "fecha": "23/03/2026",
-  "hora": "18:26",
-  "docu": "T001-00020790",
-  "via": "USER: LIZETH",
   "bloquear": ""
 },
 ]
