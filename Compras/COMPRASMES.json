@@ -1,5 +1,60 @@
 [
 {
+  "fechacab": "19/06/2026",
+  "serie": "COT",
+  "numero": "DIA26002036",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "2060",
+  "tipc": "3.4",
+  "hora": "20:43",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "19/06/2026",
+  "serie": "COT",
+  "numero": "DD26050001561",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "1740",
+  "tipc": "3.43",
+  "hora": "18:49",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "19/06/2026",
+  "serie": "COT",
+  "numero": "DD26050001514",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "1440",
+  "tipc": "3.43",
+  "hora": "18:14",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "19/06/2026",
+  "serie": "COT",
+  "numero": "DD26050001513",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "774",
+  "tipc": "3.43",
+  "hora": "18:43",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "19/06/2026",
+  "serie": "COT",
+  "numero": "DD26050001492",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "505.12",
+  "tipc": "3.43",
+  "hora": "17:49",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "17/06/2026",
   "serie": "COT",
   "numero": "GP000950",
@@ -955,148 +1010,5 @@
   "tipc": "3.44",
   "hora": "18:39",
   "docu": "USER: DANTE"
-},
-{
-  "fechacab": "20/05/2026",
-  "serie": "COT",
-  "numero": "RJ00564",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "1520",
-  "tipc": "3.4",
-  "hora": "19:48",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "20/05/2026",
-  "serie": "COT",
-  "numero": "MOQ00865",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "100",
-  "tipc": "3.43",
-  "hora": "11:23",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "20/05/2026",
-  "serie": "COT",
-  "numero": "FT000698",
-  "nombre": "FORTUNATO MALLQUI NIETO",
-  "moneda": "PEN",
-  "totguia": "2200",
-  "tipc": "3.4",
-  "hora": "13:13",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "20/05/2026",
-  "serie": "COT",
-  "numero": "CG002480",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "108",
-  "tipc": "3.4",
-  "hora": "10:54",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/05/2026",
-  "serie": "COT",
-  "numero": "RT002483",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "252",
-  "tipc": "3.4",
-  "hora": "10:32",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/05/2026",
-  "serie": "COT",
-  "numero": "RT002475",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "252",
-  "tipc": "3.4",
-  "hora": "10:33",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/05/2026",
-  "serie": "COT",
-  "numero": "RJ00610",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "580",
-  "tipc": "3.4",
-  "hora": "12:01",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/05/2026",
-  "serie": "COT",
-  "numero": "MOQ00864",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "190",
-  "tipc": "3.43",
-  "hora": "10:00",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/05/2026",
-  "serie": "COT",
-  "numero": "MOQ00863",
-  "nombre": "MOQUEQUE",
-  "moneda": "PEN",
-  "totguia": "480",
-  "tipc": "3.4",
-  "hora": "12:02",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/05/2026",
-  "serie": "COT",
-  "numero": "GP000739",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "100",
-  "tipc": "3.4",
-  "hora": "12:02",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/05/2026",
-  "serie": "COT",
-  "numero": "GP000733",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "100",
-  "tipc": "3.4",
-  "hora": "12:03",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/05/2026",
-  "serie": "COT",
-  "numero": "GP000729",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "70",
-  "tipc": "3.4",
-  "hora": "10:54",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "19/05/2026",
-  "serie": "FAC",
-  "numero": "F003-00029566",
-  "nombre": "ESTABLECIMIENTOS INCA S.AC",
-  "moneda": "USD",
-  "totguia": "1382.25",
-  "tipc": "3.45",
-  "hora": "13:18",
-  "docu": "USER: MARTIN"
 },
 ]

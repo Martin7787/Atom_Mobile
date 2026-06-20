@@ -1,5 +1,60 @@
 [
 {
+  "fechacab": "19/06/2026",
+  "serie": "COT",
+  "numero": "DIA26002036",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "2060",
+  "tipc": "3.4",
+  "hora": "20:43",
+  "docu": ""
+},
+{
+  "fechacab": "19/06/2026",
+  "serie": "COT",
+  "numero": "DD26050001561",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "1740",
+  "tipc": "3.43",
+  "hora": "18:49",
+  "docu": ""
+},
+{
+  "fechacab": "19/06/2026",
+  "serie": "COT",
+  "numero": "DD26050001514",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "1440",
+  "tipc": "3.43",
+  "hora": "18:14",
+  "docu": ""
+},
+{
+  "fechacab": "19/06/2026",
+  "serie": "COT",
+  "numero": "DD26050001513",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "774",
+  "tipc": "3.43",
+  "hora": "18:43",
+  "docu": ""
+},
+{
+  "fechacab": "19/06/2026",
+  "serie": "COT",
+  "numero": "DD26050001492",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "505.12",
+  "tipc": "3.43",
+  "hora": "17:49",
+  "docu": ""
+},
+{
   "fechacab": "17/06/2026",
   "serie": "COT",
   "numero": "GP000950",
