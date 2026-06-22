@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "20/06/2026",
+  "serie": "COT",
+  "numero": "DD26050001564",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "1452",
+  "tipc": "3.4",
+  "hora": "16:17",
+  "docu": ""
+},
+{
   "fechacab": "19/06/2026",
   "serie": "COT",
   "numero": "DIA26002036",
@@ -16,9 +27,9 @@
   "numero": "DD26050001561",
   "nombre": "DOU DOU",
   "moneda": "PEN",
-  "totguia": "1740",
+  "totguia": "1670.4",
   "tipc": "3.43",
-  "hora": "18:49",
+  "hora": "17:35",
   "docu": ""
 },
 {

@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "20/06/2026",
+  "serie": "COT",
+  "numero": "DD26050001564",
+  "nombre": "DOU DOU",
+  "moneda": "PEN",
+  "totguia": "1452",
+  "tipc": "3.4",
+  "hora": "16:17",
+  "docu": "USER: DANTE"
+},
+{
   "fechacab": "19/06/2026",
   "serie": "COT",
   "numero": "DIA26002036",
@@ -16,9 +27,9 @@
   "numero": "DD26050001561",
   "nombre": "DOU DOU",
   "moneda": "PEN",
-  "totguia": "1740",
+  "totguia": "1670.4",
   "tipc": "3.43",
-  "hora": "18:49",
+  "hora": "17:35",
   "docu": "USER: DANTE"
 },
 {
@@ -977,38 +988,5 @@
   "tipc": "3.4",
   "hora": "13:20",
   "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "22/05/2026",
-  "serie": "COT",
-  "numero": "GP000763",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "70",
-  "tipc": "3.4",
-  "hora": "10:32",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "21/05/2026",
-  "serie": "COT",
-  "numero": "HM20052026",
-  "nombre": "HOUSEMART PERU SAC",
-  "moneda": "PEN",
-  "totguia": "6925",
-  "tipc": "3.4",
-  "hora": "12:30",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "21/05/2026",
-  "serie": "COT",
-  "numero": "21052026",
-  "nombre": "JOSE JIBAJA",
-  "moneda": "PEN",
-  "totguia": "9000",
-  "tipc": "3.44",
-  "hora": "18:39",
-  "docu": "USER: DANTE"
 },
 ]
