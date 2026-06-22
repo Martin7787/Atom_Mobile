@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000302",
+  "nombre": "MEGA PLASTICENTRO LIDER E.I.R.L.",
+  "moneda": "PEN",
+  "totguia": "264",
+  "tipc": "3.43",
+  "fecha": "22/06/2026",
+  "hora": "16:45",
+  "docu": "T001-00022579",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000301",
   "nombre": "CLIENTES VARIOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "27/03/2026",
   "hora": "18:10",
   "docu": "T001-00020879",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000272",
-  "nombre": "HONGYE BELLAVISTA S.A.C.",
-  "moneda": "PEN",
-  "totguia": "13.6",
-  "tipc": "3.4",
-  "fecha": "26/03/2026",
-  "hora": "12:15",
-  "docu": "T001-00019651",
   "via": "USER: SOFI",
   "bloquear": ""
 },
