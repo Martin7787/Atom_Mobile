@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "28/06/2026",
+  "serie": "COT",
+  "numero": "RT002598",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.43",
+  "hora": "13:18",
+  "docu": ""
+},
+{
   "fechacab": "20/06/2026",
   "serie": "COT",
   "numero": "DD26050001564",
