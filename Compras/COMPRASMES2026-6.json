@@ -79,6 +79,17 @@
 {
   "fechacab": "17/06/2026",
   "serie": "COT",
+  "numero": "YH0003095",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.43",
+  "hora": "13:15",
+  "docu": ""
+},
+{
+  "fechacab": "17/06/2026",
+  "serie": "COT",
   "numero": "GP000950",
   "nombre": "GLORIA PALOMINO",
   "moneda": "PEN",
