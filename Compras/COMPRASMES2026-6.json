@@ -13,6 +13,17 @@
 {
   "fechacab": "19/06/2026",
   "serie": "COT",
+  "numero": "YH0003112",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.43",
+  "hora": "13:16",
+  "docu": ""
+},
+{
+  "fechacab": "19/06/2026",
+  "serie": "COT",
   "numero": "DIA26002036",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
