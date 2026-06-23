@@ -145,6 +145,17 @@
 {
   "fechacab": "16/06/2026",
   "serie": "COT",
+  "numero": "MOQ00877",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "350",
+  "tipc": "3.43",
+  "hora": "13:17",
+  "docu": ""
+},
+{
+  "fechacab": "16/06/2026",
+  "serie": "COT",
   "numero": "HM2606140113",
   "nombre": "HOUSEMART PERU SAC",
   "moneda": "PEN",
