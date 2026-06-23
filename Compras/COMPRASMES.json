@@ -66,6 +66,17 @@
   "docu": "USER: DANTE"
 },
 {
+  "fechacab": "18/06/2026",
+  "serie": "COT",
+  "numero": "YH0003107",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "450",
+  "tipc": "3.43",
+  "hora": "13:15",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "17/06/2026",
   "serie": "COT",
   "numero": "GP000950",
@@ -954,39 +965,6 @@
   "totguia": "2199",
   "tipc": "3.425",
   "hora": "17:15",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "23/05/2026",
-  "serie": "COT",
-  "numero": "RT002545",
-  "nombre": "ROBERT TURPO",
-  "moneda": "PEN",
-  "totguia": "360",
-  "tipc": "3.4",
-  "hora": "13:18",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "23/05/2026",
-  "serie": "COT",
-  "numero": "GP00768",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "70",
-  "tipc": "3.4",
-  "hora": "13:17",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "23/05/2026",
-  "serie": "COT",
-  "numero": "GP000774",
-  "nombre": "GLORIA PALOMINO",
-  "moneda": "PEN",
-  "totguia": "150",
-  "tipc": "3.4",
-  "hora": "13:20",
   "docu": "USER: MARTIN"
 },
 ]
