@@ -11,6 +11,17 @@
   "docu": ""
 },
 {
+  "fechacab": "24/06/2026",
+  "serie": "INV",
+  "numero": "24062026",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "PEN",
+  "totguia": "4188",
+  "tipc": "3.43",
+  "hora": "12:10",
+  "docu": ""
+},
+{
   "fechacab": "22/06/2026",
   "serie": "COT",
   "numero": "YH0003116",
