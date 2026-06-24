@@ -2,9 +2,9 @@
 {
   "numero": "T001-00022616",
   "fecha": "24/06/2026",
-  "ruc": "00000000",
-  "nombre": "CLIENTES VARIOS",
-  "direccion": "LIMA",
+  "ruc": "20613378732",
+  "nombre": "CASA QUEENS PERU S.R.L.",
+  "direccion": "A.H. AMPLIACION VILLA LOS JARDINES MZ. A LOTE 17 SAN PEDRO CHIMBOTE",
   "moneda": "0",
   "totguia": "1046.2",
   "acuenta": "1046.2",
@@ -52,7 +52,7 @@
   "cantimp": "18 UND",
   "vacio1": "",
   "vacio2": "",
-  "auto": "SOFI",
+  "auto": "-",
   "preal": "135",
   "punidad": "0.0000"
 },
