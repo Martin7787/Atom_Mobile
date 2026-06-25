@@ -7700,4 +7700,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "25/06/2026",
+  "fecha": "Jun. 25",
+  "serie": "T001",
+  "numero": "00022629",
+  "nombre": "YATBELUZ HILARES HUAMANÑAHUI",
+  "moneda": "PEN",
+  "totguia": "14253",
+  "acuenta": "14253",
+  "saldo": "0.0000",
+  "tipc": "3.43",
+  "estado": "CONTADO",
+  "hora": "10:31",
+  "docu": "USER: LIZETH",
+  "bloquear": "",
+  "user": "LIZETH"
+},
 ]
