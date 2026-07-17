@@ -1,100 +1,5 @@
 [
 {
-  "dia": "Mar.",
-  "fecha": "26/05/2026",
-  "fechacab": "May. 26"
-},
-{
-  "dia": "Mié.",
-  "fecha": "27/05/2026",
-  "fechacab": "May. 27"
-},
-{
-  "dia": "Jue.",
-  "fecha": "28/05/2026",
-  "fechacab": "May. 28"
-},
-{
-  "dia": "Vie.",
-  "fecha": "29/05/2026",
-  "fechacab": "May. 29"
-},
-{
-  "dia": "Sáb.",
-  "fecha": "30/05/2026",
-  "fechacab": "May. 30"
-},
-{
-  "dia": "Lun.",
-  "fecha": "01/06/2026",
-  "fechacab": "Jun. 1"
-},
-{
-  "dia": "Mar.",
-  "fecha": "02/06/2026",
-  "fechacab": "Jun. 2"
-},
-{
-  "dia": "Mié.",
-  "fecha": "03/06/2026",
-  "fechacab": "Jun. 3"
-},
-{
-  "dia": "Jue.",
-  "fecha": "04/06/2026",
-  "fechacab": "Jun. 4"
-},
-{
-  "dia": "Vie.",
-  "fecha": "05/06/2026",
-  "fechacab": "Jun. 5"
-},
-{
-  "dia": "Sáb.",
-  "fecha": "06/06/2026",
-  "fechacab": "Jun. 6"
-},
-{
-  "dia": "Lun.",
-  "fecha": "08/06/2026",
-  "fechacab": "Jun. 8"
-},
-{
-  "dia": "Mar.",
-  "fecha": "09/06/2026",
-  "fechacab": "Jun. 9"
-},
-{
-  "dia": "Mié.",
-  "fecha": "10/06/2026",
-  "fechacab": "Jun. 10"
-},
-{
-  "dia": "Jue.",
-  "fecha": "11/06/2026",
-  "fechacab": "Jun. 11"
-},
-{
-  "dia": "Vie.",
-  "fecha": "12/06/2026",
-  "fechacab": "Jun. 12"
-},
-{
-  "dia": "Sáb.",
-  "fecha": "13/06/2026",
-  "fechacab": "Jun. 13"
-},
-{
-  "dia": "Lun.",
-  "fecha": "15/06/2026",
-  "fechacab": "Jun. 15"
-},
-{
-  "dia": "Mar.",
-  "fecha": "16/06/2026",
-  "fechacab": "Jun. 16"
-},
-{
   "dia": "Mié.",
   "fecha": "17/06/2026",
   "fechacab": "Jun. 17"
@@ -130,8 +35,98 @@
   "fechacab": "Jun. 24"
 },
 {
-  "dia": "Hoy",
+  "dia": "Jue.",
   "fecha": "25/06/2026",
   "fechacab": "Jun. 25"
+},
+{
+  "dia": "Vie.",
+  "fecha": "26/06/2026",
+  "fechacab": "Jun. 26"
+},
+{
+  "dia": "Sáb.",
+  "fecha": "27/06/2026",
+  "fechacab": "Jun. 27"
+},
+{
+  "dia": "Mar.",
+  "fecha": "30/06/2026",
+  "fechacab": "Jun. 30"
+},
+{
+  "dia": "Mié.",
+  "fecha": "01/07/2026",
+  "fechacab": "Jul. 1"
+},
+{
+  "dia": "Jue.",
+  "fecha": "02/07/2026",
+  "fechacab": "Jul. 2"
+},
+{
+  "dia": "Vie.",
+  "fecha": "03/07/2026",
+  "fechacab": "Jul. 3"
+},
+{
+  "dia": "Sáb.",
+  "fecha": "04/07/2026",
+  "fechacab": "Jul. 4"
+},
+{
+  "dia": "Lun.",
+  "fecha": "06/07/2026",
+  "fechacab": "Jul. 6"
+},
+{
+  "dia": "Mar.",
+  "fecha": "07/07/2026",
+  "fechacab": "Jul. 7"
+},
+{
+  "dia": "Mié.",
+  "fecha": "08/07/2026",
+  "fechacab": "Jul. 8"
+},
+{
+  "dia": "Jue.",
+  "fecha": "09/07/2026",
+  "fechacab": "Jul. 9"
+},
+{
+  "dia": "Vie.",
+  "fecha": "10/07/2026",
+  "fechacab": "Jul. 10"
+},
+{
+  "dia": "Sáb.",
+  "fecha": "11/07/2026",
+  "fechacab": "Jul. 11"
+},
+{
+  "dia": "Lun.",
+  "fecha": "13/07/2026",
+  "fechacab": "Jul. 13"
+},
+{
+  "dia": "Mar.",
+  "fecha": "14/07/2026",
+  "fechacab": "Jul. 14"
+},
+{
+  "dia": "Mié.",
+  "fecha": "15/07/2026",
+  "fechacab": "Jul. 15"
+},
+{
+  "dia": "Jue.",
+  "fecha": "16/07/2026",
+  "fechacab": "Jul. 16"
+},
+{
+  "dia": "Hoy",
+  "fecha": "17/07/2026",
+  "fechacab": "Jul. 17"
 },
 ]

@@ -1,5 +1,27 @@
 [
 {
+  "fechacab": "30/06/2026",
+  "serie": "COT",
+  "numero": "MOQ00884",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "380",
+  "tipc": "3.43",
+  "hora": "11:20",
+  "docu": ""
+},
+{
+  "fechacab": "30/06/2026",
+  "serie": "COT",
+  "numero": "DIA26002133",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "772.8",
+  "tipc": "3.404",
+  "hora": "16:00",
+  "docu": ""
+},
+{
   "fechacab": "28/06/2026",
   "serie": "COT",
   "numero": "RT002598",
@@ -8,6 +30,160 @@
   "totguia": "160",
   "tipc": "3.43",
   "hora": "13:18",
+  "docu": ""
+},
+{
+  "fechacab": "27/06/2026",
+  "serie": "COT",
+  "numero": "YH0003139",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.43",
+  "hora": "10:35",
+  "docu": ""
+},
+{
+  "fechacab": "27/06/2026",
+  "serie": "COT",
+  "numero": "INCA20262707",
+  "nombre": "ESTABLECIMIENTOS INCA S.AC",
+  "moneda": "USD",
+  "totguia": "815.87",
+  "tipc": "3.43",
+  "hora": "18:04",
+  "docu": ""
+},
+{
+  "fechacab": "26/06/2026",
+  "serie": "COT",
+  "numero": "YH0003135",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.43",
+  "hora": "11:29",
+  "docu": ""
+},
+{
+  "fechacab": "26/06/2026",
+  "serie": "COT",
+  "numero": "MOQ00883",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "198",
+  "tipc": "3.43",
+  "hora": "11:48",
+  "docu": ""
+},
+{
+  "fechacab": "26/06/2026",
+  "serie": "COT",
+  "numero": "MOQ00082",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "412.4",
+  "tipc": "3.43",
+  "hora": "11:48",
+  "docu": ""
+},
+{
+  "fechacab": "26/06/2026",
+  "serie": "COT",
+  "numero": "IGLEVA032922",
+  "nombre": "GLEVA SAC",
+  "moneda": "PEN",
+  "totguia": "220",
+  "tipc": "3.43",
+  "hora": "17:59",
+  "docu": ""
+},
+{
+  "fechacab": "26/06/2026",
+  "serie": "COT",
+  "numero": "GP001009",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "560",
+  "tipc": "3.43",
+  "hora": "11:50",
+  "docu": ""
+},
+{
+  "fechacab": "26/06/2026",
+  "serie": "FAC",
+  "numero": "F063-00077331",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "0.03",
+  "tipc": "3.43",
+  "hora": "21:21",
+  "docu": ""
+},
+{
+  "fechacab": "26/06/2026",
+  "serie": "FAC",
+  "numero": "F063-00077330",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "1202.11",
+  "tipc": "3.429",
+  "hora": "20:22",
+  "docu": ""
+},
+{
+  "fechacab": "26/06/2026",
+  "serie": "COT",
+  "numero": "DIA26002128",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1550",
+  "tipc": "3.404",
+  "hora": "15:51",
+  "docu": ""
+},
+{
+  "fechacab": "26/06/2026",
+  "serie": "COT",
+  "numero": "DIA26002127",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "3595.2",
+  "tipc": "3.43",
+  "hora": "16:16",
+  "docu": ""
+},
+{
+  "fechacab": "26/06/2026",
+  "serie": "COT",
+  "numero": "AGC001-052322",
+  "nombre": "AGC",
+  "moneda": "PEN",
+  "totguia": "985",
+  "tipc": "3.43",
+  "hora": "17:58",
+  "docu": ""
+},
+{
+  "fechacab": "25/06/2026",
+  "serie": "COT",
+  "numero": "MOQ00881",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.43",
+  "hora": "11:19",
+  "docu": ""
+},
+{
+  "fechacab": "25/06/2026",
+  "serie": "COT",
+  "numero": "DIA26002106",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1445.53",
+  "tipc": "3.42",
+  "hora": "17:55",
   "docu": ""
 },
 {
@@ -27,9 +203,9 @@
   "numero": "DD26050001564",
   "nombre": "DOU DOU",
   "moneda": "PEN",
-  "totguia": "1452",
+  "totguia": "1379.4",
   "tipc": "3.4",
-  "hora": "16:17",
+  "hora": "17:19",
   "docu": ""
 },
 {
@@ -60,9 +236,9 @@
   "numero": "DIA26002036",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
-  "totguia": "2060",
+  "totguia": "2060.01",
   "tipc": "3.4",
-  "hora": "20:43",
+  "hora": "19:56",
   "docu": ""
 },
 {
@@ -151,6 +327,17 @@
   "totguia": "300",
   "tipc": "3.43",
   "hora": "11:17",
+  "docu": ""
+},
+{
+  "fechacab": "17/06/2026",
+  "serie": "COT",
+  "numero": "DIA26002022",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "2339.97",
+  "tipc": "3.391",
+  "hora": "18:16",
   "docu": ""
 },
 {
