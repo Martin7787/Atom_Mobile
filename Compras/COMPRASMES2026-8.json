@@ -1,5 +1,49 @@
 [
 {
+  "fechacab": "21/08/2026",
+  "serie": "COT",
+  "numero": "YH0003303",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "155",
+  "tipc": "3.43",
+  "hora": "12:32",
+  "docu": ""
+},
+{
+  "fechacab": "21/08/2026",
+  "serie": "COT",
+  "numero": "DIA26002769",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "1590",
+  "tipc": "3.365",
+  "hora": "21:28",
+  "docu": ""
+},
+{
+  "fechacab": "20/08/2026",
+  "serie": "COT",
+  "numero": "RT003445",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.43",
+  "hora": "12:33",
+  "docu": ""
+},
+{
+  "fechacab": "19/08/2026",
+  "serie": "COT",
+  "numero": "YH0003300",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "300",
+  "tipc": "3.43",
+  "hora": "12:32",
+  "docu": ""
+},
+{
   "fechacab": "19/08/2026",
   "serie": "COT",
   "numero": "MOQ000702",

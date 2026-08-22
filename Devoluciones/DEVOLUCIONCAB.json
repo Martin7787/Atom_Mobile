@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000315",
+  "nombre": "MARGARITA REYES REQUE",
+  "moneda": "PEN",
+  "totguia": "155",
+  "tipc": "3.43",
+  "fecha": "22/08/2026",
+  "hora": "14:45",
+  "docu": "T001-00023408",
+  "via": "USER: EDITH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000314",
   "nombre": "ROQUE SAYAN BENJAMIN ARMANDO",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "04/05/2026",
   "hora": "14:07",
   "docu": "T001-00021699",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000285",
-  "nombre": "RONER AQUILES ULLOA BAYLON",
-  "moneda": "PEN",
-  "totguia": "192",
-  "tipc": "3.4",
-  "fecha": "02/05/2026",
-  "hora": "15:00",
-  "docu": "T001-00021655",
   "via": "USER: SOFI",
   "bloquear": ""
 },
