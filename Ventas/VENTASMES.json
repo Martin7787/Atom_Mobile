@@ -6153,4 +6153,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "24/08/2026",
+  "fecha": "Ago. 24",
+  "serie": "T001",
+  "numero": "00023418",
+  "nombre": "EDMER MARCELO CORMAN",
+  "moneda": "PEN",
+  "totguia": "658",
+  "acuenta": "658",
+  "saldo": "0.0000",
+  "tipc": "3.43",
+  "estado": "CONTADO",
+  "hora": "11:31",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
