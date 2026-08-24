@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "24/08/2026",
+  "serie": "COT",
+  "numero": "GE13085",
+  "nombre": "GOLDEN ELECTRONIC S.A.C.",
+  "moneda": "USD",
+  "totguia": "100",
+  "tipc": "3.43",
+  "hora": "17:40",
+  "docu": ""
+},
+{
   "fechacab": "21/08/2026",
   "serie": "COT",
   "numero": "YH0003303",
@@ -41,6 +52,17 @@
   "totguia": "300",
   "tipc": "3.43",
   "hora": "12:32",
+  "docu": ""
+},
+{
+  "fechacab": "19/08/2026",
+  "serie": "COT",
+  "numero": "NP317254",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "39",
+  "tipc": "3.43",
+  "hora": "10:35",
   "docu": ""
 },
 {
