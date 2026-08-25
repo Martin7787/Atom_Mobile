@@ -29419,6 +29419,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "MARCHENA GALARRETA PERCY GUSTAVO",
+  "ruc": "10422440190",
+  "direccion": "JR AMAZONA 695 INT E CERCADO DE LIMA",
+  "tipo": "0",
+  "fecha": "25/08/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "SANTIAGO AGUILAR LISSET CAREMP",
   "ruc": "10422459818",
   "direccion": "LIMA",
@@ -56464,6 +56477,19 @@
   "direccion": "JR. PUNO NRO. 626 INT. 207 LIMA - LIMA - LIMA",
   "tipo": "2",
   "fecha": "15/08/2017",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "INVERSIONES SELVA DAN & BAT SOCIEDAD ANÓNIMA CERRADA",
+  "ruc": "20601609658",
+  "direccion": "JR. PUNO HUANCAYO CERCADO N° 228 INT. LT. DP. MZ. KM. JUNÍN HUANCAYO HUANCAYO",
+  "tipo": "0",
+  "fecha": "25/08/2026",
   "telefono": "",
   "email": "",
   "trato": "",
