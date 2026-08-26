@@ -105,8 +105,13 @@
   "fechacab": "Ago. 24"
 },
 {
-  "dia": "Hoy",
+  "dia": "Mar.",
   "fecha": "25/08/2026",
   "fechacab": "Ago. 25"
+},
+{
+  "dia": "Hoy",
+  "fecha": "26/08/2026",
+  "fechacab": "Ago. 26"
 },
 ]
