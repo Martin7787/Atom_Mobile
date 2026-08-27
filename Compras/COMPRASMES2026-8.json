@@ -13,6 +13,17 @@
 {
   "fechacab": "26/08/2026",
   "serie": "COT",
+  "numero": "NP317478",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "42",
+  "tipc": "3.43",
+  "hora": "11:34",
+  "docu": ""
+},
+{
+  "fechacab": "26/08/2026",
+  "serie": "COT",
   "numero": "MOQ000704",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
