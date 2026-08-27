@@ -27,7 +27,7 @@
   "leymn": "UND",
   "lote": "SOP8WX40-GALLERY",
   "grat": "1",
-  "locked": "No"
+  "locked": "0"
 },
 {
   "codart": "SOP8DIS_GALLERY",
@@ -44,6 +44,6 @@
   "leymn": "UND",
   "lote": "SOP8DIS_GALLERY",
   "grat": "1",
-  "locked": "No"
+  "locked": "0"
 },
 ]
