@@ -2,6 +2,17 @@
 {
   "fechacab": "26/08/2026",
   "serie": "COT",
+  "numero": "RJ01022",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "180",
+  "tipc": "3.43",
+  "hora": "11:33",
+  "docu": ""
+},
+{
+  "fechacab": "26/08/2026",
+  "serie": "COT",
   "numero": "MOQ000704",
   "nombre": "MOQUEQUE",
   "moneda": "PEN",
