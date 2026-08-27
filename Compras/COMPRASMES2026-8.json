@@ -2,6 +2,28 @@
 {
   "fechacab": "26/08/2026",
   "serie": "COT",
+  "numero": "MOQ000704",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.43",
+  "hora": "11:32",
+  "docu": ""
+},
+{
+  "fechacab": "26/08/2026",
+  "serie": "COT",
+  "numero": "HM2608270243",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "4191.66",
+  "tipc": "3.36",
+  "hora": "19:19",
+  "docu": ""
+},
+{
+  "fechacab": "26/08/2026",
+  "serie": "COT",
   "numero": "DIA26002808",
   "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
   "moneda": "USD",
@@ -140,6 +162,17 @@
   "totguia": "582",
   "tipc": "3.43",
   "hora": "11:42",
+  "docu": ""
+},
+{
+  "fechacab": "19/08/2026",
+  "serie": "COT",
+  "numero": "HM2608190208",
+  "nombre": "HOUSEMART PERU SAC",
+  "moneda": "PEN",
+  "totguia": "16780.5",
+  "tipc": "3.36",
+  "hora": "19:12",
   "docu": ""
 },
 {
