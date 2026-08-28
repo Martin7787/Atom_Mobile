@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "27/08/2026",
+  "serie": "COT",
+  "numero": "MOQ000705",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "190",
+  "tipc": "3.43",
+  "hora": "10:51",
+  "docu": ""
+},
+{
   "fechacab": "26/08/2026",
   "serie": "COT",
   "numero": "RJ01022",
