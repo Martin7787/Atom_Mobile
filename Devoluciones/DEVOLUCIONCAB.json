@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000316",
+  "nombre": "POZO INGA KONNY PALIZZA",
+  "moneda": "PEN",
+  "totguia": "155",
+  "tipc": "3.43",
+  "fecha": "28/08/2026",
+  "hora": "16:08",
+  "docu": "T001-00023478",
+  "via": "USER: EDITH",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000315",
   "nombre": "MARGARITA REYES REQUE",
   "moneda": "PEN",
@@ -374,19 +387,6 @@
   "hora": "14:22",
   "docu": "T001-00021683",
   "via": "USER: EDITH",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000286",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.4",
-  "fecha": "04/05/2026",
-  "hora": "14:07",
-  "docu": "T001-00021699",
-  "via": "USER: SOFI",
   "bloquear": ""
 },
 ]
