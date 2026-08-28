@@ -6867,4 +6867,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "28/08/2026",
+  "fecha": "Ago. 28",
+  "serie": "T001",
+  "numero": "00023472",
+  "nombre": "RICHARD SUREZ ALEGRIA",
+  "moneda": "PEN",
+  "totguia": "147",
+  "acuenta": "147",
+  "saldo": "0.0000",
+  "tipc": "3.43",
+  "estado": "CONTADO",
+  "hora": "10:20",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
