@@ -51493,6 +51493,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "CENTRO COMERCIAL ALPACA E.I.R.L.",
+  "ruc": "20534397560",
+  "direccion": "AV. PROGRESO PUEBLO SAN FRANCISCO N° INT. LT. 18 DP. MZ. A KM. AYACUCHO LA MAR AYNA",
+  "tipo": "0",
+  "fecha": "31/08/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "TALENTOS MATEMATICOS SAC",
   "ruc": "20534453907",
   "direccion": "ICA",
