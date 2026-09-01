@@ -6765,4 +6765,21 @@
   "bloquear": "",
   "user": "LIZETH"
 },
+{
+  "fechacab": "01/09/2026",
+  "fecha": "Set. 1",
+  "serie": "T001",
+  "numero": "00023515",
+  "nombre": "JORDAN AARON SUAREZ ACUÑA",
+  "moneda": "PEN",
+  "totguia": "60",
+  "acuenta": "60",
+  "saldo": "0.0000",
+  "tipc": "3.43",
+  "estado": "CONTADO",
+  "hora": "11:06",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
