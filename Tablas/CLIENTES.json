@@ -52819,6 +52819,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "GONZAVITA S.A.C",
+  "ruc": "20548466815",
+  "direccion": "AV. LA PAZ N° 220 INT. LT. DP. MZ. KM. LIMA LIMA MIRAFLORES",
+  "tipo": "0",
+  "fecha": "01/09/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "DIJEMILUZ E.I.R.L",
   "ruc": "20548941041",
   "direccion": "CAL.BUSANO NRO. 120 URB. SANTA LUZMILA LIMA - LIMA - COMAS",
