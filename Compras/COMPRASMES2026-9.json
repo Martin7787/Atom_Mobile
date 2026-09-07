@@ -1,5 +1,148 @@
 [
 {
+  "fechacab": "05/09/2026",
+  "serie": "COT",
+  "numero": "MOQ000706",
+  "nombre": "CLIENTES VARIOS",
+  "moneda": "",
+  "totguia": "",
+  "tipc": "",
+  "hora": "17:04",
+  "docu": "USER: "
+},
+{
+  "fechacab": "03/09/2026",
+  "serie": "COT",
+  "numero": "YH0003329",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "216",
+  "tipc": "3.43",
+  "hora": "18:01",
+  "docu": ""
+},
+{
+  "fechacab": "03/09/2026",
+  "serie": "COT",
+  "numero": "RJ01041",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.43",
+  "hora": "16:57",
+  "docu": ""
+},
+{
+  "fechacab": "03/09/2026",
+  "serie": "COT",
+  "numero": "MOQ000707",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "598",
+  "tipc": "3.43",
+  "hora": "16:54",
+  "docu": ""
+},
+{
+  "fechacab": "03/09/2026",
+  "serie": "COT",
+  "numero": "GP001572",
+  "nombre": "GLORIA PALOMINO",
+  "moneda": "PEN",
+  "totguia": "150",
+  "tipc": "3.43",
+  "hora": "16:56",
+  "docu": ""
+},
+{
+  "fechacab": "02/09/2026",
+  "serie": "COT",
+  "numero": "RT003574",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "200",
+  "tipc": "3.43",
+  "hora": "17:10",
+  "docu": ""
+},
+{
+  "fechacab": "02/09/2026",
+  "serie": "COT",
+  "numero": "NS004086/4454",
+  "nombre": "DISTRIBUIDORA MORELLA",
+  "moneda": "USD",
+  "totguia": "3399",
+  "tipc": "3.364",
+  "hora": "15:07",
+  "docu": ""
+},
+{
+  "fechacab": "02/09/2026",
+  "serie": "COT",
+  "numero": "MOQ00706",
+  "nombre": "MOQUEQUE",
+  "moneda": "PEN",
+  "totguia": "384",
+  "tipc": "3.43",
+  "hora": "17:51",
+  "docu": ""
+},
+{
+  "fechacab": "02/09/2026",
+  "serie": "COT",
+  "numero": "C056310",
+  "nombre": "CREACIONES BETHEL S.A.C.",
+  "moneda": "PEN",
+  "totguia": "216",
+  "tipc": "3.43",
+  "hora": "17:38",
+  "docu": ""
+},
+{
+  "fechacab": "01/09/2026",
+  "serie": "COT",
+  "numero": "RJ01031",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "70",
+  "tipc": "3.43",
+  "hora": "16:59",
+  "docu": ""
+},
+{
+  "fechacab": "01/09/2026",
+  "serie": "COT",
+  "numero": "NP317632",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "84",
+  "tipc": "3.43",
+  "hora": "17:13",
+  "docu": ""
+},
+{
+  "fechacab": "01/09/2026",
+  "serie": "COT",
+  "numero": "NP317605",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "42",
+  "tipc": "3.43",
+  "hora": "17:11",
+  "docu": ""
+},
+{
+  "fechacab": "01/09/2026",
+  "serie": "FAC",
+  "numero": "F501-00019758",
+  "nombre": "GRUPO FEY",
+  "moneda": "PEN",
+  "totguia": "5762",
+  "tipc": "3.36",
+  "hora": "21:50",
+  "docu": ""
+},
+{
   "fechacab": "01/09/2026",
   "serie": "COT",
   "numero": "DIA26002848",

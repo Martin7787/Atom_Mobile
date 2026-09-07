@@ -1,5 +1,82 @@
 [
 {
+  "fechacab": "31/08/2026",
+  "serie": "COT",
+  "numero": "YH0003323",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "260",
+  "tipc": "3.43",
+  "hora": "17:53",
+  "docu": ""
+},
+{
+  "fechacab": "31/08/2026",
+  "serie": "COT",
+  "numero": "TAQ000951",
+  "nombre": "TAQUIMA",
+  "moneda": "PEN",
+  "totguia": "198",
+  "tipc": "3.43",
+  "hora": "17:48",
+  "docu": ""
+},
+{
+  "fechacab": "31/08/2026",
+  "serie": "COT",
+  "numero": "RT003553",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.43",
+  "hora": "17:03",
+  "docu": ""
+},
+{
+  "fechacab": "31/08/2026",
+  "serie": "COT",
+  "numero": "NP317593",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "42",
+  "tipc": "3.43",
+  "hora": "17:17",
+  "docu": ""
+},
+{
+  "fechacab": "31/08/2026",
+  "serie": "COT",
+  "numero": "NP317585",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "60",
+  "tipc": "3.43",
+  "hora": "17:16",
+  "docu": ""
+},
+{
+  "fechacab": "31/08/2026",
+  "serie": "COT",
+  "numero": "NP317579",
+  "nombre": "NADIA PARIONA",
+  "moneda": "USD",
+  "totguia": "21",
+  "tipc": "3.43",
+  "hora": "17:15",
+  "docu": ""
+},
+{
+  "fechacab": "27/08/2026",
+  "serie": "COT",
+  "numero": "RJ01024",
+  "nombre": "ROSA JARRO",
+  "moneda": "PEN",
+  "totguia": "156",
+  "tipc": "3.43",
+  "hora": "17:01",
+  "docu": ""
+},
+{
   "fechacab": "27/08/2026",
   "serie": "COT",
   "numero": "NP317490",
@@ -877,6 +954,17 @@
   "totguia": "120",
   "tipc": "3.43",
   "hora": "16:45",
+  "docu": ""
+},
+{
+  "fechacab": "03/08/2026",
+  "serie": "COT",
+  "numero": "YH0003330",
+  "nombre": "YOHON MEZA",
+  "moneda": "PEN",
+  "totguia": "155",
+  "tipc": "3.43",
+  "hora": "17:54",
   "docu": ""
 },
 {
