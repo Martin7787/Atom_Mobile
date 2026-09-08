@@ -89,6 +89,17 @@
 },
 {
   "fechacab": "02/09/2026",
+  "serie": "FAC",
+  "numero": "F063-00079803",
+  "nombre": "UNION YCHICAWA S.A",
+  "moneda": "USD",
+  "totguia": "8837.49",
+  "tipc": "3.359",
+  "hora": "16:51",
+  "docu": "USER: DANTE"
+},
+{
+  "fechacab": "02/09/2026",
   "serie": "COT",
   "numero": "C056310",
   "nombre": "CREACIONES BETHEL S.A.C.",
