@@ -6838,6 +6838,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "HECTOR MAURICO CARREÑO",
+  "ruc": "08643553",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "09/09/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "GENARO VILA",
   "ruc": "08648981",
   "direccion": "LIMA",
@@ -91005,6 +91018,19 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "27/12/2024",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "HILDA RAMOS HUAMAN",
+  "ruc": "44758754",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "09/09/2026",
   "telefono": "",
   "email": "",
   "trato": "",
