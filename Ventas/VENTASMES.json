@@ -7054,4 +7054,21 @@
   "bloquear": "",
   "user": "EDITH"
 },
+{
+  "fechacab": "09/09/2026",
+  "fecha": "Set. 9",
+  "serie": "T001",
+  "numero": "00023623",
+  "nombre": "ELVIS PAUCAR CURIÑAUPA",
+  "moneda": "PEN",
+  "totguia": "665",
+  "acuenta": "665",
+  "saldo": "0.0000",
+  "tipc": "3.43",
+  "estado": "CONTADO",
+  "hora": "12:14",
+  "docu": "USER: EDITH",
+  "bloquear": "",
+  "user": "EDITH"
+},
 ]
