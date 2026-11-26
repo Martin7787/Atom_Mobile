@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000338",
+  "nombre": "SONIA SANCHEZ CALDERON",
+  "moneda": "PEN",
+  "totguia": "20.83",
+  "tipc": "3.43",
+  "fecha": "26/11/2026",
+  "hora": "15:34",
+  "docu": "T001-00024902",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000337",
   "nombre": "NEGOCIACIONES DANY E INVERSIONES E.I.R.L.",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "23/07/2026",
   "hora": "12:58",
   "docu": "T001-00022993",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000308",
-  "nombre": "CLIENTES VARIOS",
-  "moneda": "PEN",
-  "totguia": "0.0000",
-  "tipc": "1",
-  "fecha": "18/07/2026",
-  "hora": "19:00",
-  "docu": "",
   "via": "USER: SOFI",
   "bloquear": ""
 },
