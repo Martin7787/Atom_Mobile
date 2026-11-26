@@ -321,6 +321,17 @@
 {
   "fechacab": "18/08/2026",
   "serie": "COT",
+  "numero": "DIA26002722",
+  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
+  "moneda": "USD",
+  "totguia": "27650",
+  "tipc": "3.37",
+  "hora": "15:16",
+  "docu": ""
+},
+{
+  "fechacab": "18/08/2026",
+  "serie": "COT",
   "numero": "CP32903",
   "nombre": "CASA PORCELANA",
   "moneda": "PEN",
@@ -742,9 +753,9 @@
   "numero": "INCA202603228",
   "nombre": "ESTABLECIMIENTOS INCA S.AC",
   "moneda": "USD",
-  "totguia": "641.09",
+  "totguia": "800.09",
   "tipc": "3.43",
-  "hora": "18:12",
+  "hora": "14:28",
   "docu": ""
 },
 {

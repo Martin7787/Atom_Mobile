@@ -1,6 +1,16 @@
 [
 {
   "anio": "2026",
+  "mes": "Noviembre",
+  "periodo": "2026-11"
+},
+{
+  "anio": "2026",
+  "mes": "Octubre",
+  "periodo": "2026-10"
+},
+{
+  "anio": "2026",
   "mes": "Setiembre",
   "periodo": "2026-9"
 },

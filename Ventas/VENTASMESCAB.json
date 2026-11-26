@@ -1,137 +1,127 @@
 [
 {
-  "dia": "Lun.",
-  "fecha": "10/08/2026",
-  "fechacab": "Ago. 10"
-},
-{
   "dia": "Mar.",
-  "fecha": "11/08/2026",
-  "fechacab": "Ago. 11"
+  "fecha": "27/10/2026",
+  "fechacab": "Oct. 27"
 },
 {
   "dia": "Mié.",
-  "fecha": "12/08/2026",
-  "fechacab": "Ago. 12"
+  "fecha": "28/10/2026",
+  "fechacab": "Oct. 28"
 },
 {
   "dia": "Jue.",
-  "fecha": "13/08/2026",
-  "fechacab": "Ago. 13"
+  "fecha": "29/10/2026",
+  "fechacab": "Oct. 29"
 },
 {
   "dia": "Vie.",
-  "fecha": "14/08/2026",
-  "fechacab": "Ago. 14"
+  "fecha": "30/10/2026",
+  "fechacab": "Oct. 30"
 },
 {
   "dia": "Sáb.",
-  "fecha": "15/08/2026",
-  "fechacab": "Ago. 15"
-},
-{
-  "dia": "Lun.",
-  "fecha": "17/08/2026",
-  "fechacab": "Ago. 17"
-},
-{
-  "dia": "Mar.",
-  "fecha": "18/08/2026",
-  "fechacab": "Ago. 18"
+  "fecha": "31/10/2026",
+  "fechacab": "Oct. 31"
 },
 {
   "dia": "Mié.",
-  "fecha": "19/08/2026",
-  "fechacab": "Ago. 19"
+  "fecha": "04/11/2026",
+  "fechacab": "Nov. 4"
 },
 {
   "dia": "Jue.",
-  "fecha": "20/08/2026",
-  "fechacab": "Ago. 20"
+  "fecha": "05/11/2026",
+  "fechacab": "Nov. 5"
 },
 {
   "dia": "Vie.",
-  "fecha": "21/08/2026",
-  "fechacab": "Ago. 21"
+  "fecha": "06/11/2026",
+  "fechacab": "Nov. 6"
 },
 {
   "dia": "Sáb.",
-  "fecha": "22/08/2026",
-  "fechacab": "Ago. 22"
+  "fecha": "07/11/2026",
+  "fechacab": "Nov. 7"
 },
 {
   "dia": "Lun.",
-  "fecha": "24/08/2026",
-  "fechacab": "Ago. 24"
+  "fecha": "09/11/2026",
+  "fechacab": "Nov. 9"
 },
 {
   "dia": "Mar.",
-  "fecha": "25/08/2026",
-  "fechacab": "Ago. 25"
+  "fecha": "10/11/2026",
+  "fechacab": "Nov. 10"
 },
 {
   "dia": "Mié.",
-  "fecha": "26/08/2026",
-  "fechacab": "Ago. 26"
+  "fecha": "11/11/2026",
+  "fechacab": "Nov. 11"
 },
 {
   "dia": "Jue.",
-  "fecha": "27/08/2026",
-  "fechacab": "Ago. 27"
+  "fecha": "12/11/2026",
+  "fechacab": "Nov. 12"
 },
 {
   "dia": "Vie.",
-  "fecha": "28/08/2026",
-  "fechacab": "Ago. 28"
+  "fecha": "13/11/2026",
+  "fechacab": "Nov. 13"
 },
 {
   "dia": "Sáb.",
-  "fecha": "29/08/2026",
-  "fechacab": "Ago. 29"
+  "fecha": "14/11/2026",
+  "fechacab": "Nov. 14"
 },
 {
   "dia": "Lun.",
-  "fecha": "31/08/2026",
-  "fechacab": "Ago. 31"
+  "fecha": "16/11/2026",
+  "fechacab": "Nov. 16"
 },
 {
   "dia": "Mar.",
-  "fecha": "01/09/2026",
-  "fechacab": "Set. 1"
+  "fecha": "17/11/2026",
+  "fechacab": "Nov. 17"
 },
 {
   "dia": "Mié.",
-  "fecha": "02/09/2026",
-  "fechacab": "Set. 2"
+  "fecha": "18/11/2026",
+  "fechacab": "Nov. 18"
 },
 {
   "dia": "Jue.",
-  "fecha": "03/09/2026",
-  "fechacab": "Set. 3"
+  "fecha": "19/11/2026",
+  "fechacab": "Nov. 19"
 },
 {
   "dia": "Vie.",
-  "fecha": "04/09/2026",
-  "fechacab": "Set. 4"
+  "fecha": "20/11/2026",
+  "fechacab": "Nov. 20"
 },
 {
   "dia": "Sáb.",
-  "fecha": "05/09/2026",
-  "fechacab": "Set. 5"
+  "fecha": "21/11/2026",
+  "fechacab": "Nov. 21"
 },
 {
   "dia": "Lun.",
-  "fecha": "07/09/2026",
-  "fechacab": "Set. 7"
+  "fecha": "23/11/2026",
+  "fechacab": "Nov. 23"
 },
 {
   "dia": "Mar.",
-  "fecha": "08/09/2026",
-  "fechacab": "Set. 8"
+  "fecha": "24/11/2026",
+  "fechacab": "Nov. 24"
+},
+{
+  "dia": "Mié.",
+  "fecha": "25/11/2026",
+  "fechacab": "Nov. 25"
 },
 {
   "dia": "Hoy",
-  "fecha": "09/09/2026",
-  "fechacab": "Set. 9"
+  "fecha": "26/11/2026",
+  "fechacab": "Nov. 26"
 },
 ]
