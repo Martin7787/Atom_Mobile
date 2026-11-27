@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000341",
+  "nombre": "HUANCA CCALLE JUANA MARISOL",
+  "moneda": "PEN",
+  "totguia": "91.25",
+  "tipc": "3.43",
+  "fecha": "27/11/2026",
+  "hora": "16:59",
+  "docu": "T001-00024927",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000340",
   "nombre": "INVERCIONES RODRIGUEZ",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "01/08/2026",
   "hora": "19:00",
   "docu": "T001-00023115",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000311",
-  "nombre": "AGAPITO LEON JAMANCA CHAUCA",
-  "moneda": "PEN",
-  "totguia": "100",
-  "tipc": "3.43",
-  "fecha": "31/07/2026",
-  "hora": "14:17",
-  "docu": "T001-00023087",
   "via": "USER: SOFI",
   "bloquear": ""
 },
