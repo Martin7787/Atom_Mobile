@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "26/11/2026",
+  "serie": "COT",
+  "numero": "RT004395",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.43",
+  "hora": "10:21",
+  "docu": ""
+},
+{
   "fechacab": "25/11/2026",
   "serie": "COT",
   "numero": "RJ01380",

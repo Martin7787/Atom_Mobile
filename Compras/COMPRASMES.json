@@ -1,5 +1,16 @@
 [
 {
+  "fechacab": "26/11/2026",
+  "serie": "COT",
+  "numero": "RT004395",
+  "nombre": "ROBERT TURPO",
+  "moneda": "PEN",
+  "totguia": "160",
+  "tipc": "3.43",
+  "hora": "10:21",
+  "docu": "USER: MARTIN"
+},
+{
   "fechacab": "25/11/2026",
   "serie": "COT",
   "numero": "RJ01380",
@@ -1185,61 +1196,6 @@
   "totguia": "135",
   "tipc": "3.43",
   "hora": "11:22",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/10/2026",
-  "serie": "COT",
-  "numero": "RJ01206",
-  "nombre": "ROSA JARRO",
-  "moneda": "PEN",
-  "totguia": "120",
-  "tipc": "3.43",
-  "hora": "10:51",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/10/2026",
-  "serie": "COT",
-  "numero": "FT000228",
-  "nombre": "FORTUNATO MALLQUI NIETO",
-  "moneda": "PEN",
-  "totguia": "1650",
-  "tipc": "3.43",
-  "hora": "13:55",
-  "docu": "USER: MARTIN"
-},
-{
-  "fechacab": "27/10/2026",
-  "serie": "COT",
-  "numero": "DIA26003293",
-  "nombre": "INVERSIONES DIAMANTE PERU S.A.C.",
-  "moneda": "USD",
-  "totguia": "320",
-  "tipc": "3.44",
-  "hora": "17:30",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "27/10/2026",
-  "serie": "COT",
-  "numero": "CT01-0003081",
-  "nombre": "FINEZZA DAZA COMPANY S.A.C.",
-  "moneda": "PEN",
-  "totguia": "1035",
-  "tipc": "3.45",
-  "hora": "17:38",
-  "docu": "USER: DANTE"
-},
-{
-  "fechacab": "27/10/2026",
-  "serie": "COT",
-  "numero": "CG005654",
-  "nombre": "CENTER GLASS E.I.R.L",
-  "moneda": "PEN",
-  "totguia": "51",
-  "tipc": "3.43",
-  "hora": "10:51",
   "docu": "USER: MARTIN"
 },
 ]
