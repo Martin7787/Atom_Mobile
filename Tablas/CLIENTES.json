@@ -27404,6 +27404,19 @@
   "bloquear": "false"
 },
 {
+  "nombre": "HUANCA CCALLE JUANA MARISOL",
+  "ruc": "10403806558",
+  "direccion": "PTO. MALDONADO MAADRE DE DIOS",
+  "tipo": "0",
+  "fecha": "27/11/2026",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
   "nombre": "PORTAL DAGA MERCEDES",
   "ruc": "10403828691",
   "direccion": "AV. DANIEL ALCIDES CARRION NRO. 208 PASCO PASCO YANACANCHA",
@@ -88925,6 +88938,19 @@
   "direccion": "LIMA",
   "tipo": "0",
   "fecha": "17/11/2025",
+  "telefono": "",
+  "email": "",
+  "trato": "",
+  "obs": "",
+  "via": "",
+  "bloquear": "false"
+},
+{
+  "nombre": "ROMINA ",
+  "ruc": "43492633",
+  "direccion": "LIMA",
+  "tipo": "0",
+  "fecha": "27/11/2026",
   "telefono": "",
   "email": "",
   "trato": "",

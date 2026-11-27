@@ -1,6 +1,19 @@
 [
 {
   "serie": "T001",
+  "numero": "00000340",
+  "nombre": "INVERCIONES RODRIGUEZ",
+  "moneda": "PEN",
+  "totguia": "8",
+  "tipc": "3.43",
+  "fecha": "27/11/2026",
+  "hora": "12:50",
+  "docu": "T001-00024734",
+  "via": "USER: SOFI",
+  "bloquear": ""
+},
+{
+  "serie": "T001",
   "numero": "00000339",
   "nombre": "PABLO FRANCISCO JAIME CAMPOS",
   "moneda": "PEN",
@@ -373,19 +386,6 @@
   "fecha": "31/07/2026",
   "hora": "14:17",
   "docu": "T001-00023087",
-  "via": "USER: SOFI",
-  "bloquear": ""
-},
-{
-  "serie": "T001",
-  "numero": "00000310",
-  "nombre": "ROQUE SAYAN BENJAMIN ARMANDO",
-  "moneda": "PEN",
-  "totguia": "240",
-  "tipc": "3.43",
-  "fecha": "24/07/2026",
-  "hora": "13:45",
-  "docu": "T001-00022768",
   "via": "USER: SOFI",
   "bloquear": ""
 },
