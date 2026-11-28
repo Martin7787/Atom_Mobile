@@ -52102,9 +52102,9 @@
   "stock": "STOCK = 0 CAJ  0 UNI  0 UNI",
   "cant": "0",
   "preciosol": "101.7",
-  "precio": "27.4865",
+  "precio": "29.65",
   "preciount": "0.0000",
-  "costosol": "60",
+  "costosol": "55.63",
   "costodol": "16.22",
   "undmy": "18",
   "undmn": "1",
@@ -52113,8 +52113,8 @@
   "linea": "YCHI",
   "cdesc": "0",
   "pdesc": "0",
-  "vneg": "False",
-  "via": "",
+  "vneg": "True",
+  "via": "-",
   "bloquear": "false"
 },
 {
